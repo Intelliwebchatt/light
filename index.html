@@ -1,247 +1,160 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Operators Logic | Intelligence Snapshot</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operators Logic | Intelligence</title>
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 
     <style>
-        /* --- BRAND THEME --- */
         :root {
-            --bg-body: #050505;
-            --bg-card: #0F0F0F;
-            --border: #1F1F1F;
+            --bg-body: #000000;
+            --bg-card: #111111;
             --brand-blue: #0056D2;
             --text-white: #FFFFFF;
-            --text-gray: #9CA3AF;
-            --status-bg: #111513;
-            --status-text: #10B981;
+            --status-green: #10B981;
         }
-
-        * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
             background-color: var(--bg-body);
             color: var(--text-white);
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            line-height: 1.5;
-            min-height: 100vh;
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
             display: flex;
             flex-direction: column;
+            min-height: 100vh;
         }
 
-        /* --- HEADER --- */
+        /* BIGGER HEADER */
         nav {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 1rem; /* Reduced padding */
-            border-bottom: 1px solid var(--border);
-            background: rgba(5, 5, 5, 0.95);
-            position: sticky;
-            top: 0;
-            z-index: 100;
+            padding: 1.5rem 1rem;
+            border-bottom: 1px solid #333;
+            background: #050505;
+        }
+        .brand { 
+            font-size: 1.4rem; /* Bigger Logo */
+            font-weight: 700; 
+            color: white; 
+            text-decoration: none; 
         }
 
-        .brand {
-            font-weight: 700;
-            font-size: 1.1rem;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            color: var(--text-white);
-            text-decoration: none;
-        }
-
-        .brand-icon { color: #3B82F6; font-size: 1.2rem; }
-        
-        .menu-btn { background: none; border: none; padding: 0.5rem; }
-        .bar { display: block; width: 24px; height: 2px; background-color: white; margin: 6px 0; }
-
-        /* --- MAIN CONTAINER --- */
+        /* CONTAINER */
         .container {
             width: 100%;
-            max-width: 100%; /* FORCE FULL WIDTH */
-            padding: 1.5rem 1rem; /* 1rem = 16px side padding (standard mobile) */
+            padding: 1.5rem;
             flex: 1;
-            display: flex;
-            flex-direction: column;
-            align-items: center; /* Center items */
         }
 
-        /* --- STATUS PILL --- */
+        /* STATUS */
         .status-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            background-color: var(--status-bg);
-            color: var(--status-text);
-            padding: 0.35rem 1rem;
-            border-radius: 9999px;
-            font-size: 0.8rem;
+            color: var(--status-green);
+            background: rgba(16, 185, 129, 0.15);
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
             font-weight: 600;
+            font-size: 0.95rem; /* Bigger text */
             margin-bottom: 1.5rem;
-            border: 1px solid rgba(16, 185, 129, 0.2);
+            display: inline-block;
         }
 
-        /* --- HEADLINES --- */
+        /* HEADLINES */
         h1 {
-            font-size: 2.2rem; /* Bigger Headline */
+            font-size: 2.5rem; /* Huge Headline */
             line-height: 1.1;
             margin-bottom: 1rem;
-            text-align: center;
-            letter-spacing: -0.04em;
-            width: 100%;
+        }
+        .subtitle {
+            font-size: 1.15rem; /* Bigger Subtitle */
+            color: #ccc;
+            margin-bottom: 2rem;
+            line-height: 1.5;
+        }
+
+        /* THE DATA BOX */
+        .terminal-window {
+            background-color: var(--bg-card);
+            border: 1px solid #333;
+            border-radius: 12px;
+            padding: 0;
+            margin-bottom: 2rem;
         }
         
-        .blue-text { color: #3B82F6; }
-
-        .subtitle {
-            color: var(--text-gray);
-            font-size: 1rem;
-            margin-bottom: 2rem;
-            text-align: center;
-            max-width: 90%; /* Keep text from hitting edges */
-        }
-
-        /* --- THE TERMINAL CARD (FIXED) --- */
-        .terminal-window {
-            width: 100%; /* Full width of container */
-            background-color: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-            margin-bottom: 1.5rem;
-        }
-
         .terminal-header {
-            padding: 0.85rem 1rem;
-            border-bottom: 1px solid var(--border);
-            display: flex;
-            align-items: center;
-            gap: 0.75rem;
-            font-size: 0.9rem;
-            font-weight: 600;
-            background-color: #0A0A0A;
-        }
-
-        .indicator-dot {
-            width: 8px;
-            height: 8px;
-            background-color: var(--status-text);
-            border-radius: 50%;
-            box-shadow: 0 0 5px var(--status-text);
+            background: #222;
+            padding: 1rem;
+            font-weight: 700;
+            font-size: 1rem;
+            border-bottom: 1px solid #333;
         }
 
         #report-output {
-            padding: 1rem; /* Less padding inside to give text more room */
-            font-family: 'Menlo', 'Monaco', monospace;
-            font-size: 0.95rem; /* Larger Text */
-            color: #E5E7EB;
-            line-height: 1.5;
+            padding: 1.5rem;
+            font-family: 'Courier New', Courier, monospace; /* Monospace for data */
+            font-size: 1.15rem; /* 18px DATA TEXT */
+            line-height: 1.6;
+            color: #fff;
             white-space: pre-wrap;
-            min-height: 250px; /* Taller box */
+            font-weight: 600; /* Bold text for readability */
         }
 
-        /* --- BUTTONS --- */
-        .btn-stack {
-            width: 100%;
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-
+        /* BUTTONS */
         .btn {
             display: block;
-            width: 100%; /* Full width buttons */
-            padding: 1rem; /* Taller touch target */
+            width: 100%;
+            padding: 1.2rem; /* Big touch targets */
+            font-size: 1.1rem;
+            font-weight: 700;
+            text-align: center;
             border-radius: 8px;
-            font-weight: 600;
-            font-size: 1rem;
-            text-align: center;
-            text-decoration: none;
+            margin-bottom: 1rem;
             cursor: pointer;
+            text-decoration: none;
         }
-
-        .btn-primary { background-color: var(--brand-blue); color: white; border: none; }
-        .btn-secondary { background: transparent; color: white; border: 1px solid var(--border); }
-
-        /* --- FOOTER --- */
-        footer {
-            padding: 2rem;
-            text-align: center;
-            font-size: 0.8rem;
-            color: #4B5563;
-            border-top: 1px solid var(--border);
-            margin-top: auto;
-        }
+        .btn-primary { background: var(--brand-blue); color: white; border: none; }
+        .btn-secondary { background: transparent; color: white; border: 2px solid #333; }
 
     </style>
 </head>
 <body>
 
     <nav>
-        <a href="#" class="brand"><span class="brand-icon">⌘</span> Operators Logic</a>
-        <button class="menu-btn"><span class="bar"></span><span class="bar"></span></button>
+        <a href="#" class="brand">⌘ Operators Logic</a>
     </nav>
 
     <div class="container">
-        
-        <div class="status-badge">
-            ✓ Systems Online
-        </div>
+        <div class="status-badge">✓ Systems Online</div>
 
-        <h1>Daily Intelligence <br><span class="blue-text">Snapshot</span></h1>
-        
-        <p class="subtitle">
-            Real-time data stream derived from prediction markets. Verified signal.
-        </p>
+        <h1>Daily Intelligence <br><span style="color: #3B82F6;">Snapshot</span></h1>
+        <p class="subtitle">Real-time prediction market data. Clear signal. Verified.</p>
 
         <div class="terminal-window">
-            <div class="terminal-header">
-                <div class="indicator-dot"></div>
-                Operators Logic Assistant
-            </div>
+            <div class="terminal-header">Operators Logic Assistant</div>
             <div id="report-output">
->> INITIALIZING...
->> CONNECTING TO SATELLITE...
->> WAITING FOR DATA PACKET...
+>> SYSTEM READY
+>> WAITING FOR DATA LINK...
             </div>
         </div>
 
-        <div class="btn-stack">
-            <button onclick="location.reload()" class="btn btn-primary">Refresh Data</button>
-            <a href="https://github.com/intelliwebchatt/Operators-Logic" class="btn btn-secondary">View Source</a>
-        </div>
-
+        <a href="#" onclick="location.reload()" class="btn btn-primary">Refresh Data</a>
+        <a href="https://github.com/intelliwebchatt/Operators-Logic" class="btn btn-secondary">Source Code</a>
     </div>
-
-    <footer>&copy; 2025 Operators Logic</footer>
 
     <script>
         async function loadData() {
             const output = document.getElementById('report-output');
             try {
-                // Fetch with cache busting (?t=...) to ensure you get the latest update
-                const response = await fetch('daily_report.txt?t=' + new Date().getTime());
+                const response = await fetch('daily_report.txt?t=' + Date.now());
                 if (response.ok) {
-                    const text = await response.text();
-                    output.innerText = text;
+                    output.innerText = await response.text();
                 } else {
-                    output.innerText = "⚠️ NO REPORT FOUND\n\nSystem fetches daily at 06:00 UTC.\nCheck GitHub Actions.";
+                    output.innerText = "⚠️ NO REPORT FOUND\n\n1. Did you add fetch_data.py?\n2. Did you add the Workflow file?";
                 }
-            } catch (err) {
-                output.innerText = "❌ ERROR: OFFLINE\n\nCheck your internet connection.";
-            }
+            } catch (e) { output.innerText = "OFFLINE"; }
         }
         loadData();
     </script>
-
 </body>
 </html>
-
