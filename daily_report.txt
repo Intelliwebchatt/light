@@ -2,93 +2,68 @@ INTELLIGENCE SNAPSHOT // 2025-12-10
 ========================================
 
 MARKET CLOSE
-S&P 500: nan
-DOW J:   nan
-NASDAQ:  nan
-VIX:     17.11
+S&P 500: 6,841
+DOW J: 47,560
+NASDAQ: 23,576
+VIX: 17
 
 ----------------------------------------
 
-PREDICTION MARKETS (DEEP DIVE)
+PREDICTION MARKETS
 
---- GEOPOLITICS (Top 10 Volume) ---
+--- GEOPOLITICS (Top 5 Active) ---
 [0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
 [97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
 [0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
 [0.1%] Will Trump nominate himself as the next Fed chair?
 [0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
-[2.8%] No change in Fed interest rates after December 2025 meeting?
-[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
-[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
-[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
-[0.1%] Will LeBron James be TIME's Person of the Year for 2025?
 
---- US POLITICS (Top 10 Volume) ---
+--- US POLITICS (Top 5 Active) ---
 [0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
 [97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
 [0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
 [0.1%] Will Trump nominate himself as the next Fed chair?
 [0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
-[2.8%] No change in Fed interest rates after December 2025 meeting?
-[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
-[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
-[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
-[0.1%] Will LeBron James be TIME's Person of the Year for 2025?
 
---- TECH & AI (Top 10 Volume) ---
+--- TECH & AI (Top 5 Active) ---
 [0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
 [97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
 [0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
 [0.1%] Will Trump nominate himself as the next Fed chair?
 [0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
-[2.8%] No change in Fed interest rates after December 2025 meeting?
-[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
-[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
-[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
-[0.1%] Will LeBron James be TIME's Person of the Year for 2025?
 
---- SCIENCE (Top 10 Volume) ---
+--- SCIENCE (Top 5 Active) ---
 [0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
 [97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
 [0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
 [0.1%] Will Trump nominate himself as the next Fed chair?
 [0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
-[2.8%] No change in Fed interest rates after December 2025 meeting?
-[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
-[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
-[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
-[0.1%] Will LeBron James be TIME's Person of the Year for 2025?
-
---- ECONOMY (Top 10 Volume) ---
-[0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
-[0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
-[0.1%] Will Trump nominate himself as the next Fed chair?
-[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
-[2.8%] No change in Fed interest rates after December 2025 meeting?
-[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
-[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
-[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
-[0.1%] Will LeBron James be TIME's Person of the Year for 2025?
 
 ----------------------------------------
 
 TOP HEADLINES
 • Trump's speech on combating inflation turns to grievances about immigrants - NPR
 • Australia’s Social Media Ban for Children Takes Effect - The New York Times
-• House panel plans to end its boat strike probe, GOP chair says - The Washington Post
 • Democrat Eileen Higgins wins Miami mayoral election, defeats Trump’s pick - Al Jazeera
-• Republicans unveil health care plan to counter Democratic effort to extend ACA subsidies - ABC News
+• ‘It’s done’ — House Armed Services chair sees no need to further probe boat strike - Politico
 • Two US fighter jets circle Gulf of Venezuela in escalation of hostilities - The Guardian
-• Rod Paige, former education secretary and architect of No Child Left Behind policy, dies at 92 - CBS News
+• Pennsylvania Gov. Josh Shapiro faces subpoena over private home security upgrades after firebombing - ABC News
 • After Trump criticism, Zelensky says he’s ready to hold elections - The Washington Post
-• Fort Hood doctor accused of sexual misconduct charged with secretly recording his patients - CNN
-• San Diego officials approve $30M settlement for family of teen killed by police - CNN
+• Rod Paige, Education Secretary Who Defended ‘No Child Left Behind,’ Dies at 92 - The New York Times
 
 ----------------------------------------
 
-TRENDING SEARCHES (US)
-• (Feed Empty - Google blocking IP)
+TRENDING TOPICS
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
+• Google reveals the 10 top trending games of 2025
+• Google’s Year in Search 2025: These trending topics spiked big
+• YouTube is killing its Trending page a decade after its debut
+• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 
 =
 =
