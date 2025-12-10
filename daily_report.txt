@@ -5,23 +5,38 @@ MARKET CLOSE
 S&P 500: nan
 DOW J:   nan
 NASDAQ:  nan
-VIX:     17.08
+VIX:     17.14
 
 ------------------------------
 
-PREDICTION MARKETS
+TOP 5 BETTING MARKETS (24H Volume)
+🔵 Fed decreases interest rates by 50+ bps after December 2025 meeting?
+   YES: 0.4%
+
+🔵 Fed decreases interest rates by 25 bps after December 2025 meeting?
+   YES: 96.8%
+
+🔵 Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
+   YES: 0.1%
+
+🔵 Will Trump nominate himself as the next Fed chair?
+   YES: 0.1%
+
+🔵 Will Trump nominate Larry Kudlow as the next Fed chair?
+   YES: 0.1%
+
 ------------------------------
 
 TOP HEADLINES
-• Trump rails on affordability ‘hoax’ and immigrants in rally-style speech - The Guardian
+• Trump Says Americans Are Doing Great, Even as Views on the Economy Sour - The New York Times
 • Australia’s Social Media Ban for Children Takes Effect - The New York Times
-• ‘It’s done’ — House Armed Services chair sees no need to further probe boat strike - Politico
+• House panel plans to end its boat strike probe, GOP chair says - The Washington Post
 • Democrat Eileen Higgins wins Miami mayoral election, defeats Trump’s pick - Al Jazeera
 • Republicans unveil health care plan to counter Democratic effort to extend ACA subsidies - ABC News
 
 ------------------------------
 
-TRENDING SEARCHES (US)
+TRENDING SEARCHES
 
 =
 =
