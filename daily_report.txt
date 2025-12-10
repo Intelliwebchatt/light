@@ -2,9 +2,9 @@ INTELLIGENCE SNAPSHOT // 2025-12-10
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,841
-DOW J: 47,560
-NASDAQ: 23,576
+S&P 500: 6,856
+DOW J: 47,851
+NASDAQ: 23,541
 VIX: 17
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 17
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[96.8%] Fed decreases interest rates by 25 bps after December 2025 meeting?
-[0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
+[0.1%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
+[100.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[0.1%] No change in Fed interest rates after December 2025 meeting?
+[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
 [0.1%] Will Trump nominate himself as the next Fed chair?
-[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[96.8%] Fed decreases interest rates by 25 bps after December 2025 meeting?
-[0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
+[0.1%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
+[100.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[0.1%] No change in Fed interest rates after December 2025 meeting?
+[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
 [0.1%] Will Trump nominate himself as the next Fed chair?
-[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
-[0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[96.8%] Fed decreases interest rates by 25 bps after December 2025 meeting?
-[0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
+[0.1%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
+[100.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[0.1%] No change in Fed interest rates after December 2025 meeting?
+[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
 [0.1%] Will Trump nominate himself as the next Fed chair?
-[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
 
 --- SCIENCE (Top 5 Active) ---
-[0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[96.8%] Fed decreases interest rates by 25 bps after December 2025 meeting?
-[0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
+[0.1%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
+[100.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[0.1%] No change in Fed interest rates after December 2025 meeting?
+[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
 [0.1%] Will Trump nominate himself as the next Fed chair?
-[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
 
 ----------------------------------------
 
 TOP HEADLINES
 • Trump's speech on combating inflation turns to grievances about immigrants - NPR
-• ‘It’s done’ — House Armed Services chair sees no need to further probe boat strike - Politico
-• Machado Won’t Pick Up Peace Prize in Person, Nobel Director Says - The New York Times
-• Afghan CIA fighters, like National Guard attack suspect, face stark reality in U.S. - NPR
-• Rahm Emanuel says US should follow Australia’s youth social media ban - Politico
-• Trump's new cold war with Europe - Axios
-• Rod Paige, Education Secretary Who Defended ‘No Child Left Behind,’ Dies at 92 - The New York Times
-• Poll: Here’s what Americans’ affordability problems look like - Politico
+• Judge Says Trump Must End Guard Deployment in Los Angeles - The New York Times
+• Judge rules Epstein grand jury records from 2019 can be released - BBC
+• Tourists from 42 countries will have to submit 5 years of social media history to enter U.S. under Trump plan - CBS News
+• House GOP erupts over health care as leaders hunt for a plan - Politico
+• Democrat Eileen Higgins wins Miami mayoral election, defeats Trump’s pick - Al Jazeera
+• Kentucky State University student killed in shooting is identified - NBC News
+• Republicans Are Fighting With One Another in Deep-Red Indiana. Here’s Why. - The New York Times
 
 ----------------------------------------
 
@@ -57,52 +57,13 @@ TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • Google reveals the top trending searches of 2025
 • Gemini was Google’s top trending search term in 2025
-• Google reveals the 10 top trending games of 2025
 • Google’s Year in Search 2025: These trending topics spiked big
-• YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
-=
+========================================
 END TRANSMISSION
