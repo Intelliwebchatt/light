@@ -1,160 +1,77 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Operators Logic | Intelligence</title>
-    
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-
+    <title>Operators Logic</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
     <style>
-        :root {
-            --bg-body: #000000;
-            --bg-card: #111111;
-            --brand-blue: #0056D2;
-            --text-white: #FFFFFF;
-            --status-green: #10B981;
-        }
-
-        body {
-            background-color: var(--bg-body);
-            color: var(--text-white);
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
-        }
-
-        /* BIGGER HEADER */
-        nav {
-            padding: 1.5rem 1rem;
-            border-bottom: 1px solid #333;
-            background: #050505;
-        }
-        .brand { 
-            font-size: 1.4rem; /* Bigger Logo */
-            font-weight: 700; 
-            color: white; 
-            text-decoration: none; 
-        }
-
-        /* CONTAINER */
-        .container {
-            width: 100%;
-            padding: 1.5rem;
-            flex: 1;
-        }
-
-        /* STATUS */
-        .status-badge {
-            color: var(--status-green);
-            background: rgba(16, 185, 129, 0.15);
-            padding: 0.5rem 1rem;
-            border-radius: 8px;
-            font-weight: 600;
-            font-size: 0.95rem; /* Bigger text */
-            margin-bottom: 1.5rem;
-            display: inline-block;
-        }
-
-        /* HEADLINES */
-        h1 {
-            font-size: 2.5rem; /* Huge Headline */
-            line-height: 1.1;
-            margin-bottom: 1rem;
-        }
-        .subtitle {
-            font-size: 1.15rem; /* Bigger Subtitle */
-            color: #ccc;
-            margin-bottom: 2rem;
-            line-height: 1.5;
-        }
-
-        /* THE DATA BOX */
-        .terminal-window {
-            background-color: var(--bg-card);
-            border: 1px solid #333;
-            border-radius: 12px;
-            padding: 0;
-            margin-bottom: 2rem;
-        }
+        :root { --bg: #000000; --card: #111111; --blue: #0056D2; --text: #FFFFFF; --green: #10B981; }
+        body { background: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; margin: 0; padding: 1rem; }
         
-        .terminal-header {
-            background: #222;
-            padding: 1rem;
-            font-weight: 700;
-            font-size: 1rem;
-            border-bottom: 1px solid #333;
+        nav { font-weight: 700; font-size: 1.2rem; margin-bottom: 1rem; border-bottom: 1px solid #333; padding-bottom: 1rem; }
+        
+        h1 { font-size: 2.2rem; margin: 0 0 1rem 0; line-height: 1.1; }
+        
+        .status { 
+            background: rgba(16, 185, 129, 0.2); color: var(--green); 
+            padding: 0.5rem 1rem; border-radius: 6px; font-weight: 700; 
+            display: inline-block; margin-bottom: 1rem; 
         }
 
-        #report-output {
-            padding: 1.5rem;
-            font-family: 'Courier New', Courier, monospace; /* Monospace for data */
-            font-size: 1.15rem; /* 18px DATA TEXT */
-            line-height: 1.6;
-            color: #fff;
-            white-space: pre-wrap;
-            font-weight: 600; /* Bold text for readability */
+        .terminal { background: var(--card); border: 1px solid #333; border-radius: 8px; margin-bottom: 1.5rem; overflow: hidden; }
+        .terminal-header { background: #1a1a1a; padding: 0.8rem; font-weight: 700; border-bottom: 1px solid #333; color: #888; }
+        
+        #data-display { 
+            padding: 1rem; 
+            font-family: 'JetBrains Mono', monospace; 
+            font-size: 17px; /* BIG TEXT */
+            line-height: 1.5; color: #eee; 
+            white-space: pre-wrap; 
         }
 
-        /* BUTTONS */
-        .btn {
-            display: block;
-            width: 100%;
-            padding: 1.2rem; /* Big touch targets */
-            font-size: 1.1rem;
-            font-weight: 700;
-            text-align: center;
-            border-radius: 8px;
-            margin-bottom: 1rem;
-            cursor: pointer;
-            text-decoration: none;
+        .btn { 
+            background: var(--blue); color: white; display: block; 
+            width: 100%; padding: 1rem; text-align: center; 
+            text-decoration: none; border-radius: 8px; font-weight: 700; margin-bottom: 1rem;
         }
-        .btn-primary { background: var(--brand-blue); color: white; border: none; }
-        .btn-secondary { background: transparent; color: white; border: 2px solid #333; }
-
+        .btn-secondary { background: transparent; border: 1px solid #333; }
     </style>
 </head>
 <body>
 
-    <nav>
-        <a href="#" class="brand">⌘ Operators Logic</a>
-    </nav>
+    <nav>⌘ Operators Logic</nav>
+    <div class="status">✓ Systems Online</div>
+    
+    <h1>Daily Intelligence <span style="color:var(--blue)">Snapshot</span></h1>
 
-    <div class="container">
-        <div class="status-badge">✓ Systems Online</div>
-
-        <h1>Daily Intelligence <br><span style="color: #3B82F6;">Snapshot</span></h1>
-        <p class="subtitle">Real-time prediction market data. Clear signal. Verified.</p>
-
-        <div class="terminal-window">
-            <div class="terminal-header">Operators Logic Assistant</div>
-            <div id="report-output">
->> SYSTEM READY
->> WAITING FOR DATA LINK...
-            </div>
+    <div class="terminal">
+        <div class="terminal-header">Incoming Signal...</div>
+        <div id="data-display">
+>> CONNECTING...
         </div>
-
-        <a href="#" onclick="location.reload()" class="btn btn-primary">Refresh Data</a>
-        <a href="https://github.com/intelliwebchatt/Operators-Logic" class="btn btn-secondary">Source Code</a>
     </div>
 
+    <button onclick="location.reload()" class="btn">Refresh Data</button>
+    
+    <a href="https://github.com/Intelliwebchatt/light" class="btn btn-secondary">View Source Code</a>
+
     <script>
-        async function loadData() {
-            const output = document.getElementById('report-output');
+        async function load() {
             try {
-                const response = await fetch('daily_report.txt?t=' + Date.now());
-                if (response.ok) {
-                    output.innerText = await response.text();
+                // The ?t= timestamp forces the browser to check for new data
+                let r = await fetch('daily_report.txt?t=' + Date.now());
+                if(r.ok) {
+                    document.getElementById('data-display').innerText = await r.text();
                 } else {
-                    output.innerText = "⚠️ NO REPORT FOUND\n\n1. Did you add fetch_data.py?\n2. Did you add the Workflow file?";
+                    document.getElementById('data-display').innerText = "⚠️ REPORT GENERATED.\n\nWaiting for GitHub Pages to publish update...\nTry refreshing in 30 seconds.";
                 }
-            } catch (e) { output.innerText = "OFFLINE"; }
+            } catch(e) {
+                document.getElementById('data-display').innerText = "OFFLINE.";
+            }
         }
-        loadData();
+        load();
     </script>
 </body>
 </html>
+      
