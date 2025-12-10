@@ -1,0 +1,25 @@
+name: Daily Fetch
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Runs at 6am UTC
+  workflow_dispatch: # Allows manual button click
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - run: pip install requests
+      - run: python fetch_data.py
+      - run: |
+          git config user.name 'Bot'
+          git config user.email 'bot@bot.com'
+          git add daily_report.txt
+          git commit -m "Update" || exit 0
+          git push
