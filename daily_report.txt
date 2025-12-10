@@ -13,28 +13,28 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[96.8%] Fed decreases interest rates by 25 bps after December 2025 meeting?
 [0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
 [0.1%] Will Trump nominate himself as the next Fed chair?
 [0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
 
 --- US POLITICS (Top 5 Active) ---
 [0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[96.8%] Fed decreases interest rates by 25 bps after December 2025 meeting?
 [0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
 [0.1%] Will Trump nominate himself as the next Fed chair?
 [0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
 [0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[96.8%] Fed decreases interest rates by 25 bps after December 2025 meeting?
 [0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
 [0.1%] Will Trump nominate himself as the next Fed chair?
 [0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
 
 --- SCIENCE (Top 5 Active) ---
 [0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[96.8%] Fed decreases interest rates by 25 bps after December 2025 meeting?
 [0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
 [0.1%] Will Trump nominate himself as the next Fed chair?
 [0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
@@ -43,13 +43,13 @@ PREDICTION MARKETS
 
 TOP HEADLINES
 • Trump's speech on combating inflation turns to grievances about immigrants - NPR
-• Australia’s Social Media Ban for Children Takes Effect - The New York Times
-• Democrat Eileen Higgins wins Miami mayoral election, defeats Trump’s pick - Al Jazeera
 • ‘It’s done’ — House Armed Services chair sees no need to further probe boat strike - Politico
-• Two US fighter jets circle Gulf of Venezuela in escalation of hostilities - The Guardian
-• Pennsylvania Gov. Josh Shapiro faces subpoena over private home security upgrades after firebombing - ABC News
-• After Trump criticism, Zelensky says he’s ready to hold elections - The Washington Post
+• Machado Won’t Pick Up Peace Prize in Person, Nobel Director Says - The New York Times
+• Afghan CIA fighters, like National Guard attack suspect, face stark reality in U.S. - NPR
+• Rahm Emanuel says US should follow Australia’s youth social media ban - Politico
+• Trump's new cold war with Europe - Axios
 • Rod Paige, Education Secretary Who Defended ‘No Child Left Behind,’ Dies at 92 - The New York Times
+• Poll: Here’s what Americans’ affordability problems look like - Politico
 
 ----------------------------------------
 
@@ -59,8 +59,8 @@ TRENDING TOPICS
 • Gemini was Google’s top trending search term in 2025
 • Google reveals the 10 top trending games of 2025
 • Google’s Year in Search 2025: These trending topics spiked big
-• YouTube is killing its Trending page a decade after its debut
 • YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
