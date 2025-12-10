@@ -1,32 +1,25 @@
-This is perfect. The screenshots give me the exact "DNA" of your brand. It is clean, tactical, and uses a very specific "Command Line" aesthetic (Dark Mode + Electric Blue + Inter Font).
-Here is the updated index.html file. I have tuned the CSS to match your screenshots exactly:
- * Header: Matches the "⌘ Operators Logic" logo and hamburger menu.
- * Status Pill: Replicates the "Systems Online & Ready" badge from your screenshot.
- * The "Terminal": I styled the data box to look exactly like the "Operators Logic Assistant" chat window in your screenshot.
-Instruction:
-Copy this code and save it as index.html in your GitHub repository.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Operators Logic | Intelligence Snapshot</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Operators Logic | Intelligence Snapshot</title>
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <style>
-        /* --- BRAND THEME (Extracted from your Screenshots) --- */
+        /* --- BRAND THEME --- */
         :root {
-            --bg-body: #050505;       /* Deepest Black */
-            --bg-card: #0F0F0F;       /* The "Assistant" Box Color */
-            --border: #1F1F1F;        /* Subtle Borders */
-            --brand-blue: #0056D2;    /* That specific "Get Started" Blue */
+            --bg-body: #050505;
+            --bg-card: #0F0F0F;
+            --border: #1F1F1F;
+            --brand-blue: #0056D2;
             --text-white: #FFFFFF;
-            --text-gray: #9CA3AF;     /* Muted text */
-            --status-bg: #111513;     /* Dark Green bg for status pill */
-            --status-text: #10B981;   /* Bright Green text */
+            --text-gray: #9CA3AF;
+            --status-bg: #111513;
+            --status-text: #10B981;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -41,12 +34,12 @@ Copy this code and save it as index.html in your GitHub repository.
             flex-direction: column;
         }
 
-        /* --- 1. HEADER (Matches Screenshot 1) --- */
+        /* --- HEADER --- */
         nav {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 1rem 1.5rem;
+            padding: 1rem; /* Reduced padding */
             border-bottom: 1px solid var(--border);
             background: rgba(5, 5, 5, 0.95);
             position: sticky;
@@ -64,37 +57,23 @@ Copy this code and save it as index.html in your GitHub repository.
             text-decoration: none;
         }
 
-        .brand-icon {
-            color: #3B82F6; /* Lighter blue icon */
-            font-size: 1.2rem;
-        }
+        .brand-icon { color: #3B82F6; font-size: 1.2rem; }
+        
+        .menu-btn { background: none; border: none; padding: 0.5rem; }
+        .bar { display: block; width: 24px; height: 2px; background-color: white; margin: 6px 0; }
 
-        /* Hamburger Menu Icon */
-        .menu-btn {
-            background: none;
-            border: none;
-            cursor: pointer;
-            padding: 0.5rem;
-        }
-        .bar {
-            display: block;
-            width: 24px;
-            height: 2px;
-            background-color: var(--text-white);
-            margin: 6px 0;
-            border-radius: 2px;
-        }
-
-        /* --- 2. MAIN CONTENT --- */
+        /* --- MAIN CONTAINER --- */
         .container {
-            max-width: 600px; /* Kept narrow like mobile view */
-            margin: 0 auto;
-            padding: 2rem 1.5rem;
+            width: 100%;
+            max-width: 100%; /* FORCE FULL WIDTH */
+            padding: 1.5rem 1rem; /* 1rem = 16px side padding (standard mobile) */
             flex: 1;
-            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Center items */
         }
 
-        /* Status Pill (Matches "Systems Online & Ready") */
+        /* --- STATUS PILL --- */
         .status-badge {
             display: inline-flex;
             align-items: center;
@@ -103,50 +82,52 @@ Copy this code and save it as index.html in your GitHub repository.
             color: var(--status-text);
             padding: 0.35rem 1rem;
             border-radius: 9999px;
-            font-size: 0.75rem;
-            font-weight: 500;
+            font-size: 0.8rem;
+            font-weight: 600;
             margin-bottom: 1.5rem;
-            border: 1px solid rgba(16, 185, 129, 0.1);
+            border: 1px solid rgba(16, 185, 129, 0.2);
         }
-        
-        .check-icon { font-size: 0.9em; }
 
-        /* Headlines */
+        /* --- HEADLINES --- */
         h1 {
-            font-size: 2rem;
-            line-height: 1.2;
-            margin-bottom: 0.75rem;
-            letter-spacing: -0.03em;
+            font-size: 2.2rem; /* Bigger Headline */
+            line-height: 1.1;
+            margin-bottom: 1rem;
+            text-align: center;
+            letter-spacing: -0.04em;
+            width: 100%;
         }
         
-        .blue-text { color: #3B82F6; } /* "Built for Real Work" Blue */
+        .blue-text { color: #3B82F6; }
 
         .subtitle {
             color: var(--text-gray);
             font-size: 1rem;
-            margin-bottom: 2.5rem;
-            font-weight: 400;
+            margin-bottom: 2rem;
+            text-align: center;
+            max-width: 90%; /* Keep text from hitting edges */
         }
 
-        /* --- 3. THE "ASSISTANT" CARD (Data Display) --- */
+        /* --- THE TERMINAL CARD (FIXED) --- */
         .terminal-window {
+            width: 100%; /* Full width of container */
             background-color: var(--bg-card);
             border: 1px solid var(--border);
             border-radius: 12px;
-            text-align: left;
             overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-            margin-bottom: 2rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            margin-bottom: 1.5rem;
         }
 
         .terminal-header {
-            padding: 1rem;
+            padding: 0.85rem 1rem;
             border-bottom: 1px solid var(--border);
             display: flex;
             align-items: center;
             gap: 0.75rem;
-            font-size: 0.85rem;
+            font-size: 0.9rem;
             font-weight: 600;
+            background-color: #0A0A0A;
         }
 
         .indicator-dot {
@@ -154,51 +135,41 @@ Copy this code and save it as index.html in your GitHub repository.
             height: 8px;
             background-color: var(--status-text);
             border-radius: 50%;
-            box-shadow: 0 0 8px var(--status-text);
+            box-shadow: 0 0 5px var(--status-text);
         }
 
         #report-output {
-            padding: 1.5rem;
-            font-family: 'Menlo', 'Monaco', monospace; /* Code font for data */
-            font-size: 0.85rem;
+            padding: 1rem; /* Less padding inside to give text more room */
+            font-family: 'Menlo', 'Monaco', monospace;
+            font-size: 0.95rem; /* Larger Text */
             color: #E5E7EB;
-            line-height: 1.6;
-            white-space: pre-wrap; /* Preserves text formatting */
-            min-height: 200px;
+            line-height: 1.5;
+            white-space: pre-wrap;
+            min-height: 250px; /* Taller box */
         }
 
-        /* --- 4. BUTTONS (Matches "Get Started") --- */
+        /* --- BUTTONS --- */
         .btn-stack {
+            width: 100%;
             display: flex;
             flex-direction: column;
-            gap: 0.75rem;
+            gap: 1rem;
         }
 
         .btn {
             display: block;
-            width: 100%;
-            padding: 0.85rem;
-            border-radius: 6px;
+            width: 100%; /* Full width buttons */
+            padding: 1rem; /* Taller touch target */
+            border-radius: 8px;
             font-weight: 600;
-            font-size: 0.95rem;
+            font-size: 1rem;
+            text-align: center;
             text-decoration: none;
-            transition: opacity 0.2s;
             cursor: pointer;
         }
 
-        .btn-primary {
-            background-color: var(--brand-blue);
-            color: white;
-            border: none;
-        }
-        .btn-primary:hover { opacity: 0.9; }
-
-        .btn-secondary {
-            background-color: transparent;
-            color: var(--text-white);
-            border: 1px solid var(--border);
-        }
-        .btn-secondary:hover { border-color: var(--text-gray); }
+        .btn-primary { background-color: var(--brand-blue); color: white; border: none; }
+        .btn-secondary { background: transparent; color: white; border: 1px solid var(--border); }
 
         /* --- FOOTER --- */
         footer {
@@ -207,6 +178,7 @@ Copy this code and save it as index.html in your GitHub repository.
             font-size: 0.8rem;
             color: #4B5563;
             border-top: 1px solid var(--border);
+            margin-top: auto;
         }
 
     </style>
@@ -214,25 +186,20 @@ Copy this code and save it as index.html in your GitHub repository.
 <body>
 
     <nav>
-        <a href="#" class="brand">
-            <span class="brand-icon">⌘</span> Operators Logic
-        </a>
-        <button class="menu-btn">
-            <span class="bar"></span>
-            <span class="bar"></span>
-            <span class="bar"></span>
-        </button>
+        <a href="#" class="brand"><span class="brand-icon">⌘</span> Operators Logic</a>
+        <button class="menu-btn"><span class="bar"></span><span class="bar"></span></button>
     </nav>
 
     <div class="container">
         
         <div class="status-badge">
-            <span class="check-icon">✓</span> Systems Online & Ready
+            ✓ Systems Online
         </div>
 
         <h1>Daily Intelligence <br><span class="blue-text">Snapshot</span></h1>
+        
         <p class="subtitle">
-            Real-time data stream derived from prediction markets. Clean data. Verified signal.
+            Real-time data stream derived from prediction markets. Verified signal.
         </p>
 
         <div class="terminal-window">
@@ -240,48 +207,38 @@ Copy this code and save it as index.html in your GitHub repository.
                 <div class="indicator-dot"></div>
                 Operators Logic Assistant
             </div>
-            
             <div id="report-output">
-Initializing Connection...
-Searching for: daily_report.txt...
+>> INITIALIZING...
+>> CONNECTING TO SATELLITE...
+>> WAITING FOR DATA PACKET...
             </div>
         </div>
 
         <div class="btn-stack">
-            <button onclick="location.reload()" class="btn btn-primary">
-                Refresh Data &rarr;
-            </button>
-            <a href="https://github.com/" class="btn btn-secondary">
-                View Source Code
-            </a>
+            <button onclick="location.reload()" class="btn btn-primary">Refresh Data</button>
+            <a href="https://github.com/intelliwebchatt/Operators-Logic" class="btn btn-secondary">View Source</a>
         </div>
 
     </div>
 
-    <footer>
-        &copy; 2025 Operators Logic. Built for Real Work.
-    </footer>
+    <footer>&copy; 2025 Operators Logic</footer>
 
     <script>
         async function loadData() {
             const output = document.getElementById('report-output');
-            
             try {
-                // 1. Try to fetch the automated report
-                const response = await fetch('daily_report.txt?t=' + new Date().getTime()); // Timestamp prevents caching
-                
+                // Fetch with cache busting (?t=...) to ensure you get the latest update
+                const response = await fetch('daily_report.txt?t=' + new Date().getTime());
                 if (response.ok) {
                     const text = await response.text();
                     output.innerText = text;
                 } else {
-                    output.innerText = "⚠️ SYSTEM ALERT: No Report Found.\n\nThe automated fetch cycle runs daily at 06:00 UTC.\nPlease verify GitHub Actions status.";
+                    output.innerText = "⚠️ NO REPORT FOUND\n\nSystem fetches daily at 06:00 UTC.\nCheck GitHub Actions.";
                 }
             } catch (err) {
-                output.innerText = "❌ CONNECTION ERROR\n\nUnable to reach server.";
+                output.innerText = "❌ ERROR: OFFLINE\n\nCheck your internet connection.";
             }
         }
-
-        // Run immediately
         loadData();
     </script>
 
