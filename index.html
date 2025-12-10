@@ -1,140 +1,310 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Heather Glenn | Let There Be Light Tour</title>
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <title>Operators Logic | Intelligence Snapshot</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
     <style>
+        /* --- OPERATORS LOGIC THEME --- */
         :root {
-            --primary-color: #000000; /* Black */
-            --secondary-color: #0000FF; /* Blue */
-            --text-color: #FFFFFF; /* White */
-            --background-color: #000000; /* Black */
+            --bg-color: #050505;       /* Deep Black/Gray */
+            --card-bg: #111111;        /* Slightly lighter card background */
+            --accent-blue: #0052cc;    /* The Brand Blue */
+            --text-main: #ffffff;
+            --text-muted: #a1a1aa;
+            --border-color: #27272a;
+            --success-green: #10b981;
         }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
         body {
-            font-family: Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
             line-height: 1.6;
-            color: var(--text-color);
-            background-color: var(--background-color);
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: var(--primary-color);
-            color: var(--text-color);
-            padding: 1rem;
-            text-align: center;
-        }
-        nav ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
+            min-height: 100vh;
             display: flex;
-            justify-content: center;
+            flex-direction: column;
         }
-        nav ul li {
-            margin: 0 1rem;
+
+        /* --- HEADER --- */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1.25rem 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+            background-color: rgba(5, 5, 5, 0.9);
+            position: sticky;
+            top: 0;
+            backdrop-filter: blur(10px);
         }
-        nav ul li a {
-            color: var(--text-color);
-            text-decoration: none;
-            font-weight: bold;
+
+        .logo {
+            font-weight: 700;
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
         }
-        #hero {
-            text-align: center;
-            background-color: var(--primary-color);
-            padding: 3rem 1rem;
+
+        .logo-icon {
+            color: var(--accent-blue);
+            font-size: 1.2rem;
         }
-        #hero img {
-            border-radius: 50%;
-            width: 200px;
-            height: 200px;
-            border: 4px solid var(--secondary-color);
-            margin-bottom: 1rem;
+
+        .menu-icon {
+            width: 24px;
+            height: 2px;
+            background: white;
+            position: relative;
         }
-        #hero h1 {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
+        .menu-icon::before, .menu-icon::after {
+            content: '';
+            width: 24px;
+            height: 2px;
+            background: white;
+            position: absolute;
+            left: 0;
         }
-        #hero h2 {
-            font-size: 1.8rem;
-            color: var(--secondary-color);
-            margin-bottom: 1rem;
-        }
-        main {
-            padding: 2rem;
-        }
-        .section {
+        .menu-icon::before { top: -8px; }
+        .menu-icon::after { top: 8px; }
+
+        /* --- MAIN CONTAINER --- */
+        .container {
             max-width: 800px;
-            margin: 2rem auto;
-            background: var(--primary-color);
-            padding: 2rem;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-            color: var(--text-color);
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+            flex: 1;
         }
-        h2 {
-            color: var(--secondary-color);
+
+        /* --- STATUS PILL --- */
+        .status-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(16, 185, 129, 0.1); /* Low opacity green */
+            color: var(--success-green);
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(16, 185, 129, 0.2);
         }
+
+        .dot {
+            width: 8px;
+            height: 8px;
+            background-color: var(--success-green);
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+
+        /* --- HERO TEXT --- */
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            letter-spacing: -0.02em;
+        }
+        
+        .highlight {
+            color: var(--accent-blue);
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 1.125rem;
+            margin-bottom: 3rem;
+            max-width: 600px;
+        }
+
+        /* --- DATA TERMINAL CARD --- */
+        .data-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+        }
+
+        .card-header {
+            padding: 1rem 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            background-color: #0f0f0f;
+        }
+
+        .terminal-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+        }
+        .red { background: #ef4444; }
+        .yellow { background: #eab308; }
+        .green { background: #22c55e; }
+
+        .card-title {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            font-family: monospace;
+            margin-left: auto;
+        }
+
+        /* --- THE REPORT CONTENT --- */
+        #report-content {
+            padding: 1.5rem;
+            font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
+            font-size: 0.95rem;
+            color: #e5e5e5;
+            white-space: pre-wrap; /* Keeps formatting */
+            overflow-x: auto;
+        }
+
+        /* --- BUTTONS --- */
+        .action-bar {
+            margin-top: 2rem;
+            display: flex;
+            gap: 1rem;
+        }
+
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            font-weight: 600;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 0.95rem;
+        }
+
+        .btn-primary {
+            background-color: var(--accent-blue);
+            color: white;
+            border: 1px solid var(--accent-blue);
+        }
+        .btn-primary:hover {
+            background-color: #0046b0;
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--text-main);
+            border: 1px solid var(--border-color);
+        }
+        .btn-secondary:hover {
+            border-color: var(--text-muted);
+        }
+
+        /* --- FOOTER --- */
         footer {
-            background-color: var(--primary-color);
-            color: var(--text-color);
             text-align: center;
-            padding: 1rem;
+            padding: 2rem;
+            color: var(--text-muted);
+            font-size: 0.875rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        /* Mobile Adjustments */
+        @media (max-width: 600px) {
+            h1 { font-size: 2rem; }
+            .action-bar { flex-direction: column; }
+            .btn { width: 100%; text-align: center; }
         }
     </style>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#tour">Tour</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
 
-    <section id="hero">
-        <img src="https://via.placeholder.com/200" alt="Heather Glenn Headshot">
-        <h1>Heather Glenn</h1>
-        <h2>Certified in Breaking Out in Song</h2>
-        <p class="tagline">Promising to let there be light all over the place!</p>
-    </section>
+    <nav>
+        <div class="logo">
+            <span class="logo-icon">⌘</span> Operators Logic
+        </div>
+        <div class="menu-icon"></div>
+    </nav>
 
-    <main>
-        <section id="about" class="section">
-            <h2>About Heather Glenn</h2>
-            <p>
-                Heather Glenn is a musical visionary, bringing light and joy wherever her voice carries. With a unique blend of humor, heart, and harmony, Heather’s performances leave audiences inspired and uplifted. Whether breaking into song unexpectedly or delivering powerful ballads, Heather’s mission is simple: to light up the world through music.
-            </p>
-        </section>
+    <div class="container">
+        
+        <div class="status-pill">
+            <div class="dot"></div>
+            Systems Online & Ready
+        </div>
 
-        <section id="tour" class="section">
-            <h2>Let There Be Light Tour</h2>
-            <p>
-                Join Heather Glenn as she takes the stage in cities across the country. Her **Let There Be Light Tour** is a celebration of song, spirit, and the power of music to transform darkness into brightness. Expect unforgettable performances that combine soulful melodies, uplifting lyrics, and dazzling energy.
-            </p>
-            <ul>
-                <li>February 20, 2024 – New York City, NY</li>
-                <li>March 15, 2024 – Chicago, IL</li>
-                <li>April 10, 2024 – Los Angeles, CA</li>
-                <li>May 5, 2024 – Austin, TX</li>
-            </ul>
-        </section>
+        <h1>Daily Intelligence <span class="highlight">Snapshot</span></h1>
+        <p class="subtitle">
+            Real-time data stream derived from prediction markets. Clear thinking. Clean data. Verified signal.
+        </p>
 
-        <section id="contact" class="section">
-            <h2>Contact Heather</h2>
-            <p>Want to book Heather or learn more about the tour? Reach out below!</p>
-            <p>Phone: <a href="tel:+1234567890" style="color: var(--secondary-color);">+123-456-7890</a></p>
-            <p>Email: <a href="mailto:contact@heatherglenntour.com" style="color: var(--secondary-color);">contact@heatherglenntour.com</a></p>
-        </section>
-    </main>
+        <div class="data-card">
+            <div class="card-header">
+                <div class="terminal-dot red"></div>
+                <div class="terminal-dot yellow"></div>
+                <div class="terminal-dot green"></div>
+                <span class="card-title">daily_report.txt</span>
+            </div>
+            
+            <div id="report-content">
+Initializing Data Uplink...
+Checking Source: Polymarket API...
+Waiting for Signal...
+            </div>
+        </div>
+
+        <div class="action-bar">
+            <a href="#" class="btn btn-primary" onclick="location.reload()">Refresh Data</a>
+            <a href="https://github.com/YOUR_USERNAME/poly-investigator" class="btn btn-secondary">View Source</a>
+        </div>
+
+    </div>
 
     <footer>
-        <p>&copy; 2024 Heather Glenn | Let There Be Light Tour. All rights reserved.</p>
+        Operators Logic &copy; 2025. Built for Real Work.
     </footer>
+
+    <script>
+        // This script automatically grabs the text file we generated in Step 2
+        async function fetchReport() {
+            const display = document.getElementById('report-content');
+            
+            try {
+                // Tries to find the daily_report.txt file in the same folder
+                const response = await fetch('daily_report.txt');
+                
+                if (response.ok) {
+                    const text = await response.text();
+                    display.innerText = text;
+                } else {
+                    display.innerText = "⚠️ No Report Found.\n\nSystem is waiting for the next automated fetch cycle (06:00 UTC).";
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                display.innerText = "❌ Connection Error.\nUnable to retrieve intelligence snapshot.";
+            }
+        }
+
+        // Run on load
+        fetchReport();
+    </script>
+
 </body>
 </html>
+
