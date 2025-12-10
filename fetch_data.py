@@ -1,7 +1,6 @@
- import requests
+import requests
 import json
-import yfinance as yf
-import feedparser
+import xml.etree.ElementTree as ET
 from datetime import datetime
 
 # Fake Browser Header
@@ -10,25 +9,28 @@ HEADERS = {
 }
 
 def fetch_stocks():
-    tickers = ["^GSPC", "^DJI", "^IXIC", "^VIX"]
-    try:
-        data = yf.download(tickers, period="5d", progress=False)['Close']
-        sp = f"{data['^GSPC'].iloc[-1]:.0f}"
-        dow = f"{data['^DJI'].iloc[-1]:.0f}"
-        nas = f"{data['^IXIC'].iloc[-1]:.0f}"
-        vix = f"{data['^VIX'].iloc[-1]:.2f}"
-        
-        return f"""MARKET CLOSE
-S&P 500: {sp}
-DOW J:   {dow}
-NASDAQ:  {nas}
-VIX:     {vix}
-"""
-    except:
-        return "STOCKS: DELAYED\n"
+    # Direct API call - No Library Needed
+    tickers = {
+        "S&P 500": "^GSPC",
+        "DOW J": "^DJI",
+        "NASDAQ": "^IXIC",
+        "VIX": "^VIX"
+    }
+    output = "MARKET CLOSE\n"
+    
+    for name, symbol in tickers.items():
+        try:
+            url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
+            data = requests.get(url, headers=HEADERS).json()
+            # Dig into the JSON to find the close price
+            price = data['chart']['result'][0]['meta']['regularMarketPrice']
+            output += f"{name}: {price:,.0f}\n"
+        except:
+            output += f"{name}: --\n"
+    return output
 
 def fetch_polymarket_category(tag, label):
-    text = f"\n--- {label.upper()} (Top 5 Volume) ---\n"
+    text = f"\n--- {label.upper()} (Top 5 Active) ---\n"
     try:
         url = f"https://gamma-api.polymarket.com/markets?limit=5&active=true&closed=false&order=volume24hr&ascending=false&tag_slug={tag}"
         r = requests.get(url, headers=HEADERS).json()
@@ -36,6 +38,7 @@ def fetch_polymarket_category(tag, label):
         for m in r:
             question = m.get('question')
             op = m.get('outcomePrices', [])
+            # Safety Check: Handle string or list
             if isinstance(op, str): prices = json.loads(op)
             else: prices = op
             
@@ -47,47 +50,44 @@ def fetch_polymarket_category(tag, label):
     return text
 
 def fetch_all_markets():
-    report = "PREDICTION MARKETS (DEEP DIVE)\n"
+    report = "PREDICTION MARKETS\n"
     report += fetch_polymarket_category("global-politics", "Geopolitics")
     report += fetch_polymarket_category("politics", "US Politics")
     report += fetch_polymarket_category("technology", "Tech & AI")
     report += fetch_polymarket_category("science", "Science")
     return report
 
-def fetch_news():
+def parse_rss(url, limit=8):
+    # Built-in XML parser - No Feedparser needed
+    text = ""
     try:
-        # Try Google News First
-        url = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
         response = requests.get(url, headers=HEADERS)
-        feed = feedparser.parse(response.content)
-        text = "TOP HEADLINES\n"
-        for i, entry in enumerate(feed.entries[:8], 1):
-            text += f"• {entry.title}\n"
-        return text
+        root = ET.fromstring(response.content)
+        # Find all <item> tags
+        count = 0
+        for item in root.findall('.//item'):
+            if count >= limit: break
+            title = item.find('title').text
+            text += f"• {title}\n"
+            count += 1
     except:
-        return "NEWS: UNAVAILABLE\n"
+        text += "• (Feed unavailable)\n"
+    return text
+
+def fetch_news():
+    return "TOP HEADLINES\n" + parse_rss("https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en")
 
 def fetch_trends():
-    text = "TRENDING TOPICS (Bing)\n"
-    try:
-        # SWITCH: Use Bing News Trending RSS (They don't block GitHub)
-        # We query for "trending" to get the hot topics
-        url = "https://www.bing.com/news/search?q=trending+stories&format=rss"
-        response = requests.get(url, headers=HEADERS)
-        feed = feedparser.parse(response.content)
-        
-        if len(feed.entries) > 0:
-            for i, entry in enumerate(feed.entries[:10], 1):
-                text += f"{i}. {entry.title}\n"
-        else:
-            # Backup: Yahoo News RSS
-            url = "https://news.yahoo.com/rss"
-            feed = feedparser.parse(url)
-            text = "TRENDING (Yahoo Backup)\n"
-            for i, entry in enumerate(feed.entries[:10], 1):
-                text += f"{i}. {entry.title}\n"
-    except Exception as e:
-        text += f"• Error: {str(e)}\n"
+    text = "TRENDING TOPICS\n"
+    # Try Bing (XML)
+    bing_text = parse_rss("https://www.bing.com/news/search?q=trending+stories&format=rss", limit=10)
+    
+    if "unavailable" not in bing_text:
+        text += bing_text
+    else:
+        # Backup: Yahoo
+        text += "(Using Yahoo Backup)\n"
+        text += parse_rss("https://news.yahoo.com/rss", limit=10)
     return text
 
 def run():
@@ -107,4 +107,3 @@ def run():
 
 if __name__ == "__main__":
     run()
-   
