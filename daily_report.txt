@@ -5,7 +5,7 @@ MARKET CLOSE
 S&P 500: nan
 DOW J:   nan
 NASDAQ:  nan
-VIX:     17.06
+VIX:     17.08
 
 ------------------------------
 
@@ -13,9 +13,9 @@ PREDICTION MARKETS
 ------------------------------
 
 TOP HEADLINES
-• Trump Says Americans Are Doing Great, Even as Views on the Economy Sour - The New York Times
-• House panel plans to end its boat strike probe, GOP chair says - The Washington Post
+• Trump rails on affordability ‘hoax’ and immigrants in rally-style speech - The Guardian
 • Australia’s Social Media Ban for Children Takes Effect - The New York Times
+• ‘It’s done’ — House Armed Services chair sees no need to further probe boat strike - Politico
 • Democrat Eileen Higgins wins Miami mayoral election, defeats Trump’s pick - Al Jazeera
 • Republicans unveil health care plan to counter Democratic effort to extend ACA subsidies - ABC News
 
