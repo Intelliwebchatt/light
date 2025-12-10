@@ -1,4 +1,4 @@
-  import requests
+      import requests
 import json
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -298,4 +298,12 @@ def run():
 
 
 if __name__ == "__main__":
-    run() 
+    try:
+        run()
+    except Exception as e:
+        import traceback
+        with open("error_log.txt", "w", encoding="utf-8") as ef:
+            ef.write("UNCAUGHT ERROR:\n\n")
+            traceback.print_exc(file=ef)
+        # Re-raise so GitHub/runner still shows failure
+        raise    
