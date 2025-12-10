@@ -1,43 +1,100 @@
 INTELLIGENCE SNAPSHOT // 2025-12-10
-==============================
+========================================
 
 MARKET CLOSE
 S&P 500: nan
 DOW J:   nan
 NASDAQ:  nan
-VIX:     17.14
+VIX:     17.13
 
-------------------------------
+----------------------------------------
 
-TOP 5 BETTING MARKETS (24H Volume)
-🔵 Fed decreases interest rates by 50+ bps after December 2025 meeting?
-   YES: 0.4%
+PREDICTION MARKETS (DEEP DIVE)
 
-🔵 Fed decreases interest rates by 25 bps after December 2025 meeting?
-   YES: 96.8%
+--- GEOPOLITICS (Top 10 by Volume) ---
+[0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
+[97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will Trump nominate himself as the next Fed chair?
+[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
+[2.8%] No change in Fed interest rates after December 2025 meeting?
+[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
+[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
+[0.1%] Will LeBron James be TIME's Person of the Year for 2025?
 
-🔵 Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
-   YES: 0.1%
+--- US POLITICS (Top 10 by Volume) ---
+[0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
+[97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will Trump nominate himself as the next Fed chair?
+[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
+[2.8%] No change in Fed interest rates after December 2025 meeting?
+[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
+[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
+[0.1%] Will LeBron James be TIME's Person of the Year for 2025?
 
-🔵 Will Trump nominate himself as the next Fed chair?
-   YES: 0.1%
+--- TECH & AI (Top 10 by Volume) ---
+[0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
+[97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will Trump nominate himself as the next Fed chair?
+[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
+[2.8%] No change in Fed interest rates after December 2025 meeting?
+[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
+[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
+[0.1%] Will LeBron James be TIME's Person of the Year for 2025?
 
-🔵 Will Trump nominate Larry Kudlow as the next Fed chair?
-   YES: 0.1%
+--- SCIENCE (Top 10 by Volume) ---
+[0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
+[97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will Trump nominate himself as the next Fed chair?
+[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
+[2.8%] No change in Fed interest rates after December 2025 meeting?
+[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
+[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
+[0.1%] Will LeBron James be TIME's Person of the Year for 2025?
 
-------------------------------
+--- ECONOMY (Top 10 by Volume) ---
+[0.4%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
+[97.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
+[0.1%] Will Scott Seiver win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will Trump nominate himself as the next Fed chair?
+[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
+[2.8%] No change in Fed interest rates after December 2025 meeting?
+[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
+[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
+[0.1%] Will LeBron James be TIME's Person of the Year for 2025?
+
+----------------------------------------
 
 TOP HEADLINES
-• Trump Says Americans Are Doing Great, Even as Views on the Economy Sour - The New York Times
+• Trump's speech on combating inflation turns to grievances about immigrants - NPR
 • Australia’s Social Media Ban for Children Takes Effect - The New York Times
 • House panel plans to end its boat strike probe, GOP chair says - The Washington Post
 • Democrat Eileen Higgins wins Miami mayoral election, defeats Trump’s pick - Al Jazeera
 • Republicans unveil health care plan to counter Democratic effort to extend ACA subsidies - ABC News
+• Pennsylvania Gov. Josh Shapiro faces subpoena over private home security upgrades after firebombing - ABC News
+• Rod Paige, former education secretary and architect of No Child Left Behind policy, dies at 92 - CBS News
+• After Trump criticism, Zelensky says he’s ready to hold elections - The Washington Post
+• Fort Hood doctor accused of sexual misconduct charged with secretly recording his patients - CNN
+• San Diego officials approve $30M settlement for family of teen killed by police - CNN
 
-------------------------------
-
-TRENDING SEARCHES
-
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
 =
 =
 =
