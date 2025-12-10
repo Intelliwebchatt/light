@@ -1,11 +1,15 @@
-import requests
+  import requests
 import json
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 # Fake Browser Header
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/91.0.4472.124 Safari/537.36"
+    )
 }
 
 # -------------------------------
@@ -17,14 +21,17 @@ def fetch_stocks():
         "S&P 500": "^GSPC",
         "DOW J": "^DJI",
         "NASDAQ": "^IXIC",
-        "VIX": "^VIX"
+        "VIX": "^VIX",
     }
     output = "MARKET CLOSE\n"
     data_block = {}
 
     for name, symbol in tickers.items():
         try:
-            url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
+            url = (
+                f"https://query1.finance.yahoo.com/v8/finance/chart/"
+                f"{symbol}?interval=1d&range=5d"
+            )
             resp = requests.get(url, headers=HEADERS).json()
             price = resp["chart"]["result"][0]["meta"]["regularMarketPrice"]
             output += f"{name}: {price:,.0f}\n"
@@ -41,13 +48,13 @@ def fetch_stocks():
 
 def normalize_polymarket_market(m, category_label):
     """
-    Take one Polymarket market object and extract useful fields.
-    This is defensive: keys may or may not exist; we do not assume.
+    Normalize a single Polymarket market object into a compact dict.
+    Defensive on missing keys and inconsistent formats.
     """
     question = m.get("question")
     market_id = m.get("slug") or m.get("id") or m.get("conditionId")
 
-    # outcomePrices can be list or JSON string
+    # outcomePrices can be a list, or a JSON string
     op = m.get("outcomePrices", [])
     if isinstance(op, str):
         try:
@@ -67,18 +74,15 @@ def normalize_polymarket_market(m, category_label):
     volume_24h = m.get("volume24hr") or m.get("volume24Hour") or None
     tags = m.get("tags") or m.get("tagSlugs") or []
 
-    # Try to capture some kind of end date if the API provides it
     end_date_raw = m.get("endDate") or m.get("closeTime") or m.get("endTime")
     created_at_raw = m.get("createdAt") or m.get("created")
 
     end_date = end_date_raw
     created_at = created_at_raw
 
-    # Compute days_to_deadline if possible (rough)
     days_to_deadline = None
     if end_date_raw:
         try:
-            # Many APIs use ISO format; this will fail gracefully otherwise
             dt_end = datetime.fromisoformat(end_date_raw.replace("Z", "+00:00"))
             now_utc = datetime.now(timezone.utc)
             delta = dt_end - now_utc
@@ -91,23 +95,26 @@ def normalize_polymarket_market(m, category_label):
         "question": question,
         "category_label": category_label,
         "category_raw": m.get("category"),
-        "primary_outcome": "Yes",  # your use-case tracks Yes side
-        "probability": probability,  # float percent, may be None
+        "primary_outcome": "Yes",
+        "probability": probability,
         "volume_24h": volume_24h,
         "tags": tags,
         "end_date": end_date,
         "created_at": created_at,
-        "days_to_deadline": days_to_deadline
-        # Note: 24h change would need another API or stored prior snapshot
+        "days_to_deadline": days_to_deadline,
     }
 
     return market_obj
 
-def fetch_polymarket_category_json(tag, label):
+
+def fetch_polymarket_category_json(tag, label, seen_ids):
     """
+    Fetch top markets for a tag, but only keep markets whose IDs have not
+    been seen yet, so categories do not repeat the same questions.
+
     Returns:
-      text_block: pretty text lines for your human report
-      markets_list: list of normalized market dicts for JSON feed
+      text_block: human readable section
+      markets_list: list of normalized market dicts
     """
     text = f"\n--- {label.upper()} (Top 5 Active) ---\n"
     markets_list = []
@@ -115,54 +122,57 @@ def fetch_polymarket_category_json(tag, label):
     try:
         url = (
             "https://gamma-api.polymarket.com/markets"
-            "?limit=5&active=true&closed=false"
+            "?limit=20&active=true&closed=false"
             "&order=volume24hr&ascending=false"
             f"&tag_slug={tag}"
         )
         r = requests.get(url, headers=HEADERS).json()
 
-        # Polymarket returns either a list or an object with a list; be defensive
+        # Polymarket can return a dict with "markets" or a raw list
         if isinstance(r, dict) and "markets" in r:
             markets = r["markets"]
         else:
             markets = r
 
-        for m in markets:
-            # Build text line
-            question = m.get("question")
-            op = m.get("outcomePrices", [])
-            if isinstance(op, str):
-                try:
-                    prices = json.loads(op)
-                except Exception:
-                    prices = []
-            else:
-                prices = op or []
+        unique_count = 0
 
-            prob = None
-            if prices:
-                try:
-                    prob = float(prices[0]) * 100.0
-                except Exception:
-                    prob = None
+        for m in markets:
+            market_obj = normalize_polymarket_market(m, label)
+            mid = market_obj.get("market_id")
+
+            # Skip if no id or already used in a previous category
+            if not mid or mid in seen_ids:
+                continue
+
+            seen_ids.add(mid)
+            markets_list.append(market_obj)
+
+            question = market_obj.get("question")
+            prob = market_obj.get("probability")
 
             if prob is not None and question:
                 text += f"[{prob:.1f}%] {question}\n"
             elif question:
                 text += f"[--] {question}\n"
 
-            # Build structured record
-            markets_list.append(normalize_polymarket_market(m, label))
+            unique_count += 1
+            if unique_count >= 5:
+                break
+
+        if unique_count == 0:
+            text += "No unique markets available for this category.\n"
+
     except Exception:
         text += "No Data.\n"
 
     return text, markets_list
 
+
 def fetch_all_markets():
     """
     Returns:
-      report_text: human-readable block
-      markets_data: list of market dicts across categories
+      report_text: human readable block
+      markets_data: list of normalized market dicts across all categories
     """
     report = "PREDICTION MARKETS\n"
     markets_data = []
@@ -177,17 +187,9 @@ def fetch_all_markets():
     seen_ids = set()
 
     for tag, label in category_specs:
-        text_block, markets_list = fetch_polymarket_category_json(tag, label)
+        text_block, markets_list = fetch_polymarket_category_json(tag, label, seen_ids)
         report += text_block
-
-        # Optional: avoid duplicates across categories
-        for m in markets_list:
-            mid = m.get("market_id")
-            if mid and mid in seen_ids:
-                continue
-            if mid:
-                seen_ids.add(mid)
-            markets_data.append(m)
+        markets_data.extend(markets_list)
 
     return report, markets_data
 
@@ -202,6 +204,7 @@ def parse_rss(url, limit=8):
         response = requests.get(url, headers=HEADERS)
         root = ET.fromstring(response.content)
         count = 0
+
         for item in root.findall(".//item"):
             if count >= limit:
                 break
@@ -213,7 +216,9 @@ def parse_rss(url, limit=8):
                 count += 1
     except Exception:
         text += "• (Feed unavailable)\n"
+
     return text, titles
+
 
 def fetch_news():
     header = "TOP HEADLINES\n"
@@ -221,6 +226,7 @@ def fetch_news():
         "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
     )
     return header + text_block, titles
+
 
 def fetch_trends():
     text = "TRENDING TOPICS\n"
@@ -236,7 +242,9 @@ def fetch_trends():
         topics.extend(bing_titles)
     else:
         text += "(Using Yahoo Backup)\n"
-        yahoo_text, yahoo_titles = parse_rss("https://news.yahoo.com/rss", limit=10)
+        yahoo_text, yahoo_titles = parse_rss(
+            "https://news.yahoo.com/rss", limit=10
+        )
         text += yahoo_text
         topics.extend(yahoo_titles)
 
@@ -269,14 +277,16 @@ def run():
 
     report += "\n" + "=" * 40 + "\nEND TRANSMISSION"
 
-    # Write human-readable text
+    # Write human readable text
     with open("daily_report.txt", "w", encoding="utf-8") as f:
         f.write(report)
 
-    # Build structured JSON for AI consumption
+    # Structured JSON for AI / NotebookLM
     structured = {
         "snapshot_source": "intelligence_snapshot_script",
-        "snapshot_captured_at_utc": datetime.utcnow().replace(tzinfo=timezone.utc).isoformat(),
+        "snapshot_captured_at_utc": datetime.utcnow()
+        .replace(tzinfo=timezone.utc)
+        .isoformat(),
         "market_close": stocks_data,
         "polymarket_markets": markets_data,
         "top_headlines": news_titles,
@@ -286,5 +296,6 @@ def run():
     with open("daily_report.json", "w", encoding="utf-8") as jf:
         json.dump(structured, jf, ensure_ascii=False, indent=2)
 
+
 if __name__ == "__main__":
-    run()
+    run() 
