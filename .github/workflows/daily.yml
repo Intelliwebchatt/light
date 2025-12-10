@@ -15,8 +15,8 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      - name: Install Tools
-        run: pip install requests yfinance feedparser
+      - name: Install Requests
+        run: pip install requests
       - name: Run Script
         run: python fetch_data.py
       - name: Save Data
@@ -24,5 +24,5 @@ jobs:
           git config user.name 'Bot'
           git config user.email 'bot@noreply.com'
           git add daily_report.txt
-          git commit -m "Update" || exit 0
+          git commit -m "Daily Data Update" || exit 0
           git push
