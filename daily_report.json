@@ -1,6 +1,6 @@
 {
   "snapshot_source": "intelligence_snapshot_script",
-  "snapshot_captured_at_utc": "2025-12-11T08:08:36.999775+00:00",
+  "snapshot_captured_at_utc": "2025-12-11T08:08:52.745049+00:00",
   "market_close": {
     "S&P 500": 6886.68,
     "DOW J": 48057.75,
@@ -19,7 +19,7 @@
       "tags": [],
       "end_date": "2026-12-31T00:00:00Z",
       "created_at": "2025-08-05T17:13:32.209843Z",
-      "days_to_deadline": 384.6606951578472
+      "days_to_deadline": 384.6605117582523
     },
     {
       "market_id": "will-trump-nominate-larry-kudlow-as-the-next-fed-chair",
@@ -32,7 +32,7 @@
       "tags": [],
       "end_date": "2026-12-31T00:00:00Z",
       "created_at": "2025-08-05T17:13:23.257626Z",
-      "days_to_deadline": 384.6606951575694
+      "days_to_deadline": 384.66051175792825
     },
     {
       "market_id": "will-artificial-intelligence-be-times-person-of-the-year-for-2025",
@@ -45,7 +45,7 @@
       "tags": [],
       "end_date": "2025-12-31T12:00:00Z",
       "created_at": "2025-06-25T22:21:33.01365Z",
-      "days_to_deadline": 20.160695157453702
+      "days_to_deadline": 20.160511757824075
     },
     {
       "market_id": "will-tyler-montoya-win-the-2025-national-heads-up-poker-championship",
@@ -58,7 +58,7 @@
       "tags": [],
       "end_date": "2025-12-31T22:00:00Z",
       "created_at": "2025-08-03T16:20:55.49387Z",
-      "days_to_deadline": 20.577361824039354
+      "days_to_deadline": 20.577178424409723
     },
     {
       "market_id": "will-another-personthing-be-times-person-of-the-year-for-2025-523",
@@ -71,7 +71,7 @@
       "tags": [],
       "end_date": "2025-12-31T12:00:00Z",
       "created_at": "2025-06-25T22:21:36.525695Z",
-      "days_to_deadline": 20.16069515728009
+      "days_to_deadline": 20.160511757662036
     },
     {
       "market_id": "will-raul-perestrello-win-the-2026-portugal-presidential-election",
@@ -84,7 +84,7 @@
       "tags": [],
       "end_date": "2026-01-25T14:00:00Z",
       "created_at": "2025-07-28T19:21:48.096669Z",
-      "days_to_deadline": 45.244025806122686
+      "days_to_deadline": 45.24384248101852
     },
     {
       "market_id": "will-donald-trump-be-times-person-of-the-year-for-2025",
@@ -97,7 +97,7 @@
       "tags": [],
       "end_date": "2025-12-31T12:00:00Z",
       "created_at": "2025-06-25T22:21:30.085059Z",
-      "days_to_deadline": 20.160692472627314
+      "days_to_deadline": 20.16050914753472
     },
     {
       "market_id": "will-microsoft-have-the-top-ai-model-on-december-31",
@@ -110,7 +110,7 @@
       "tags": [],
       "end_date": "2025-12-31T12:00:00Z",
       "created_at": "2024-12-31T20:01:02.861184Z",
-      "days_to_deadline": 20.160692472534723
+      "days_to_deadline": 20.160509147453705
     },
     {
       "market_id": "will-chris-moneymaker-win-the-2025-national-heads-up-poker-championship-678",
@@ -123,7 +123,7 @@
       "tags": [],
       "end_date": "2025-12-31T22:00:00Z",
       "created_at": "2025-08-03T16:20:48.372852Z",
-      "days_to_deadline": 20.577359139131943
+      "days_to_deadline": 20.577175814050925
     },
     {
       "market_id": "will-jos-cardoso-win-the-2026-portugal-presidential-election",
@@ -136,7 +136,7 @@
       "tags": [],
       "end_date": "2026-01-25T14:00:00Z",
       "created_at": "2025-07-28T19:21:48.698146Z",
-      "days_to_deadline": 45.24402580571759
+      "days_to_deadline": 45.24384248064815
     },
     {
       "market_id": "will-personthing-e-be-times-person-of-the-year-for-2025",
@@ -149,7 +149,7 @@
       "tags": [],
       "end_date": "2025-12-31T00:00:00Z",
       "created_at": "2025-06-25T23:26:49.29987Z",
-      "days_to_deadline": 19.660689677349538
+      "days_to_deadline": 19.660507385856484
     },
     {
       "market_id": "will-personthing-f-be-times-person-of-the-year-for-2025",
@@ -162,7 +162,7 @@
       "tags": [],
       "end_date": "2025-12-31T00:00:00Z",
       "created_at": "2025-06-25T23:29:08.149392Z",
-      "days_to_deadline": 19.660689677210648
+      "days_to_deadline": 19.66050738570602
     },
     {
       "market_id": "will-elon-musk-be-times-person-of-the-year-for-2025",
@@ -175,7 +175,7 @@
       "tags": [],
       "end_date": "2025-12-31T12:00:00Z",
       "created_at": "2025-06-25T22:21:30.767063Z",
-      "days_to_deadline": 20.160689677129632
+      "days_to_deadline": 20.160507385625
     },
     {
       "market_id": "will-ngela-maryah-win-the-2026-portugal-presidential-election",
@@ -188,7 +188,7 @@
       "tags": [],
       "end_date": "2026-01-25T14:00:00Z",
       "created_at": "2025-07-28T19:21:45.434173Z",
-      "days_to_deadline": 45.244023010405094
+      "days_to_deadline": 45.24384071888889
     },
     {
       "market_id": "nba-por-nop-2025-12-11",
@@ -201,7 +201,7 @@
       "tags": [],
       "end_date": "2025-12-12T01:00:00Z",
       "created_at": "2025-12-05T15:00:16.594608Z",
-      "days_to_deadline": 0.7023563436574074
+      "days_to_deadline": 0.7021740521412038
     },
     {
       "market_id": "russia-x-ukraine-ceasefire-in-2025",
@@ -214,7 +214,7 @@
       "tags": [],
       "end_date": "2025-12-31T12:00:00Z",
       "created_at": "2024-12-29T18:47:35.140745Z",
-      "days_to_deadline": 20.160686661724537
+      "days_to_deadline": 20.160504546712964
     },
     {
       "market_id": "xi-jinping-out-in-2025",
@@ -227,7 +227,7 @@
       "tags": [],
       "end_date": "2025-12-31T23:55:00Z",
       "created_at": "2025-06-12T17:36:33.023005Z",
-      "days_to_deadline": 20.657214439363425
+      "days_to_deadline": 20.65703232431713
     },
     {
       "market_id": "will-pope-leo-xiv-be-times-person-of-the-year-for-2025",
@@ -240,7 +240,7 @@
       "tags": [],
       "end_date": "2025-12-31T12:00:00Z",
       "created_at": "2025-06-25T22:21:34.223695Z",
-      "days_to_deadline": 20.160686661516205
+      "days_to_deadline": 20.16050454644676
     },
     {
       "market_id": "will-bitcoin-reach-1000000-by-december-31-2025",
@@ -253,7 +253,7 @@
       "tags": [],
       "end_date": "2025-12-31T12:00:00Z",
       "created_at": "2024-12-30T20:41:14.977618Z",
-      "days_to_deadline": 20.16068666144676
+      "days_to_deadline": 20.16050454636574
     },
     {
       "market_id": "will-vitorino-silva-win-the-2026-portugal-presidential-election",
@@ -266,7 +266,7 @@
       "tags": [],
       "end_date": "2026-01-25T14:00:00Z",
       "created_at": "2025-07-28T19:21:44.803081Z",
-      "days_to_deadline": 45.24401999471065
+      "days_to_deadline": 45.243837879618056
     }
   ],
   "top_headlines": [
@@ -282,8 +282,8 @@
   "trending_topics": [
     "Top trending searches of 2025 revealed by Google. See what made the list.",
     "Google reveals the top trending searches of 2025",
-    "Google’s Year in Search 2025: These trending topics spiked big",
     "Gemini was Google’s top trending search term in 2025",
+    "Google’s Year in Search 2025: These trending topics spiked big",
     "YouTube is killing its Trending page a decade after its debut",
     "YouTube removing the Trending page in favor of Charts, recommendations",
     "YouTube Is Shutting Down Its General ‘Trending’ Video Page",
