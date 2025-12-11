@@ -12,44 +12,44 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Trump nominate himself as the next Fed chair?
-[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
-[1.9%] Will Artificial Intelligence be TIME's Person of the Year for 2025?
-[0.1%] Will Tyler Montoya win the 2025 National Heads-Up Poker Championship?
-[95.9%] Will another person/thing be TIME's Person of the Year for 2025?
+[2.1%] Will Artificial Intelligence be TIME's Person of the Year for 2025?
+[0.1%] Will Chris Moneymaker win the 2025 National Heads-Up Poker Championship?
+[96.0%] Will another person/thing be TIME's Person of the Year for 2025?
+[0.4%] Will Donald Trump be TIME's Person of the Year for 2025?
+[0.1%] Will Mike Matusow win the 2025 National Heads-Up Poker Championship?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
-[0.4%] Will Donald Trump be TIME's Person of the Year for 2025?
-[0.1%] Will Microsoft have the top AI model on December 31?
-[0.1%] Will Chris Moneymaker win the 2025 National Heads-Up Poker Championship?
-[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
+[0.1%] Will Trump nominate himself as the next Fed chair?
+[0.3%] Will Elon Musk be TIME's Person of the Year for 2025?
+[0.1%] Will Benjamin Netanyahu be TIME's Person of the Year for 2025?
+[0.1%] Will Pope Leo XIV be TIME's Person of the Year for 2025?
+[0.9%] Will Jensen Huang be TIME's Person of the Year for 2025? 
 
 --- TECH & AI (Top 5 Active) ---
-[0.5%] Will Jensen Huang be TIME's Person of the Year for 2025? 
-[0.7%] Will Sam Altman be TIME's Person of the Year for 2025?
-[0.6%] Will Elon Musk be TIME's Person of the Year for 2025?
-[0.1%] Will Ângela Maryah win the 2026 Portugal presidential election?
-[62.5%] Trail Blazers vs. Pelicans
+[0.5%] Will Sam Altman be TIME's Person of the Year for 2025?
+[0.7%] Xi Jinping out in 2025?
+[0.1%] Will Elon Musk post 380-399 tweets from December 5 to December 12, 2025?
+[61.5%] Trail Blazers vs. Pelicans
+[10.2%] Will TIME's Person of the Year for 2025 be a woman?
 
 --- SCIENCE (Top 5 Active) ---
-[2.9%] Russia x Ukraine ceasefire in 2025?
-[0.7%] Xi Jinping out in 2025?
-[0.4%] Will Pope Leo XIV be TIME's Person of the Year for 2025?
+[3.0%] Russia x Ukraine ceasefire in 2025?
 [0.1%] Will Bitcoin reach $1,000,000 by December 31, 2025?
-[0.1%] Will Vitorino Silva win the 2026 Portugal presidential election?
+[52.5%] Hurricanes vs. Capitals
+[0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
+[0.3%] Will Bitcoin reach $200,000 by December 31, 2025?
 
 ----------------------------------------
 
 TOP HEADLINES
 • Trump says the U.S. has seized an oil tanker off the coast of Venezuela - NPR
+• Nobel laureate María Corina Machado makes public appearance in Norway, her first in 11 months - CBS News
+• Frustrated Republicans move to force Obamacare vote as warnings mount about the midterms - Politico
+• ‘A gentleman’s C’: Some conservative economists quibble with Trump’s ‘A+++++’ grade of economy - Politico
+• Trump threatens to primary Indiana Republicans ahead of key redistricting vote - Politico
 • ‘Catastrophic’ flooding expected in King, Snohomish, Skagit counties - The Seattle Times
-• Venezuelan Dissident Appears in Norway After Missing Nobel Ceremony - The New York Times
-• US lawmakers, NTSB say military helicopter proposal would make skies less safe - Reuters
-• Erika Kirk's message to people who celebrated husband Charlie's assassination: "You're sick" - CBS News
-• Trump launches $1m 'gold card' immigration visas - BBC
-• US judge says Trump must end National Guard deployment in Los Angeles - Reuters
-• How Eileen Higgins turned Miami blue and handed Trump a loss in city mayor’s race - Miami Herald
+• Trump must end National Guard deployment in L.A., judge rules - Los Angeles Times
+• Trump still hasn’t endorsed a plan to avoid impending Obamacare hikes for millions - Politico
 
 ----------------------------------------
 
