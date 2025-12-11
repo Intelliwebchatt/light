@@ -1,66 +1,66 @@
-INTELLIGENCE SNAPSHOT // 2025-12-10
+INTELLIGENCE SNAPSHOT // 2025-12-11
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,856
-DOW J: 47,851
-NASDAQ: 23,541
-VIX: 17
+S&P 500: 6,887
+DOW J: 48,058
+NASDAQ: 23,654
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[100.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
-[0.1%] No change in Fed interest rates after December 2025 meeting?
-[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
 [0.1%] Will Trump nominate himself as the next Fed chair?
+[0.1%] Will Trump nominate Larry Kudlow as the next Fed chair?
+[1.9%] Will Artificial Intelligence be TIME's Person of the Year for 2025?
+[0.1%] Will Tyler Montoya win the 2025 National Heads-Up Poker Championship?
+[95.9%] Will another person/thing be TIME's Person of the Year for 2025?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[100.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
-[0.1%] No change in Fed interest rates after December 2025 meeting?
-[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
-[0.1%] Will Trump nominate himself as the next Fed chair?
+[0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
+[0.4%] Will Donald Trump be TIME's Person of the Year for 2025?
+[0.1%] Will Microsoft have the top AI model on December 31?
+[0.1%] Will Chris Moneymaker win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will José Cardoso win the 2026 Portugal presidential election?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[100.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
-[0.1%] No change in Fed interest rates after December 2025 meeting?
-[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
-[0.1%] Will Trump nominate himself as the next Fed chair?
+[0.5%] Will Jensen Huang be TIME's Person of the Year for 2025? 
+[0.7%] Will Sam Altman be TIME's Person of the Year for 2025?
+[0.6%] Will Elon Musk be TIME's Person of the Year for 2025?
+[0.1%] Will Ângela Maryah win the 2026 Portugal presidential election?
+[62.5%] Trail Blazers vs. Pelicans
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Fed decreases interest rates by 50+ bps after December 2025 meeting?
-[100.0%] Fed decreases interest rates by 25 bps after December 2025 meeting?
-[0.1%] No change in Fed interest rates after December 2025 meeting?
-[0.1%] Fed increases interest rates by 25+ bps after December 2025 meeting?
-[0.1%] Will Trump nominate himself as the next Fed chair?
+[2.9%] Russia x Ukraine ceasefire in 2025?
+[0.7%] Xi Jinping out in 2025?
+[0.4%] Will Pope Leo XIV be TIME's Person of the Year for 2025?
+[0.1%] Will Bitcoin reach $1,000,000 by December 31, 2025?
+[0.1%] Will Vitorino Silva win the 2026 Portugal presidential election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump's speech on combating inflation turns to grievances about immigrants - NPR
-• Judge Says Trump Must End Guard Deployment in Los Angeles - The New York Times
-• Judge rules Epstein grand jury records from 2019 can be released - BBC
-• Tourists from 42 countries will have to submit 5 years of social media history to enter U.S. under Trump plan - CBS News
-• House GOP erupts over health care as leaders hunt for a plan - Politico
-• Democrat Eileen Higgins wins Miami mayoral election, defeats Trump’s pick - Al Jazeera
-• Kentucky State University student killed in shooting is identified - NBC News
-• Republicans Are Fighting With One Another in Deep-Red Indiana. Here’s Why. - The New York Times
+• Trump says the U.S. has seized an oil tanker off the coast of Venezuela - NPR
+• ‘Catastrophic’ flooding expected in King, Snohomish, Skagit counties - The Seattle Times
+• Venezuelan Dissident Appears in Norway After Missing Nobel Ceremony - The New York Times
+• US lawmakers, NTSB say military helicopter proposal would make skies less safe - Reuters
+• Erika Kirk's message to people who celebrated husband Charlie's assassination: "You're sick" - CBS News
+• Trump launches $1m 'gold card' immigration visas - BBC
+• US judge says Trump must end National Guard deployment in Los Angeles - Reuters
+• How Eileen Higgins turned Miami blue and handed Trump a loss in city mayor’s race - Miami Herald
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • Google reveals the top trending searches of 2025
-• Gemini was Google’s top trending search term in 2025
 • Google’s Year in Search 2025: These trending topics spiked big
+• Gemini was Google’s top trending search term in 2025
 • YouTube is killing its Trending page a decade after its debut
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
