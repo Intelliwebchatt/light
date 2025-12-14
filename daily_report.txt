@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2025-12-13
+INTELLIGENCE SNAPSHOT // 2025-12-14
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,44 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
-[100.0%] Will OpenAI release a new frontier model on December 11?
 [0.1%] Will Slavia Pragu win the 2025–26 Champions League?
+[1.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.1%] Will Manuela Magno win the 2026 Portugal presidential election?
+[100.0%] Will OpenAI release a new frontier model on December 11?
 [0.2%] Will Bitcoin reach $1,000,000 by December 31, 2025?
-[0.4%] Will the Memphis Grizzlies win the 2026 NBA Finals?
 
 --- US POLITICS (Top 5 Active) ---
-[0.9%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[2.5%] Russia x Ukraine ceasefire in 2025?
-[76.0%] Lighter market cap (FDV) >$1B one day after launch?
-[0.4%] Will the Cincinnati Bengals win Super Bowl 2026?
-[81.5%] Will lighter perform an airdrop by December 31? 
+[1.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[1.6%] Will Jeannette Jara win the Chilean presidential election?
+[0.1%] Will Elon Musk post 180-199 tweets from December 9 to December 16, 2025?
+[3.0%] Russia x Ukraine ceasefire in 2025?
+[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
-[9.0%] Maduro out in 2025?
-[1.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.7%] Xi Jinping out in 2025?
-[1.5%] Will Jeannette Jara win the Chilean presidential election?
-[0.1%] Will Elon Musk post 180-199 tweets from December 9 to December 16, 2025?
+[76.5%] No change in Fed interest rates after January 2026 meeting?
+[85.0%] Lighter market cap (FDV) >$1B one day after launch?
+[0.4%] Will Elon Musk post 200-219 tweets from December 9 to December 16, 2025?
+[98.5%] Will José Antonio Kast win the Chilean presidential election?
+[0.1%] Will Elon Musk post 500+ tweets from December 9 to December 16, 2025?
 
 --- SCIENCE (Top 5 Active) ---
-[50.5%] Spread: Club Atlético de Madrid (-1.5)
-[72.5%] Lighter market cap (FDV) >$2B one day after launch?
-[0.1%] Will Superman be the top grossing movie of 2025?
-[61.5%] Will Trump release the Epstein files by December 19?
-[64.5%] Knicks vs. Magic
+[0.4%] Will George Clooney win the 2028 Democratic presidential nomination?
+[0.5%] LoL: Hanwha Life Esports vs T1 (BO5)
+[0.4%] Will the Cincinnati Bengals win Super Bowl 2026?
+[0.4%] Will MrBeast win the 2028 Democratic presidential nomination?
+[20.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• 19 photos were released from the Epstein files. We unpack their significance - NPR
-• Venezuela Oil Tanker Seized by U.S. Was Part of Effort to Finance Cuba - The New York Times
-• Justice Department sues Fulton County for 2020 election records - ABC News
-• House Republicans unveil health care plan, set up vote for next week - The Washington Post
-• Indiana GOP’s Trump rebuke could lead to temporary redistricting detente - Politico
-• National preservation group sues to halt East Wing ballroom construction - Politico
-• In photos: Flooding in Western Washington state forces thousands to evacuate - NPR
-• A man ate at the same Florida restaurant every day for a decade. When he stopped showing up, the chef went looking for him. - CBS News
+• Gunmen kill nine people at Sydney's Bondi Beach, injuring eleven others, with one shooter dead and another arrested - NPR
+• Brown University: Hundreds of police hunt suspect in shooting after 2 killed, 9 injured - BBC
+• 2 U.S. service members, 1 civilian killed in ambush in Syria, Central Command says - PBS
+• Pittsburgh braces for heavy snowfall and frigid temperatures | Live First Alert Weather - CBS News
+• Historic floods have washed away homes and stranded families in Washington state - PBS
+• District of Columbia | U.S. Unseals Warrant for Tanker Seized by Coast Guard Off the Coast of Venezuela - Department of Justice (.gov)
+• ​Trump signs formal pardon for Tina Peters, lawyer claims it applies to state charges - Colorado Newsline
+• Snow arrives in NYC and surrounding area. Here's what to expect and when. - CBS News
 
 ----------------------------------------
 
@@ -58,12 +58,12 @@ TRENDING TOPICS
 • Google reveals the top trending searches of 2025
 • Google’s Year in Search 2025: These trending topics spiked big
 • Gemini was Google’s top trending search term in 2025
+• What were Nebraska residents searching for in 2025? Here's what Google says
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube is killing its Trending page a decade after its debut
 • YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• ‘Trending Today’ Launches New Podcast to Expand on the Award-Winning TV Series
 
 ========================================
 END TRANSMISSION
