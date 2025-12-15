@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2025-12-14
+INTELLIGENCE SNAPSHOT // 2025-12-15
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,44 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[0.1%] Will Bryn Kenney win the 2025 National Heads-Up Poker Championship?
 [0.1%] Will Slavia Pragu win the 2025–26 Champions League?
-[1.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.1%] Will Manuela Magno win the 2026 Portugal presidential election?
-[100.0%] Will OpenAI release a new frontier model on December 11?
-[0.2%] Will Bitcoin reach $1,000,000 by December 31, 2025?
+[0.1%] Will Trump nominate Bill Pulte as the next Fed chair?
+[0.1%] Will Trump nominate himself as the next Fed chair?
+[1.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[1.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[1.6%] Will Jeannette Jara win the Chilean presidential election?
-[0.1%] Will Elon Musk post 180-199 tweets from December 9 to December 16, 2025?
+[0.2%] Will Bitcoin reach $1,000,000 by December 31, 2025?
+[1.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.1%] Will Michael Mizrachi win the 2025 National Heads-Up Poker Championship?
+[100.0%] Will OpenAI release a new frontier model on December 11?
 [3.0%] Russia x Ukraine ceasefire in 2025?
-[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
-[76.5%] No change in Fed interest rates after January 2026 meeting?
-[85.0%] Lighter market cap (FDV) >$1B one day after launch?
-[0.4%] Will Elon Musk post 200-219 tweets from December 9 to December 16, 2025?
-[98.5%] Will José Antonio Kast win the Chilean presidential election?
-[0.1%] Will Elon Musk post 500+ tweets from December 9 to December 16, 2025?
+[0.1%] Will Aristides Teixeira win the 2026 Portugal presidential election?
+[0.5%] Xi Jinping out in 2025?
+[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
+[0.5%] Will Satoshi move any Bitcoin in 2025?
+[0.5%] Will George Clooney win the 2028 Democratic presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
-[0.4%] Will George Clooney win the 2028 Democratic presidential nomination?
-[0.5%] LoL: Hanwha Life Esports vs T1 (BO5)
-[0.4%] Will the Cincinnati Bengals win Super Bowl 2026?
+[91.0%] Will lighter perform an airdrop by December 31? 
 [0.4%] Will MrBeast win the 2028 Democratic presidential nomination?
-[20.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[76.5%] No change in Fed interest rates after January 2026 meeting?
+[88.5%] Lighter market cap (FDV) >$1B one day after launch?
+[73.5%] Will Kabuto 1st Edition card hit $100 by December 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Gunmen kill nine people at Sydney's Bondi Beach, injuring eleven others, with one shooter dead and another arrested - NPR
-• Brown University: Hundreds of police hunt suspect in shooting after 2 killed, 9 injured - BBC
-• 2 U.S. service members, 1 civilian killed in ambush in Syria, Central Command says - PBS
-• Pittsburgh braces for heavy snowfall and frigid temperatures | Live First Alert Weather - CBS News
-• Historic floods have washed away homes and stranded families in Washington state - PBS
-• District of Columbia | U.S. Unseals Warrant for Tanker Seized by Coast Guard Off the Coast of Venezuela - Department of Justice (.gov)
-• ​Trump signs formal pardon for Tina Peters, lawyer claims it applies to state charges - Colorado Newsline
-• Snow arrives in NYC and surrounding area. Here's what to expect and when. - CBS News
+• Bondi Beach Shooting Live Updates: Police to Charge Suspect in Hanukkah Attack - The New York Times
+• Person of interest in Brown University shooting being released without charges: Mayor - ABC News
+• Chile shifts sharply right as José Antonio Kast wins the presidency - NPR
+• Three Americans killed by IS gunman in Syria, US military says - BBC
+• Rob Reiner, 'When Harry Met Sally' director, 'All in the Family' actor and political activist, dead at 78 - Los Angeles Times
+• Heavy snowfall blankets western Pennsylvania | Live First Alert Weather - CBS News
+• Washington state contends with devastating flooding as Midwest braces for arctic blast - CBS News
+• Obamacare expiration will have ‘death spiral’ effect on US healthcare – experts - The Guardian
 
 ----------------------------------------
 
@@ -58,11 +58,11 @@ TRENDING TOPICS
 • Google reveals the top trending searches of 2025
 • Google’s Year in Search 2025: These trending topics spiked big
 • Gemini was Google’s top trending search term in 2025
-• What were Nebraska residents searching for in 2025? Here's what Google says
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube is killing its Trending page a decade after its debut
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 • ‘Trending Today’ Launches New Podcast to Expand on the Award-Winning TV Series
 
 ========================================
