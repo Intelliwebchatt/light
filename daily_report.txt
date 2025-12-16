@@ -1,69 +1,69 @@
-INTELLIGENCE SNAPSHOT // 2025-12-15
+INTELLIGENCE SNAPSHOT // 2025-12-16
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,827
-DOW J: 48,458
-NASDAQ: 23,195
-VIX: 16
+S&P 500: 6,817
+DOW J: 48,417
+NASDAQ: 23,057
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Bryn Kenney win the 2025 National Heads-Up Poker Championship?
-[0.1%] Will Slavia Pragu win the 2025–26 Champions League?
 [0.1%] Will Trump nominate Bill Pulte as the next Fed chair?
 [0.1%] Will Trump nominate himself as the next Fed chair?
-[1.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.7%] Will Pedro Passos Coelho win the 2026 Portugal presidential election?
+[1.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.1%] Will Joana Amaral Dias win the 2026 Portugal presidential election?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will Bitcoin reach $1,000,000 by December 31, 2025?
-[1.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.1%] Will Michael Mizrachi win the 2025 National Heads-Up Poker Championship?
-[100.0%] Will OpenAI release a new frontier model on December 11?
-[3.0%] Russia x Ukraine ceasefire in 2025?
+[0.4%] Will Bitcoin reach $1,000,000 by December 31, 2025?
+[4.0%] Russia x Ukraine ceasefire in 2025?
+[1.7%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.1%] Will Aristides Teixeira win the 2026 Portugal presidential election?
+[0.1%] Will Gold close at $2,700-2,800 at the end of 2025?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Aristides Teixeira win the 2026 Portugal presidential election?
-[0.5%] Xi Jinping out in 2025?
-[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
-[0.5%] Will Satoshi move any Bitcoin in 2025?
-[0.5%] Will George Clooney win the 2028 Democratic presidential nomination?
+[19.5%] Will Girona FC win on 2025-12-21?
+[20.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[45.5%] Canucks vs. Rangers
+[0.1%] Will António Filipe win the 2026 Portugal presidential election?
+[44.5%] Spurs vs. Knicks
 
 --- SCIENCE (Top 5 Active) ---
-[91.0%] Will lighter perform an airdrop by December 31? 
-[0.4%] Will MrBeast win the 2028 Democratic presidential nomination?
+[0.1%] Will Elon Musk post 340-359 tweets from December 9 to December 16, 2025?
 [76.5%] No change in Fed interest rates after January 2026 meeting?
-[88.5%] Lighter market cap (FDV) >$1B one day after launch?
-[73.5%] Will Kabuto 1st Edition card hit $100 by December 31?
+[87.5%] Will lighter perform an airdrop by December 31? 
+[66.5%] Will Trump release the Epstein files by December 19?
+[11.1%] Will Elon Musk post 240-259 tweets from December 9 to December 16, 2025?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Bondi Beach Shooting Live Updates: Police to Charge Suspect in Hanukkah Attack - The New York Times
-• Person of interest in Brown University shooting being released without charges: Mayor - ABC News
-• Chile shifts sharply right as José Antonio Kast wins the presidency - NPR
-• Three Americans killed by IS gunman in Syria, US military says - BBC
-• Rob Reiner, 'When Harry Met Sally' director, 'All in the Family' actor and political activist, dead at 78 - Los Angeles Times
-• Heavy snowfall blankets western Pennsylvania | Live First Alert Weather - CBS News
-• Washington state contends with devastating flooding as Midwest braces for arctic blast - CBS News
-• Obamacare expiration will have ‘death spiral’ effect on US healthcare – experts - The Guardian
+• Bondi Beach gunmen appear inspired by Islamic State, authorities say - The Washington Post
+• FBI Director Kash Patel, Eager for Spotlight, Casts Aside Caution in Social Media Posts - The New York Times
+• Trump sues BBC for $10 billion, accusing it of defamation over Jan. 6 speech edit - NPR
+• Joint statement of European Leaders from the meeting in Berlin - Government.se
+• Republicans divided on policy toward Afghan immigrants after shooting - NPR
+• Fact Sheet: President Donald J. Trump Designates Fentanyl as a Weapon of Mass Destruction - The White House (.gov)
+• US military says eight killed in strikes on alleged drug vessels - BBC
+• Senators talk last-minute Obamacare extension - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• Google reveals the top trending searches of 2025
 • Google’s Year in Search 2025: These trending topics spiked big
-• Gemini was Google’s top trending search term in 2025
-• YouTube is killing its Trending page a decade after its debut
+• Google reveals the top trending searches of 2025
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube is killing its Trending page a decade after its debut
 • YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube's 'Trending' Page is Shutting Down After a Decade
+• Trending after Sunday of NFL’s Week 5 as Patriots rise, Giants slide
 • ‘Trending Today’ Launches New Podcast to Expand on the Award-Winning TV Series
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 
 ========================================
 END TRANSMISSION
