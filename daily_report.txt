@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2025-12-16
+INTELLIGENCE SNAPSHOT // 2025-12-17
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,817
-DOW J: 48,417
-NASDAQ: 23,057
-VIX: 17
+S&P 500: 6,800
+DOW J: 48,114
+NASDAQ: 23,111
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Trump nominate Bill Pulte as the next Fed chair?
-[0.1%] Will Trump nominate himself as the next Fed chair?
-[0.7%] Will Pedro Passos Coelho win the 2026 Portugal presidential election?
-[1.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.1%] Will Joana Amaral Dias win the 2026 Portugal presidential election?
+[0.1%] Will Elon Musk post 580+ tweets from December 12 to December 19, 2025?
+[0.1%] Will Elon Musk post 20-39 tweets from December 16 to December 23, 2025?
+[0.1%] Will Elon Musk post 520-539 tweets from December 12 to December 19, 2025?
+[0.1%] Will Club Brugge win the 2025–26 Champions League?
+[0.2%] Will Bitcoin reach $1,000,000 by December 31, 2025?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will Bitcoin reach $1,000,000 by December 31, 2025?
-[4.0%] Russia x Ukraine ceasefire in 2025?
-[1.7%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.1%] Will Aristides Teixeira win the 2026 Portugal presidential election?
-[0.1%] Will Gold close at $2,700-2,800 at the end of 2025?
+[0.1%] Will Elon Musk post 560-579 tweets from December 12 to December 19, 2025?
+[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
+[0.1%] Will Elon Musk post 420-439 tweets from December 12 to December 19, 2025?
+[0.1%] Will Trump announce Judy Shelton as next Fed Chair in 2025?
+[0.1%] Will Joana Amaral Dias win the 2026 Portugal presidential election?
 
 --- TECH & AI (Top 5 Active) ---
-[19.5%] Will Girona FC win on 2025-12-21?
-[20.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[45.5%] Canucks vs. Rangers
-[0.1%] Will António Filipe win the 2026 Portugal presidential election?
-[44.5%] Spurs vs. Knicks
+[0.1%] Will Elon Musk post 540-559 tweets from December 12 to December 19, 2025?
+[1.6%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
+[0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
+[69.5%] Lighter market cap (FDV) >$1B one day after launch?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Elon Musk post 340-359 tweets from December 9 to December 16, 2025?
-[76.5%] No change in Fed interest rates after January 2026 meeting?
-[87.5%] Will lighter perform an airdrop by December 31? 
-[66.5%] Will Trump release the Epstein files by December 19?
-[11.1%] Will Elon Musk post 240-259 tweets from December 9 to December 16, 2025?
+[3.5%] Russia x Ukraine ceasefire in 2025?
+[1.2%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[20.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[73.0%] Will lighter perform an airdrop by December 31? 
+[0.4%] Will Bitcoin reach $250,000 by December 31, 2025?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Bondi Beach gunmen appear inspired by Islamic State, authorities say - The Washington Post
-• FBI Director Kash Patel, Eager for Spotlight, Casts Aside Caution in Social Media Posts - The New York Times
-• Trump sues BBC for $10 billion, accusing it of defamation over Jan. 6 speech edit - NPR
-• Joint statement of European Leaders from the meeting in Berlin - Government.se
-• Republicans divided on policy toward Afghan immigrants after shooting - NPR
-• Fact Sheet: President Donald J. Trump Designates Fentanyl as a Weapon of Mass Destruction - The White House (.gov)
-• US military says eight killed in strikes on alleged drug vessels - BBC
-• Senators talk last-minute Obamacare extension - Politico
+• Trump announces ‘complete blockade’ of sanctioned oil tankers to Venezuela - The Washington Post
+• Suspect in Bondi Beach Massacre Is Charged With Murder and Terrorism - The New York Times
+• How the long-running Obamacare fight came to thwart enhanced subsidies in Congress - NPR
+• Restricting and Limiting the Entry of Foreign Nationals to Protect the Security of the United States - The White House (.gov)
+• Peña-Melnyk elected unanimously as House speaker, making history in the process - Maryland Matters
+• Nuno Loureiro, professor and director of MIT’s Plasma Science and Fusion Center, dies at 47 - MIT News
+• What we know so far about the Brown University shooting suspect - PBS
+• Late Night Thanks the White House for a ‘Doozy of an Interview’ - The New York Times
 
 ----------------------------------------
 
@@ -57,13 +57,6 @@ TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • Google’s Year in Search 2025: These trending topics spiked big
 • Google reveals the top trending searches of 2025
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube is killing its Trending page a decade after its debut
-• YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• Trending after Sunday of NFL’s Week 5 as Patriots rise, Giants slide
-• ‘Trending Today’ Launches New Podcast to Expand on the Award-Winning TV Series
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 
 ========================================
 END TRANSMISSION
