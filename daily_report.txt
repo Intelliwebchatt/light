@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2025-12-17
+INTELLIGENCE SNAPSHOT // 2025-12-18
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,800
-DOW J: 48,114
-NASDAQ: 23,111
-VIX: 16
+S&P 500: 6,721
+DOW J: 47,886
+NASDAQ: 22,693
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Elon Musk post 580+ tweets from December 12 to December 19, 2025?
-[0.1%] Will Elon Musk post 20-39 tweets from December 16 to December 23, 2025?
-[0.1%] Will Elon Musk post 520-539 tweets from December 12 to December 19, 2025?
-[0.1%] Will Club Brugge win the 2025–26 Champions League?
-[0.2%] Will Bitcoin reach $1,000,000 by December 31, 2025?
+[0.8%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.1%] Will Rui Moreira win the 2026 Portugal presidential election?
+[11.2%] Will Jake Paul win his boxing match against Anthony Joshua?
+[5.7%] Weed rescheduled in 2025?
+[86.5%] Will Anthony Joshua win his boxing match against Jake Paul?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Elon Musk post 560-579 tweets from December 12 to December 19, 2025?
-[0.1%] Will Josh Arieh win the 2025 National Heads-Up Poker Championship?
-[0.1%] Will Elon Musk post 420-439 tweets from December 12 to December 19, 2025?
-[0.1%] Will Trump announce Judy Shelton as next Fed Chair in 2025?
-[0.1%] Will Joana Amaral Dias win the 2026 Portugal presidential election?
+[1.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[46.5%] Will Trump release the Epstein files by December 19?
+[13.5%] US x Venezuela military engagement by December 31?
+[4.1%] Maduro out in 2025?
+[0.2%] Will Club Brugge win the 2025–26 Champions League?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Elon Musk post 540-559 tweets from December 12 to December 19, 2025?
-[1.6%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 [0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
-[0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
-[69.5%] Lighter market cap (FDV) >$1B one day after launch?
+[0.4%] Will Bitcoin reach $1,000,000 by December 31, 2025?
+[64.5%] Lighter market cap (FDV) >$1B one day after launch?
+[0.5%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+[0.4%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
-[3.5%] Russia x Ukraine ceasefire in 2025?
-[1.2%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[20.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[73.0%] Will lighter perform an airdrop by December 31? 
-[0.4%] Will Bitcoin reach $250,000 by December 31, 2025?
+[4.2%] Russia x Ukraine ceasefire in 2025?
+[0.9%] Will LeBron James win the 2028 Democratic presidential nomination?
+[83.5%] Will NVIDIA be the largest company in the world by market cap on December 31?
+[2.9%] Will Jake Paul vs. Anthony Joshua have no official winner?
+[0.1%] Will Villarreal win the 2025–26 Champions League?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump announces ‘complete blockade’ of sanctioned oil tankers to Venezuela - The Washington Post
-• Suspect in Bondi Beach Massacre Is Charged With Murder and Terrorism - The New York Times
-• How the long-running Obamacare fight came to thwart enhanced subsidies in Congress - NPR
-• Restricting and Limiting the Entry of Foreign Nationals to Protect the Security of the United States - The White House (.gov)
-• Peña-Melnyk elected unanimously as House speaker, making history in the process - Maryland Matters
-• Nuno Loureiro, professor and director of MIT’s Plasma Science and Fusion Center, dies at 47 - MIT News
-• What we know so far about the Brown University shooting suspect - PBS
-• Late Night Thanks the White House for a ‘Doozy of an Interview’ - The New York Times
+• 6 Takeaways From Trump’s Address to the Nation - The New York Times
+• US announces massive package of arms sales to Taiwan valued at more than $10 billion - NPR
+• More than 100,000 Xcel customers still without power Wednesday night amid high winds, unclear when power will return - Colorado Public Radio
+• Republicans defy Speaker Mike Johnson to force House vote on extending ACA subsidies - PBS
+• Russian Offensive Campaign Assessment, December 17, 2025 - Institute for the Study of War
+• Australian police say Bondi Beach mass shooting was terrorist attack inspired by Islamic State group - PBS
+• Government admits failures by Army and air traffic controllers in DCA crash - The Washington Post
+• 'He truly changed my life': Classmate recalls Brown University student killed in mass shooting - ABC News
 
 ----------------------------------------
 
@@ -57,6 +57,7 @@ TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • Google’s Year in Search 2025: These trending topics spiked big
 • Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
 
 ========================================
 END TRANSMISSION
