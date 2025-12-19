@@ -1,63 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2025-12-18
+INTELLIGENCE SNAPSHOT // 2025-12-19
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,721
-DOW J: 47,886
-NASDAQ: 22,693
-VIX: 17
+S&P 500: 6,775
+DOW J: 47,952
+NASDAQ: 23,006
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.8%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.1%] Will Rui Moreira win the 2026 Portugal presidential election?
-[11.2%] Will Jake Paul win his boxing match against Anthony Joshua?
-[5.7%] Weed rescheduled in 2025?
-[86.5%] Will Anthony Joshua win his boxing match against Jake Paul?
+[11.5%] Will Jake Paul win his boxing match against Anthony Joshua?
+[85.5%] Will Anthony Joshua win his boxing match against Jake Paul?
+[64.0%] Will Trump release the Epstein files by December 19?
+[1.5%] Will Tulsi Gabbard win the 2028 Republican presidential nomination?
+[0.1%] Will Bodo Glimt win the 2025–26 Champions League?
 
 --- US POLITICS (Top 5 Active) ---
+[3.0%] Will Jake Paul vs. Anthony Joshua have no official winner?
+[0.8%] Fed increases interest rates by 25+ bps after January 2026 meeting?
 [1.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[46.5%] Will Trump release the Epstein files by December 19?
-[13.5%] US x Venezuela military engagement by December 31?
-[4.1%] Maduro out in 2025?
-[0.2%] Will Club Brugge win the 2025–26 Champions League?
+[3.8%] Russia x Ukraine ceasefire in 2025?
+[0.4%] Will Andrew Yang win the 2028 Democratic presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
 [0.4%] Will Bitcoin reach $1,000,000 by December 31, 2025?
-[64.5%] Lighter market cap (FDV) >$1B one day after launch?
-[0.5%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
-[0.4%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
+[0.1%] Will Rui Moreira win the 2026 Portugal presidential election?
+[1.8%] Weed rescheduled in 2025?
+[69.5%] Lighter market cap (FDV) >$1B one day after launch?
+[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
 
 --- SCIENCE (Top 5 Active) ---
-[4.2%] Russia x Ukraine ceasefire in 2025?
-[0.9%] Will LeBron James win the 2028 Democratic presidential nomination?
-[83.5%] Will NVIDIA be the largest company in the world by market cap on December 31?
-[2.9%] Will Jake Paul vs. Anthony Joshua have no official winner?
-[0.1%] Will Villarreal win the 2025–26 Champions League?
+[0.7%] Will Ethereum hit $5,000 by December 31?
+[0.1%] Will Trae Young win the 2025–2026 NBA MVP?
+[51.5%] Stars vs. Ducks
+[32.0%] Will Bitcoin reach $95,000 by December 31, 2025?
+[74.0%] No change in Fed interest rates after January 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• 6 Takeaways From Trump’s Address to the Nation - The New York Times
-• US announces massive package of arms sales to Taiwan valued at more than $10 billion - NPR
-• More than 100,000 Xcel customers still without power Wednesday night amid high winds, unclear when power will return - Colorado Public Radio
-• Republicans defy Speaker Mike Johnson to force House vote on extending ACA subsidies - PBS
-• Russian Offensive Campaign Assessment, December 17, 2025 - Institute for the Study of War
-• Australian police say Bondi Beach mass shooting was terrorist attack inspired by Islamic State group - PBS
-• Government admits failures by Army and air traffic controllers in DCA crash - The Washington Post
-• 'He truly changed my life': Classmate recalls Brown University student killed in mass shooting - ABC News
+• Gunman in Brown University shooting found dead, linked to MIT killing - Reuters
+• Judge Convicted of Obstructing Agents as They Sought Undocumented Immigrant - The New York Times
+• JFK's family reacts with fury to "Trump-Kennedy Center" renaming plan - Axios
+• CONGRESSIONAL BILL S. 1071 SIGNED INTO LAW - The White House (.gov)
+• #ClackCo Alerts - Clackamas County
+• HHS Acts to Bar Hospitals from Performing Sex-Rejecting Procedures on Children - Department of Health and Human Services (HHS) (.gov)
+• Trump suspends U.S. green card lottery after Brown University and MIT shootings - NPR
+• New archbishop of New York grew up 14 blocks from Pope Leo - ABC News
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• Google’s Year in Search 2025: These trending topics spiked big
-• Google reveals the top trending searches of 2025
-• Gemini was Google’s top trending search term in 2025
+• Why Is 'Roblox' STILL Trending on Google Today?
+• Government shutdown in January? Senate braces for health care subsidies fight | TRENDING
 
 ========================================
 END TRANSMISSION
