@@ -1,62 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2025-12-19
+INTELLIGENCE SNAPSHOT // 2025-12-20
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,775
-DOW J: 47,952
-NASDAQ: 23,006
-VIX: 16
+S&P 500: 6,834
+DOW J: 48,135
+NASDAQ: 23,308
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[11.5%] Will Jake Paul win his boxing match against Anthony Joshua?
-[85.5%] Will Anthony Joshua win his boxing match against Jake Paul?
-[64.0%] Will Trump release the Epstein files by December 19?
-[1.5%] Will Tulsi Gabbard win the 2028 Republican presidential nomination?
-[0.1%] Will Bodo Glimt win the 2025–26 Champions League?
+[99.9%] Will Trump release the Epstein files by December 19?
+[0.1%] Will the next Dutch government be VVD + CDA?
+[0.1%] Will Pedro Tinoco de Faria win the 2026 Portugal presidential election?
+[1.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[2.8%] Russia x Ukraine ceasefire in 2025?
 
 --- US POLITICS (Top 5 Active) ---
-[3.0%] Will Jake Paul vs. Anthony Joshua have no official winner?
-[0.8%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[1.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[3.8%] Russia x Ukraine ceasefire in 2025?
-[0.4%] Will Andrew Yang win the 2028 Democratic presidential nomination?
+[0.8%] Will Tim Walz win the 2028 Democratic presidential nomination?
+[0.1%] Will Trae Young win the 2025–2026 NBA MVP?
+[0.4%] Will "Avatar: Fire and Ash" Opening Weekend Box Office be greater than 123m?
+[0.1%] Will António Filipe win the 2026 Portugal presidential election?
+[0.4%] Will Bitcoin reach $1,000,000 by December 31, 2025?
 
 --- TECH & AI (Top 5 Active) ---
-[0.4%] Will Bitcoin reach $1,000,000 by December 31, 2025?
-[0.1%] Will Rui Moreira win the 2026 Portugal presidential election?
-[1.8%] Weed rescheduled in 2025?
-[69.5%] Lighter market cap (FDV) >$1B one day after launch?
-[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
+[0.8%] Will "Avatar: Fire and Ash" Opening Weekend Box Office be between 112m and 123m?
+[0.8%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.1%] Will Curaçao win the 2026 FIFA World Cup?
+[0.1%] Will Saudi Aramco be the second-largest company in the world by market cap on December 31?
+[95.5%] Will NVIDIA be the largest company in the world by market cap on December 31?
 
 --- SCIENCE (Top 5 Active) ---
-[0.7%] Will Ethereum hit $5,000 by December 31?
-[0.1%] Will Trae Young win the 2025–2026 NBA MVP?
-[51.5%] Stars vs. Ducks
-[32.0%] Will Bitcoin reach $95,000 by December 31, 2025?
-[74.0%] No change in Fed interest rates after January 2026 meeting?
+[0.7%] Xi Jinping out in 2025?
+[1.8%] Will "Avatar: Fire and Ash" Opening Weekend Box Office be between 101m and 112m?
+[99.9%] Over $10M committed to the Gensyn public sale?
+[0.1%] Will Athletic Club win the 2025–26 Champions League?
+[3.9%] Maduro out in 2025?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Gunman in Brown University shooting found dead, linked to MIT killing - Reuters
-• Judge Convicted of Obstructing Agents as They Sought Undocumented Immigrant - The New York Times
-• JFK's family reacts with fury to "Trump-Kennedy Center" renaming plan - Axios
-• CONGRESSIONAL BILL S. 1071 SIGNED INTO LAW - The White House (.gov)
-• #ClackCo Alerts - Clackamas County
-• HHS Acts to Bar Hospitals from Performing Sex-Rejecting Procedures on Children - Department of Health and Human Services (HHS) (.gov)
-• Trump suspends U.S. green card lottery after Brown University and MIT shootings - NPR
-• New archbishop of New York grew up 14 blocks from Pope Leo - ABC News
+• 6 Takeaways From the First Batch of the Epstein Files - The New York Times
+• U.S. launches strikes in Syria targeting Islamic State fighters after American deaths - NPR
+• Brown University and MIT shooting suspect found dead; identified as former grad student - ABC News
+• Fact Sheet: President Donald J. Trump is Increasing Medical Marijuana and Cannabidiol Research - The White House (.gov)
+• Trump's push to end transgender care for young people opposed by pediatricians - NPR
+• City of Boulder To Close All Open Space and Mountain Parks Property Friday, Dec. 19 - City of Boulder (.gov)
+• Elise Stefanik Tried Everything to Please Trump. He Still Jilted Her. - The New York Times
+• PHOTOS: Kennedy Center adds Trump’s name to memorial Congress created for JFK - PBS
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• Why Is 'Roblox' STILL Trending on Google Today?
-• Government shutdown in January? Senate braces for health care subsidies fight | TRENDING
 
 ========================================
 END TRANSMISSION
