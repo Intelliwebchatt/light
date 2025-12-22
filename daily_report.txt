@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2025-12-21
+INTELLIGENCE SNAPSHOT // 2025-12-22
 ========================================
 
 MARKET CLOSE
@@ -13,43 +13,43 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [99.8%] Will Trump release the Epstein files by December 19?
-[0.4%] Will Bitcoin reach $1,000,000 by December 31, 2025?
-[0.1%] Will "Avatar: Fire and Ash" Opening Weekend Box Office be greater than 123m?
-[0.1%] Will "Avatar: Fire and Ash" Opening Weekend Box Office be between 101m and 112m?
-[0.1%] Will "Avatar: Fire and Ash" Opening Weekend Box Office be between 112m and 123m?
+[0.2%] Will "Avatar: Fire and Ash" Opening Weekend Box Office be between 101m and 112m?
+[0.7%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[1.6%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.2%] Will Bitcoin reach $1,000,000 by December 31, 2025?
 
 --- US POLITICS (Top 5 Active) ---
+[84.5%] Lighter market cap (FDV) >$1B one day after launch?
+[0.1%] Will Elon Musk post 280-299 tweets from December 16 to December 23, 2025?
 [0.1%] Will Saudi Aramco be the second-largest company in the world by market cap on December 31?
-[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
+[0.4%] Will Bitcoin reach $200,000 by December 31, 2025?
 [0.4%] Will Andrew Yang win the 2028 Democratic presidential nomination?
-[1.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[49.5%] Capitals vs. Red Wings
 
 --- TECH & AI (Top 5 Active) ---
-[0.4%] Will Bitcoin reach $250,000 by December 31, 2025?
-[0.5%] Will Beto O’Rourke win the 2028 Democratic presidential nomination?
-[83.5%] Lighter market cap (FDV) >$1B one day after launch?
-[2.9%] Maduro out in 2025?
-[0.4%] Will Bitcoin reach $200,000 by December 31, 2025?
+[0.4%] Will Avatar 3 be the top grossing movie of 2025?
+[86.5%] Will lighter perform an airdrop by December 31? 
+[1.7%] Russia x Ukraine ceasefire in 2025?
+[82.0%] Lighter market cap (FDV) >$2B one day after launch?
+[0.1%] Will "Avatar: Fire and Ash" Opening Weekend Box Office be greater than 123m?
 
 --- SCIENCE (Top 5 Active) ---
-[59.0%] Avalanche vs. Wild
-[2.2%] Russia x Ukraine ceasefire in 2025?
-[48.5%] Canadiens vs. Penguins
-[80.0%] TikTok sale announced in 2025?
-[0.4%] Will Avatar 3 be the top grossing movie of 2025?
+[0.1%] Will "Avatar: Fire and Ash" Opening Weekend Box Office be between 112m and 123m?
+[0.5%] Will Satoshi move any Bitcoin in 2025?
+[93.7%] TikTok sale announced in 2025?
+[0.1%] Will Ethereum hit $14,000 by December 31?
+[0.5%] Will MrBeast win the 2028 Democratic presidential nomination?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Outrage and legal threats: Trump justice department slammed after limited Epstein files release - The Guardian
-• Trump says Venezuela stole U.S. oil, land and assets. Here’s the history. - The Washington Post
-• Here’s what you missed at Turning Point’s chaotic convention - AP News
-• Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown - NPR
-• Power Restored for Most of San Francisco After Widespread Outage - The New York Times
-• Brown, MIT suspect had 200 rounds, laser sights as authorities feared hit list: US attorney - ABC News
-• Rep. Stefanik ends her campaign for New York governor, won’t seek reelection to House - PBS
-• Russia says talks on US peace plan for Ukraine 'are proceeding constructively' - ABC News
+• Two lawmakers seek to find Bondi in contempt over Epstein files - The Washington Post
+• Oil up on news the US intercepted an oil tanker off Venezuela - Reuters
+• Vance refuses to set red lines over bigotry at Turning Point USA's convention - NPR
+• CBS shelves ‘60 Minutes’ story on Trump deportees at the last minute: ‘People are threatening to quit,’ staffers say - CNN
+• Russian general killed by bomb under his car in Moscow - AP News
+• No breakthrough after Ukraine talks in Miami - Politico
+• If Congress is going to avoid another shutdown, lawmakers need to start talking - Politico
+• Suspected Brown and MIT professor shooter showed signs of anger, former friend says - CBS News
 
 ----------------------------------------
 
@@ -60,7 +60,6 @@ TRENDING TOPICS
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
 
 ========================================
