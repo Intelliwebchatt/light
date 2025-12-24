@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2025-12-23
+INTELLIGENCE SNAPSHOT // 2025-12-24
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,878
-DOW J: 48,363
-NASDAQ: 23,429
+S&P 500: 6,910
+DOW J: 48,442
+NASDAQ: 23,562
 VIX: 14
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 14
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Will Trump release the Epstein files by December 19?
-[99.7%] Will Trump release more Epstein files by December 22?
-[99.9%] TikTok sale announced in 2025?
+[0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
 [0.1%] Will Saudi Aramco be the second-largest company in the world by market cap on December 31?
-[0.3%] Will China invade Taiwan in 2025?
+[100.0%] Will Trump release more Epstein files by December 22?
+[100.0%] TikTok sale announced in 2025?
+[1.6%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[1.6%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.2%] Will Bitcoin reach $1,000,000 by December 31, 2025?
+[85.5%] Lighter market cap (FDV) >$1B one day after launch?
+[0.4%] Will Satoshi move any Bitcoin in 2025?
 [0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
-[0.7%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[3.2%] Maduro out in 2025?
-[86.5%] Lighter market cap (FDV) >$1B one day after launch?
+[2.4%] Maduro out in 2025?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Bitcoin reach $1,000,000 by December 31, 2025?
-[0.5%] Will George Clooney win the 2028 Democratic presidential nomination?
-[0.4%] Will Satoshi move any Bitcoin in 2025?
-[0.1%] Will the Indianapolis Colts win Super Bowl 2026?
-[99.8%] Will Trump release more Epstein files by December 26?
+[100.0%] Will Trump release more Epstein files by December 26?
+[23.7%] Epstein client list released in 2025?
+[0.1%] Will Trump announce Elon Musk as next Fed Chair in 2025?
+[0.4%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+[0.9%] Russia x Ukraine ceasefire in 2025?
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Will Athletic Club win the 2025–26 Champions League?
-[0.9%] Russia x Ukraine ceasefire in 2025?
-[96.4%] Fact Check: Epstein video confirmed fake?
-[7.4%] Will Elon Musk post 320-339 tweets from December 16 to December 23, 2025?
-[19.5%] Will Bitcoin reach $95,000 by December 31, 2025?
+[0.1%] Will Curaçao win the 2026 FIFA World Cup?
+[85.0%] Will lighter perform an airdrop by December 31? 
+[99.7%] Will A Minecraft Movie be the top grossing movie of 2025?
+[99.8%] Will Elon Musk be named in newly released Epstein files?
+[0.1%] Will Ethereum hit $17,000 by December 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Second big batch of Epstein files includes many mentions of Trump - The Washington Post
-• U.S. to build "Trump-class" warships for "Golden Fleet" - Axios
-• Biden stopped the executions of 37 men. Trump's DOJ wants to punish them - NPR
-• Trump Administration Oil Tanker Seizures Are Meant to Force Maduro Out, Officials Say - The New York Times
-• CBS editor-in-chief Bari Weiss pulls 60 Minutes piece on Trump deportation policy hours before air - PBS
-• ‘Incredibly reckless’: Trump’s wind halt stuns even some allies - Politico
-• Brown University put police chief on leave after deadly shooting - BBC
-• Denmark ‘deeply upset’ by Trump’s appointment of Greenland envoy who wants island to be part of US - CNN
+• US denies visas to ex-EU commissioner and others over social media rules - BBC
+• Bay Area storm will bring days of dangerous weather. Here’s a timeline of impacts - San Francisco Chronicle
+• Trump announces plans for new Navy 'battleship' as part of a 'Golden Fleet' - NPR
+• The Trump Administration Protects U.S. National Security by Pausing Offshore Wind Leases - U.S. Department of the Interior (.gov)
+• Libya's army chief killed in air crash in Turkey - BBC
+• DHS Changes Process for Awarding H-1B Work Visas to Better Protect American Workers - USCIS (.gov)
+• 9-year-old who vanished during road trip found dead in Utah - KSL.com
+• Claudio Neves Valente: Neighbors in Lisbon recall Brown University attack suspect as quiet, reclusive student - CNN
 
 ----------------------------------------
 
@@ -60,6 +60,8 @@ TRENDING TOPICS
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Trending after NFL’s Week 2 as the Cowboys win thriller, Colts keep rolling
+• Gen Z saves big by buying dupes instead of name brands
 
 ========================================
 END TRANSMISSION
