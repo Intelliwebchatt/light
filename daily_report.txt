@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2025-12-24
+INTELLIGENCE SNAPSHOT // 2025-12-25
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,910
-DOW J: 48,442
-NASDAQ: 23,562
-VIX: 14
+S&P 500: 6,932
+DOW J: 48,731
+NASDAQ: 23,613
+VIX: 13
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.1%] Will Saudi Aramco be the second-largest company in the world by market cap on December 31?
 [100.0%] Will Trump release more Epstein files by December 22?
-[100.0%] TikTok sale announced in 2025?
-[1.6%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[99.8%] Epstein blackmail evidence released in 2025? 
+[100.0%] Will Trump release more Epstein files by December 26?
+[99.9%] Will Stephen Colbert be named in newly released Epstein files?
+[1.2%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will Bitcoin reach $1,000,000 by December 31, 2025?
-[85.5%] Lighter market cap (FDV) >$1B one day after launch?
-[0.4%] Will Satoshi move any Bitcoin in 2025?
-[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
-[2.4%] Maduro out in 2025?
+[0.1%] Will Bitcoin reach $200,000 by December 31, 2025?
+[0.1%] Will Bitcoin reach $1,000,000 by December 31, 2025?
+[0.1%] Will Bitcoin reach $250,000 by December 31, 2025?
+[0.1%] Will Bitcoin reach $150,000 by December 31, 2025?
+[100.0%] TikTok sale announced in 2025?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Will Trump release more Epstein files by December 26?
-[23.7%] Epstein client list released in 2025?
-[0.1%] Will Trump announce Elon Musk as next Fed Chair in 2025?
-[0.4%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
-[0.9%] Russia x Ukraine ceasefire in 2025?
+[99.9%] Will Elon Musk be named in newly released Epstein files?
+[24.5%] Spurs vs. Thunder
+[91.5%] Lighter market cap (FDV) >$1B one day after launch?
+[71.5%] Epstein blackmail evidence released by March 31?
+[0.1%] Will Aristides Teixeira win the 2026 Portugal presidential election?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Curaçao win the 2026 FIFA World Cup?
-[85.0%] Will lighter perform an airdrop by December 31? 
-[99.7%] Will A Minecraft Movie be the top grossing movie of 2025?
-[99.8%] Will Elon Musk be named in newly released Epstein files?
-[0.1%] Will Ethereum hit $17,000 by December 31?
+[46.5%] Timberwolves vs. Nuggets
+[92.0%] Will lighter perform an airdrop by December 31? 
+[0.4%] Will Satoshi move any Bitcoin in 2025?
+[55.5%] Rockets vs. Lakers
+[2.6%] Maduro out in 2025?
 
 ----------------------------------------
 
 TOP HEADLINES
-• US denies visas to ex-EU commissioner and others over social media rules - BBC
-• Bay Area storm will bring days of dangerous weather. Here’s a timeline of impacts - San Francisco Chronicle
-• Trump announces plans for new Navy 'battleship' as part of a 'Golden Fleet' - NPR
-• The Trump Administration Protects U.S. National Security by Pausing Offshore Wind Leases - U.S. Department of the Interior (.gov)
-• Libya's army chief killed in air crash in Turkey - BBC
-• DHS Changes Process for Awarding H-1B Work Visas to Better Protect American Workers - USCIS (.gov)
-• 9-year-old who vanished during road trip found dead in Utah - KSL.com
-• Claudio Neves Valente: Neighbors in Lisbon recall Brown University attack suspect as quiet, reclusive student - CNN
+• What we know (and what we don’t) about the Epstein files’ release - The Washington Post
+• Photos: Storm slamming Southern California with flooding rains triggers evacuations - Axios
+• Pope Leo urges 'courage' to end Ukraine war in first Christmas address - BBC
+• White House orders military to focus on 'quarantine' of Venezuela oil - Reuters
+• Ukraine war briefing: Zelenskyy open to creating demilitarised zone in country’s east - The Guardian
+• Kennedy Center Christmas Eve jazz concert canceled after Trump name added to building - CBS News
+• Trump-backed candidate Nasry Asfura wins Honduras presidential election - BBC
+• Trump tells kid in Christmas call he wants to ensure "bad Santa" isn't "infiltrating" U.S. - Axios
 
 ----------------------------------------
 
@@ -60,7 +60,7 @@ TRENDING TOPICS
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Trending after NFL’s Week 2 as the Cowboys win thriller, Colts keep rolling
+• YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
 • Gen Z saves big by buying dupes instead of name brands
 
 ========================================
