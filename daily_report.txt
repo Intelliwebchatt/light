@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2025-12-26
+INTELLIGENCE SNAPSHOT // 2025-12-27
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,932
-DOW J: 48,731
-NASDAQ: 23,613
+S&P 500: 6,930
+DOW J: 48,711
+NASDAQ: 23,593
 VIX: 14
 
 ----------------------------------------
@@ -12,55 +12,48 @@ VIX: 14
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Trump nominate Janet Yellen as the next Fed chair?
-[1.2%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[2.9%] Maduro out in 2025?
 [100.0%] Epstein blackmail evidence released in 2025? 
-[1.2%] Russia x Ukraine ceasefire in 2025?
+[1.2%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[93.5%] Lighter market cap (FDV) >$1B one day after launch?
+[93.0%] Will lighter perform an airdrop by December 31? 
+[2.1%] Russia x Ukraine ceasefire in 2025?
 
 --- US POLITICS (Top 5 Active) ---
-[91.5%] Lighter market cap (FDV) >$1B one day after launch?
-[0.1%] Will Saudi Aramco be the second-largest company in the world by market cap on December 31?
-[0.2%] Will Bitcoin reach $120,000 by December 31, 2025?
-[0.9%] MicroStrategy sells any Bitcoin in 2025?
-[0.1%] Will Bitcoin reach $250,000 by December 31, 2025?
+[2.5%] Maduro out in 2025?
+[0.4%] Xi Jinping out in 2025?
+[60.5%] Will Manchester City FC win on 2025-12-27?
+[0.5%] Will the Memphis Grizzlies win the 2026 NBA Finals?
+[0.1%] Will Tesla be the second-largest company in the world by market cap on December 31?
 
 --- TECH & AI (Top 5 Active) ---
-[7.0%] US x Venezuela military engagement by December 31?
-[0.1%] Will Ethereum hit $6,000 by December 31?
-[0.2%] Will Satoshi move any Bitcoin in 2025?
-[91.5%] Will lighter perform an airdrop by December 31? 
-[0.1%] Will Ethereum hit $5,000 by December 31?
+[0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[1.2%] MicroStrategy sells any Bitcoin in 2025?
+[0.5%] Will Satoshi move any Bitcoin in 2025?
+[97.3%] Will Trump meet with Zelenskyy by December 31?
+[0.1%] Will Bitcoin reach $170,000 by December 31, 2025?
 
 --- SCIENCE (Top 5 Active) ---
-[0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[19.5%] Will Elon Musk post 320-339 tweets from December 19 to December 26, 2025?
-[0.4%] Xi Jinping out in 2025?
-[87.9%] Will Trump meet with Zelenskyy by December 31?
-[0.1%] Will Bitcoin reach $200,000 by December 31, 2025?
+[0.1%] Will Ethereum hit $10,000 by December 31?
+[0.8%] Will John Thune win the 2028 Republican presidential nomination?
+[0.1%] Will Ethereum dip to $1,000 by December 31?
+[84.5%] No change in Fed interest rates after January 2026 meeting?
+[0.1%] Will Union Saint-Gilloise win the 2025–26 Champions League?
 
 ----------------------------------------
 
 TOP HEADLINES
-• US launches strikes against Islamic State in Nigeria - BBC
-• Governor Newsom proclaims state of emergency to support response in multiple counties due to late December storms - California State Portal | CA.gov
-• Zelensky hails 'new ideas' on peace after talk with US envoys - BBC
-• Cambodia blames Thailand for ‘ruthless’ bombardment amid border talks - Al Jazeera
-• Nuclear submarine arms race heats up between North and South Korea - NPR
-• From record heat to accumulating snow in Denver - CBS News
-• Death Toll in UPS Plane Crash Rises to 15 - The New York Times
-• US justice department says full Epstein file release could take ‘few more weeks’ - Financial Times
+• Zelensky plans to meet Trump on Sunday for talks on peace deal - BBC
+• Russian drones, missiles pound Ukraine before Zelenskiy-Trump meeting - Reuters
+• Winter storm pummels New York, New Jersey, Connecticut with snow and ice. See the forecast. - CBS News
+• With airstrike in Nigeria, Trump inserts U.S. into long-running turmoil - The Washington Post
+• Kennedy Center Chief Threatens Legal Action Over Canceled Christmas Concert - The New York Times
+• 3 people with minor injuries, suspected gunman dead after shooting at Idaho sheriff's office, authorities say - ABC News
+• SoCal's wettest Christmas holiday ever, and the intensifying drought-to-deluge cycle behind it - Los Angeles Times
+• Thousands of US flights disrupted as winter storm looms - BBC
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube is killing its Trending page a decade after its debut
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Gen Z saves big by buying dupes instead of name brands
 
 ========================================
 END TRANSMISSION
