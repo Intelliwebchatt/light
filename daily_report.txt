@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2025-12-29
+INTELLIGENCE SNAPSHOT // 2025-12-30
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,930
-DOW J: 48,711
-NASDAQ: 23,593
+S&P 500: 6,906
+DOW J: 48,462
+NASDAQ: 23,474
 VIX: 15
 
 ----------------------------------------
@@ -12,56 +12,57 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.4%] Will the Memphis Grizzlies win the 2026 NBA Finals?
-[0.4%] Will Satoshi move any Bitcoin in 2025?
-[0.4%] Russia x Ukraine ceasefire in 2025?
+[99.5%] Lighter market cap (FDV) >$1B one day after launch?
 [1.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[77.5%] Lighter market cap (FDV) >$1B one day after launch?
+[0.2%] Will Satoshi move any Bitcoin in 2025?
+[94.5%] Lighter market cap (FDV) >$2B one day after launch?
+[4.5%] US x Venezuela military engagement by December 31?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Zelenskyy  and Putin meet next in Belarus?
-[13.5%] Will Aston Villa FC win on 2025-12-30?
-[77.0%] Will lighter perform an airdrop by December 31? 
-[22.5%] Will Arsenal FC vs. Aston Villa FC end in a draw?
-[0.1%] Will the price of Bitcoin be above $96,000 on December 29?
+[0.2%] Russia x Ukraine ceasefire in 2025?
+[38.5%] Lighter market cap (FDV) >$3B one day after launch?
+[0.1%] Will Bitcoin reach $140,000 by December 31, 2025?
+[10.5%] Lighter market cap (FDV) >$4B one day after launch?
+[0.5%] Will the Memphis Grizzlies win the 2026 NBA Finals?
 
 --- TECH & AI (Top 5 Active) ---
-[22.0%] Lighter Airdrop on December 29?
-[10.8%] US x Venezuela military engagement by December 31?
-[0.9%] Maduro out in 2025?
-[4.7%] Will Bitcoin reach $95,000 by December 31, 2025?
-[7.5%] Russia x Ukraine ceasefire by January 31, 2026?
+[0.1%] Will Bitcoin reach $1,000,000 by December 31, 2025?
+[0.1%] Will Zelenskyy and Putin meet next in Saudi Arabia?
+[0.5%] Maduro out in 2025?
+[0.4%] MicroStrategy sells any Bitcoin in 2025?
+[0.4%] Will the Gävle Goat burn in 2025?
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Will the Portland Trail Blazers win the 2026 NBA Finals?
-[0.7%] Will the Carolina Panthers win Super Bowl 2026?
-[0.1%] Will Zelenskyy and Putin meet next in Saudi Arabia?
-[0.1%] Will Union Saint-Gilloise win the 2025–26 Champions League?
-[0.4%] Xi Jinping out in 2025?
+[0.2%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[93.0%] Lighter FDV above $2B one day after launch?
+[0.4%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+[99.7%] Lighter FDV above $1B one day after launch?
+[1.1%] Lighter market cap (FDV) >$6B one day after launch?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Donald Trump and Volodymyr Zelenskyy talks fail to deliver breakthrough on Ukraine peace deal - Financial Times
-• China launches war games around Taiwan as island vows to defend democracy - Reuters
-• ‘Bomb cyclone’ forecast to bring heavy snow, blizzard conditions and dangerous travel - NPR
-• Thailand-Cambodia ceasefire begins after weeks of deadly clashes - BBC
-• Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR
-• Joint Statement by the Foreign Ministers of Jordan,Egypt,Algeria Comoros,Djibouti,Gambia Iran,Iraq Kuwait,Libya Maldives,Nigeria Oman,Pakistan, Palestine,Qatar,Saudi Arabia,Somalia Sudan,Turkiye,Yemen and the OIC - Ministry of Foreign Affairs, Government of Pakistan
-• One dead after 2 helicopters crash mid-air in, New Jersey, Hammonton police say near Basin Road - ABC7 New York
-• US-Nigeria strikes: Living in fear of Lakurawa - the militant group Trump targeted - BBC
+• C.I.A. Conducted Drone Strike on Port in Venezuela - The New York Times
+• Trump, top aides asked Netanyahu to change policy in occupied West Bank - Axios
+• Federal appeals court judge is accused of bullying her clerks - NPR
+• New Year’s Eve concert is latest cancellation at the Kennedy Center - The Washington Post
+• How a viral video prompted investigations into alleged fraud at day care centers in Minnesota - CBS News
+• Trump administration rolls out rural health funding, with strings attached - PBS
+• Transcript from October closed hearing for Charlie Kirk murder suspect released by Utah court - CBS News
+• National Guard to patrol New Orleans for New Year's a year after deadly attack - ABC News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• Google reveals the top trending searches of 2025
 • YouTube is killing its Trending page a decade after its debut
-• YouTube removing the Trending page in favor of Charts, recommendations
+• Google reveals the top trending searches of 2025
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• Top trending searches of 2025 revealed by Google. See what made the list.
 • Gen Z saves big by buying dupes instead of name brands
+• Trending after NFL’s Week 2 as the Cowboys win thriller, Colts keep rolling
 
 ========================================
 END TRANSMISSION
