@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2025-12-30
+INTELLIGENCE SNAPSHOT // 2025-12-31
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,906
-DOW J: 48,462
-NASDAQ: 23,474
+S&P 500: 6,896
+DOW J: 48,367
+NASDAQ: 23,419
 VIX: 15
 
 ----------------------------------------
@@ -12,56 +12,54 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.5%] Lighter market cap (FDV) >$1B one day after launch?
-[1.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[99.8%] Lighter market cap (FDV) >$1B one day after launch?
 [0.2%] Will Satoshi move any Bitcoin in 2025?
-[94.5%] Lighter market cap (FDV) >$2B one day after launch?
-[4.5%] US x Venezuela military engagement by December 31?
+[99.8%] Lighter market cap (FDV) >$2B one day after launch?
+[1.2%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.1%] Maduro out in 2025?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Russia x Ukraine ceasefire in 2025?
-[38.5%] Lighter market cap (FDV) >$3B one day after launch?
-[0.1%] Will Bitcoin reach $140,000 by December 31, 2025?
-[10.5%] Lighter market cap (FDV) >$4B one day after launch?
 [0.5%] Will the Memphis Grizzlies win the 2026 NBA Finals?
+[0.1%] Russia x Ukraine ceasefire in 2025?
+[99.4%] Will edgeX launch a token in 2025?
+[0.1%] Xi Jinping out in 2025?
+[0.9%] US x Venezuela military engagement by December 31?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Bitcoin reach $1,000,000 by December 31, 2025?
-[0.1%] Will Zelenskyy and Putin meet next in Saudi Arabia?
-[0.5%] Maduro out in 2025?
-[0.4%] MicroStrategy sells any Bitcoin in 2025?
-[0.4%] Will the Gävle Goat burn in 2025?
+[0.2%] MicroStrategy sells any Bitcoin in 2025?
+[0.1%] Will Zelenskyy and Putin meet next in India?
+[99.8%] Lighter FDV above $1B one day after launch?
+[99.7%] U.S. anti-cartel strike/operation on foreign soil by December 31?
+[0.1%] Will the New Orleans Pelicans win the 2026 NBA Finals?
 
 --- SCIENCE (Top 5 Active) ---
 [0.2%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[93.0%] Lighter FDV above $2B one day after launch?
-[0.4%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
-[99.7%] Lighter FDV above $1B one day after launch?
-[1.1%] Lighter market cap (FDV) >$6B one day after launch?
+[13.0%] Lighter FDV above $3B one day after launch?
+[0.1%] Will Avatar 3 be the top grossing movie of 2025?
+[0.1%] Will Bitcoin reach $140,000 by December 31, 2025?
+[99.7%] Will A Minecraft Movie be the top grossing movie of 2025?
 
 ----------------------------------------
 
 TOP HEADLINES
-• C.I.A. Conducted Drone Strike on Port in Venezuela - The New York Times
-• Trump, top aides asked Netanyahu to change policy in occupied West Bank - Axios
-• Federal appeals court judge is accused of bullying her clerks - NPR
-• New Year’s Eve concert is latest cancellation at the Kennedy Center - The Washington Post
-• How a viral video prompted investigations into alleged fraud at day care centers in Minnesota - CBS News
-• Trump administration rolls out rural health funding, with strings attached - PBS
-• Transcript from October closed hearing for Charlie Kirk murder suspect released by Utah court - CBS News
-• National Guard to patrol New Orleans for New Year's a year after deadly attack - ABC News
+• Tatiana Schlossberg, granddaughter of JFK, dies aged 35 - DW
+• Body found amid search for missing Texas teen Camila Mendoza Olmos - CBS News
+• Trump administration says it's freezing child care funds to Minnesota after series of fraud schemes - AP News
+• CIA Was Behind Venezuela Drone Strike, Source Says - The Intercept
+• Congressional Bill H.R. 504 Vetoed - The White House (.gov)
+• 3 Hikers Are Found Dead on Mt. Baldy in Southern California, Sheriff Says - The New York Times
+• Mayor-elect Zohran Mamdani's swearing-in to take place at Old City Hall subway station at midnight on New Year's Day - ABC7 New York
+• Times Square has a dazzling new ball for the New Year’s Eve drop — and it’s the biggest yet - CNN
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
 • Google reveals the top trending searches of 2025
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube is killing its Trending page a decade after its debut
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• Gen Z saves big by buying dupes instead of name brands
 • Trending after NFL’s Week 2 as the Cowboys win thriller, Colts keep rolling
 
 ========================================
