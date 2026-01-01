@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2025-12-31
+INTELLIGENCE SNAPSHOT // 2026-01-01
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,896
-DOW J: 48,367
-NASDAQ: 23,419
+S&P 500: 6,846
+DOW J: 48,063
+NASDAQ: 23,242
 VIX: 15
 
 ----------------------------------------
@@ -12,55 +12,57 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.8%] Lighter market cap (FDV) >$1B one day after launch?
-[0.2%] Will Satoshi move any Bitcoin in 2025?
-[99.8%] Lighter market cap (FDV) >$2B one day after launch?
-[1.2%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.1%] Maduro out in 2025?
+[0.9%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[99.9%] Lighter market cap (FDV) >$1B one day after launch?
+[0.4%] Will Eleven die in "Stranger Things: Season 5"?
+[99.9%] Lighter market cap (FDV) >$2B one day after launch?
 
 --- US POLITICS (Top 5 Active) ---
-[0.5%] Will the Memphis Grizzlies win the 2026 NBA Finals?
-[0.1%] Russia x Ukraine ceasefire in 2025?
-[99.4%] Will edgeX launch a token in 2025?
-[0.1%] Xi Jinping out in 2025?
-[0.9%] US x Venezuela military engagement by December 31?
+[0.1%] MicroStrategy sells any Bitcoin in 2025?
+[1.1%] Will Josh Hawley win the 2028 Republican presidential nomination?
+[100.0%] U.S. anti-cartel strike/operation on foreign soil by December 31?
+[99.9%] Will edgeX launch a token in 2025?
+[0.2%] US x Venezuela military engagement by December 31?
 
 --- TECH & AI (Top 5 Active) ---
-[0.2%] MicroStrategy sells any Bitcoin in 2025?
-[0.1%] Will Zelenskyy and Putin meet next in India?
-[99.8%] Lighter FDV above $1B one day after launch?
-[99.7%] U.S. anti-cartel strike/operation on foreign soil by December 31?
-[0.1%] Will the New Orleans Pelicans win the 2026 NBA Finals?
+[100.0%] Spread: Texas (-4.5)
+[0.4%] Will the Tampa Bay Buccaneers win Super Bowl 2026?
+[99.9%] Will SZA release a new song in 2025?
+[0.1%] Will Avatar 3 be the top grossing movie of 2025?
+[88.5%] No change in Fed interest rates after January 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[13.0%] Lighter FDV above $3B one day after launch?
-[0.1%] Will Avatar 3 be the top grossing movie of 2025?
-[0.1%] Will Bitcoin reach $140,000 by December 31, 2025?
-[99.7%] Will A Minecraft Movie be the top grossing movie of 2025?
+[99.9%] Will A Minecraft Movie be the top grossing movie of 2025?
+[0.4%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
+[54.5%] 76ers vs. Mavericks
+[0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
+[0.1%] Will Elon Musk post 400-419 tweets from December 26 to January 2, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Tatiana Schlossberg, granddaughter of JFK, dies aged 35 - DW
-• Body found amid search for missing Texas teen Camila Mendoza Olmos - CBS News
-• Trump administration says it's freezing child care funds to Minnesota after series of fraud schemes - AP News
-• CIA Was Behind Venezuela Drone Strike, Source Says - The Intercept
-• Congressional Bill H.R. 504 Vetoed - The White House (.gov)
-• 3 Hikers Are Found Dead on Mt. Baldy in Southern California, Sheriff Says - The New York Times
-• Mayor-elect Zohran Mamdani's swearing-in to take place at Old City Hall subway station at midnight on New Year's Day - ABC7 New York
-• Times Square has a dazzling new ball for the New Year’s Eve drop — and it’s the biggest yet - CNN
+• Zohran Mamdani Is Sworn In as Mayor of New York City - The New York Times
+• Trump will drop push for National Guard deployments in Chicago, LA and Portland, Ore. - NPR
+• 'Several' people killed by fire in Swiss ski resort bar, police say - BBC
+• Trump administration reportedly freezes all childcare payments to all states - The Guardian
+• 7 takeaways from Jack Smith’s congressional testimony - Politico
+• Body found confirmed to be missing Camila Mendoza Olmos in Texas, death ruled suicide - ABC7 Los Angeles
+• U.S. military strikes 5 more alleged drug boats, killing 8 - NPR
+• Live updates: Storm to bring heavy rain to Southern California - ABC7 Los Angeles
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Google reveals the top trending searches of 2025
 • YouTube is killing its Trending page a decade after its debut
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Google reveals the top trending searches of 2025
 • YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• Trending after NFL’s Week 2 as the Cowboys win thriller, Colts keep rolling
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
 
 ========================================
 END TRANSMISSION
