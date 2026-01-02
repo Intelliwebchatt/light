@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-01-01
+INTELLIGENCE SNAPSHOT // 2026-01-02
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,44 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.9%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.2%] Will Eleven die in "Stranger Things: Season 5"?
 [0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[99.9%] Lighter market cap (FDV) >$1B one day after launch?
-[0.4%] Will Eleven die in "Stranger Things: Season 5"?
-[99.9%] Lighter market cap (FDV) >$2B one day after launch?
+[0.8%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[100.0%] Lighter market cap (FDV) >$1B one day after launch?
+[0.1%] MicroStrategy sells any Bitcoin in 2025?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] MicroStrategy sells any Bitcoin in 2025?
-[1.1%] Will Josh Hawley win the 2028 Republican presidential nomination?
-[100.0%] U.S. anti-cartel strike/operation on foreign soil by December 31?
-[99.9%] Will edgeX launch a token in 2025?
+[100.0%] Will edgeX launch a token in 2025?
+[0.4%] Will Olivia Rodrigo release an album in 2025?
 [0.2%] US x Venezuela military engagement by December 31?
+[0.9%] Will Michelle Obama win the 2028 Democratic presidential nomination?
+[100.0%] U.S. anti-cartel strike/operation on foreign soil by December 31?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Spread: Texas (-4.5)
-[0.4%] Will the Tampa Bay Buccaneers win Super Bowl 2026?
-[99.9%] Will SZA release a new song in 2025?
-[0.1%] Will Avatar 3 be the top grossing movie of 2025?
-[88.5%] No change in Fed interest rates after January 2026 meeting?
+[100.0%] Lighter market cap (FDV) >$2B one day after launch?
+[99.9%] US strikes Yemen by December 31?
+[0.1%] Will Trump nominate Barron Trump as the next Fed chair?
+[1.2%] Will Josh Hawley win the 2028 Republican presidential nomination?
+[99.9%] Will A Minecraft Movie be the top grossing movie of 2025?
 
 --- SCIENCE (Top 5 Active) ---
-[99.9%] Will A Minecraft Movie be the top grossing movie of 2025?
-[0.4%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
-[54.5%] 76ers vs. Mavericks
-[0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
-[0.1%] Will Elon Musk post 400-419 tweets from December 26 to January 2, 2026?
+[0.5%] Will the Memphis Grizzlies win the 2026 NBA Finals?
+[0.4%] Will the Tampa Bay Buccaneers win Super Bowl 2026?
+[0.1%] Will the Charlotte Hornets win the 2026 NBA Finals?
+[3.8%] Russia x Ukraine ceasefire by January 31, 2026?
+[0.1%] Will Trump nominate Larry Lindsey as the next Fed chair?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Zohran Mamdani Is Sworn In as Mayor of New York City - The New York Times
-• Trump will drop push for National Guard deployments in Chicago, LA and Portland, Ore. - NPR
-• 'Several' people killed by fire in Swiss ski resort bar, police say - BBC
-• Trump administration reportedly freezes all childcare payments to all states - The Guardian
-• 7 takeaways from Jack Smith’s congressional testimony - Politico
-• Body found confirmed to be missing Camila Mendoza Olmos in Texas, death ruled suicide - ABC7 Los Angeles
-• U.S. military strikes 5 more alleged drug boats, killing 8 - NPR
-• Live updates: Storm to bring heavy rain to Southern California - ABC7 Los Angeles
+• Mamdani revokes IHRA antisemitism definition on day 1, amid broad rejection of Adams orders - The Times of Israel
+• ‘It happened in seconds’: sudden inferno brings horror to Swiss ski resort - The Guardian
+• Trump says US will intervene if Iran violently suppresses peaceful protests - Reuters
+• 5 takeaways from Trump's defiant WSJ interview on his health - Axios
+• Department of Justice is reviewing over 5.2 million Jeffrey Epstein files - PBS
+• Response to China’s Military Exercise Near Taiwan - U.S. Department of State (.gov)
+• Maduro says Venezuela open to US talks on drug trafficking - BBC
+• Health subsidies expire, launching millions of Americans into 2026 with steep insurance hikes - ABC7 Chicago
 
 ----------------------------------------
 
@@ -60,8 +60,8 @@ TRENDING TOPICS
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• Top trending searches of 2025 revealed by Google. See what made the list.
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
 
 ========================================
