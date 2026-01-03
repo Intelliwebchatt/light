@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-01-02
+INTELLIGENCE SNAPSHOT // 2026-01-03
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,846
-DOW J: 48,063
-NASDAQ: 23,242
+S&P 500: 6,858
+DOW J: 48,382
+NASDAQ: 23,236
 VIX: 15
 
 ----------------------------------------
@@ -12,54 +12,54 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.2%] Will Eleven die in "Stranger Things: Season 5"?
-[0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.8%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[100.0%] Lighter market cap (FDV) >$1B one day after launch?
-[0.1%] MicroStrategy sells any Bitcoin in 2025?
+[0.1%] Will Eleven die in "Stranger Things: Season 5"?
+[0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
+[0.9%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
+[0.1%] US x Venezuela military engagement by December 31?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] Will edgeX launch a token in 2025?
-[0.4%] Will Olivia Rodrigo release an album in 2025?
-[0.2%] US x Venezuela military engagement by December 31?
-[0.9%] Will Michelle Obama win the 2028 Democratic presidential nomination?
-[100.0%] U.S. anti-cartel strike/operation on foreign soil by December 31?
+[0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.1%] Will Trump nominate Barron Trump as the next Fed chair?
+[0.5%] Will the Memphis Grizzlies win the 2026 NBA Finals?
+[0.1%] Will Trump nominate Larry Lindsey as the next Fed chair?
+[0.1%] Will Olivia Rodrigo release an album in 2025?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Lighter market cap (FDV) >$2B one day after launch?
-[99.9%] US strikes Yemen by December 31?
-[0.1%] Will Trump nominate Barron Trump as the next Fed chair?
-[1.2%] Will Josh Hawley win the 2028 Republican presidential nomination?
-[99.9%] Will A Minecraft Movie be the top grossing movie of 2025?
+[0.1%] Will Trump nominate Philip Jefferson as the next Fed chair?
+[10.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[88.5%] No change in Fed interest rates after January 2026 meeting?
+[50.5%] Will Aston Villa FC win on 2026-01-03?
+[100.0%] US strikes Yemen by December 31?
 
 --- SCIENCE (Top 5 Active) ---
-[0.5%] Will the Memphis Grizzlies win the 2026 NBA Finals?
-[0.4%] Will the Tampa Bay Buccaneers win Super Bowl 2026?
-[0.1%] Will the Charlotte Hornets win the 2026 NBA Finals?
-[3.8%] Russia x Ukraine ceasefire by January 31, 2026?
-[0.1%] Will Trump nominate Larry Lindsey as the next Fed chair?
+[56.5%] Seahawks vs. 49ers
+[0.5%] Will the Tampa Bay Buccaneers win Super Bowl 2026?
+[0.2%] Will Union Saint-Gilloise win the 2025–26 Champions League?
+[47.5%] Will RC Celta de Vigo win on 2026-01-03?
+[0.1%] MicroStrategy sells any Bitcoin in 2025?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Mamdani revokes IHRA antisemitism definition on day 1, amid broad rejection of Adams orders - The Times of Israel
-• ‘It happened in seconds’: sudden inferno brings horror to Swiss ski resort - The Guardian
-• Trump says US will intervene if Iran violently suppresses peaceful protests - Reuters
-• 5 takeaways from Trump's defiant WSJ interview on his health - Axios
-• Department of Justice is reviewing over 5.2 million Jeffrey Epstein files - PBS
-• Response to China’s Military Exercise Near Taiwan - U.S. Department of State (.gov)
-• Maduro says Venezuela open to US talks on drug trafficking - BBC
-• Health subsidies expire, launching millions of Americans into 2026 with steep insurance hikes - ABC7 Chicago
+• Live Updates: U.S. Captures Venezuelan Leader, Trump Says - The New York Times
+• Swiss ski resort fire: Families of missing teens desperate for news - BBC
+• California ban on open carry of firearms ruled unconstitutional by appeals court - Los Angeles Times
+• Zohran Mamdani's first full day as NYC mayor: subway rides, new offices and backlash from Israel - AP News
+• Is Trump taking too much aspirin? Here's what experts say - NPR
+• FBI Disrupts Alleged New Year’s Eve Attack, Man Charged with Attempting to Provide Material Support to ISIS - Department of Justice (.gov)
+• DHS hypes worksite enforcement as fraud allegations rip through Minnesota - Axios
+• Trump threatens military force if Iran kills protesters - Axios
 
 ----------------------------------------
 
 TRENDING TOPICS
 • YouTube is killing its Trending page a decade after its debut
-• Google reveals the top trending searches of 2025
 • YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube's 'Trending' Page is Shutting Down After a Decade
+• Google reveals the top trending searches of 2025
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
