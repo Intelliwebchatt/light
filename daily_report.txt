@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-01-03
+INTELLIGENCE SNAPSHOT // 2026-01-04
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,44 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Eleven die in "Stranger Things: Season 5"?
-[0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
-[0.9%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
 [0.1%] US x Venezuela military engagement by December 31?
+[0.1%] Will Eleven die in "Stranger Things: Season 5"?
+[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
+[13.4%] Will the U.S. invade Venezuela by January 31, 2026?
+[99.9%] Maduro in U.S. custody by January 31?
 
 --- US POLITICS (Top 5 Active) ---
+[0.8%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 [0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
 [0.1%] Will Trump nominate Barron Trump as the next Fed chair?
-[0.5%] Will the Memphis Grizzlies win the 2026 NBA Finals?
-[0.1%] Will Trump nominate Larry Lindsey as the next Fed chair?
-[0.1%] Will Olivia Rodrigo release an album in 2025?
+[0.4%] Will the Tampa Bay Buccaneers win Super Bowl 2026?
+[0.1%] MicroStrategy sells any Bitcoin in 2025?
 
 --- TECH & AI (Top 5 Active) ---
+[21.5%] Will the U.S. invade Venezuela by March 31, 2026?
+[0.4%] Will Ajax win the 2025–26 Champions League?
 [0.1%] Will Trump nominate Philip Jefferson as the next Fed chair?
-[10.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[88.5%] No change in Fed interest rates after January 2026 meeting?
-[50.5%] Will Aston Villa FC win on 2026-01-03?
-[100.0%] US strikes Yemen by December 31?
+[0.1%] Will Trump nominate Larry Lindsey as the next Fed chair?
+[4.0%] Russia x Ukraine ceasefire by January 31, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[56.5%] Seahawks vs. 49ers
-[0.5%] Will the Tampa Bay Buccaneers win Super Bowl 2026?
-[0.2%] Will Union Saint-Gilloise win the 2025–26 Champions League?
-[47.5%] Will RC Celta de Vigo win on 2026-01-03?
-[0.1%] MicroStrategy sells any Bitcoin in 2025?
+[33.5%] Will María Corina Machado enter Venezuela by January 31?
+[0.4%] Will Bitcoin reach $150,000 in January?
+[12.5%] Will China invade Taiwan by end of 2026?
+[0.4%] Will George Clooney win the 2028 Democratic presidential nomination?
+[0.1%] Will Olivia Rodrigo release an album in 2025?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live Updates: U.S. Captures Venezuelan Leader, Trump Says - The New York Times
-• Swiss ski resort fire: Families of missing teens desperate for news - BBC
-• California ban on open carry of firearms ruled unconstitutional by appeals court - Los Angeles Times
-• Zohran Mamdani's first full day as NYC mayor: subway rides, new offices and backlash from Israel - AP News
-• Is Trump taking too much aspirin? Here's what experts say - NPR
-• FBI Disrupts Alleged New Year’s Eve Attack, Man Charged with Attempting to Provide Material Support to ISIS - Department of Justice (.gov)
-• DHS hypes worksite enforcement as fraud allegations rip through Minnesota - Axios
-• Trump threatens military force if Iran kills protesters - Axios
+• Trump says US will run Venezuela after Maduro seized - Reuters
+• Iran's leader says rioters 'must be put in their place' as protest death toll rises to at least 10 - PBS
+• Important Travel Update for San Juan Disembarkation. - Virgin Voyages
+• Executive Order 07 - NYC.gov
+• China & Taiwan Update, January 2, 2026 - Institute for the Study of War
+• Maduro says Venezuela is open to U.S. talks on drug trafficking, but keeps mum on CIA strike - PBS
+• Wisconsin judge convicted of obstructing arrest of immigrant resigns as GOP threatens impeachment - ABC News
+• Appeals panel says California's ban on open carry in more populated counties is unconstitutional - ABC News
 
 ----------------------------------------
 
@@ -58,10 +58,10 @@ TRENDING TOPICS
 • YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 • Google reveals the top trending searches of 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
 
 ========================================
