@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-01-04
+INTELLIGENCE SNAPSHOT // 2026-01-05
 ========================================
 
 MARKET CLOSE
@@ -12,55 +12,55 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] US x Venezuela military engagement by December 31?
-[0.1%] Will Eleven die in "Stranger Things: Season 5"?
+[0.7%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
 [0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[13.4%] Will the U.S. invade Venezuela by January 31, 2026?
-[99.9%] Maduro in U.S. custody by January 31?
+[0.1%] Will Trump nominate Barron Trump as the next Fed chair?
+[100.0%] Pistons vs. Cavaliers
 
 --- US POLITICS (Top 5 Active) ---
-[0.8%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.1%] Will Trump nominate Barron Trump as the next Fed chair?
-[0.4%] Will the Tampa Bay Buccaneers win Super Bowl 2026?
-[0.1%] MicroStrategy sells any Bitcoin in 2025?
+[0.1%] Packers vs. Vikings
+[100.0%] Maduro in U.S. custody by January 31?
+[0.1%] Colts vs. Texans
+[0.1%] Will Trump nominate himself as the next Fed chair?
+[0.1%] Will Trump nominate Larry Lindsey as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
-[21.5%] Will the U.S. invade Venezuela by March 31, 2026?
-[0.4%] Will Ajax win the 2025–26 Champions League?
-[0.1%] Will Trump nominate Philip Jefferson as the next Fed chair?
-[0.1%] Will Trump nominate Larry Lindsey as the next Fed chair?
-[4.0%] Russia x Ukraine ceasefire by January 31, 2026?
+[5.8%] Will the U.S. invade Venezuela by January 31, 2026?
+[90.5%] No change in Fed interest rates after January 2026 meeting?
+[0.1%] Will the Tampa Bay Buccaneers win Super Bowl 2026?
+[0.1%] Spread: Falcons (-3.5)
+[0.4%] Will Andrew Yang win the 2028 Democratic presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
-[33.5%] Will María Corina Machado enter Venezuela by January 31?
-[0.4%] Will Bitcoin reach $150,000 in January?
-[12.5%] Will China invade Taiwan by end of 2026?
-[0.4%] Will George Clooney win the 2028 Democratic presidential nomination?
-[0.1%] Will Olivia Rodrigo release an album in 2025?
+[0.1%] Spread: Cowboys (-3.5)
+[9.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[0.4%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
+[0.4%] Will MrBeast win the 2028 Democratic presidential nomination?
+[0.3%] Will Elon Musk post 420-439 tweets from December 30 to January 6, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump says US will run Venezuela after Maduro seized - Reuters
-• Iran's leader says rioters 'must be put in their place' as protest death toll rises to at least 10 - PBS
-• Important Travel Update for San Juan Disembarkation. - Virgin Voyages
-• Executive Order 07 - NYC.gov
-• China & Taiwan Update, January 2, 2026 - Institute for the Study of War
-• Maduro says Venezuela is open to U.S. talks on drug trafficking, but keeps mum on CIA strike - PBS
-• Wisconsin judge convicted of obstructing arrest of immigrant resigns as GOP threatens impeachment - ABC News
-• Appeals panel says California's ban on open carry in more populated counties is unconstitutional - ABC News
+• US capture of Maduro tests limits of China's diplomatic push - Reuters
+• Who controls Venezuela's oil now? What Maduro's arrest means for energy markets - CNBC
+• U.S. plan to ‘run’ Venezuela clouded in confusion and uncertainty - The Washington Post
+• Danish PM tells Trump to stop 'threats' against Greenland - BBC
+• Trump Suggests U.S. Could Take Action Against More Countries - The New York Times
+• Venezuela’s Rodriguez Asks US to Cooperate After Maduro Raid - Bloomberg.com
+• Trial begins for officer accused of failing to protect children during Uvalde shooting - NPR
+• Trump on return trip to Washington predicts demise of Cuba, warns Colombia, threatens Greenland - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
 • YouTube is killing its Trending page a decade after its debut
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Google reveals the top trending searches of 2025
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
 
