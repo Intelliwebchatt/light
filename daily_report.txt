@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-01-05
+INTELLIGENCE SNAPSHOT // 2026-01-06
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,858
-DOW J: 48,382
-NASDAQ: 23,236
+S&P 500: 6,902
+DOW J: 48,977
+NASDAQ: 23,396
 VIX: 15
 
 ----------------------------------------
@@ -12,57 +12,58 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.7%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[100.0%] Maduro in U.S. custody by January 31?
 [0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
 [0.1%] Will Trump nominate Barron Trump as the next Fed chair?
-[100.0%] Pistons vs. Cavaliers
+[0.1%] Will Trump nominate himself as the next Fed chair?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Packers vs. Vikings
-[100.0%] Maduro in U.S. custody by January 31?
-[0.1%] Colts vs. Texans
-[0.1%] Will Trump nominate himself as the next Fed chair?
-[0.1%] Will Trump nominate Larry Lindsey as the next Fed chair?
+[89.5%] No change in Fed interest rates after January 2026 meeting?
+[9.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[8.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[0.4%] Will Andrew Yang win the 2028 Democratic presidential nomination?
+[12.5%] Will China invade Taiwan by end of 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[5.8%] Will the U.S. invade Venezuela by January 31, 2026?
-[90.5%] No change in Fed interest rates after January 2026 meeting?
-[0.1%] Will the Tampa Bay Buccaneers win Super Bowl 2026?
-[0.1%] Spread: Falcons (-3.5)
-[0.4%] Will Andrew Yang win the 2028 Democratic presidential nomination?
+[87.0%] Over $5M committed to the Infinex public sale?
+[7.1%] Will the Houston Texans win Super Bowl 2026?
+[0.4%] Will Bitcoin reach $150,000 in January?
+[5.0%] Will the U.S. invade Venezuela by January 31, 2026?
+[0.7%] Will the Carolina Panthers win Super Bowl 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Spread: Cowboys (-3.5)
-[9.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[0.4%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
-[0.4%] Will MrBeast win the 2028 Democratic presidential nomination?
-[0.3%] Will Elon Musk post 420-439 tweets from December 30 to January 6, 2026?
+[3.1%] Russia x Ukraine ceasefire by January 31, 2026?
+[6.6%] Will Elon Musk post 500-519 tweets from December 30 to January 6, 2026?
+[0.4%] Will Tim Walz win the 2028 Democratic presidential nomination?
+[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
+[20.5%] Khamenei out as Supreme Leader of Iran by March 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• US capture of Maduro tests limits of China's diplomatic push - Reuters
-• Who controls Venezuela's oil now? What Maduro's arrest means for energy markets - CNBC
-• U.S. plan to ‘run’ Venezuela clouded in confusion and uncertainty - The Washington Post
-• Danish PM tells Trump to stop 'threats' against Greenland - BBC
-• Trump Suggests U.S. Could Take Action Against More Countries - The New York Times
-• Venezuela’s Rodriguez Asks US to Cooperate After Maduro Raid - Bloomberg.com
-• Trial begins for officer accused of failing to protect children during Uvalde shooting - NPR
-• Trump on return trip to Washington predicts demise of Cuba, warns Colombia, threatens Greenland - Politico
+• Trump's 'Donroe Doctrine' seeks influence over Western Hemisphere citing old US policy - ABC News
+• Venezuela’s Machado Praises Trump in Fox News Interview - The New York Times
+• Venezuela’s New Leader Is Who Global Oil Wanted All Along - Bloomberg.com
+• Danish prime minister says a US takeover of Greenland would mark the end of NATO - AP News
+• The NYC jail holding Maduro has a history of big names and dangerous conditions - NPR
+• Ohio police release video of person of interest in killing of dentist and his wife - CBS News
+• Ahead of 5-year anniversary of Jan. 6, report examines aftermath following Trump's return to office - ABC News
+• Trump’s Post About Slain Minnesota Lawmaker Dismays Her Children - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Google reveals the top trending searches of 2025
 • YouTube is killing its Trending page a decade after its debut
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• Gemini was Google’s top trending search term in 2025
 • YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• Google reveals the top trending searches of 2025
-• Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
-• YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Trending after NFL’s Week 2 as the Cowboys win thriller, Colts keep rolling
+• Google reveals the top trending searches of 2025
 
 ========================================
 END TRANSMISSION
