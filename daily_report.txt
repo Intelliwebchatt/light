@@ -1,67 +1,67 @@
-INTELLIGENCE SNAPSHOT // 2026-01-07
+INTELLIGENCE SNAPSHOT // 2026-01-08
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,945
-DOW J: 49,462
-NASDAQ: 23,547
-VIX: 15
+S&P 500: 6,921
+DOW J: 48,996
+NASDAQ: 23,584
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.5%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[1.4%] New "Stranger Things" episode released by Wednesday? 
-[0.1%] Will Trump nominate Barron Trump as the next Fed chair?
 [0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.9%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.1%] Will Trump nominate Barron Trump as the next Fed chair?
 [0.1%] Will Trump nominate himself as the next Fed chair?
+[0.1%] Will Meituan have the best AI model at the end of January 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[13.0%] Will Trump acquire Greenland before 2027?
-[92.5%] Over $20M committed to the Ranger public sale?
-[23.5%] Israel strikes Iran by January 31, 2026?
-[0.1%] Will Trump nominate Ron Paul as the next Fed chair?
-[0.5%] Will Bitcoin reach $150,000 in January?
+[0.1%] Will Ângela Maryah win the 2026 Portugal presidential election?
+[91.5%] No change in Fed interest rates after January 2026 meeting?
+[0.7%] Will the Carolina Panthers win Super Bowl 2026?
+[7.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[28.0%] Israel strikes Iran by January 31, 2026?
 
 --- TECH & AI (Top 5 Active) ---
+[0.4%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
+[14.5%] Will Trump acquire Greenland before 2027?
+[11.5%] Khamenei out as Supreme Leader of Iran by January 31?
 [0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
-[0.1%] Will Ângela Maryah win the 2026 Portugal presidential election?
-[61.5%] Will Arsenal FC win on 2026-01-08?
-[13.5%] Will China invade Taiwan by end of 2026?
-[0.5%] Will the Carolina Panthers win Super Bowl 2026?
+[1.8%] New "Stranger Things" episode released by January 31? 
 
 --- SCIENCE (Top 5 Active) ---
-[89.5%] No change in Fed interest rates after January 2026 meeting?
-[10.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[0.7%] Will Tim Walz win the 2028 US Presidential Election?
-[0.4%] Will George Clooney win the 2028 Democratic presidential nomination?
-[10.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[15.5%] US strikes Iran by January 31, 2026?
+[0.1%] Will the Utah Jazz win the 2026 NBA Finals?
+[0.1%] Will Jordan win the 2026 FIFA World Cup?
+[0.4%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+[92.0%] Will no player win a Calendar Grand Slam in 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• DHS wants Venezuelans to return home, but fears remain as long as Maduro regime is in power - NPR
-• 5 Democratic-run states are told that their child care funds have been frozen - Axios
-• Trump warns Republicans they have to win midterms or he'll 'get impeached' - ABC News
-• Paris Declaration - Robust Security Guarantees for a Solid and Lasting Peace in Ukraine - consilium.europa.eu
-• District of Massachusetts | Update on Investigation into Brown University and Brookline Shootings - Department of Justice (.gov)
-• A Jan. 6 plaque was made to honor law enforcement at the Capitol. Its whereabouts are unknown - PBS
-• Russia sends navy to guard oil tanker being pursued by US forces - BBC
-• New video released of person of interest in mysterious murders of Ohio dentist, wife - ABC News
+• Miller says no one would stop U.S. from seizing Greenland - Axios
+• 2 dead, 6 wounded in shooting outside LDS church in Salt Lake City - The Salt Lake Tribune
+• FACT SHEET: President Trump is Restoring Prosperity, Safety and Security for the United States and Venezuela - Department of Energy (.gov)
+• Withdrawal from Wasteful, Ineffective, or Harmful International Organizations - U.S. Department of State (.gov)
+• Fact Sheet: Trump Administration Resets U.S. Nutrition Policy, Puts Real Food Back at the Center of Health - Department of Health and Human Services (HHS) (.gov)
+• Donald Trump's Venezuela risk brings risk to China's plans - BBC
+• House to vote on renewing ACA subsidies as a potential deal takes shape in the Senate - NPR
+• A year after LA-area wildfires destroyed thousands of homes, fewer than a dozen have been rebuilt - abcnews.go.com
 
 ----------------------------------------
 
 TRENDING TOPICS
 • YouTube is killing its Trending page a decade after its debut
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube removing the Trending page in favor of Charts, recommendations
 • Gemini was Google’s top trending search term in 2025
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Google reveals the top trending searches of 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Top trending searches of 2025 revealed by Google. See what made the list.
 
 ========================================
