@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-01-08
+INTELLIGENCE SNAPSHOT // 2026-01-09
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,921
-DOW J: 48,996
-NASDAQ: 23,584
+DOW J: 49,266
+NASDAQ: 23,480
 VIX: 16
 
 ----------------------------------------
@@ -12,57 +12,53 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[0.7%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 [0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.9%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[18.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[92.5%] No change in Fed interest rates after January 2026 meeting?
 [0.1%] Will Trump nominate Barron Trump as the next Fed chair?
-[0.1%] Will Trump nominate himself as the next Fed chair?
-[0.1%] Will Meituan have the best AI model at the end of January 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Ângela Maryah win the 2026 Portugal presidential election?
-[91.5%] No change in Fed interest rates after January 2026 meeting?
-[0.7%] Will the Carolina Panthers win Super Bowl 2026?
 [7.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[28.0%] Israel strikes Iran by January 31, 2026?
+[0.1%] Will Meituan have the best AI model at the end of January 2026?
+[0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
+[0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
+[3.9%] Russia x Ukraine ceasefire by January 31, 2026?
 
 --- TECH & AI (Top 5 Active) ---
+[33.5%] Israel strikes Iran by January 31, 2026?
+[0.1%] Will the Utah Jazz win the 2026 NBA Finals?
 [0.4%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
-[14.5%] Will Trump acquire Greenland before 2027?
-[11.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
-[1.8%] New "Stranger Things" episode released by January 31? 
+[0.4%] Will Khamenei leave Iran by Friday?
+[97.2%] Over $20M committed to the Ranger public sale?
 
 --- SCIENCE (Top 5 Active) ---
-[15.5%] US strikes Iran by January 31, 2026?
-[0.1%] Will the Utah Jazz win the 2026 NBA Finals?
-[0.1%] Will Jordan win the 2026 FIFA World Cup?
-[0.4%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
-[92.0%] Will no player win a Calendar Grand Slam in 2026?
+[30.5%] US strikes Iran by January 31, 2026?
+[15.5%] Will Trump acquire Greenland before 2027?
+[67.5%] Heat vs. Bulls
+[2.8%] New "Stranger Things" episode released by January 31? 
+[12.5%] Will the Iranian regime fall by January 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Miller says no one would stop U.S. from seizing Greenland - Axios
-• 2 dead, 6 wounded in shooting outside LDS church in Salt Lake City - The Salt Lake Tribune
-• FACT SHEET: President Trump is Restoring Prosperity, Safety and Security for the United States and Venezuela - Department of Energy (.gov)
-• Withdrawal from Wasteful, Ineffective, or Harmful International Organizations - U.S. Department of State (.gov)
-• Fact Sheet: Trump Administration Resets U.S. Nutrition Policy, Puts Real Food Back at the Center of Health - Department of Health and Human Services (HHS) (.gov)
-• Donald Trump's Venezuela risk brings risk to China's plans - BBC
-• House to vote on renewing ACA subsidies as a potential deal takes shape in the Senate - NPR
-• A year after LA-area wildfires destroyed thousands of homes, fewer than a dozen have been rebuilt - abcnews.go.com
+• Two people shot by US federal agents in Portland - The Guardian
+• Iran’s supreme leader says protesters are ‘ruining their own streets’ to please Trump - AP News
+• Russia Says It Used Nuclear-Capable Missile to Strike Ukraine - The New York Times
+• Greenlanders express fear and indignation as Trump eyes territory - BBC
+• UN experts condemn US aggression against Venezuela - ohchr
+• IRS announces first day of 2026 filing season; online tools and resources help with tax filing - IRS (.gov)
+• Federal fund freeze sends Colorado child care providers and advocates scrambling to prove there is no fraud - Colorado Public Radio
+• How an Abrupt Call Between Trump and Colombia’s President Averted a Crisis - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube removing the Trending page in favor of Charts, recommendations
-• Gemini was Google’s top trending search term in 2025
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Google reveals the top trending searches of 2025
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Trending is out—YouTube is now all about your interests
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Gemini was Google’s top trending search term in 2025
+• Google reveals the top trending searches of 2025
 
 ========================================
 END TRANSMISSION
