@@ -1,64 +1,66 @@
-INTELLIGENCE SNAPSHOT // 2026-01-09
+INTELLIGENCE SNAPSHOT // 2026-01-10
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,921
-DOW J: 49,266
-NASDAQ: 23,480
-VIX: 16
+S&P 500: 6,966
+DOW J: 49,504
+NASDAQ: 23,671
+VIX: 14
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.7%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.4%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[18.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[92.5%] No change in Fed interest rates after January 2026 meeting?
-[0.1%] Will Trump nominate Barron Trump as the next Fed chair?
+[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.4%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.1%] Will Trump nominate Bill Pulte as the next Fed chair?
+[97.2%] No change in Fed interest rates after January 2026 meeting?
+[2.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[7.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[0.1%] Will Meituan have the best AI model at the end of January 2026?
-[0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
-[0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
-[3.9%] Russia x Ukraine ceasefire by January 31, 2026?
+[19.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[0.1%] Will Trump nominate Barron Trump as the next Fed chair?
+[0.1%] Will the Utah Jazz win the 2026 NBA Finals?
+[0.1%] Will Trump nominate himself as the next Fed chair?
+[0.7%] Will the Carolina Panthers win Super Bowl 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[33.5%] Israel strikes Iran by January 31, 2026?
-[0.1%] Will the Utah Jazz win the 2026 NBA Finals?
-[0.4%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
-[0.4%] Will Khamenei leave Iran by Friday?
-[97.2%] Over $20M committed to the Ranger public sale?
+[16.5%] Will Trump acquire Greenland before 2027?
+[99.9%] Over $20M committed to the Ranger public sale?
+[0.9%] Will Vivek Ramaswamy win the 2028 Republican presidential nomination?
+[0.1%] Will the Charlotte Hornets win the 2026 NBA Finals?
+[0.4%] Will Bitcoin reach $150,000 in January?
 
 --- SCIENCE (Top 5 Active) ---
-[30.5%] US strikes Iran by January 31, 2026?
-[15.5%] Will Trump acquire Greenland before 2027?
-[67.5%] Heat vs. Bulls
-[2.8%] New "Stranger Things" episode released by January 31? 
-[12.5%] Will the Iranian regime fall by January 31?
+[0.1%] Will Jordan win the 2026 FIFA World Cup?
+[0.1%] Will the Brooklyn Nets win the 2026 NBA Finals?
+[29.5%] Israel strikes Iran by January 31, 2026?
+[50.5%] Will Udinese Calcio win on 2026-01-10?
+[0.4%] Will Katie Britt win the 2028 Republican presidential nomination?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Two people shot by US federal agents in Portland - The Guardian
-• Iran’s supreme leader says protesters are ‘ruining their own streets’ to please Trump - AP News
-• Russia Says It Used Nuclear-Capable Missile to Strike Ukraine - The New York Times
-• Greenlanders express fear and indignation as Trump eyes territory - BBC
-• UN experts condemn US aggression against Venezuela - ohchr
-• IRS announces first day of 2026 filing season; online tools and resources help with tax filing - IRS (.gov)
-• Federal fund freeze sends Colorado child care providers and advocates scrambling to prove there is no fraud - Colorado Public Radio
-• How an Abrupt Call Between Trump and Colombia’s President Averted a Crisis - The New York Times
+• Defense attorney disputes police narrative in Portland Border Patrol shooting - Oregon Public Broadcasting - OPB
+• Russian Offensive Campaign Assessment, January 8, 2026 - Institute for the Study of War
+• ICYMI: Secretary Rollins and Secretary Kennedy Pen Joint Op-ed in Fox News “New Dietary Plan Recommends Real Food for All Americans” - USDA (.gov)
+• Trump blasts 5 Republican senators for war powers vote - PBS
+• Gov. Newsom’s last state budget: Here’s what we know - CalMatters
+• Funding America’s Strength: House Passes FY26 Bills on Security, Energy, and Stewardship - House Committee on Appropriations (.gov)
+• Judge says Trump administration can’t block child care, other program money for 5 states for now - abcnews.go.com
+• Multiple small avalanches release in Juneau after city issues evacuation advisory - KTOO
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Trending is out—YouTube is now all about your interests
-• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube is killing its Trending page a decade after its debut
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
 
 ========================================
 END TRANSMISSION
