@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-01-10
+INTELLIGENCE SNAPSHOT // 2026-01-11
 ========================================
 
 MARKET CLOSE
@@ -12,52 +12,55 @@ VIX: 14
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[0.2%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 [0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.4%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.1%] Will Trump nominate Bill Pulte as the next Fed chair?
-[97.2%] No change in Fed interest rates after January 2026 meeting?
-[2.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[21.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[4.0%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[95.8%] No change in Fed interest rates after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[19.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[0.1%] Will Trump nominate Barron Trump as the next Fed chair?
-[0.1%] Will the Utah Jazz win the 2026 NBA Finals?
-[0.1%] Will Trump nominate himself as the next Fed chair?
-[0.7%] Will the Carolina Panthers win Super Bowl 2026?
+[41.0%] US strikes Iran by January 31, 2026?
+[3.2%] US strikes Iran by January 11, 2026?
+[15.5%] Will Trump acquire Greenland before 2027?
+[35.5%] Israel strikes Iran by January 31, 2026?
+[46.5%] Bills vs. Jaguars
 
 --- TECH & AI (Top 5 Active) ---
-[16.5%] Will Trump acquire Greenland before 2027?
-[99.9%] Over $20M committed to the Ranger public sale?
-[0.9%] Will Vivek Ramaswamy win the 2028 Republican presidential nomination?
-[0.1%] Will the Charlotte Hornets win the 2026 NBA Finals?
-[0.4%] Will Bitcoin reach $150,000 in January?
+[15.5%] Will the Iranian regime fall by January 31?
+[60.0%] Bitcoin Up or Down on January 11?
+[0.4%] Will Tom Brady win the 2028 Republican presidential nomination?
+[2.8%] New "Stranger Things" episode released by January 31? 
+[0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Jordan win the 2026 FIFA World Cup?
-[0.1%] Will the Brooklyn Nets win the 2026 NBA Finals?
-[29.5%] Israel strikes Iran by January 31, 2026?
-[50.5%] Will Udinese Calcio win on 2026-01-10?
-[0.4%] Will Katie Britt win the 2028 Republican presidential nomination?
+[0.4%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+[42.5%] Khamenei out as Supreme Leader of Iran by March 31?
+[30.5%] Pelicans vs. Magic
+[30.5%] 49ers vs. Eagles
+[99.9%] Will the price of Bitcoin be above $86,000 on January 11?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Defense attorney disputes police narrative in Portland Border Patrol shooting - Oregon Public Broadcasting - OPB
-• Russian Offensive Campaign Assessment, January 8, 2026 - Institute for the Study of War
-• ICYMI: Secretary Rollins and Secretary Kennedy Pen Joint Op-ed in Fox News “New Dietary Plan Recommends Real Food for All Americans” - USDA (.gov)
-• Trump blasts 5 Republican senators for war powers vote - PBS
+• Anti-ICE Protests Spread Nationwide After Minneapolis Shooting - The New York Times
+• Trump Is Briefed on Options for Striking Iran as Protests Continue - The New York Times
+• DHS Launches Landmark USCIS Fraud Investigation in Minnesota - USCIS (.gov)
+• Reza Pahlavi, exiled son of Iran's last shah, at centre of protest chants - BBC
 • Gov. Newsom’s last state budget: Here’s what we know - CalMatters
-• Funding America’s Strength: House Passes FY26 Bills on Security, Energy, and Stewardship - House Committee on Appropriations (.gov)
+• Cooler Temperatures Taking Over - KSAT
+• US military strikes Islamic State group targets in Syria, officials say - BBC
 • Judge says Trump administration can’t block child care, other program money for 5 states for now - abcnews.go.com
-• Multiple small avalanches release in Juneau after city issues evacuation advisory - KTOO
 
 ----------------------------------------
 
 TRENDING TOPICS
+• YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube is killing its Trending page a decade after its debut
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Gemini was Google’s top trending search term in 2025
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • Google reveals the top trending searches of 2025
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• Gemini was Google’s top trending search term in 2025
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
