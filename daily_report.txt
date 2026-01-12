@@ -1,68 +1,64 @@
-INTELLIGENCE SNAPSHOT // 2026-01-11
+INTELLIGENCE SNAPSHOT // 2026-01-12
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,966
 DOW J: 49,504
 NASDAQ: 23,671
-VIX: 14
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.2%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 [0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[21.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[4.0%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[95.8%] No change in Fed interest rates after January 2026 meeting?
+[0.2%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[19.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[94.3%] No change in Fed interest rates after January 2026 meeting?
+[5.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[41.0%] US strikes Iran by January 31, 2026?
-[3.2%] US strikes Iran by January 11, 2026?
-[15.5%] Will Trump acquire Greenland before 2027?
-[35.5%] Israel strikes Iran by January 31, 2026?
-[46.5%] Bills vs. Jaguars
+[0.4%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+[4.0%] Russia x Ukraine ceasefire by January 31, 2026?
+[45.0%] US strikes Iran by January 31, 2026?
+[30.0%] Israel strikes Iran by January 31, 2026?
+[0.1%] Will Leeds win the 2025–26 English Premier League?
 
 --- TECH & AI (Top 5 Active) ---
-[15.5%] Will the Iranian regime fall by January 31?
-[60.0%] Bitcoin Up or Down on January 11?
-[0.4%] Will Tom Brady win the 2028 Republican presidential nomination?
-[2.8%] New "Stranger Things" episode released by January 31? 
-[0.1%] Will Raul Perestrello win the 2026 Portugal presidential election?
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
+[16.5%] Will Trump acquire Greenland before 2027?
+[5.6%] Will the San Francisco 49ers win Super Bowl 2026?
+[0.1%] Will Burnley win the 2025–26 English Premier League?
+[0.1%] Will Wolves win the 2025–26 English Premier League?
 
 --- SCIENCE (Top 5 Active) ---
-[0.4%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
-[42.5%] Khamenei out as Supreme Leader of Iran by March 31?
-[30.5%] Pelicans vs. Magic
-[30.5%] 49ers vs. Eagles
-[99.9%] Will the price of Bitcoin be above $86,000 on January 11?
+[0.5%] Will John Thune win the 2028 Republican presidential nomination?
+[2.6%] US strikes Iran by January 12, 2026?
+[0.1%] Will West Ham win the 2025–26 English Premier League?
+[0.1%] Will Jordan win the 2026 FIFA World Cup?
+[1.8%] New "Stranger Things" episode released by January 31? 
 
 ----------------------------------------
 
 TOP HEADLINES
-• Anti-ICE Protests Spread Nationwide After Minneapolis Shooting - The New York Times
-• Trump Is Briefed on Options for Striking Iran as Protests Continue - The New York Times
-• DHS Launches Landmark USCIS Fraud Investigation in Minnesota - USCIS (.gov)
-• Reza Pahlavi, exiled son of Iran's last shah, at centre of protest chants - BBC
-• Gov. Newsom’s last state budget: Here’s what we know - CalMatters
-• Cooler Temperatures Taking Over - KSAT
-• US military strikes Islamic State group targets in Syria, officials say - BBC
-• Judge says Trump administration can’t block child care, other program money for 5 states for now - abcnews.go.com
+• Trump tells Cuba to make a "deal" before it's too late after Maduro ouster - CBS News
+• Chaos erupts as U-Haul drives into crowd during anti-Iranian regime rally in Westwood - ABC7 Los Angeles
+• ICE Minneapolis shooting: Noem to deploy hundreds more federal agents to city - CNBC
+• Australia social media ban: Meta blocks 550,000 accounts under new law - BBC
+• Golden Globes 2026 Winners: ‘One Battle After Another’ Earns 4 Awards, ‘Adolescence’ Leads TV - Variety
+• Richard Codey, former NJ governor who replaced Jim McGreevey, dies at 79 - 6abc Philadelphia
+• January 11, 2026 — Iran protest death toll tops 500 - CNN
+• Largest nursing strike in New York City history looming as contract negotiations continue - ABC News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube is killing its Trending page a decade after its debut
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• Google reveals the top trending searches of 2025
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• Gemini was Google’s top trending search term in 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
 
 ========================================
