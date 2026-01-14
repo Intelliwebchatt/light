@@ -1,64 +1,67 @@
-INTELLIGENCE SNAPSHOT // 2026-01-13
+INTELLIGENCE SNAPSHOT // 2026-01-14
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,977
-DOW J: 49,590
-NASDAQ: 23,734
-VIX: 15
+S&P 500: 6,964
+DOW J: 49,192
+NASDAQ: 23,710
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.4%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 [0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[6.0%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[93.7%] No change in Fed interest rates after January 2026 meeting?
-[0.1%] Will Meituan have the best AI model at the end of January 2026?
+[0.4%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[4.2%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[95.3%] No change in Fed interest rates after January 2026 meeting?
+[0.1%] Will Trump nominate Ron Paul as the next Fed chair?
 
 --- US POLITICS (Top 5 Active) ---
-[18.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[0.1%] Will Trump nominate Ron Paul as the next Fed chair?
-[1.8%] New "Stranger Things" episode released by January 31? 
-[0.1%] Will Frank Donovan be the leader of Venezuela end of 2026?
-[59.5%] US strikes Iran by January 31, 2026?
+[22.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[0.4%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
+[0.2%] Will 2025 be the hottest year on record?
+[0.5%] Will Elise Stefanik win the 2028 Republican presidential nomination?
+[67.5%] US strikes Iran by January 31, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[24.5%] US strikes Iran by January 16, 2026?
-[5.5%] US strikes Iran by January 13, 2026?
-[0.1%] Will Elon Musk post 300-319 tweets from January 9 to January 16, 2026?
-[5.2%] Will André Ventura win the 2026 Portugal presidential election?
-[7.5%] Will the Iranian regime fall by January 31?
+[0.5%] Will Elon Musk win the 2028 Republican presidential nomination?
+[34.0%] US strikes Iran by January 16, 2026?
+[12.5%] Will the Iranian regime fall by January 31?
+[0.1%] Will Trump nominate Bill Pulte as the next Fed chair?
+[17.5%] Will Trump acquire Greenland before 2027?
 
 --- SCIENCE (Top 5 Active) ---
-[17.5%] Will Trump acquire Greenland before 2027?
-[38.5%] Israel strikes Iran by January 31, 2026?
-[0.7%] Will Kim Kardashian win the 2028 Democratic presidential nomination?
-[50.5%] Suns vs. Heat
-[0.4%] Will Bitcoin reach $150,000 in January?
+[52.5%] Israel strikes Iran by January 31, 2026?
+[47.5%] Will Bitcoin reach $100,000 in January?
+[0.1%] Will Frank Donovan be the leader of Venezuela end of 2026?
+[0.8%] Israel nuclear weapon use against Iran by January 31?
+[2.9%] Russia x Ukraine ceasefire by January 31, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• What a U.S. intervention in Iran could look like as Trump weighs options - CNBC
-• Danish officials hope to calm the conversation over Greenland - Financial Times
-• Nurses strike begins in New York City as thousands walk off jobs at major hospitals - CBS News
-• Suspect arrested after a fire damages a historic Mississippi synagogue - ABC News
-• Australia social media ban: Meta blocks 550,000 accounts under new law - BBC
-• Trump’s move to pull US from key UN climate treaty may be illegal, experts say - The Guardian
-• Secretary of War Pete Hegseth to Travel to Brownsville and Fort Worth, Texas - U.S. Department of War (.gov)
-• South Korea's Lee to head for Japan summit a week after meeting China's Xi - Reuters
+• The scariest thing about Iran’s crackdown - vox.com
+• Greenland takes pleas to UK parliament - politico.eu
+• At least 6 Minnesota federal prosecutors resign amid pressure to treat Renee Good killing as assault on ICE agent - CBS News
+• Yoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt - BBC
+• Mississippi Man Arrested for Arson of Beth Israel and the Goldring/Woldenberg Institute of Southern Jewish Life - Department of Justice (.gov)
+• Marketplace 2026 Open Enrollment Period Report: National Snapshot - Centers for Medicare & Medicaid Services | CMS (.gov)
+• Venezuela Frees Several Americans From Prison, U.S. Says - The New York Times
+• Gov. Mike Kehoe wants voters to decide whether Missouri should eliminate its income tax - Missouri Independent
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Trending is out—YouTube is now all about your interests
-• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube is killing its Trending page a decade after its debut
+• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Google reveals the top trending searches of 2025
-• Gemini was Google’s top trending search term in 2025
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
 
 ========================================
 END TRANSMISSION
