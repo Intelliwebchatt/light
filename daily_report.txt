@@ -1,11 +1,11 @@
-INTELLIGENCE SNAPSHOT // 2026-01-14
+INTELLIGENCE SNAPSHOT // 2026-01-15
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,964
-DOW J: 49,192
-NASDAQ: 23,710
-VIX: 17
+S&P 500: 6,927
+DOW J: 49,150
+NASDAQ: 23,472
+VIX: 16
 
 ----------------------------------------
 
@@ -14,54 +14,47 @@ PREDICTION MARKETS
 --- GEOPOLITICS (Top 5 Active) ---
 [0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
 [0.4%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[4.2%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[95.3%] No change in Fed interest rates after January 2026 meeting?
-[0.1%] Will Trump nominate Ron Paul as the next Fed chair?
+[17.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[5.5%] US strikes Iran by January 15, 2026?
+[4.9%] Fed decreases interest rates by 25 bps after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[22.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[0.4%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
-[0.2%] Will 2025 be the hottest year on record?
-[0.5%] Will Elise Stefanik win the 2028 Republican presidential nomination?
-[67.5%] US strikes Iran by January 31, 2026?
+[0.1%] Will Paulo Portas win the 2026 Portugal presidential election?
+[0.4%] Will the Memphis Grizzlies win the 2026 NBA Finals?
+[94.8%] No change in Fed interest rates after January 2026 meeting?
+[42.5%] US strikes Iran by January 31, 2026?
+[9.5%] US strikes Iran by January 16, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.5%] Will Elon Musk win the 2028 Republican presidential nomination?
-[34.0%] US strikes Iran by January 16, 2026?
-[12.5%] Will the Iranian regime fall by January 31?
-[0.1%] Will Trump nominate Bill Pulte as the next Fed chair?
-[17.5%] Will Trump acquire Greenland before 2027?
+[30.5%] Israel strikes Iran by January 31, 2026?
+[0.1%] Will Trump nominate Ron Paul as the next Fed chair?
+[6.5%] Will the Iranian regime fall by January 31?
+[0.9%] Will LeBron James win the 2028 Democratic presidential nomination?
+[20.5%] US strikes Iran by January 18, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[52.5%] Israel strikes Iran by January 31, 2026?
-[47.5%] Will Bitcoin reach $100,000 in January?
-[0.1%] Will Frank Donovan be the leader of Venezuela end of 2026?
-[0.8%] Israel nuclear weapon use against Iran by January 31?
-[2.9%] Russia x Ukraine ceasefire by January 31, 2026?
+[35.5%] Khamenei out as Supreme Leader of Iran by March 31?
+[0.1%] Will Catarina Martins win the 2026 Portugal presidential election?
+[61.0%] Will Bitcoin reach $100,000 in January?
+[17.5%] Will Trump acquire Greenland before 2027?
+[31.0%] US strikes Iran by January 23, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• The scariest thing about Iran’s crackdown - vox.com
-• Greenland takes pleas to UK parliament - politico.eu
-• At least 6 Minnesota federal prosecutors resign amid pressure to treat Renee Good killing as assault on ICE agent - CBS News
-• Yoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt - BBC
-• Mississippi Man Arrested for Arson of Beth Israel and the Goldring/Woldenberg Institute of Southern Jewish Life - Department of Justice (.gov)
-• Marketplace 2026 Open Enrollment Period Report: National Snapshot - Centers for Medicare & Medicaid Services | CMS (.gov)
-• Venezuela Frees Several Americans From Prison, U.S. Says - The New York Times
-• Gov. Mike Kehoe wants voters to decide whether Missouri should eliminate its income tax - Missouri Independent
+• Federal Agent Shoots Man in Minneapolis, Prompting Tense Protests - The New York Times
+• Trump would want military action in Iran to be swift and decisive, sources say - NBC News
+• U.S. freezes new immigrant visas for 75 countries: See the full list - CNBC
+• X to stop Grok AI from undressing images of real people after backlash - BBC
+• Trump administration rolls back $2 billion mental health, addiction grant cuts - NPR
+• Woman Killed by ICE Agent Seemed at Fault, N.Y. Republican Says - The New York Times
+• Boeing Knew About Flaws in UPS Plane That Crashed in Louisville, N.T.S.B. Says - The New York Times
+• Colbert Jokes That Trump Has Found ‘a New National Bird’ - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
-• YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
+• Google reveals the top trending searches of 2025
 
 ========================================
 END TRANSMISSION
