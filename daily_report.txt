@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-01-15
+INTELLIGENCE SNAPSHOT // 2026-01-16
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,927
-DOW J: 49,150
-NASDAQ: 23,472
+S&P 500: 6,944
+DOW J: 49,442
+NASDAQ: 23,530
 VIX: 16
 
 ----------------------------------------
@@ -12,49 +12,51 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
 [0.4%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[17.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[5.5%] US strikes Iran by January 15, 2026?
-[4.9%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[8.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[2.8%] US strikes Iran by January 16, 2026?
+[95.5%] No change in Fed interest rates after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Paulo Portas win the 2026 Portugal presidential election?
-[0.4%] Will the Memphis Grizzlies win the 2026 NBA Finals?
-[94.8%] No change in Fed interest rates after January 2026 meeting?
-[42.5%] US strikes Iran by January 31, 2026?
-[9.5%] US strikes Iran by January 16, 2026?
+[33.5%] US strikes Iran by January 31, 2026?
+[4.0%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[0.1%] Will Joana Amaral Dias win the 2026 Portugal presidential election?
+[0.1%] Will Trump nominate Bill Pulte as the next Fed chair?
+[0.5%] Will Mike Pence win the 2028 Republican presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[30.5%] Israel strikes Iran by January 31, 2026?
+[0.1%] Will Catarina Martins win the 2026 Portugal presidential election?
 [0.1%] Will Trump nominate Ron Paul as the next Fed chair?
-[6.5%] Will the Iranian regime fall by January 31?
-[0.9%] Will LeBron James win the 2028 Democratic presidential nomination?
-[20.5%] US strikes Iran by January 18, 2026?
+[7.5%] US strikes Iran by January 18, 2026?
+[0.1%] Will Trump nominate Philip Jefferson as the next Fed chair?
+[0.1%] Will Saudi Aramco be the largest company in the world by market cap on January 31?
 
 --- SCIENCE (Top 5 Active) ---
-[35.5%] Khamenei out as Supreme Leader of Iran by March 31?
-[0.1%] Will Catarina Martins win the 2026 Portugal presidential election?
-[61.0%] Will Bitcoin reach $100,000 in January?
-[17.5%] Will Trump acquire Greenland before 2027?
-[31.0%] US strikes Iran by January 23, 2026?
+[23.5%] Israel strikes Iran by January 31, 2026?
+[0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
+[4.7%] Will the Iranian regime fall by January 31?
+[26.5%] Khamenei out as Supreme Leader of Iran by March 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Federal Agent Shoots Man in Minneapolis, Prompting Tense Protests - The New York Times
-• Trump would want military action in Iran to be swift and decisive, sources say - NBC News
-• U.S. freezes new immigrant visas for 75 countries: See the full list - CNBC
-• X to stop Grok AI from undressing images of real people after backlash - BBC
-• Trump administration rolls back $2 billion mental health, addiction grant cuts - NPR
-• Woman Killed by ICE Agent Seemed at Fault, N.Y. Republican Says - The New York Times
-• Boeing Knew About Flaws in UPS Plane That Crashed in Louisville, N.T.S.B. Says - The New York Times
-• Colbert Jokes That Trump Has Found ‘a New National Bird’ - The New York Times
+• Canada, China slash EV, canola tariffs in reset of ties - Reuters
+• Trump announces outlines of health care plan he wants Congress to consider - AP News
+• Medical examiner believes death of man in ICE custody was homicide, recording says - The Washington Post
+• How Minneapolis became America's flashpoint for protests - Axios
+• Majority of Americans say ICE agent’s shooting of Good was unjustified and inappropriate; ICE making cities less safe - ABC News
+• Judge blocks Trump administration from getting California’s voter rolls - The Washington Post
+• Republicans are scrambling to counter Trump on Greenland - Politico
+• Alleged Charlie Kirk assassin Tyler Robinson’s defense is set to argue to disqualify prosecutors from the case - CNN
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
+• Top trending searches of 2025 revealed by Google. See what made the list.
 
 ========================================
 END TRANSMISSION
