@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-01-16
+INTELLIGENCE SNAPSHOT // 2026-01-17
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,944
-DOW J: 49,442
-NASDAQ: 23,530
+S&P 500: 6,940
+DOW J: 49,359
+NASDAQ: 23,515
 VIX: 16
 
 ----------------------------------------
@@ -14,48 +14,47 @@ PREDICTION MARKETS
 --- GEOPOLITICS (Top 5 Active) ---
 [0.4%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 [0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[8.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[2.8%] US strikes Iran by January 16, 2026?
-[95.5%] No change in Fed interest rates after January 2026 meeting?
-
---- US POLITICS (Top 5 Active) ---
-[33.5%] US strikes Iran by January 31, 2026?
-[4.0%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[0.1%] Will Joana Amaral Dias win the 2026 Portugal presidential election?
-[0.1%] Will Trump nominate Bill Pulte as the next Fed chair?
-[0.5%] Will Mike Pence win the 2028 Republican presidential nomination?
-
---- TECH & AI (Top 5 Active) ---
-[0.1%] Will Catarina Martins win the 2026 Portugal presidential election?
-[0.1%] Will Trump nominate Ron Paul as the next Fed chair?
-[7.5%] US strikes Iran by January 18, 2026?
-[0.1%] Will Trump nominate Philip Jefferson as the next Fed chair?
+[0.5%] Will the Memphis Grizzlies win the 2026 NBA Finals?
+[4.5%] Khamenei out as Supreme Leader of Iran by January 31?
 [0.1%] Will Saudi Aramco be the largest company in the world by market cap on January 31?
 
---- SCIENCE (Top 5 Active) ---
-[23.5%] Israel strikes Iran by January 31, 2026?
+--- US POLITICS (Top 5 Active) ---
 [0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
+[17.5%] Will Trump nominate Kevin Hassett as the next Fed chair?
 [0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[4.7%] Will the Iranian regime fall by January 31?
-[26.5%] Khamenei out as Supreme Leader of Iran by March 31?
+[0.1%] Will Trump nominate Philip Jefferson as the next Fed chair?
+[95.2%] No change in Fed interest rates after January 2026 meeting?
+
+--- TECH & AI (Top 5 Active) ---
+[4.3%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[0.5%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+[56.0%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[18.5%] US strikes Iran by January 31, 2026?
+[2.5%] Russia x Ukraine ceasefire by January 31, 2026?
+
+--- SCIENCE (Top 5 Active) ---
+[42.5%] Will Manchester City FC win on 2026-01-17?
+[16.5%] Will Trump acquire Greenland before 2027?
+[2.1%] US strikes Iran by January 18, 2026?
+[14.5%] Will Trump nominate Christopher Waller as the next Fed chair?
+[1.5%] US strikes Iran by January 17, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Canada, China slash EV, canola tariffs in reset of ties - Reuters
-• Trump announces outlines of health care plan he wants Congress to consider - AP News
-• Medical examiner believes death of man in ICE custody was homicide, recording says - The Washington Post
-• How Minneapolis became America's flashpoint for protests - Axios
-• Majority of Americans say ICE agent’s shooting of Good was unjustified and inappropriate; ICE making cities less safe - ABC News
-• Judge blocks Trump administration from getting California’s voter rolls - The Washington Post
-• Republicans are scrambling to counter Trump on Greenland - Politico
-• Alleged Charlie Kirk assassin Tyler Robinson’s defense is set to argue to disqualify prosecutors from the case - CNN
+• Justice Dept. launches criminal investigation of Minnesota governor - The Washington Post
+• Agent Who Shot Renee Good in Minneapolis Was Trained to Track and Apprehend Fugitives - The New York Times
+• Some policy experts struggle to make sense of new Trump health plan - ABC News
+• Ongoing Southern California immigration raids sparking fear in communities - ABC7 Los Angeles
+• Disastrous poll shows Trump’s White House return is a ‘failure’: Americans say he’s ‘gone too far’ - AL.com
+• Man Who Attacked ‘Grandpa Vicha’ in San Francisco Is Found Not Guilty of Murder - The New York Times
+• Trump says he may punish countries with tariffs if they don’t back the US controlling Greenland - AP News
+• Xi’s Enforcers Punished Nearly a Million in 2025—and China’s Leader Wants More - The Wall Street Journal
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Google reveals the top trending searches of 2025
-• Gemini was Google’s top trending search term in 2025
 • Top trending searches of 2025 revealed by Google. See what made the list.
 
 ========================================
