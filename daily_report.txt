@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-01-18
+INTELLIGENCE SNAPSHOT // 2026-01-19
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,940
 DOW J: 49,359
 NASDAQ: 23,515
-VIX: 16
+VIX: 19
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.4%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.2%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 [0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[4.0%] Will André Ventura win the 2026 Portugal presidential election?
 [20.5%] Will Trump acquire Greenland before 2027?
-[7.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[95.9%] No change in Fed interest rates after January 2026 meeting?
+[96.2%] No change in Fed interest rates after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] Will Trump say "Unbelievable" or "Fantastic" or "Incredible" 10+ times during Panthers visit?
-[3.8%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[1.1%] US strikes Iran by January 18, 2026?
-[8.1%] Will the Denver Broncos win Super Bowl 2026?
-[11.5%] Will Trump nominate Kevin Hassett as the next Fed chair?
+[0.1%] Will João Cotrim Figueiredo win the 2026 Portugal presidential election?
+[0.1%] Will Pete Hegseth be the leader of Venezuela end of 2026?
+[3.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[6.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[0.4%] Will Bitcoin reach $150,000 in January?
-[64.5%] Rams vs. Bears
-[2.6%] Russia x Ukraine ceasefire by January 31, 2026?
-[19.5%] US strikes Iran by January 31, 2026?
+[96.0%] Will António José Seguro win the 2026 Portugal presidential election?
+[0.2%] Will Melania say "Career" during AI talk on Friday?
+[1.9%] Russia x Ukraine ceasefire by January 31, 2026?
+[6.9%] Will the Denver Broncos win Super Bowl 2026?
+[10.5%] US strikes Iran by January 23, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[5.1%] Will André Ventura win the 2026 Portugal presidential election?
-[37.5%] Texans vs. Patriots
-[9.0%] US strikes Iran by January 23, 2026?
-[0.1%] Will Trae Young win the 2025–2026 NBA MVP?
-[0.1%] Will Brentford win the 2025–26 English Premier League?
+[27.5%] US strikes Iran by January 31, 2026?
+[6.5%] Will Trump nominate Kevin Hassett as the next Fed chair?
+[26.4%] Will the New England Patriots win Super Bowl 2026?
+[0.1%] Will Luís Marques Mendes win the 2026 Portugal presidential election?
+[0.1%] Will Henrique Gouveia e Melo win the 2026 Portugal presidential election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Amid ICE clashes, New Hampshire bishop urges clergy to prepare their wills - NPR
-• "Gaza is our show": U.S. pushes its plan over Netanyahu's objections - Axios
-• Trump to POLITICO: ‘It’s time to look for new leadership in Iran’ - Politico
-• Exclusive: US talks with hardline Venezuelan minister Cabello began months before raid - Reuters
-• Back-to-back winter storms hit the East this weekend with arctic blast behind them next week - ABC News
-• Pennsylvania woman's final moments captured on home security video. Will it help prove she was murdered? - CBS News
-• Pentagon readies 1,500 soldiers to possibly deploy to Minnesota, officials say - The Washington Post
-• Shooting at Historic New Orleans Restaurant Leaves One Dead, Several Wounded - The New York Times
+• Trump tariffs live updates: EU discusses $108 billion in retaliatory tariffs; Danish PM says Europe 'will not be blackmailed' - Yahoo Finance
+• FBI Asks Agents to Travel to Minneapolis for Temporary Duty - Bloomberg.com
+• Counterprotesters chase off far-right activists at pro-ICE rally in Minneapolis - The Guardian
+• FBI opened probe on Minneapolis shooting; none exists now, Justice Dept. says - The Washington Post
+• Canada’s Tariff Cut Just Made This High-Tech Chinese EV 50% Cheaper - InsideEVs
+• Here are the 10 executive orders Gov. Abigail Spanberger signed Day 1 - VPM
+• Man detained in Minneapolis dies in ICE custody in Texas - MPR News
+• Erie County issues a travel advisory as major winter storm approaches - WGRZ
 
 ----------------------------------------
 
