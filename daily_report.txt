@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-01-19
+INTELLIGENCE SNAPSHOT // 2026-01-20
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,940
 DOW J: 49,359
 NASDAQ: 23,515
-VIX: 19
+VIX: 20
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.2%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.1%] Will Melania say "Career" during AI talk on Friday?
+[0.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[0.4%] Will the Memphis Grizzlies win the 2026 NBA Finals?
 [0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[4.0%] Will André Ventura win the 2026 Portugal presidential election?
-[20.5%] Will Trump acquire Greenland before 2027?
-[96.2%] No change in Fed interest rates after January 2026 meeting?
+[19.5%] Will Trump acquire Greenland before 2027?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will João Cotrim Figueiredo win the 2026 Portugal presidential election?
+[2.6%] Fed decreases interest rates by 25 bps after January 2026 meeting?
 [0.1%] Will Pete Hegseth be the leader of Venezuela end of 2026?
-[3.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[6.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
+[97.2%] No change in Fed interest rates after January 2026 meeting?
+[20.5%] US strikes Iran by January 31, 2026?
+[3.5%] Will André Ventura win the 2026 Portugal presidential election?
 
 --- TECH & AI (Top 5 Active) ---
-[96.0%] Will António José Seguro win the 2026 Portugal presidential election?
-[0.2%] Will Melania say "Career" during AI talk on Friday?
-[1.9%] Russia x Ukraine ceasefire by January 31, 2026?
-[6.9%] Will the Denver Broncos win Super Bowl 2026?
-[10.5%] US strikes Iran by January 23, 2026?
+[0.1%] Will Elon Musk post 460-479 tweets from January 13 to January 20, 2026?
+[0.1%] Will Mistral have the best AI model at the end of January 2026?
+[4.5%] US strikes Iran by January 23, 2026?
+[0.4%] Will Hillary Clinton win the 2028 Democratic presidential nomination?
+[5.5%] Khamenei out as Supreme Leader of Iran by January 31?
 
 --- SCIENCE (Top 5 Active) ---
-[27.5%] US strikes Iran by January 31, 2026?
-[6.5%] Will Trump nominate Kevin Hassett as the next Fed chair?
-[26.4%] Will the New England Patriots win Super Bowl 2026?
-[0.1%] Will Luís Marques Mendes win the 2026 Portugal presidential election?
-[0.1%] Will Henrique Gouveia e Melo win the 2026 Portugal presidential election?
+[0.1%] Will Slavia Pragu win the 2025–26 Champions League?
+[100.0%] Manhattan Jaspers vs. Quinnipiac Bobcats: O/U 154.5
+[0.2%] Will Bitcoin reach $150,000 in January?
+[0.1%] Will the price of Bitcoin be above $100,000 on January 20?
+[0.1%] Will the Sacramento Kings win the 2026 NBA Finals?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump tariffs live updates: EU discusses $108 billion in retaliatory tariffs; Danish PM says Europe 'will not be blackmailed' - Yahoo Finance
-• FBI Asks Agents to Travel to Minneapolis for Temporary Duty - Bloomberg.com
-• Counterprotesters chase off far-right activists at pro-ICE rally in Minneapolis - The Guardian
-• FBI opened probe on Minneapolis shooting; none exists now, Justice Dept. says - The Washington Post
-• Canada’s Tariff Cut Just Made This High-Tech Chinese EV 50% Cheaper - InsideEVs
-• Here are the 10 executive orders Gov. Abigail Spanberger signed Day 1 - VPM
-• Man detained in Minneapolis dies in ICE custody in Texas - MPR News
-• Erie County issues a travel advisory as major winter storm approaches - WGRZ
+• Dow futures tumble nearly 700 points after Trump threatens new tariffs over Greenland: Live updates - CNBC
+• Trump Issues M.L.K. Day Proclamation After Criticism - The New York Times
+• What we know so far about high-speed train crash in Spain - The Guardian
+• Prince Harry v Daily Mail live: Prince Harry and Liz Hurley in court for second day - BBC
+• Alexander brothers set to face federal sex trafficking charges - ABC News
+• Trump threatens 200% tariff on French wines as Macron reportedly snubs 'Board of Peace' seat - CNBC
+• Britain approves ‘mega’ Chinese embassy in London despite national security fears - CNN
+• Australia set to pass tougher laws on guns, hate crimes after Bondi shooting - Reuters
 
 ----------------------------------------
 
