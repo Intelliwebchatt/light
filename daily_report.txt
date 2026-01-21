@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-01-20
+INTELLIGENCE SNAPSHOT // 2026-01-21
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,940
-DOW J: 49,359
-NASDAQ: 23,515
+S&P 500: 6,797
+DOW J: 48,489
+NASDAQ: 22,954
 VIX: 20
 
 ----------------------------------------
@@ -12,49 +12,50 @@ VIX: 20
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Melania say "Career" during AI talk on Friday?
+[0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
 [0.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.4%] Will the Memphis Grizzlies win the 2026 NBA Finals?
-[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[19.5%] Will Trump acquire Greenland before 2027?
+[98.2%] No change in Fed interest rates after January 2026 meeting?
+[1.8%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[0.1%] Will Mistral have the best AI model at the end of January 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[2.6%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[0.1%] Will Pete Hegseth be the leader of Venezuela end of 2026?
-[97.2%] No change in Fed interest rates after January 2026 meeting?
-[20.5%] US strikes Iran by January 31, 2026?
-[3.5%] Will André Ventura win the 2026 Portugal presidential election?
+[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[18.5%] Will Trump acquire Greenland before 2027?
+[4.5%] US strikes Iran by January 23, 2026?
+[0.7%] Will Phil Murphy win the 2028 Democratic presidential nomination?
+[31.1%] Will there be at least 10000 measles cases in the U.S. in 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Elon Musk post 460-479 tweets from January 13 to January 20, 2026?
-[0.1%] Will Mistral have the best AI model at the end of January 2026?
-[4.5%] US strikes Iran by January 23, 2026?
-[0.4%] Will Hillary Clinton win the 2028 Democratic presidential nomination?
+[0.1%] Will Trump nominate Philip Jefferson as the next Fed chair?
+[23.5%] US strikes Iran by January 31, 2026?
 [5.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[0.9%] Russia x Ukraine ceasefire by January 31, 2026?
+[0.1%] Will the price of Bitcoin be above $94,000 on January 21?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Slavia Pragu win the 2025–26 Champions League?
-[100.0%] Manhattan Jaspers vs. Quinnipiac Bobcats: O/U 154.5
+[0.1%] Will Pete Hegseth be the leader of Venezuela end of 2026?
 [0.2%] Will Bitcoin reach $150,000 in January?
-[0.1%] Will the price of Bitcoin be above $100,000 on January 20?
-[0.1%] Will the Sacramento Kings win the 2026 NBA Finals?
+[91.5%] Will To Lam be elected General Secretary of the Vietnamese Communist Party?
+[99.8%] Will Netflix say "Warner Bros" during earnings call?
+[0.4%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Dow futures tumble nearly 700 points after Trump threatens new tariffs over Greenland: Live updates - CNBC
-• Trump Issues M.L.K. Day Proclamation After Criticism - The New York Times
-• What we know so far about high-speed train crash in Spain - The Guardian
-• Prince Harry v Daily Mail live: Prince Harry and Liz Hurley in court for second day - BBC
-• Alexander brothers set to face federal sex trafficking charges - ABC News
-• Trump threatens 200% tariff on French wines as Macron reportedly snubs 'Board of Peace' seat - CNBC
-• Britain approves ‘mega’ Chinese embassy in London despite national security fears - CNN
-• Australia set to pass tougher laws on guns, hate crimes after Bondi shooting - Reuters
+• Stock futures are little changed after S&P 500 and Dow notch worst day since October: Live updates - CNBC
+• Lindsey Halligan out as U.S. attorney following pressure from judges - The Washington Post
+• ChongLy Scott Thao, Hmong Immigrant and U.S. Citizen, Arrested by ICE - The New York Times
+• Trump set to face a diplomatic intervention on Greenland in Davos - CNN
+• Spain train crash: Driver killed in derailment near Barcelona - BBC
+• Minnesota is the eye of the Trump storm - Politico
+• Threat of significant winter weather across north Georgia this weekend - wsbtv.com
+• Former Prime Minister Han sentenced to 23 years for aiding Yoon's Dec. 3 insurrection - koreajoongangdaily.joins.com
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
 ========================================
