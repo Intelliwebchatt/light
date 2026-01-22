@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-01-21
+INTELLIGENCE SNAPSHOT // 2026-01-22
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,797
-DOW J: 48,489
-NASDAQ: 22,954
-VIX: 20
+S&P 500: 6,876
+DOW J: 49,077
+NASDAQ: 23,225
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[11.5%] Will Trump acquire Greenland before 2027?
 [0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
-[0.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[98.2%] No change in Fed interest rates after January 2026 meeting?
 [1.8%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[0.1%] Will Mistral have the best AI model at the end of January 2026?
+[98.0%] No change in Fed interest rates after January 2026 meeting?
+[0.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[18.5%] Will Trump acquire Greenland before 2027?
-[4.5%] US strikes Iran by January 23, 2026?
-[0.7%] Will Phil Murphy win the 2028 Democratic presidential nomination?
-[31.1%] Will there be at least 10000 measles cases in the U.S. in 2026?
+[99.9%] Will Netflix say "Warner Bros" during earnings call?
+[26.5%] Will the US acquire part of Greenland in 2026?
+[24.1%] Will there be at least 10000 measles cases in the U.S. in 2026?
+[0.1%] Will Tottenham win the 2025–26 English Premier League?
+[93.2%] Will To Lam be elected General Secretary of the Vietnamese Communist Party?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Trump nominate Philip Jefferson as the next Fed chair?
-[23.5%] US strikes Iran by January 31, 2026?
-[5.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[0.9%] Russia x Ukraine ceasefire by January 31, 2026?
-[0.1%] Will the price of Bitcoin be above $94,000 on January 21?
+[19.5%] US strikes Iran by January 31, 2026?
+[2.9%] US strikes Iran by January 23, 2026?
+[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.2%] Will Bitcoin reach $150,000 in January?
+[0.1%] Will Z.ai have the best AI model at the end of January 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Pete Hegseth be the leader of Venezuela end of 2026?
-[0.2%] Will Bitcoin reach $150,000 in January?
-[91.5%] Will To Lam be elected General Secretary of the Vietnamese Communist Party?
-[99.8%] Will Netflix say "Warner Bros" during earnings call?
-[0.4%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
+[0.8%] Will Luong Cuong be elected General Secretary of the Vietnamese Communist Party?
+[1.8%] Russia x Ukraine ceasefire by January 31, 2026?
+[1.5%] Will Tran Cam Tu be elected General Secretary of the Vietnamese Communist Party?
+[0.4%] Will Chelsea Clinton win the 2028 Democratic presidential nomination?
+[2.9%] Will Trump nominate Scott Bessent as the next Fed chair?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Stock futures are little changed after S&P 500 and Dow notch worst day since October: Live updates - CNBC
-• Lindsey Halligan out as U.S. attorney following pressure from judges - The Washington Post
-• ChongLy Scott Thao, Hmong Immigrant and U.S. Citizen, Arrested by ICE - The New York Times
-• Trump set to face a diplomatic intervention on Greenland in Davos - CNN
-• Spain train crash: Driver killed in derailment near Barcelona - BBC
-• Minnesota is the eye of the Trump storm - Politico
-• Threat of significant winter weather across north Georgia this weekend - wsbtv.com
-• Former Prime Minister Han sentenced to 23 years for aiding Yoon's Dec. 3 insurrection - koreajoongangdaily.joins.com
+• China Wins as Trump Cedes Leadership of the Global Economy - The New York Times
+• NATO’s Mark Rutte emerges as Trump whisperer-in-chief after dramatic about-face at Davos - CNN
+• Trump's jibes are wearing thin for many of Europe's leaders - BBC
+• It Will Feel Like 35 Below Zero In Chicago During Weekend Cold Snap - blockclubchicago.org
+• How Texas is getting ready for this weekend’s winter storm - texastribune.org
+• US set to quit World Health Organization - Reuters
+• Trump tariffs live updates: Trump calls off tariffs on Europe over Greenland after reaching deal 'framework' - Yahoo Finance
+• In populist split, Trump’s fans in Europe broke with him on Greenland - The Washington Post
 
 ----------------------------------------
 
