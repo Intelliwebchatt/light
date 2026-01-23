@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-01-22
+INTELLIGENCE SNAPSHOT // 2026-01-23
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,876
-DOW J: 49,077
-NASDAQ: 23,225
+S&P 500: 6,913
+DOW J: 49,384
+NASDAQ: 23,436
 VIX: 16
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[11.5%] Will Trump acquire Greenland before 2027?
-[0.1%] Will Trump nominate Arthur Laffer as the next Fed chair?
-[1.8%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[98.0%] No change in Fed interest rates after January 2026 meeting?
 [0.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
+[1.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[98.5%] No change in Fed interest rates after January 2026 meeting?
+[0.1%] Will Trump say "Million" or "Billion" or "Trillion" 10+ times during CNBC interview?
+[32.4%] Will there be at least 10000 measles cases in the U.S. in 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[99.9%] Will Netflix say "Warner Bros" during earnings call?
-[26.5%] Will the US acquire part of Greenland in 2026?
-[24.1%] Will there be at least 10000 measles cases in the U.S. in 2026?
-[0.1%] Will Tottenham win the 2025–26 English Premier League?
-[93.2%] Will To Lam be elected General Secretary of the Vietnamese Communist Party?
+[100.0%] Will Netflix say "Warner Bros" during earnings call?
+[2.7%] US strikes Iran by January 23, 2026?
+[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
+[0.8%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
+[1.8%] Russia x Ukraine ceasefire by January 31, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[19.5%] US strikes Iran by January 31, 2026?
-[2.9%] US strikes Iran by January 23, 2026?
+[24.5%] US strikes Iran by January 31, 2026?
 [0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[0.2%] Will Bitcoin reach $150,000 in January?
-[0.1%] Will Z.ai have the best AI model at the end of January 2026?
+[26.0%] Will the US acquire part of Greenland in 2026?
+[17.5%] Russia x Ukraine ceasefire by March 31, 2026?
+[0.1%] Will the Sacramento Kings win the 2026 NBA Finals?
 
 --- SCIENCE (Top 5 Active) ---
-[0.8%] Will Luong Cuong be elected General Secretary of the Vietnamese Communist Party?
-[1.8%] Russia x Ukraine ceasefire by January 31, 2026?
-[1.5%] Will Tran Cam Tu be elected General Secretary of the Vietnamese Communist Party?
-[0.4%] Will Chelsea Clinton win the 2028 Democratic presidential nomination?
-[2.9%] Will Trump nominate Scott Bessent as the next Fed chair?
+[0.2%] Will Bitcoin reach $150,000 in January?
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
+[89.5%] Will Tô Lâm be the next President of Vietnam?
+[13.5%] Will Trump acquire Greenland before 2027?
+[0.1%] Will Tottenham win the 2025–26 English Premier League?
 
 ----------------------------------------
 
 TOP HEADLINES
-• China Wins as Trump Cedes Leadership of the Global Economy - The New York Times
-• NATO’s Mark Rutte emerges as Trump whisperer-in-chief after dramatic about-face at Davos - CNN
-• Trump's jibes are wearing thin for many of Europe's leaders - BBC
-• It Will Feel Like 35 Below Zero In Chicago During Weekend Cold Snap - blockclubchicago.org
-• How Texas is getting ready for this weekend’s winter storm - texastribune.org
-• US set to quit World Health Organization - Reuters
-• Trump tariffs live updates: Trump calls off tariffs on Europe over Greenland after reaching deal 'framework' - Yahoo Finance
-• In populist split, Trump’s fans in Europe broke with him on Greenland - The Washington Post
+• Trump's envoys meet Putin for four hours on Ukraine - Axios
+• Weather update: Friday classes canceled - news.wisc.edu
+• ‘We have to stand together’: Minnesota economic blackout organizers push to take demonstrations nationwide - The Guardian
+• House passes DHS funding bill despite Democratic opposition over ICE - The Washington Post
+• Immigration Agents Detain 5-Year-Old Boy in Minnesota, Prompting Outrage - The New York Times
+• Triggered Trump Melts Down at Newsom in Unhinged Complaint - The Daily Beast
+• Trump looks left on cost of living concerns - Politico
+• Column | Trump dominated Davos. But Canada’s Carney was the star. - The Washington Post
 
 ----------------------------------------
 
