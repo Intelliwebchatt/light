@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-01-23
+INTELLIGENCE SNAPSHOT // 2026-01-24
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,913
-DOW J: 49,384
-NASDAQ: 23,436
+S&P 500: 6,916
+DOW J: 49,099
+NASDAQ: 23,501
 VIX: 16
 
 ----------------------------------------
@@ -13,43 +13,43 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [0.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[1.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[98.5%] No change in Fed interest rates after January 2026 meeting?
+[98.8%] No change in Fed interest rates after January 2026 meeting?
+[0.9%] Fed decreases interest rates by 25 bps after January 2026 meeting?
 [0.1%] Will Trump say "Million" or "Billion" or "Trillion" 10+ times during CNBC interview?
-[32.4%] Will there be at least 10000 measles cases in the U.S. in 2026?
+[22.5%] US strikes Iran by January 31, 2026?
 
 --- US POLITICS (Top 5 Active) ---
+[9.5%] US strikes Iran by January 26, 2026?
 [100.0%] Will Netflix say "Warner Bros" during earnings call?
-[2.7%] US strikes Iran by January 23, 2026?
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[0.8%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
-[1.8%] Russia x Ukraine ceasefire by January 31, 2026?
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
+[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.5%] Will Scotland win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[24.5%] US strikes Iran by January 31, 2026?
-[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[26.0%] Will the US acquire part of Greenland in 2026?
-[17.5%] Russia x Ukraine ceasefire by March 31, 2026?
-[0.1%] Will the Sacramento Kings win the 2026 NBA Finals?
+[5.5%] Khamenei out as Supreme Leader of Iran by January 31?
+[99.6%] Will the US strike Somalia next?
+[27.9%] Will there be at least 10000 measles cases in the U.S. in 2026?
+[0.1%] Will Bitcoin reach $150,000 in January?
+[0.9%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Will Bitcoin reach $150,000 in January?
-[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[89.5%] Will Tô Lâm be the next President of Vietnam?
-[13.5%] Will Trump acquire Greenland before 2027?
-[0.1%] Will Tottenham win the 2025–26 English Premier League?
+[1.8%] Russia x Ukraine ceasefire by January 31, 2026?
+[44.5%] Will TSG 1899 Hoffenheim win on 2026-01-24?
+[48.5%] ACF Fiorentina vs. Cagliari Calcio: O/U 2.5
+[0.1%] Will the Brooklyn Nets win the 2026 NBA Finals?
+[0.7%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump's envoys meet Putin for four hours on Ukraine - Axios
-• Weather update: Friday classes canceled - news.wisc.edu
-• ‘We have to stand together’: Minnesota economic blackout organizers push to take demonstrations nationwide - The Guardian
-• House passes DHS funding bill despite Democratic opposition over ICE - The Washington Post
-• Immigration Agents Detain 5-Year-Old Boy in Minnesota, Prompting Outrage - The New York Times
-• Triggered Trump Melts Down at Newsom in Unhinged Complaint - The Daily Beast
-• Trump looks left on cost of living concerns - Politico
-• Column | Trump dominated Davos. But Canada’s Carney was the star. - The Washington Post
+• China’s Highest-Ranking General Removed as Xi’s Military Purge Reaches the Top - The New York Times
+• U.K., including Prince Harry, voices outrage at Trump’s Afghanistan remarks - The Washington Post
+• 1 killed, 4 injured in Kyiv as Russia launches mass attack following peace talks - kyivindependent.com
+• Winter Storm Fern Update: Delta makes schedule adjustments to Atlanta and Northeast regions - Delta News Hub
+• How a Year of Trump Changed Britain - The New York Times
+• Pentagon no longer views China threat as top priority - Politico
+• New Zealand authorities working to identify landslide victims - Reuters
+• How Sydney's beaches became a 'perfect storm' for sharks - BBC
 
 ----------------------------------------
 
