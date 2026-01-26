@@ -1,11 +1,11 @@
-INTELLIGENCE SNAPSHOT // 2026-01-25
+INTELLIGENCE SNAPSHOT // 2026-01-26
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,916
 DOW J: 49,099
 NASDAQ: 23,501
-VIX: 16
+VIX: 17
 
 ----------------------------------------
 
@@ -13,49 +13,48 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [0.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.7%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[100.0%] Will the US strike Somalia next?
 [99.2%] No change in Fed interest rates after January 2026 meeting?
-[74.5%] Will there be another US government shutdown by January 31?
-[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[0.8%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[0.1%] Will Ethereum reach $6,000 in January?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] Will the US strike Somalia next?
-[19.5%] US strikes Iran by January 31, 2026?
-[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[0.5%] Russia x Ukraine ceasefire by January 31, 2026?
-[3.4%] US strikes Iran by January 26, 2026?
+[0.1%] Will Bitcoin reach $150,000 in January?
+[79.5%] Will there be another US government shutdown by January 31?
+[15.5%] US strikes Iran by January 31, 2026?
+[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[1.8%] US strikes Iran by January 26, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[32.5%] Warriors vs. Timberwolves
 [3.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[0.1%] Will the Washington Wizards win the 2026 NBA Finals?
-[0.1%] Will the US next strike Iran on January 23, 2026 (ET)?
-[1.5%] US strikes Iran by January 25, 2026?
+[19.4%] AI Industry Downturn by December 31, 2026?
+[52.5%] Nuggets vs. Grizzlies
+[49.5%] Mavericks vs. Bucks
+[32.6%] Will the New England Patriots win Super Bowl 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[66.5%] Patriots vs. Broncos
-[43.5%] LoL: Top Esports vs Invictus Gaming (BO3) - LPL Group Ascend
-[0.1%] Will the New Orleans Pelicans win the 2026 NBA Finals?
-[0.1%] Will the price of Bitcoin be above $96,000 on January 25?
-[0.8%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
+[67.3%] Will the Seattle Seahawks win Super Bowl 2026?
+[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
+[32.5%] Will Leeds United FC win on 2026-01-26?
+[98.9%] Australian Open Men's: Ben Shelton vs Casper Ruud
+[45.5%] US strikes Iran by February 28, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• StormTracker8: Snow and sleet tonight, freezing rain all day Sunday - wric.com
-• Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues - The New York Times
-• How much snow is Boston getting this weekend? Here's a closer look at the Massachusetts forecast. - CBS News
-• Stream live on WCNC+ | Ice storm coverage in Charlotte, across Carolinas - wcnc.com
-• New Jersey Transit announces suspension plans for Sunday amid winter storm - abc7ny.com
-• Takeaways from the first Texas Senate Democratic primary debate - CNN
-• LIVE: Houston and southeast Texas under ice and winter storm warnings, ABC13 Weather Alert activated - abc13.com
-• Ukrainian officials call talks with U.S. and Russia "positive" and "constructive" - Axios
+• Winter storm leaves hundreds of thousands of customers without power across the South - PBS
+• Israel agrees to ‘limited reopening’ of Gaza’s Rafah crossing once operation to locate hostage completed - The Guardian
+• Snow piles up in Connecticut as winter storm rages on: Recap - ctinsider.com
+• Ukraine says US security guarantees deal '100% ready' - DW.com
+• Philly’s biggest snow in 10 years has an icy finish, and it isn’t going anywhere soon - inquirer.com
+• Georgia ice storm causing thousands of power outages in metro Atlanta - wabe.org
+• Opinion | The unjust killing of Alex Pretti marks a turning point in Trump’s second term - The Washington Post
+• Democrats vow to oppose homeland security funds after Minnesota shooting as shutdown risk grows - AP News
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
 ========================================
