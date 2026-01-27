@@ -1,60 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-01-26
+INTELLIGENCE SNAPSHOT // 2026-01-27
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,916
-DOW J: 49,099
-NASDAQ: 23,501
-VIX: 17
+S&P 500: 6,950
+DOW J: 49,412
+NASDAQ: 23,601
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
 [0.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[100.0%] Will the US strike Somalia next?
-[99.2%] No change in Fed interest rates after January 2026 meeting?
-[0.8%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[0.1%] Will Ethereum reach $6,000 in January?
+[0.1%] Will Trump nominate David Zervos as the next Fed chair?
+[99.1%] No change in Fed interest rates after January 2026 meeting?
+[0.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
 [0.1%] Will Bitcoin reach $150,000 in January?
-[79.5%] Will there be another US government shutdown by January 31?
-[15.5%] US strikes Iran by January 31, 2026?
-[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[1.8%] US strikes Iran by January 26, 2026?
+[0.1%] Will Ethereum reach $6,000 in January?
+[77.5%] US government shutdown Saturday?
+[0.7%] Will Zohran Mamdani win the 2028 Democratic presidential nomination?
+[0.1%] Will Tottenham win the 2025–26 English Premier League?
 
 --- TECH & AI (Top 5 Active) ---
-[3.5%] Khamenei out as Supreme Leader of Iran by January 31?
-[19.4%] AI Industry Downturn by December 31, 2026?
-[52.5%] Nuggets vs. Grizzlies
-[49.5%] Mavericks vs. Bucks
-[32.6%] Will the New England Patriots win Super Bowl 2026?
+[0.1%] Will Mistral have the best AI model at the end of January 2026?
+[9.5%] US strikes Iran by January 31, 2026?
+[1.8%] Khamenei out as Supreme Leader of Iran by January 31?
+[65.0%] Zama FDV above $500M one day after launch?
+[0.1%] Will the next Dutch government be PVV + VVD?
 
 --- SCIENCE (Top 5 Active) ---
-[67.3%] Will the Seattle Seahawks win Super Bowl 2026?
+[1.1%] Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?
+[0.1%] Will United Thai Nation Party (UTN) win the most seats in the 2026 Thai legislative election?
+[0.9%] Will Michelle Obama win the 2028 Democratic presidential nomination?
+[2.2%] Will Bitcoin reach $100,000 in January?
 [0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[32.5%] Will Leeds United FC win on 2026-01-26?
-[98.9%] Australian Open Men's: Ben Shelton vs Casper Ruud
-[45.5%] US strikes Iran by February 28, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Winter storm leaves hundreds of thousands of customers without power across the South - PBS
-• Israel agrees to ‘limited reopening’ of Gaza’s Rafah crossing once operation to locate hostage completed - The Guardian
-• Snow piles up in Connecticut as winter storm rages on: Recap - ctinsider.com
-• Ukraine says US security guarantees deal '100% ready' - DW.com
-• Philly’s biggest snow in 10 years has an icy finish, and it isn’t going anywhere soon - inquirer.com
-• Georgia ice storm causing thousands of power outages in metro Atlanta - wabe.org
-• Opinion | The unjust killing of Alex Pretti marks a turning point in Trump’s second term - The Washington Post
-• Democrats vow to oppose homeland security funds after Minnesota shooting as shutdown risk grows - AP News
+• Live updates: Top Border Patrol official set to leave Minneapolis as Trump sends border czar to state - CNN
+• Trump raises US tariffs on South Korea imports to 25% - BBC
+• Pummeled by over a foot of snow, Mass. residents brace for more - WBUR
+• Winter Storm Debilitates the South, Encasing Cities in Ice and Snow - The New York Times
+• ICE agents to help with US security operations at Winter Olympics in Italy - France 24
+• Trump impeachment whistleblower Alexander Vindman launches Democratic Senate campaign in Florida - Politico
+• Chris Madel Ends Run for Minnesota Governor, Citing Immigration Crackdown - The New York Times
+• Shootings Pose a Hard Question for the Right: Who’s a Conservative, Really? - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
 ========================================
