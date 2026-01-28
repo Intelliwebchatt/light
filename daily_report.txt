@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-01-27
+INTELLIGENCE SNAPSHOT // 2026-01-28
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,950
-DOW J: 49,412
-NASDAQ: 23,601
+S&P 500: 6,979
+DOW J: 49,003
+NASDAQ: 23,817
 VIX: 16
 
 ----------------------------------------
@@ -13,43 +13,43 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
+[99.6%] No change in Fed interest rates after January 2026 meeting?
 [0.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.1%] Will Trump nominate David Zervos as the next Fed chair?
-[99.1%] No change in Fed interest rates after January 2026 meeting?
-[0.5%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[0.4%] Fed decreases interest rates by 25 bps after January 2026 meeting?
+[0.1%] Will Bitcoin reach $150,000 in January?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Bitcoin reach $150,000 in January?
+[75.5%] US government shutdown Saturday?
 [0.1%] Will Ethereum reach $6,000 in January?
-[77.5%] US government shutdown Saturday?
-[0.7%] Will Zohran Mamdani win the 2028 Democratic presidential nomination?
-[0.1%] Will Tottenham win the 2025–26 English Premier League?
+[10.5%] US strikes Iran by January 31, 2026?
+[1.1%] Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?
+[68.2%] Will the Seattle Seahawks win Super Bowl 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Mistral have the best AI model at the end of January 2026?
-[9.5%] US strikes Iran by January 31, 2026?
-[1.8%] Khamenei out as Supreme Leader of Iran by January 31?
-[65.0%] Zama FDV above $500M one day after launch?
-[0.1%] Will the next Dutch government be PVV + VVD?
+[0.6%] Will Bitcoin reach $105,000 in January?
+[0.9%] Will Raphael Warnock win the 2028 Democratic presidential nomination?
+[3.5%] Will J.B. Pritzker win the 2028 Democratic presidential nomination?
+[2.4%] Will Bitcoin reach $100,000 in January?
+[51.5%] Spread: Seahawks (-4.5)
 
 --- SCIENCE (Top 5 Active) ---
-[1.1%] Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?
-[0.1%] Will United Thai Nation Party (UTN) win the most seats in the 2026 Thai legislative election?
+[35.5%] Will Viking Therapeutics be acquired before 2027?
+[51.5%] Will GitLab be acquired before 2027?
 [0.9%] Will Michelle Obama win the 2028 Democratic presidential nomination?
-[2.2%] Will Bitcoin reach $100,000 in January?
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
+[0.1%] Will the next Dutch government be PVV + CDA?
+[41.5%] Lakers vs. Cavaliers
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live updates: Top Border Patrol official set to leave Minneapolis as Trump sends border czar to state - CNN
-• Trump raises US tariffs on South Korea imports to 25% - BBC
-• Pummeled by over a foot of snow, Mass. residents brace for more - WBUR
-• Winter Storm Debilitates the South, Encasing Cities in Ice and Snow - The New York Times
-• ICE agents to help with US security operations at Winter Olympics in Italy - France 24
-• Trump impeachment whistleblower Alexander Vindman launches Democratic Senate campaign in Florida - Politico
-• Chris Madel Ends Run for Minnesota Governor, Citing Immigration Crackdown - The New York Times
-• Shootings Pose a Hard Question for the Right: Who’s a Conservative, Really? - The New York Times
+• CBP has a history of excessive force. Critics say they were unprepared for Minnesota - NPR
+• NTSB blames 'deep' systemic failures for deadly midair collision near Washington, D.C. - NPR
+• US announces multi-day aerial military drills in the Middle East amid Iran tensions - The Guardian
+• How a love of luxury brought down South Korea’s former first lady - CNN
+• CNBC Daily Open: The EU-India trade deal story is not over yet - CNBC
+• Trump Claims Ilhan Omar Is Worth $44M. Here’s Why That’s Highly Unlikely. - Forbes
+• As Minneapolis Rages, Legislators Move to Restrict ICE in Their States - The New York Times
+• ‘No Kings 3’ nationwide protest planned for March - Politico
 
 ----------------------------------------
 
@@ -57,6 +57,7 @@ TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
+• Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
 END TRANSMISSION
