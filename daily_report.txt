@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-01-28
+INTELLIGENCE SNAPSHOT // 2026-01-29
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,979
-DOW J: 49,003
-NASDAQ: 23,817
-VIX: 16
+S&P 500: 6,978
+DOW J: 49,016
+NASDAQ: 23,857
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Fed increases interest rates by 25+ bps after January 2026 meeting?
-[99.6%] No change in Fed interest rates after January 2026 meeting?
-[0.1%] Fed decreases interest rates by 50+ bps after January 2026 meeting?
-[0.4%] Fed decreases interest rates by 25 bps after January 2026 meeting?
-[0.1%] Will Bitcoin reach $150,000 in January?
+[52.5%] US government shutdown Saturday?
+[0.1%] Will Bitcoin reach $125,000 in January?
+[60.5%] Will Nebius Group be acquired before 2027?
+[0.8%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[9.5%] US strikes Iran by January 31, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[75.5%] US government shutdown Saturday?
-[0.1%] Will Ethereum reach $6,000 in January?
-[10.5%] US strikes Iran by January 31, 2026?
-[1.1%] Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?
-[68.2%] Will the Seattle Seahawks win Super Bowl 2026?
-
---- TECH & AI (Top 5 Active) ---
-[0.6%] Will Bitcoin reach $105,000 in January?
-[0.9%] Will Raphael Warnock win the 2028 Democratic presidential nomination?
-[3.5%] Will J.B. Pritzker win the 2028 Democratic presidential nomination?
-[2.4%] Will Bitcoin reach $100,000 in January?
+[0.1%] Will Bitcoin reach $110,000 in January?
+[0.9%] Will Brian Kemp win the 2028 Republican presidential nomination?
+[1.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
 [51.5%] Spread: Seahawks (-4.5)
 
+--- TECH & AI (Top 5 Active) ---
+[0.7%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
+[0.9%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
+[0.9%] Will Hunter Biden win the 2028 Democratic presidential nomination?
+[2.9%] Ilhan Omar town hall attack staged?
+[1.7%] Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?
+
 --- SCIENCE (Top 5 Active) ---
-[35.5%] Will Viking Therapeutics be acquired before 2027?
-[51.5%] Will GitLab be acquired before 2027?
-[0.9%] Will Michelle Obama win the 2028 Democratic presidential nomination?
-[0.1%] Will the next Dutch government be PVV + CDA?
-[41.5%] Lakers vs. Cavaliers
+[0.1%] Russia x Ukraine ceasefire by January 31, 2026?
+[0.4%] Will the Iranian regime fall by January 31?
+[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
+[0.4%] Will Benfica win the 2025–26 Champions League?
+[0.8%] Will Kim Kardashian win the 2028 Democratic presidential nomination?
 
 ----------------------------------------
 
 TOP HEADLINES
-• CBP has a history of excessive force. Critics say they were unprepared for Minnesota - NPR
-• NTSB blames 'deep' systemic failures for deadly midair collision near Washington, D.C. - NPR
-• US announces multi-day aerial military drills in the Middle East amid Iran tensions - The Guardian
-• How a love of luxury brought down South Korea’s former first lady - CNN
-• CNBC Daily Open: The EU-India trade deal story is not over yet - CNBC
-• Trump Claims Ilhan Omar Is Worth $44M. Here’s Why That’s Highly Unlikely. - Forbes
-• As Minneapolis Rages, Legislators Move to Restrict ICE in Their States - The New York Times
-• ‘No Kings 3’ nationwide protest planned for March - Politico
+• Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf - BBC
+• Trump has sued universities for billions. Here's what the strategy tells us - NPR
+• U.S. life expectancy hits a new high, as deaths from overdoses and COVID fall - NPR
+• House Republicans fume at Kristi Noem as impeachment push looms - Axios
+• 'ICE is not a law unto itself,' Minnesota judge says after immigrant released following contempt threat - CNBC
+• Democrats visit 5-year-old who was detained in Minneapolis, in a case that stirred anger over ICE - AP News
+• DHS raids are the stuff of Rand Paul’s nightmares. What will he do about it? - Politico
+• A shadow network in Minneapolis defies ICE and protects immigrants - AP News
 
 ----------------------------------------
 
@@ -57,7 +57,6 @@ TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
-• Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
 END TRANSMISSION
