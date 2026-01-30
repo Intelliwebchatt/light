@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-01-29
+INTELLIGENCE SNAPSHOT // 2026-01-30
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,978
-DOW J: 49,016
-NASDAQ: 23,857
-VIX: 17
+S&P 500: 6,969
+DOW J: 49,072
+NASDAQ: 23,685
+VIX: 18
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[52.5%] US government shutdown Saturday?
-[0.1%] Will Bitcoin reach $125,000 in January?
-[60.5%] Will Nebius Group be acquired before 2027?
-[0.8%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[9.5%] US strikes Iran by January 31, 2026?
+[70.5%] US government shutdown Saturday?
+[0.4%] Will Trump nominate Judy Shelton as the next Fed chair?
+[99.9%] Tesla launches unsupervised full self driving (FSD) by June 30?
+[99.7%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[0.1%] Will Trump nominate Rick Rieder as the next Fed chair?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Bitcoin reach $110,000 in January?
-[0.9%] Will Brian Kemp win the 2028 Republican presidential nomination?
-[1.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[51.5%] Spread: Seahawks (-4.5)
+[0.1%] Will Trump nominate Christopher Waller as the next Fed chair?
+[0.1%] Will Trump nominate Scott Bessent as the next Fed chair?
+[10.5%] US strikes Iran by January 31, 2026?
+[0.8%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.1%] Will Trump nominate Kevin Hassett as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
-[0.7%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
-[0.9%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
-[0.9%] Will Hunter Biden win the 2028 Democratic presidential nomination?
-[2.9%] Ilhan Omar town hall attack staged?
-[1.7%] Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?
+[0.1%] Will Trump nominate Michelle Bowman as the next Fed chair?
+[0.1%] Will Trump nominate Stephen Miran as the next Fed chair?
+[1.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[100.0%] Will Trump talk to Emmanuel Macron in January?
+[0.2%] Will Bitcoin reach $100,000 in January?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Russia x Ukraine ceasefire by January 31, 2026?
-[0.4%] Will the Iranian regime fall by January 31?
 [0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[0.4%] Will Benfica win the 2025–26 Champions League?
-[0.8%] Will Kim Kardashian win the 2028 Democratic presidential nomination?
+[0.1%] New "Stranger Things" episode released by January 31? 
+[1.2%] Khamenei out as Supreme Leader of Iran by January 31?
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
+[90.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf - BBC
-• Trump has sued universities for billions. Here's what the strategy tells us - NPR
-• U.S. life expectancy hits a new high, as deaths from overdoses and COVID fall - NPR
-• House Republicans fume at Kristi Noem as impeachment push looms - Axios
-• 'ICE is not a law unto itself,' Minnesota judge says after immigrant released following contempt threat - CNBC
-• Democrats visit 5-year-old who was detained in Minneapolis, in a case that stirred anger over ICE - AP News
-• DHS raids are the stuff of Rand Paul’s nightmares. What will he do about it? - Politico
-• A shadow network in Minneapolis defies ICE and protects immigrants - AP News
+• Trump says Putin will not attack Ukraine cities during cold week - BBC
+• Border czar says he plans to "draw down" ICE and CBP operations in Minnesota - NPR
+• Minnesota Dems are trying to walk a tightrope with Trump - Politico
+• Husband Denies Plot in Double Murder Trial, Calling Accusations ‘Crazy’ - The New York Times
+• Hong Kong company’s concession to operate Panama Canal ports is ruled unconstitutional - AP News
+• Russia Is Finding the Gaps in Ukraine’s Front Line - The New York Times
+• Xi’s Military Purge May Set Back His Taiwan Ambitions - The New York Times
+• Thailand's reformist Natthaphong is frontrunner ahead of February vote, polls show - Reuters
 
 ----------------------------------------
 
