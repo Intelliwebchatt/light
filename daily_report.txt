@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-01-30
+INTELLIGENCE SNAPSHOT // 2026-01-31
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,969
-DOW J: 49,072
-NASDAQ: 23,685
-VIX: 18
+S&P 500: 6,939
+DOW J: 48,892
+NASDAQ: 23,462
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[70.5%] US government shutdown Saturday?
-[0.4%] Will Trump nominate Judy Shelton as the next Fed chair?
-[99.9%] Tesla launches unsupervised full self driving (FSD) by June 30?
-[99.7%] Will Trump nominate Kevin Warsh as the next Fed chair?
-[0.1%] Will Trump nominate Rick Rieder as the next Fed chair?
+[99.5%] US government shutdown Saturday?
+[1.4%] Will Trump nominate Judy Shelton as the next Fed chair?
+[98.2%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[4.5%] US strikes Iran by January 31, 2026?
+[99.8%] Tesla launches unsupervised full self driving (FSD) by June 30?
 
 --- US POLITICS (Top 5 Active) ---
+[0.2%] Will Trump nominate Michelle Bowman as the next Fed chair?
 [0.1%] Will Trump nominate Christopher Waller as the next Fed chair?
+[0.1%] Will Trump nominate Rick Rieder as the next Fed chair?
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
 [0.1%] Will Trump nominate Scott Bessent as the next Fed chair?
-[10.5%] US strikes Iran by January 31, 2026?
-[0.8%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.1%] Will Trump nominate Kevin Hassett as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Trump nominate Michelle Bowman as the next Fed chair?
-[0.1%] Will Trump nominate Stephen Miran as the next Fed chair?
-[1.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[100.0%] Will Trump talk to Emmanuel Macron in January?
-[0.2%] Will Bitcoin reach $100,000 in January?
+[0.1%] Will Trump nominate Kevin Hassett as the next Fed chair?
+[0.9%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[1.6%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[1.4%] Will Gretchen Whitmer win the 2028 US Presidential Election?
+[0.1%] Will the US not strike another country before 2027?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[0.1%] New "Stranger Things" episode released by January 31? 
-[1.2%] Khamenei out as Supreme Leader of Iran by January 31?
-[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[90.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[0.1%] Australian Open Women's: Aryna Sabalenka vs Elena Rybakina
+[99.4%] Will the government shutdown last 1 day or more?
+[0.1%] Will the price of Bitcoin be above $92,000 on January 31?
+[0.1%] Will Bitcoin reach $100,000 in January?
+[7.5%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump says Putin will not attack Ukraine cities during cold week - BBC
-• Border czar says he plans to "draw down" ICE and CBP operations in Minnesota - NPR
-• Minnesota Dems are trying to walk a tightrope with Trump - Politico
-• Husband Denies Plot in Double Murder Trial, Calling Accusations ‘Crazy’ - The New York Times
-• Hong Kong company’s concession to operate Panama Canal ports is ruled unconstitutional - AP News
-• Russia Is Finding the Gaps in Ukraine’s Front Line - The New York Times
-• Xi’s Military Purge May Set Back His Taiwan Ambitions - The New York Times
-• Thailand's reformist Natthaphong is frontrunner ahead of February vote, polls show - Reuters
+• Live updates: Arrests made as protesters clash with officers in DTLA after 'ICE Out' protest - ABC7 Los Angeles
+• 6 Missing as Search Continues for Boat Off the Coast of Massachusetts - The New York Times
+• New SNAP work requirements set to go into effect on Feb. 1 with millions at risk of losing benefits - ABC News
+• How Fear of ICE Upended Life in One Minnesota School District - The New York Times
+• Iran wants to make deal rather than face military action, Trump says - BBC
+• Thousands still without power as brutal temperatures head to the South - ABC News
+• What to know about widespread snowfall in north Georgia - WSB-TV
+• Brace for brutal cold as bomb cyclone drives bitter winds into D.C. - The Washington Post
 
 ----------------------------------------
 
@@ -57,6 +57,7 @@ TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
+• Rover releases top trending pet names in Ohio, KY and IN for 2025
 
 ========================================
 END TRANSMISSION
