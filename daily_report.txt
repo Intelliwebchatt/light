@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-01-31
+INTELLIGENCE SNAPSHOT // 2026-02-01
 ========================================
 
 MARKET CLOSE
@@ -12,52 +12,50 @@ VIX: 17
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.5%] US government shutdown Saturday?
-[1.4%] Will Trump nominate Judy Shelton as the next Fed chair?
-[98.2%] Will Trump nominate Kevin Warsh as the next Fed chair?
-[4.5%] US strikes Iran by January 31, 2026?
-[99.8%] Tesla launches unsupervised full self driving (FSD) by June 30?
+[99.9%] US government shutdown Saturday?
+[1.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.1%] Will Tottenham win the 2025–26 English Premier League?
+[1.1%] Will Trump nominate Judy Shelton as the next Fed chair?
+[1.8%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will Trump nominate Michelle Bowman as the next Fed chair?
-[0.1%] Will Trump nominate Christopher Waller as the next Fed chair?
-[0.1%] Will Trump nominate Rick Rieder as the next Fed chair?
-[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[0.1%] Will Trump nominate Scott Bessent as the next Fed chair?
+[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
+[100.0%] Australian Open Men's: Carlos Alcaraz vs Novak Djokovic
+[100.0%] Tesla launches unsupervised full self driving (FSD) by June 30?
+[0.9%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
+[1.2%] US strikes Iran by February 1, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Trump nominate Kevin Hassett as the next Fed chair?
-[0.9%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[1.6%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[1.4%] Will Gretchen Whitmer win the 2028 US Presidential Election?
-[0.1%] Will the US not strike another country before 2027?
+[98.2%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[5.8%] Human moon landing in 2026?
+[0.1%] LoL: Hanwha Life Esports vs Gen.G (BO5) - LCK Cup Group Stage
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
+[0.8%] Will Mike Pence win the 2028 Republican presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Australian Open Women's: Aryna Sabalenka vs Elena Rybakina
-[99.4%] Will the government shutdown last 1 day or more?
-[0.1%] Will the price of Bitcoin be above $92,000 on January 31?
-[0.1%] Will Bitcoin reach $100,000 in January?
-[7.5%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[0.1%] Will Trump nominate Michelle Bowman as the next Fed chair?
+[68.5%] Seahawks vs. Patriots
+[0.1%] Will Trump nominate Christopher Waller as the next Fed chair?
+[88.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[99.8%] Will the government shutdown last 3 days or more?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live updates: Arrests made as protesters clash with officers in DTLA after 'ICE Out' protest - ABC7 Los Angeles
-• 6 Missing as Search Continues for Boat Off the Coast of Massachusetts - The New York Times
-• New SNAP work requirements set to go into effect on Feb. 1 with millions at risk of losing benefits - ABC News
-• How Fear of ICE Upended Life in One Minnesota School District - The New York Times
-• Iran wants to make deal rather than face military action, Trump says - BBC
-• Thousands still without power as brutal temperatures head to the South - ABC News
-• What to know about widespread snowfall in north Georgia - WSB-TV
-• Brace for brutal cold as bomb cyclone drives bitter winds into D.C. - The Washington Post
+• Bomb cyclone drops historic amount of snow on Southeast - CNN
+• Minnesota citizens detained by ICE are left rattled, even weeks later - NPR
+• Federal officers use crowd control munitions as demonstrators protest outside Portland ICE building - Oregon Public Broadcasting - OPB
+• Highway 99 in Tulare County reopens after 59-vehicle pileup, CHP says - ABC30 Fresno
+• Latest Epstein file photos appear to show former Prince Andrew on floor with female - CNN
+• Donald Trump’s unprecedented political war chest got even bigger in 2025 - Politico
+• Years After Coup, Myanmar’s Government in Exile Teeters on Irrelevance - The New York Times
+• Before Any Strike on Iran, U.S. Needs to Bolster Air Defenses in Mideast - The Wall Street Journal
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
-• Rover releases top trending pet names in Ohio, KY and IN for 2025
 
 ========================================
 END TRANSMISSION
