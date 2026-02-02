@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-02-01
+INTELLIGENCE SNAPSHOT // 2026-02-02
 ========================================
 
 MARKET CLOSE
@@ -13,43 +13,43 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [99.9%] US government shutdown Saturday?
-[1.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.1%] Will Tottenham win the 2025–26 English Premier League?
+[1.6%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 [1.1%] Will Trump nominate Judy Shelton as the next Fed chair?
-[1.8%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[1.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[98.7%] Will Trump nominate Kevin Warsh as the next Fed chair?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[100.0%] Australian Open Men's: Carlos Alcaraz vs Novak Djokovic
-[100.0%] Tesla launches unsupervised full self driving (FSD) by June 30?
-[0.9%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
-[1.2%] US strikes Iran by February 1, 2026?
+[99.2%] U.S. anti-cartel ground operation in Mexico by January 31?
+[62.5%] Will Perplexity AI be acquired before 2027?
+[0.1%] Will Tottenham win the 2025–26 English Premier League?
+[97.5%] Will the government shutdown last 4 days or more?
+[0.7%] US strikes Iran by February 2, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[98.2%] Will Trump nominate Kevin Warsh as the next Fed chair?
-[5.8%] Human moon landing in 2026?
-[0.1%] LoL: Hanwha Life Esports vs Gen.G (BO5) - LCK Cup Group Stage
-[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[0.8%] Will Mike Pence win the 2028 Republican presidential nomination?
+[28.5%] US strikes Iran by February 28, 2026?
+[0.1%] Will the Utah Jazz win the 2026 NBA Finals?
+[0.1%] Will Trump nominate Christopher Waller as the next Fed chair?
+[0.1%] Will Trump nominate Michelle Bowman as the next Fed chair?
+[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Trump nominate Michelle Bowman as the next Fed chair?
-[68.5%] Seahawks vs. Patriots
-[0.1%] Will Trump nominate Christopher Waller as the next Fed chair?
-[88.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
-[99.8%] Will the government shutdown last 3 days or more?
+[0.5%] Will Tim Walz win the 2028 US Presidential Election?
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
+[19.5%] Khamenei out as Supreme Leader of Iran by March 31?
+[4.5%] US strikes Iran by February 6, 2026?
+[63.0%] Bitcoin Up or Down on February 2?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Bomb cyclone drops historic amount of snow on Southeast - CNN
-• Minnesota citizens detained by ICE are left rattled, even weeks later - NPR
-• Federal officers use crowd control munitions as demonstrators protest outside Portland ICE building - Oregon Public Broadcasting - OPB
-• Highway 99 in Tulare County reopens after 59-vehicle pileup, CHP says - ABC30 Fresno
-• Latest Epstein file photos appear to show former Prince Andrew on floor with female - CNN
-• Donald Trump’s unprecedented political war chest got even bigger in 2025 - Politico
-• Years After Coup, Myanmar’s Government in Exile Teeters on Irrelevance - The New York Times
-• Before Any Strike on Iran, U.S. Needs to Bolster Air Defenses in Mideast - The Wall Street Journal
+• ‘Historic storm’ delivers biggest snowfall in decades for North Carolina - The Washington Post
+• Mayor of Portland, Oregon, demands ICE leave the city after federal agents gas protesters - AP News
+• Starmer Urges Former Prince Andrew to Testify to Congress Over Epstein Ties - The New York Times
+• Iran updates: Iran classes EU armies as terrorist groups - dw.com
+• Norway’s crown princess had years of contact with Epstein, files suggest - The Guardian
+• Don Lemon’s arrest balances freedom of religion vs. freedom of the press, Todd Blanche says - Politico
+• Fear and Anger Grow as Thousands Remain Without Power in the South - The New York Times
+• N.Y. Republican in Swing District Gets Rowdy Reception at Town Hall - The New York Times
 
 ----------------------------------------
 
