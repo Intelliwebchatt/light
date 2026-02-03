@@ -1,11 +1,11 @@
-INTELLIGENCE SNAPSHOT // 2026-02-02
+INTELLIGENCE SNAPSHOT // 2026-02-03
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,939
-DOW J: 48,892
-NASDAQ: 23,462
-VIX: 17
+S&P 500: 6,976
+DOW J: 49,408
+NASDAQ: 23,592
+VIX: 16
 
 ----------------------------------------
 
@@ -13,43 +13,43 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [99.9%] US government shutdown Saturday?
-[1.6%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[99.9%] U.S. anti-cartel ground operation in Mexico by January 31?
 [1.1%] Will Trump nominate Judy Shelton as the next Fed chair?
-[1.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[98.7%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[1.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
 
 --- US POLITICS (Top 5 Active) ---
-[99.2%] U.S. anti-cartel ground operation in Mexico by January 31?
-[62.5%] Will Perplexity AI be acquired before 2027?
-[0.1%] Will Tottenham win the 2025–26 English Premier League?
-[97.5%] Will the government shutdown last 4 days or more?
-[0.7%] US strikes Iran by February 2, 2026?
+[0.1%] Will the price of Ethereum be above $3,300 on February 3?
+[0.2%] Will Trump talk to Vladimir Putin in January?
+[39.0%] Will Nebius Group be acquired before 2027?
+[1.8%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[98.2%] Will Trump nominate Kevin Warsh as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
-[28.5%] US strikes Iran by February 28, 2026?
-[0.1%] Will the Utah Jazz win the 2026 NBA Finals?
-[0.1%] Will Trump nominate Christopher Waller as the next Fed chair?
-[0.1%] Will Trump nominate Michelle Bowman as the next Fed chair?
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
+[18.5%] Will the government shutdown last 5 days or more?
+[0.1%] Will the price of Bitcoin be above $90,000 on February 3?
+[0.4%] Will Bitcoin reach $150,000 in February?
+[4.1%] Will Ilhan Omar resign by March 31?
+[0.4%] US strikes Iran by February 3, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.5%] Will Tim Walz win the 2028 US Presidential Election?
 [0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[19.5%] Khamenei out as Supreme Leader of Iran by March 31?
-[4.5%] US strikes Iran by February 6, 2026?
-[63.0%] Bitcoin Up or Down on February 2?
+[0.1%] Will Trump nominate Michelle Bowman as the next Fed chair?
+[0.2%] Will Trump nominate Rick Rieder as the next Fed chair?
+[0.5%] Will Tim Walz win the 2028 US Presidential Election?
+[0.1%] Will Trump nominate Christopher Waller as the next Fed chair?
 
 ----------------------------------------
 
 TOP HEADLINES
-• ‘Historic storm’ delivers biggest snowfall in decades for North Carolina - The Washington Post
-• Mayor of Portland, Oregon, demands ICE leave the city after federal agents gas protesters - AP News
-• Starmer Urges Former Prince Andrew to Testify to Congress Over Epstein Ties - The New York Times
-• Iran updates: Iran classes EU armies as terrorist groups - dw.com
-• Norway’s crown princess had years of contact with Epstein, files suggest - The Guardian
-• Don Lemon’s arrest balances freedom of religion vs. freedom of the press, Todd Blanche says - Politico
-• Fear and Anger Grow as Thousands Remain Without Power in the South - The New York Times
-• N.Y. Republican in Swing District Gets Rowdy Reception at Town Hall - The New York Times
+• Russia resumes night strikes on major Ukrainian cities, ending brief reprieve agreed between Putin and Trump - CNN
+• As some states try to show ICE the door, others put out the welcome mat - NPR
+• Mayor of Portland, Oregon, Calls for ICE to Leave After Protesters Are Tear-Gassed - The New York Times
+• Norway’s royal family in the spotlight over Epstein emails and start of rape trial for crown princess’ son - CNN
+• Paris prosecutors raid France offices of Elon Musk's X - BBC
+• Father of 5-year-old detained in Minnesota disputes government assertion he abandoned the boy - AP News
+• China’s Disappearing Generals - The New York Times
+• Uruguay President Orsi deepens ties with China’s Xi despite Trump threats - Al Jazeera
 
 ----------------------------------------
 
