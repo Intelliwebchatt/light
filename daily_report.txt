@@ -1,61 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-02-03
+INTELLIGENCE SNAPSHOT // 2026-02-04
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,976
-DOW J: 49,408
-NASDAQ: 23,592
-VIX: 16
+S&P 500: 6,918
+DOW J: 49,241
+NASDAQ: 23,255
+VIX: 18
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.9%] US government shutdown Saturday?
-[99.9%] U.S. anti-cartel ground operation in Mexico by January 31?
-[1.1%] Will Trump nominate Judy Shelton as the next Fed chair?
+[0.1%] Will Trump nominate Stephen Miran as the next Fed chair?
+[1.5%] Will Trump nominate Judy Shelton as the next Fed chair?
 [1.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
+[1.9%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.1%] Will the price of Bitcoin be above $90,000 on February 4?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will the price of Ethereum be above $3,300 on February 3?
-[0.2%] Will Trump talk to Vladimir Putin in January?
-[39.0%] Will Nebius Group be acquired before 2027?
-[1.8%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[98.2%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[97.7%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[44.0%] Will Nebius Group be acquired before 2027?
+[50.0%] Spread: Seahawks (-4.5)
+[2.1%] US strikes Iran by February 6, 2026?
+[23.5%] US strikes Iran by February 28, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[18.5%] Will the government shutdown last 5 days or more?
-[0.1%] Will the price of Bitcoin be above $90,000 on February 3?
-[0.4%] Will Bitcoin reach $150,000 in February?
-[4.1%] Will Ilhan Omar resign by March 31?
-[0.4%] US strikes Iran by February 3, 2026?
+[0.5%] US strikes Iran by February 4, 2026?
+[4.2%] X banned in U.K. by March 31?
+[0.1%] Will the price of Bitcoin be above $84,000 on February 4?
+[69.5%] Will Elon Musk post 90-114 tweets from February 2 to February 4, 2026?
+[100.0%] LoL: EDward Gaming vs Team WE (BO3) - LPL Group Perseverance
 
 --- SCIENCE (Top 5 Active) ---
+[9.5%] US strikes Iran by February 13, 2026?
+[0.2%] Will Trump nominate Christopher Waller as the next Fed chair?
+[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
+[0.2%] Will Trump nominate Kevin Hassett as the next Fed chair?
 [0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[0.1%] Will Trump nominate Michelle Bowman as the next Fed chair?
-[0.2%] Will Trump nominate Rick Rieder as the next Fed chair?
-[0.5%] Will Tim Walz win the 2028 US Presidential Election?
-[0.1%] Will Trump nominate Christopher Waller as the next Fed chair?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Russia resumes night strikes on major Ukrainian cities, ending brief reprieve agreed between Putin and Trump - CNN
-• As some states try to show ICE the door, others put out the welcome mat - NPR
-• Mayor of Portland, Oregon, Calls for ICE to Leave After Protesters Are Tear-Gassed - The New York Times
-• Norway’s royal family in the spotlight over Epstein emails and start of rape trial for crown princess’ son - CNN
-• Paris prosecutors raid France offices of Elon Musk's X - BBC
-• Father of 5-year-old detained in Minnesota disputes government assertion he abandoned the boy - AP News
-• China’s Disappearing Generals - The New York Times
-• Uruguay President Orsi deepens ties with China’s Xi despite Trump threats - Al Jazeera
+• Trump wants Republicans to ‘nationalize’ US elections. The Constitution might get in the way - CNN
+• Ryan Routh, convicted of trying to assassinate Donald Trump, to be sentenced - NPR
+• Judge restricts federal use of tear gas, munitions at Portland ICE protests - OregonLive.com
+• Israeli fire in Gaza kills 17, while militant gunfire wounds Israeli soldier - AP News
+• William Stevenson, Jill Biden’s Ex-Husband, Is Accused of Killing His Current Wife - The New York Times
+• House Democrats help Mike Johnson end government shutdown, fund DHS and ICE - Axios
+• Racial Debate Rattles Texas Democratic Primary for Senate - The New York Times
+• Trump, 79, Lets Cankles Slip in Photo With World Leader - The Daily Beast
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
 
 ========================================
 END TRANSMISSION
