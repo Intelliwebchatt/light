@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-02-05
+INTELLIGENCE SNAPSHOT // 2026-02-06
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,883
-DOW J: 49,501
-NASDAQ: 22,905
+S&P 500: 6,798
+DOW J: 48,909
+NASDAQ: 22,541
 VIX: 20
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 20
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[2.1%] Will Trump nominate Judy Shelton as the next Fed chair?
-[100.0%] Will Solana dip to $90 in February?
-[1.8%] US strikes Iran by February 6, 2026?
-[100.0%] Will Bitcoin dip to $70,000 in February?
-[97.0%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[1.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[1.4%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[3.1%] Will Trump nominate Judy Shelton as the next Fed chair?
+[0.1%] Will Trump nominate no one before 2027?
+[82.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[70.0%] Will Trump say "Transgender" this week? (February 8)
-[26.5%] US strikes Iran by February 28, 2026?
-[0.7%] US strikes Iran by February 5, 2026?
-[1.8%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[14.5%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[94.8%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[100.0%] LoL: DRX vs OKSavingsBank BRION (BO3) - LCK Cup Play-In
+[1.1%] US strikes Iran by February 6, 2026?
 [0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
 
 --- TECH & AI (Top 5 Active) ---
-[4.5%] X banned in U.K. by March 31?
-[11.5%] US strikes Iran by February 13, 2026?
-[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[0.1%] Will the price of Bitcoin be above $80,000 on February 5?
-[6.5%] Khamenei out as Supreme Leader of Iran by February 28?
+[0.5%] Will André Ventura win the 2026 Portugal presidential election?
+[0.1%] Will the Sacramento Kings win the 2026 NBA Finals?
+[0.1%] Will Trump nominate Stephen Miran as the next Fed chair?
+[11.0%] Will Bitcoin reach $85,000 in February?
+[0.4%] Will Trump nominate Rick Rieder as the next Fed chair?
 
 --- SCIENCE (Top 5 Active) ---
-[49.5%] Knicks vs. Celtics
-[17.5%] Northeastern Huskies vs. Hofstra Pride
-[56.5%] Elon Phoenix vs. Hampton Pirates
-[1.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[4.0%] Bitcoin Up or Down on February 5?
+[0.1%] Will the price of Bitcoin be above $76,000 on February 6?
+[23.4%] Will Elon Musk post 260-279 tweets from January 30 to February 6, 2026?
+[4.1%] Will Bitcoin dip to $35,000 in February?
+[31.6%] Will Bitcoin dip to $55,000 in February?
+[7.5%] Russia x Ukraine ceasefire by March 31, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• New Start: US-Russia nuclear weapons treaty due to expire raising fears of arms race - BBC
-• China’s Xi Presses Trump on Taiwan in Phone Call - The New York Times
-• Melinda French Gates Addresses New References to Bill Gates in Epstein Files - The New York Times
-• Housecleaner said multiple illnesses tied to Las Vegas house with possible bio lab: Police report - ABC News
-• Condescending Vance Tells Kaitlan Collins to ‘Have Some Fun’ After Trump Meltdown - The Daily Beast
-• 'I never left your side': Emails reveal more about Mandelson's Epstein friendship - BBC
-• Minnesota girl, 10, released from ICE custody after a month in detention - The Guardian
-• Steve Bannon calls for Trump to deploy ICE and military troops to polling sites - Politico
+• Democrats’ 10 demands to ‘rein in’ ICE – the full list of proposed reforms - The Guardian
+• Iran Is at Work on Missile and Nuclear Sites, Satellite Images Show - The New York Times
+• Minneapolis now has daily deportation flights. One man has been documenting them - NPR
+• Virginia Democrats Propose New Congressional Maps Ahead of Midterms - The New York Times
+• Hundreds of Agents Left Minnesota, but Residents Are Seeing Little Change - The New York Times
+• AOC and NY House Dems endorse Hochul - Politico
+• New Jersey 11th Congressional District Special Primary Election Results 2026 - The New York Times
+• US and Russia agree to reestablish military dialogue after Ukraine talks - AP News
 
 ----------------------------------------
 
