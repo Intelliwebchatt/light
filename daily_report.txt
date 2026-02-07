@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-02-06
+INTELLIGENCE SNAPSHOT // 2026-02-07
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,798
-DOW J: 48,909
-NASDAQ: 22,541
-VIX: 20
+S&P 500: 6,932
+DOW J: 50,116
+NASDAQ: 23,031
+VIX: 18
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[1.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[1.4%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[3.1%] Will Trump nominate Judy Shelton as the next Fed chair?
-[0.1%] Will Trump nominate no one before 2027?
-[82.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[3.0%] Will Trump nominate Judy Shelton as the next Fed chair?
+[99.9%] US x Iran meeting by February 6, 2026?
+[1.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
+[0.1%] Will Elon Musk post <40 tweets from February 5 to February 7, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[14.5%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
-[94.8%] Will Trump nominate Kevin Warsh as the next Fed chair?
-[100.0%] LoL: DRX vs OKSavingsBank BRION (BO3) - LCK Cup Play-In
-[1.1%] US strikes Iran by February 6, 2026?
-[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
+[0.7%] US strikes Iran by February 7, 2026?
+[67.5%] Seahawks vs. Patriots
+[1.1%] Will Zohran Mamdani win the 2028 Democratic presidential nomination?
+[95.5%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[7.5%] US strikes Iran by February 13, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.5%] Will André Ventura win the 2026 Portugal presidential election?
-[0.1%] Will the Sacramento Kings win the 2026 NBA Finals?
-[0.1%] Will Trump nominate Stephen Miran as the next Fed chair?
-[11.0%] Will Bitcoin reach $85,000 in February?
-[0.4%] Will Trump nominate Rick Rieder as the next Fed chair?
+[23.5%] US strikes Iran by February 28, 2026?
+[2.0%] Will Manchester United win the 2025–26 English Premier League?
+[12.5%] Will Bitcoin reach $85,000 in February?
+[0.8%] Will André Ventura win the 2026 Portugal presidential election?
+[5.4%] Will the Minnesota Wild win the 2026 NHL Stanley Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will the price of Bitcoin be above $76,000 on February 6?
-[23.4%] Will Elon Musk post 260-279 tweets from January 30 to February 6, 2026?
-[4.1%] Will Bitcoin dip to $35,000 in February?
-[31.6%] Will Bitcoin dip to $55,000 in February?
-[7.5%] Russia x Ukraine ceasefire by March 31, 2026?
+[0.7%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
+[0.2%] Will Trump nominate no one before 2027?
+[43.5%] Warriors vs. Lakers
+[0.7%] Will Greg Abbott win the 2028 US Presidential Election?
+[0.9%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Democrats’ 10 demands to ‘rein in’ ICE – the full list of proposed reforms - The Guardian
-• Iran Is at Work on Missile and Nuclear Sites, Satellite Images Show - The New York Times
-• Minneapolis now has daily deportation flights. One man has been documenting them - NPR
-• Virginia Democrats Propose New Congressional Maps Ahead of Midterms - The New York Times
+• State Department will delete X posts from before Trump returned to office - NPR
+• Prosecutors Began Investigating Renee Good’s Killing. Washington Told Them to Stop. - The New York Times
+• DHS warned its independent watchdog that Noem can kill its investigations, senator says - NBC News
 • Hundreds of Agents Left Minnesota, but Residents Are Seeing Little Change - The New York Times
-• AOC and NY House Dems endorse Hochul - Politico
-• New Jersey 11th Congressional District Special Primary Election Results 2026 - The New York Times
-• US and Russia agree to reestablish military dialogue after Ukraine talks - AP News
+• Contentious Herbicide Is Greenlit in a Blow to the MAHA Agenda - The New York Times
+• Scoop: White House plans Board of Peace meeting in D.C. on Gaza reconstruction - Axios
+• Zelenskyy says U.S. gave Ukraine and Russia a June deadline to reach agreement to end war - Yahoo
+• How TrumpRx drug prices compare to generic alternatives - Axios
 
 ----------------------------------------
 
