@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-02-07
+INTELLIGENCE SNAPSHOT // 2026-02-08
 ========================================
 
 MARKET CLOSE
@@ -12,51 +12,51 @@ VIX: 18
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[3.0%] Will Trump nominate Judy Shelton as the next Fed chair?
+[68.5%] Seahawks vs. Patriots
 [99.9%] US x Iran meeting by February 6, 2026?
-[1.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
-[0.1%] Will Elon Musk post <40 tweets from February 5 to February 7, 2026?
+[3.8%] Will Trump nominate Judy Shelton as the next Fed chair?
+[68.2%] Will the Seattle Seahawks win Super Bowl 2026?
+[0.7%] Will Tim Walz win the 2028 Democratic presidential nomination?
 
 --- US POLITICS (Top 5 Active) ---
-[0.7%] US strikes Iran by February 7, 2026?
-[67.5%] Seahawks vs. Patriots
+[0.5%] Will the Atlanta Hawks win the 2026 NBA Finals?
 [1.1%] Will Zohran Mamdani win the 2028 Democratic presidential nomination?
-[95.5%] Will Trump nominate Kevin Warsh as the next Fed chair?
-[7.5%] US strikes Iran by February 13, 2026?
+[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
+[0.1%] Will Tottenham win the 2025–26 English Premier League?
+[95.0%] Will Trump nominate Kevin Warsh as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
-[23.5%] US strikes Iran by February 28, 2026?
-[2.0%] Will Manchester United win the 2025–26 English Premier League?
-[12.5%] Will Bitcoin reach $85,000 in February?
-[0.8%] Will André Ventura win the 2026 Portugal presidential election?
-[5.4%] Will the Minnesota Wild win the 2026 NHL Stanley Cup?
+[1.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.4%] Will the U.S. collect between $500b and $1t in revenue in 2025?
+[5.9%] Will the Minnesota Wild win the 2026 NHL Stanley Cup?
+[0.1%] Will Sunderland win the 2025–26 English Premier League?
+[17.5%] Will People’s Party (PPLE) win the most seats in the 2026 Thai legislative election?
 
 --- SCIENCE (Top 5 Active) ---
-[0.7%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
-[0.2%] Will Trump nominate no one before 2027?
-[43.5%] Warriors vs. Lakers
-[0.7%] Will Greg Abbott win the 2028 US Presidential Election?
+[0.8%] Will LeBron James win the 2028 US Presidential Election?
+[0.1%] Will the price of Bitcoin be above $78,000 on February 8?
+[99.6%] Will António José Seguro win the 2026 Portugal presidential election?
 [0.9%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.4%] Will André Ventura win the 2026 Portugal presidential election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• State Department will delete X posts from before Trump returned to office - NPR
-• Prosecutors Began Investigating Renee Good’s Killing. Washington Told Them to Stop. - The New York Times
-• DHS warned its independent watchdog that Noem can kill its investigations, senator says - NBC News
-• Hundreds of Agents Left Minnesota, but Residents Are Seeing Little Change - The New York Times
-• Contentious Herbicide Is Greenlit in a Blow to the MAHA Agenda - The New York Times
-• Scoop: White House plans Board of Peace meeting in D.C. on Gaza reconstruction - Axios
-• Zelenskyy says U.S. gave Ukraine and Russia a June deadline to reach agreement to end war - Yahoo
-• How TrumpRx drug prices compare to generic alternatives - Axios
+• Zelensky: Trump wants Russia-Ukraine peace deal by June, before midterms focus - Axios
+• Appeals court affirms Trump policy of jailing immigrants without bond - AP News
+• Trump aims to hold the first meeting of his new Board of Peace in Washington this month - Politico
+• What to Know About the Cold Snap in NYC This Weekend - The New York Times
+• Teachers, others shocked to get SFUSD ‘assignments’ for strike day - Mission Local
+• Trump administration must unfreeze Gateway funds, federal judge orders - Politico
+• Epstein Files Reveal Scope of Ghislaine Maxwell’s Role in Clinton Circle - The New York Times
+• Nancy Pelosi set to endorse JFK's grandson for New York House seat, source says - NBC News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Top trending searches of 2025 revealed by Google. See what made the list.
 • Google reveals the top trending searches of 2025
 • Gemini was Google’s top trending search term in 2025
+• Top trending searches of 2025 revealed by Google. See what made the list.
 
 ========================================
 END TRANSMISSION
