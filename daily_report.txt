@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-02-09
+INTELLIGENCE SNAPSHOT // 2026-02-10
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,932
-DOW J: 50,116
-NASDAQ: 23,031
-VIX: 19
+S&P 500: 6,965
+DOW J: 50,136
+NASDAQ: 23,239
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.9%] US x Iran meeting by February 6, 2026?
-[99.8%] Will Cardi B perform during the Super Bowl LX halftime show?
-[2.5%] US strikes Iran by February 9, 2026?
-[3.4%] Will Trump nominate Judy Shelton as the next Fed chair?
-[99.8%] Will Seguro win all of Portugal's districts?
+[0.1%] Will Frank Donovan be the leader of Venezuela end of 2026?
+[3.2%] Will Trump nominate Judy Shelton as the next Fed chair?
+[0.9%] US strikes Iran by February 10, 2026?
+[95.5%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[7.7%] Starmer out by February 28, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[4.7%] Will Russia invade a NATO country by June 30, 2026?
 [0.2%] Will Bitcoin reach $150,000 in February?
-[0.9%] Will Vivek Ramaswamy win the 2028 US Presidential Election?
-[0.2%] Will Trump nominate Stephen Miran as the next Fed chair?
-[0.9%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.1%] Will Trump nominate Scott Bessent as the next Fed chair?
+[0.4%] Will Trump nominate Rick Rieder as the next Fed chair?
+[3.9%] Will Russia test a nuclear weapon by March 31 2026?
+[90.0%] Will Trump deport 250,000-500,000 people?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[0.1%] Will the price of Bitcoin be above $80,000 on February 9?
-[100.0%] Will Trump admin release any more Epstein related files by February 6?
-[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
-[0.1%] Will Pete Hegseth be the leader of Venezuela end of 2026?
+[15.5%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[0.9%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[100.0%] Will Cardi B perform during the Super Bowl LX halftime show?
+[5.5%] US strikes Iran by February 13, 2026?
+[0.8%] Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Will Trump nominate Christopher Waller as the next Fed chair?
-[0.9%] Will Tim Walz win the 2028 US Presidential Election?
-[0.8%] Will Tim Walz win the 2028 Democratic presidential nomination?
-[1.6%] Will Manchester United win the 2025–26 English Premier League?
-[95.6%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[0.1%] Will Mallorca win the 2025–26 La Liga?
+[0.1%] Will Trump nominate Jerome Powell as the next Fed chair?
+[0.8%] Will Chelsea Clinton win the 2028 Democratic presidential nomination?
+[0.4%] Will the Atlanta Hawks win the 2026 NBA Finals?
+[0.1%] Will Trump nominate no one before 2027?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years - BBC
-• Nancy Guthrie disappearance: Ransom demand for Savannah Guthrie’s mom is reportedly $6M - foxnews.com
-• Stephen Miller: The aide driving Donald Trump's most controversial policies - BBC
-• Trump’s Oil Grab in Venezuela Shatters an American Taboo - The New York Times
-• Wes Moore suggests race may be why he was not invited to gov dinner with Trump - Politico
-• Portugal Elects a President, With Leftist Beating a Surging Far Right - The New York Times
-• No deal: S.F. teachers strike is on - San Francisco Chronicle
-• GOP Rep. Lawler says image posted by Trump mocking Obamas was 'racist' - ABC News
+• Jamie Raskin accuses DoJ of cover-up after viewing unredacted Epstein files - theguardian.com
+• Newly Unbound, Trump Weighs More Nuclear Arms and Underground Tests - The New York Times
+• Appeals Court Lets Trump Revoke Deportation Protections for 60,000 More Migrants - The New York Times
+• 'Despicable and reprehensible': China lashes out at UK expansion of visa scheme following Jimmy Lai conviction - CNBC
+• How the Trump administration skirts — and defies — court rulings on ICE detentions - Politico
+• House approves housing bill, setting stage for tough Senate negotiations - Politico
+• After Greenland, it’s the micro-agressions - Politico
+• SFUSD teachers strike, Day One: Where have all the children gone? - The San Francisco Standard
 
 ----------------------------------------
 
