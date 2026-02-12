@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-02-11
+INTELLIGENCE SNAPSHOT // 2026-02-12
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,942
-DOW J: 50,188
-NASDAQ: 23,102
-VIX: 18
+S&P 500: 6,941
+DOW J: 50,121
+NASDAQ: 23,066
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[4.0%] Will Trump nominate Judy Shelton as the next Fed chair?
-[0.1%] Will Fumitake Fujita be the Prime Minister of Japan as a result of the 2026 snap election?
-[1.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[1.8%] US strikes Iran by February 13, 2026?
-[0.2%] Will Bitcoin reach $150,000 in February?
+[4.2%] Will Trump nominate Judy Shelton as the next Fed chair?
+[0.7%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[5.5%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[92.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[1.1%] US strikes Iran by February 13, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[98.4%] Will Rob Jetten become the next Prime Minister of the Netherlands?
-[0.5%] US strikes Iran by February 11, 2026?
-[4.5%] Will Putin meet with Zelenskyy by March 31, 2026?
-[95.0%] Will Trump nominate Kevin Warsh as the next Fed chair?
-[0.9%] Will Tulsi Gabbard win the 2028 US Presidential Election?
+[0.1%] Will the US next strike Iran on February 10, 2026 (ET)?
+[2.2%] Will the Los Angeles Clippers win the 2026 NBA Finals?
+[0.4%] US strikes Iran by February 12, 2026?
+[1.8%] Will the next Prime Minister of Hungary be István Kapitány?
+[85.1%] Will Trump deport 250,000-500,000 people?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Ja Morant win the 2025–2026 NBA MVP?
-[4.0%] GTA VI released before June 2026?
+[3.0%] GTA VI released before June 2026?
+[5.5%] Will the Minnesota Wild win the 2026 NHL Stanley Cup?
+[0.8%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 [2.5%] Will the Los Angeles Kings win the 2026 NHL Stanley Cup?
-[0.1%] Will Trump nominate Stephen Miran as the next Fed chair?
-[89.1%] Will Trump deport 250,000-500,000 people?
+[89.5%] Will SOLV Energy, Inc.'s market cap be greater than $5.4B at market close on IPO day?
 
 --- SCIENCE (Top 5 Active) ---
-[0.9%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[5.7%] Will the Minnesota Wild win the 2026 NHL Stanley Cup?
-[1.1%] US strikes Iran by February 12, 2026?
-[16.5%] US strikes Iran by February 28, 2026?
-[0.2%] U.S. strike on Somalia by February 7?
+[99.9%] LoL: Invictus Gaming vs Oh My God - Game 3 Winner
+[0.2%] Will Bitcoin reach $150,000 in February?
+[1.1%] Will the next Prime Minister of Hungary be László Toroczkai?
+[0.1%] Will the US next strike Iran on February 11, 2026 (ET)?
+[1.2%] Will the Golden State Warriors win the NBA Western Conference Finals?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Prosecutors Fail to Bring Charges Against Democrats Involved in Illegal Orders Video - The New York Times
-• All flights at El Paso airport in Texas halted for 10 days for 'security reasons,' FAA says - NBC News
-• Why Dems think they have the upper hand at Pam Bondi’s big Hill hearing - Politico
-• Buddhist monks arrive in D.C., bringing needed solace with them - The Washington Post
-• Who are the six men named in the unredacted Epstein files? - The Guardian
-• The transatlantic alliance is down but not out - Politico
-• Georgia Ballot Inquiry Originated With Election Denier in Trump White House - The New York Times
-• Tumbler Ridge school shooting: PM Carney ‘devastated’ by attack that left 10 dead including suspect – as it happened - The Guardian
+• What We Know About the El Paso Airspace Shutdown - The New York Times
+• Police identify 18-year-old as suspect in Tumbler Ridge shootings - BBC
+• Trump to Netanyahu: U.S. prefers deal with Iran to war, for now - Axios
+• S.F. teachers strike: Schools closed again Thursday as talks continue - San Francisco Chronicle
+• US Energy Secretary Chris Wright visits Venezuela to assess oil industry overhaul - AP News
+• Oregon’s record low snowpack is not likely to recover, scientists say - Oregon Public Broadcasting - OPB
+• Poll: Top NATO allies don’t think US helps deter enemies anymore - Politico
+• Gun Part Maker Agrees to Pay $1.75 Million in Buffalo Massacre Lawsuits - The New York Times
 
 ----------------------------------------
 
