@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-02-14
+INTELLIGENCE SNAPSHOT // 2026-02-15
 ========================================
 
 MARKET CLOSE
@@ -12,51 +12,51 @@ VIX: 21
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[2.5%] Will Trump nominate Judy Shelton as the next Fed chair?
-[1.9%] Government shutdown on Saturday?
-[0.2%] Will Ethereum reach $4,400 in February?
-[0.7%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.1%] Will the next Dutch government be PVV + VVD + D66?
 [0.7%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.9%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.2%] Will Bitcoin reach $150,000 in February?
+[3.1%] Will Trump nominate Judy Shelton as the next Fed chair?
 
 --- US POLITICS (Top 5 Active) ---
-[93.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
-[75.5%] Will FC Bayern München win on 2026-02-14?
-[5.5%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
-[0.2%] Will Trump nominate no one before 2027?
-[96.2%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[6.5%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[0.4%] US strikes Iran by February 15, 2026?
+[0.1%] LoL: T1 vs BNK FEARX (BO5) - LCK Cup Playoffs
+[0.1%] Will France win the Men's Ice Hockey gold medal at the 2026 Winter Olympics?
+[11.5%] US strikes Iran by February 28, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.2%] Will Trump nominate Kevin Hassett as the next Fed chair?
-[0.2%] Will Bitcoin reach $150,000 in February?
-[0.1%] Will Trump nominate Christopher Waller as the next Fed chair?
-[0.2%] Will Trump nominate Michelle Bowman as the next Fed chair?
-[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
+[0.9%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
+[53.5%] Will Club Atlético de Madrid win on 2026-02-14?
+[0.2%] Will Curaçao win the 2026 FIFA World Cup?
+[0.2%] Will Trump nominate Stephen Miran as the next Fed chair?
+[0.1%] Will Elon Musk post 540-559 tweets from February 10 to February 17, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will France win the Men's Ice Hockey gold medal at the 2026 Winter Olympics?
-[100.0%] LoL: Gen.G vs Dplus KIA (BO5) - LCK Cup Playoffs
-[0.4%] US strikes Iran by February 14, 2026?
-[0.1%] Will Italy win the Men's Ice Hockey gold medal at the 2026 Winter Olympics?
-[0.9%] Will Raphael Warnock win the 2028 Democratic presidential nomination?
+[0.1%] Will Ahmed Aboutaleb become the next Prime Minister of the Netherlands?
+[0.1%] Will Elon Musk post 580+ tweets from February 10 to February 17, 2026?
+[0.9%] Will John Thune win the 2028 Republican presidential nomination?
+[0.2%] Will Cape Verde win the 2026 FIFA World Cup?
+[4.7%] Will Luka Doncic win the 2025–2026 NBA MVP?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Inside the Debacle That Led to the Closure of El Paso’s Airspace - The New York Times
-• Exclusive: US military preparing for potentially weeks-long Iran operations - Reuters
-• The Battles Inside Kristi Noem’s DHS: Five Takeaways From the Journal’s Investigation - The Wall Street Journal
-• ’The Interview’: Gisèle Pelicot Shares Her Story - The New York Times
-• Trump Files Final Plans for White House Ballroom - The New York Times
-• Prime Minister Carney and Canada's main opposition leader hold hands during school shooting vigil - AP News
-• Ocasio-Cortez Offers a Working-Class Vision in Munich, With a Few Stumbles - The New York Times
-• Buddhist monks vs. Trump’s fake “Board of Peace” - Salon.com
+• Trump has chipped away at the long-standing wall between church and state. It’s just the beginning - CNN
+• Winter storm warning issued as Tahoe braces for feet of snow - San Francisco Chronicle
+• Teen daughter of Ruben Torres Maldonado, Chicago man detained by immigration agents in Niles, released, dies after cancer battle - ABC7 Chicago
+• How the case against a Venezuelan man who was shot by an ICE agent fell apart - CNN
+• DHS has no immediate plans for sweeping city-specific immigration enforcement operations, officials say - NBC News
+• Sen. Mark Kelly's lawyer urges DOJ officials not to seek indictment for a second time over video - NBC News
+• Judge Boasberg’s Most Recent Decision - Civil Discourse with Joyce Vance
+• States reliant on Colorado River fail to meet the latest deadline to find consensus - AP News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Google reveals the top trending searches of 2025
 • YouTube's 'Trending' Page is Shutting Down After a Decade
