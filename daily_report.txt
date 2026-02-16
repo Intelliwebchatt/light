@@ -1,68 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-02-15
+INTELLIGENCE SNAPSHOT // 2026-02-16
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,836
 DOW J: 49,501
 NASDAQ: 22,547
-VIX: 21
+VIX: 20
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will the next Dutch government be PVV + VVD + D66?
-[0.7%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.9%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[0.2%] Will Bitcoin reach $150,000 in February?
+[0.1%] Will the next Dutch government be VVD + CDA + JA21?
+[0.7%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 [3.1%] Will Trump nominate Judy Shelton as the next Fed chair?
+[13.5%] US strikes Iran by February 28, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[6.5%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
-[0.4%] US strikes Iran by February 15, 2026?
-[0.1%] LoL: T1 vs BNK FEARX (BO5) - LCK Cup Playoffs
-[0.1%] Will France win the Men's Ice Hockey gold medal at the 2026 Winter Olympics?
-[11.5%] US strikes Iran by February 28, 2026?
+[0.8%] Will Tim Walz win the 2028 US Presidential Election?
+[0.2%] Will Bitcoin reach $150,000 in February?
+[0.9%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
+[71.5%] Will FC Barcelona win on 2026-02-16?
+[0.4%] US strikes Iran by February 16, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.9%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
-[53.5%] Will Club Atlético de Madrid win on 2026-02-14?
-[0.2%] Will Curaçao win the 2026 FIFA World Cup?
-[0.2%] Will Trump nominate Stephen Miran as the next Fed chair?
-[0.1%] Will Elon Musk post 540-559 tweets from February 10 to February 17, 2026?
+[0.9%] Will Steve Bannon win the 2028 Republican presidential nomination?
+[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
+[0.1%] Will Frank Donovan be the leader of Venezuela end of 2026?
+[0.9%] Will Mike Pence win the 2028 Republican presidential nomination?
+[0.2%] Will Trump nominate Michelle Bowman as the next Fed chair?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Ahmed Aboutaleb become the next Prime Minister of the Netherlands?
-[0.1%] Will Elon Musk post 580+ tweets from February 10 to February 17, 2026?
-[0.9%] Will John Thune win the 2028 Republican presidential nomination?
-[0.2%] Will Cape Verde win the 2026 FIFA World Cup?
-[4.7%] Will Luka Doncic win the 2025–2026 NBA MVP?
+[0.1%] Will Tesla be the largest company in the world by market cap on February 28?
+[14.9%] Will Lens win the 2025–26 French Ligue 1?
+[0.1%] Will Elon Musk post 560-579 tweets from February 10 to February 17, 2026?
+[0.2%] Will Trump nominate Kevin Hassett as the next Fed chair?
+[4.7%] US strikes Iran by February 20, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump has chipped away at the long-standing wall between church and state. It’s just the beginning - CNN
-• Winter storm warning issued as Tahoe braces for feet of snow - San Francisco Chronicle
-• Teen daughter of Ruben Torres Maldonado, Chicago man detained by immigration agents in Niles, released, dies after cancer battle - ABC7 Chicago
-• How the case against a Venezuelan man who was shot by an ICE agent fell apart - CNN
-• DHS has no immediate plans for sweeping city-specific immigration enforcement operations, officials say - NBC News
-• Sen. Mark Kelly's lawyer urges DOJ officials not to seek indictment for a second time over video - NBC News
-• Judge Boasberg’s Most Recent Decision - Civil Discourse with Joyce Vance
-• States reliant on Colorado River fail to meet the latest deadline to find consensus - AP News
+• Concerns over autocracy in the U.S. continue to grow - NPR
+• Iran says potential energy, mining and aircraft deals are on the table in talks with the U.S. - CNBC
+• Bondi criticised after saying all Epstein files have been released - BBC
+• Is the stock market open on Presidents Day? - thestreet.com
+• Trump's second year: Whiplash - Politico
+• US military boards another oil tanker in Indian Ocean after tracking it from the Caribbean - AP News
+• Israeli government approves new West Bank land policy - DW.com
+• Pope prays for victims of devastating cyclones in Madagascar - Vatican News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Google reveals the top trending searches of 2025
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• Gemini was Google’s top trending search term in 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• Gemini was Google’s top trending search term in 2025
 
 ========================================
 END TRANSMISSION
