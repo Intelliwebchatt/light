@@ -1,62 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-02-16
+INTELLIGENCE SNAPSHOT // 2026-02-17
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,836
 DOW J: 49,501
 NASDAQ: 22,547
-VIX: 20
+VIX: 22
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will the next Dutch government be VVD + CDA + JA21?
 [0.7%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[0.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[3.1%] Will Trump nominate Judy Shelton as the next Fed chair?
-[13.5%] US strikes Iran by February 28, 2026?
+[17.5%] US strikes Iran by February 28, 2026?
+[3.6%] Will Trump nominate Judy Shelton as the next Fed chair?
+[0.8%] US strikes Iran by February 17, 2026?
+[1.1%] Will Byron Donalds win the 2028 Republican presidential nomination?
 
 --- US POLITICS (Top 5 Active) ---
-[0.8%] Will Tim Walz win the 2028 US Presidential Election?
-[0.2%] Will Bitcoin reach $150,000 in February?
-[0.9%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
-[71.5%] Will FC Barcelona win on 2026-02-16?
-[0.4%] US strikes Iran by February 16, 2026?
+[0.9%] Will Liz Cheney win the 2028 Democratic presidential nomination?
+[0.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[43.5%] Will Real Madrid CF win on 2026-02-17?
+[3.0%] Will Jesus Christ return before 2027?
+[0.2%] Will Jordan win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[0.9%] Will Steve Bannon win the 2028 Republican presidential nomination?
-[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
-[0.1%] Will Frank Donovan be the leader of Venezuela end of 2026?
-[0.9%] Will Mike Pence win the 2028 Republican presidential nomination?
-[0.2%] Will Trump nominate Michelle Bowman as the next Fed chair?
+[0.9%] Will Tim Walz win the 2028 Democratic presidential nomination?
+[0.2%] Will New Zealand win the 2026 FIFA World Cup?
+[94.5%] Will Trump nominate Kevin Warsh as the next Fed chair?
+[0.4%] Will Trump nominate no one before 2027?
+[5.1%] US strikes Iran by February 20, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Tesla be the largest company in the world by market cap on February 28?
-[14.9%] Will Lens win the 2025–26 French Ligue 1?
-[0.1%] Will Elon Musk post 560-579 tweets from February 10 to February 17, 2026?
-[0.2%] Will Trump nominate Kevin Hassett as the next Fed chair?
-[4.7%] US strikes Iran by February 20, 2026?
+[0.9%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+[1.1%] Will Cory Booker win the 2028 Democratic presidential nomination?
+[0.1%] Will Elon Musk post 90-114 tweets from February 14 to February 16, 2026?
+[1.1%] Will Greg Abbott win the 2028 Republican presidential nomination?
+[1.1%] Russia x Ukraine ceasefire by February 28, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Concerns over autocracy in the U.S. continue to grow - NPR
-• Iran says potential energy, mining and aircraft deals are on the table in talks with the U.S. - CNBC
-• Bondi criticised after saying all Epstein files have been released - BBC
-• Is the stock market open on Presidents Day? - thestreet.com
-• Trump's second year: Whiplash - Politico
-• US military boards another oil tanker in Indian Ocean after tracking it from the Caribbean - AP News
-• Israeli government approves new West Bank land policy - DW.com
-• Pope prays for victims of devastating cyclones in Madagascar - Vatican News
+• Jesse Jackson, Civil Rights Leader Who Sought the Presidency, Dies at 84 - The New York Times
+• Noem's use of Coast Guard resources strains her relationship with the military branch, sources say - NBC News
+• Iran meets UN nuclear watchdog in Geneva ahead of more US talks - AP News
+• The U.S. ready to make up, Europe ready to break up in Munich - NPR
+• American surfer Kurt Van Dyke found dead in apparent robbery at his home in Costa Rica - CNN
+• China is piling pressure on Japan's Sanae Takaichi. Will it work? - BBC
+• After First Big Overseas Trip, Ocasio-Cortez Expresses Frustrations - The New York Times
+• US increases military pressure on Iran ahead of high-stakes talks - CNN
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Google reveals the top trending searches of 2025
-• Top trending searches of 2025 revealed by Google. See what made the list.
 • Gemini was Google’s top trending search term in 2025
+• Top trending searches of 2025 revealed by Google. See what made the list.
 
 ========================================
 END TRANSMISSION
