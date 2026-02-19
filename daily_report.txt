@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-02-18
+INTELLIGENCE SNAPSHOT // 2026-02-19
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,843
-DOW J: 49,533
-NASDAQ: 22,578
+S&P 500: 6,881
+DOW J: 49,663
+NASDAQ: 22,754
 VIX: 20
 
 ----------------------------------------
@@ -12,56 +12,49 @@ VIX: 20
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[4.0%] Will Jesus Christ return before 2027?
+[3.2%] Will Jesus Christ return before 2027?
 [27.5%] US strikes Iran by February 28, 2026?
+[6.9%] US strikes Iran by February 20, 2026?
+[0.1%] Will Bitcoin reach $150,000 in February?
 [0.8%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[0.2%] Will Bitcoin reach $150,000 in February?
-[3.5%] Will Trump nominate Judy Shelton as the next Fed chair?
 
 --- US POLITICS (Top 5 Active) ---
-[0.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[7.8%] US strikes Iran by February 20, 2026?
-[1.1%] US strikes Iran by February 18, 2026?
-[61.5%] US strikes Iran by March 31, 2026?
-[12.6%] Will Lens win the 2025–26 French Ligue 1?
+[2.1%] US strikes Iran by February 19, 2026?
+[0.7%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.1%] Will Ahmed Aboutaleb become the next Prime Minister of the Netherlands?
+[3.5%] Will Trump nominate Judy Shelton as the next Fed chair?
+[13.0%] US strikes Iran by February 21, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Pete Hegseth be the leader of Venezuela end of 2026?
-[1.5%] Will Japan win the 2026 FIFA World Cup?
-[1.1%] Will John Thune win the 2028 Republican presidential nomination?
-[1.1%] Will Shane Lowry win the 2026 Masters tournament?
-[1.1%] Will the next Prime Minister of Hungary be László Toroczkai?
+[3.4%] Russia x Ukraine ceasefire by March 31, 2026?
+[21.5%] Khamenei out as Supreme Leader of Iran by March 31?
+[60.5%] US strikes Iran by March 31, 2026?
+[0.2%] Will Haiti win the 2026 FIFA World Cup?
+[0.1%] Will West Ham win the 2025–26 English Premier League?
 
 --- SCIENCE (Top 5 Active) ---
-[0.9%] Will Kim Kardashian win the 2028 Democratic presidential nomination?
-[38.5%] Will AC Milan win on 2026-02-18?
-[1.3%] Will the next Prime Minister of Hungary be István Kapitány?
-[3.1%] GTA VI released before June 2026?
-[1.1%] Will Elise Stefanik win the 2028 Republican presidential nomination?
+[0.1%] Will Frans Timmermans become the next Prime Minister of the Netherlands?
+[7.3%] Khamenei out as Supreme Leader of Iran by February 28?
+[100.0%] LoL: DN Freecs vs DRX (BO5) - LCK Cup Playoffs
+[0.9%] Will LeBron James win the 2028 US Presidential Election?
+[16.5%] US strikes Iran by February 22, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• ‘Woke’ AI Feud Escalates Between Pentagon and Anthropic - The Wall Street Journal
-• As Iran talks drag on, questions emerge over how long Trump will indulge diplomacy - CNN
-• Trump Suffers Record Low Polling on Key MAGA Policy - The Daily Beast
-• Trump Bets on Diplomacy Without Diplomats - The New York Times
-• New Mexico approves truth commission on alleged Jeffrey Epstein ranch abuse - The Guardian
-• Why California could be the big winner as EPA abandons climate policy - Politico
-• California Wealth Tax Opponents Intensify Efforts Before Bernie Sanders Visit - The New York Times
-• Portland could get as much as 2 inches of snow starting Wednesday evening...or not - OregonLive.com
+• 8 dead in Tahoe avalanche; victims include Sugar Bowl ski team moms - San Francisco Chronicle
+• Former South Korean President Yoon receives life sentence for imposing martial law - Associated Press News
+• Bowser declares Potomac sewage spill an emergency, seeks federal aid for cleanup - The Washington Post
+• Trump administration gives ICE broader powers to detain legal refugees, citing security concerns - CBS News
+• Major European allies decline to join first meeting of Trump’s Board of Peace - The Guardian
+• Boeing defense headquarters to return to St. Louis after leaving the area in 2017 - STLPR
+• Canadians kind of hate America now. Our new poll shows just how much. - Politico
+• February 18, 2026 - Letters from an American | Heather Cox Richardson | Substack
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube removing the Trending page in favor of Charts, recommendations
-• Trending is out—YouTube is now all about your interests
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Google reveals the top trending searches of 2025
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Gemini was Google’s top trending search term in 2025
 • Top trending searches of 2025 revealed by Google. See what made the list.
 
