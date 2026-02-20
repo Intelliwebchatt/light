@@ -1,62 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-02-19
+INTELLIGENCE SNAPSHOT // 2026-02-20
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,881
-DOW J: 49,663
-NASDAQ: 22,754
-VIX: 20
+S&P 500: 6,862
+DOW J: 49,395
+NASDAQ: 22,683
+VIX: 21
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[3.2%] Will Jesus Christ return before 2027?
-[27.5%] US strikes Iran by February 28, 2026?
-[6.9%] US strikes Iran by February 20, 2026?
-[0.1%] Will Bitcoin reach $150,000 in February?
+[1.5%] US strikes Iran by February 20, 2026?
+[26.5%] US strikes Iran by February 28, 2026?
 [0.8%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[3.5%] Will Jesus Christ return before 2027?
+[0.7%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[2.1%] US strikes Iran by February 19, 2026?
-[0.7%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.1%] Will Ahmed Aboutaleb become the next Prime Minister of the Netherlands?
-[3.5%] Will Trump nominate Judy Shelton as the next Fed chair?
-[13.0%] US strikes Iran by February 21, 2026?
+[17.0%] Will the US confirm that aliens exist before 2027?
+[0.1%] Will Bitcoin reach $150,000 in February?
+[3.7%] Will Trump nominate Judy Shelton as the next Fed chair?
+[22.7%] Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
+[0.9%] Will Tim Walz win the 2028 US Presidential Election?
 
 --- TECH & AI (Top 5 Active) ---
-[3.4%] Russia x Ukraine ceasefire by March 31, 2026?
-[21.5%] Khamenei out as Supreme Leader of Iran by March 31?
-[60.5%] US strikes Iran by March 31, 2026?
-[0.2%] Will Haiti win the 2026 FIFA World Cup?
-[0.1%] Will West Ham win the 2025–26 English Premier League?
+[0.1%] Will Frank Donovan be the leader of Venezuela end of 2026?
+[0.4%] Will Trump nominate Rick Rieder as the next Fed chair?
+[8.0%] US strikes Iran by February 22, 2026?
+[0.1%] Will Ethereum reach $5,000 in February?
+[4.5%] US strikes Iran by February 21, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Frans Timmermans become the next Prime Minister of the Netherlands?
-[7.3%] Khamenei out as Supreme Leader of Iran by February 28?
-[100.0%] LoL: DN Freecs vs DRX (BO5) - LCK Cup Playoffs
-[0.9%] Will LeBron James win the 2028 US Presidential Election?
-[16.5%] US strikes Iran by February 22, 2026?
+[1.2%] Will the Golden State Warriors win the NBA Western Conference Finals?
+[2.5%] Will Tottenham win the 2025–26 Champions League?
+[12.5%] Will Lens win the 2025–26 French Ligue 1?
+[0.1%] Will the next Dutch government be PVV + VVD + JA21?
+[10.5%] Will Google have the best AI model at the end of February 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• 8 dead in Tahoe avalanche; victims include Sugar Bowl ski team moms - San Francisco Chronicle
-• Former South Korean President Yoon receives life sentence for imposing martial law - Associated Press News
-• Bowser declares Potomac sewage spill an emergency, seeks federal aid for cleanup - The Washington Post
-• Trump administration gives ICE broader powers to detain legal refugees, citing security concerns - CBS News
-• Major European allies decline to join first meeting of Trump’s Board of Peace - The Guardian
-• Boeing defense headquarters to return to St. Louis after leaving the area in 2017 - STLPR
-• Canadians kind of hate America now. Our new poll shows just how much. - Politico
-• February 18, 2026 - Letters from an American | Heather Cox Richardson | Substack
+• Governors group skips White House meeting after Trump refused to invite two Democrats - PBS
+• What worked and what didn't with a cellphone ban at a Kentucky school - NPR
+• VA backs off rule that would have cut benefits amid outrage - CNN
+• With ‘Tremendous’ Deals at Stake, Trump Is Bringing Russia in From the Cold - The New York Times
+• Illinois Democrat tries to bleep her way through a tough Senate primary with a new expletive-laden anti-Trump ad - NBC News
+• Missing Bay Area skier Colin Kang found dead at Northstar California Resort, marking 3rd death this month - ABC7 San Francisco
+• Anonymous donation raises reward for help finding Nancy Guthrie to over $200,000 - Fox News
+• MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’ - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Google reveals the top trending searches of 2025
-• Gemini was Google’s top trending search term in 2025
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• Rover releases top trending pet names in Ohio, KY and IN for 2025
 
 ========================================
 END TRANSMISSION
