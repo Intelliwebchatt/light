@@ -1,62 +1,66 @@
-INTELLIGENCE SNAPSHOT // 2026-02-20
+INTELLIGENCE SNAPSHOT // 2026-02-21
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,862
-DOW J: 49,395
-NASDAQ: 22,683
-VIX: 21
+S&P 500: 6,910
+DOW J: 49,626
+NASDAQ: 22,886
+VIX: 19
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[1.5%] US strikes Iran by February 20, 2026?
-[26.5%] US strikes Iran by February 28, 2026?
+[0.1%] Will Oviedo win the 2025–26 La Liga?
+[3.6%] Will Trump nominate Judy Shelton as the next Fed chair?
+[17.5%] US strikes Iran by February 28, 2026?
+[1.2%] US strikes Iran by February 21, 2026?
 [0.8%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[3.5%] Will Jesus Christ return before 2027?
-[0.7%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[17.0%] Will the US confirm that aliens exist before 2027?
+[57.0%] OpenAI IPO closing market cap above $1T?
+[2.6%] US strikes Iran by February 22, 2026?
+[95.0%] Will there be no change in Fed interest rates after the March 2026 meeting?
 [0.1%] Will Bitcoin reach $150,000 in February?
-[3.7%] Will Trump nominate Judy Shelton as the next Fed chair?
-[22.7%] Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
-[0.9%] Will Tim Walz win the 2028 US Presidential Election?
+[0.2%] Will Trump nominate Rick Rieder as the next Fed chair?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Frank Donovan be the leader of Venezuela end of 2026?
-[0.4%] Will Trump nominate Rick Rieder as the next Fed chair?
-[8.0%] US strikes Iran by February 22, 2026?
-[0.1%] Will Ethereum reach $5,000 in February?
-[4.5%] US strikes Iran by February 21, 2026?
+[0.9%] Will LeBron James win the 2028 US Presidential Election?
+[3.6%] Will Jesus Christ return before 2027?
+[0.2%] Will Trump nominate Stephen Miran as the next Fed chair?
+[1.1%] Will Cory Booker win the 2028 Democratic presidential nomination?
+[0.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[1.2%] Will the Golden State Warriors win the NBA Western Conference Finals?
+[13.5%] Will the US confirm that aliens exist before 2027?
+[0.1%] Will the US next strike Iran on February 20, 2026 (ET)?
+[94.8%] Will Trump nominate Kevin Warsh as the next Fed chair?
 [2.5%] Will Tottenham win the 2025–26 Champions League?
-[12.5%] Will Lens win the 2025–26 French Ligue 1?
-[0.1%] Will the next Dutch government be PVV + VVD + JA21?
-[10.5%] Will Google have the best AI model at the end of February 2026?
+[40.0%] Will Hilton Grand Vacations (HGV) beat quarterly earnings?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Governors group skips White House meeting after Trump refused to invite two Democrats - PBS
-• What worked and what didn't with a cellphone ban at a Kentucky school - NPR
-• VA backs off rule that would have cut benefits amid outrage - CNN
-• With ‘Tremendous’ Deals at Stake, Trump Is Bringing Russia in From the Cold - The New York Times
-• Illinois Democrat tries to bleep her way through a tough Senate primary with a new expletive-laden anti-Trump ad - NBC News
-• Missing Bay Area skier Colin Kang found dead at Northstar California Resort, marking 3rd death this month - ABC7 San Francisco
-• Anonymous donation raises reward for help finding Nancy Guthrie to over $200,000 - Fox News
-• MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’ - The New York Times
+• Government considers removing Andrew from royal line of succession - BBC
+• Former top general calls military's removal of trans troops a costly mistake - NPR
+• Tracking heavy snow in the Philadelphia; blizzard conditions possible near shore | Live Updates - 6abc Philadelphia
+• Potential blizzard in Boston could drop a foot of snow or more Monday, weather forecast maps show - CBS News
+• MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide - Ars Technica
+• Trump Doubles Down on Closing Tax Loophole on Cheap Imports - The New York Times
+• NYC, NJ forecasts now warn up to 10 inches of snow expected for Sunday storm - Gothamist
+• E.P.A. Weakens Limits on Mercury From Coal Plants - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
+• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube is killing its Trending page a decade after its debut
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 • Google reveals the top trending searches of 2025
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• Rover releases top trending pet names in Ohio, KY and IN for 2025
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 
 ========================================
 END TRANSMISSION
