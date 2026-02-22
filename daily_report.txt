@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-02-21
+INTELLIGENCE SNAPSHOT // 2026-02-22
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,44 @@ VIX: 19
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Oviedo win the 2025–26 La Liga?
-[3.6%] Will Trump nominate Judy Shelton as the next Fed chair?
 [17.5%] US strikes Iran by February 28, 2026?
-[1.2%] US strikes Iran by February 21, 2026?
 [0.8%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[1.7%] US strikes Iran by February 22, 2026?
+[0.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[71.6%] LoL: T1 vs Dplus KIA (BO5) - LCK Cup Playoffs
 
 --- US POLITICS (Top 5 Active) ---
-[57.0%] OpenAI IPO closing market cap above $1T?
-[2.6%] US strikes Iran by February 22, 2026?
-[95.0%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[0.1%] Will Newcastle win the 2025–26 English Premier League?
+[0.1%] Will Frank Donovan be the leader of Venezuela end of 2026?
+[95.8%] Will there be no change in Fed interest rates after the March 2026 meeting?
 [0.1%] Will Bitcoin reach $150,000 in February?
-[0.2%] Will Trump nominate Rick Rieder as the next Fed chair?
+[3.6%] US strikes Iran by February 23, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.9%] Will LeBron James win the 2028 US Presidential Election?
-[3.6%] Will Jesus Christ return before 2027?
-[0.2%] Will Trump nominate Stephen Miran as the next Fed chair?
-[1.1%] Will Cory Booker win the 2028 Democratic presidential nomination?
-[0.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[3.8%] Will Jesus Christ return before 2027?
+[1.2%] Will Tom Brady win the 2028 Republican presidential nomination?
+[55.5%] US strikes Iran by March 31, 2026?
+[1.1%] Will Kristi Noem win the 2028 Republican presidential nomination?
+[0.4%] Will the Charlotte Hornets win the 2026 NBA Finals?
 
 --- SCIENCE (Top 5 Active) ---
-[13.5%] Will the US confirm that aliens exist before 2027?
-[0.1%] Will the US next strike Iran on February 20, 2026 (ET)?
-[94.8%] Will Trump nominate Kevin Warsh as the next Fed chair?
-[2.5%] Will Tottenham win the 2025–26 Champions League?
-[40.0%] Will Hilton Grand Vacations (HGV) beat quarterly earnings?
+[67.0%] Nuggets vs. Warriors
+[23.5%] Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
+[46.5%] Spurs vs. Pistons
+[0.2%] Will Solana reach $170 in February?
+[1.4%] Will the next Prime Minister of Hungary be László Toroczkai?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Government considers removing Andrew from royal line of succession - BBC
-• Former top general calls military's removal of trans troops a costly mistake - NPR
-• Tracking heavy snow in the Philadelphia; blizzard conditions possible near shore | Live Updates - 6abc Philadelphia
-• Potential blizzard in Boston could drop a foot of snow or more Monday, weather forecast maps show - CBS News
-• MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide - Ars Technica
-• Trump Doubles Down on Closing Tax Loophole on Cheap Imports - The New York Times
-• NYC, NJ forecasts now warn up to 10 inches of snow expected for Sunday storm - Gothamist
-• E.P.A. Weakens Limits on Mercury From Coal Plants - The New York Times
+• 60% disapprove of Trump ahead of State of the Union, Post-ABC poll finds - The Washington Post
+• Trump Says He Is Sending Hospital Ship to Greenland - The Wall Street Journal
+• Russia-Ukraine war: List of key events, day 1,459 - Al Jazeera
+• They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck. - The New York Times
+• Iran’s Students Hold Anti-Regime Protests as Universities Reopen - The New York Times
+• Chicago crime spree: 2 killed in carjackings, shootings from Lakeview to South Side; Marquese Hill, Marshawn Sanders, 17, charged - ABC7 Chicago
+• Powerful coastal storm to bring snow, wind to D.C. area; worst on Sunday night - The Washington Post
+• Death of far-right activist in France sends tensions soaring and draws US criticism - CNN
 
 ----------------------------------------
 
@@ -61,6 +61,7 @@ TRENDING TOPICS
 • YouTube's 'Trending' Page is Shutting Down After a Decade
 • Google reveals the top trending searches of 2025
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Gemini was Google’s top trending search term in 2025
 
 ========================================
 END TRANSMISSION
