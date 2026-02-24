@@ -1,66 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-02-23
+INTELLIGENCE SNAPSHOT // 2026-02-24
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,910
-DOW J: 49,626
-NASDAQ: 22,886
-VIX: 20
+S&P 500: 6,838
+DOW J: 48,804
+NASDAQ: 22,627
+VIX: 21
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[17.5%] US strikes Iran by February 28, 2026?
-[1.4%] US strikes Iran by February 23, 2026?
-[3.2%] US strikes Iran by February 24, 2026?
-[3.2%] Will Trump nominate Judy Shelton as the next Fed chair?
+[0.1%] Will Tottenham win the 2025–26 English Premier League?
 [0.7%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.7%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[1.7%] US strikes Iran by February 24, 2026?
+[16.5%] US strikes Iran by February 28, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[3.2%] Will the Toronto Raptors win the NBA Eastern Conference Finals?
-[57.5%] US strikes Iran by March 31, 2026?
-[0.1%] Will the US next strike Iran on February 22, 2026 (ET)?
-[1.9%] Will Andy Beshear win the 2028 US Presidential Election?
-[23.2%] Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
+[1.8%] Will Andy Beshear win the 2028 US Presidential Election?
+[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
+[62.5%] US strikes Iran by March 31, 2026?
+[0.1%] Will Bitcoin reach $150,000 in February?
+[100.0%] LoL: JD Gaming vs Top Esports (BO5) - LPL Playoffs
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Ethereum reach $5,000 in February?
-[5.5%] US strikes Iran by February 25, 2026?
-[10.8%] Will Lens win the 2025–26 French Ligue 1?
-[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
-[50.5%] Will Manchester United FC win on 2026-02-23?
+[0.8%] Will Tim Walz win the 2028 Democratic presidential nomination?
+[14.5%] Will the US confirm that aliens exist before 2027?
+[3.6%] Will Pete Buttigieg win the 2028 Democratic presidential nomination?
+[3.1%] GTA VI released before June 2026?
+[4.3%] Will the Toronto Raptors win the NBA Eastern Conference Finals?
 
 --- SCIENCE (Top 5 Active) ---
-[2.6%] Will the next Prime Minister of Hungary be László Toroczkai?
-[0.1%] Will Monaco win the 2025–26 Champions League?
-[1.2%] Will Rahm Emanuel win the 2028 Democratic presidential nomination?
-[2.7%] Will Norway win the 2026 FIFA World Cup?
-[0.8%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[3.0%] US strikes Iran by February 25, 2026?
+[0.1%] Will the US next strike Iran on February 22, 2026 (ET)?
+[0.1%] Will Ethereum reach $5,000 in February?
+[13.4%] Will Lens win the 2025–26 French Ligue 1?
+[3.4%] Will Trump nominate Judy Shelton as the next Fed chair?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Stock futures fall amid uncertainty about Trump's new tariffs: Live updates - CNBC
-• Armed man killed after entering secure perimeter of Trump's residence, Secret Service says - BBC
-• Scoop: Hegseth to meet Anthropic CEO as Pentagon threatens banishment - Axios
-• Governor Lamont Orders Executive Branch State Office Buildings Closed to the Public Monday Due to Winter Storm - CT.GOV-Connecticut's Official State Website (.gov)
-• France will summon Ambassador Charles Kushner over US comments on activist’s death - Politico
-• Trump Considers Targeted Strike Against Iran, Followed by Larger Attack - The New York Times
-• Trump’s law is crushing the next generation of RFK Jr. disciples - Politico
-• Following a whiplash transition from record warmth to very heavy mountain snowfall in California, yet another swing back toward anomalous warmth (first damp, then dry) - Weather West
+• Trump’s top general foresees acute risks in an attack on Iran - The Washington Post
+• PHOTO ESSAY: Portraits of Ukrainians on the anniversary of Russia’s full-scale invasion - AP News
+• Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits - The New York Times
+• City of Philadelphia Provides Update as Snow Emergency Takes Effect and Winter Storm Impacts Region - City of Philadelphia (.gov)
+• Ex-ICE instructor testifies that agency slashed officer training, lied to Congress - The Washington Post
+• Dan Patrick seeks to block Camp Mystic’s summer reopening pending inquiry into July 4 flood deaths - The Texas Tribune
+• Trump says he's kept all of his campaign promises. PolitiFact's MAGA-Meter shows otherwise - PBS
+• Photos: Philadelphia and South Jersey transform into a winter wonderland after latest storm - WHYY
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube is killing its Trending page a decade after its debut
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• Top trending searches of 2025 revealed by Google. See what made the list.
 • Google reveals the top trending searches of 2025
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 • Gemini was Google’s top trending search term in 2025
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 
 ========================================
 END TRANSMISSION
