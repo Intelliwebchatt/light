@@ -1,67 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-02-25
+INTELLIGENCE SNAPSHOT // 2026-02-26
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,890
-DOW J: 49,174
-NASDAQ: 22,864
-VIX: 19
+S&P 500: 6,946
+DOW J: 49,482
+NASDAQ: 23,152
+VIX: 18
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[11.5%] US strikes Iran by February 28, 2026?
-[0.1%] Will Bitcoin reach $150,000 in February?
-[0.1%] Will Tottenham win the 2025–26 English Premier League?
 [0.1%] Will Trump nominate Scott Bessent as the next Fed chair?
-[1.5%] US strikes Iran by February 25, 2026?
+[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
+[0.1%] Will Uzbekistan win the 2026 FIFA World Cup?
+[28.5%] Will Axiom be accused of insider trading?
+[9.5%] US strikes Iran by February 28, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[0.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.7%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[60.5%] US strikes Iran by March 31, 2026?
-[3.1%] US strikes Iran by February 26, 2026?
+[1.7%] US strikes Iran by February 26, 2026?
+[21.0%] Will Meteora be accused of insider trading?
+[1.2%] Will Cory Booker win the 2028 Democratic presidential nomination?
+[1.4%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[0.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[16.5%] Will the US confirm that aliens exist before 2027?
-[44.5%] Will Meteora be accused of insider trading?
+[5.1%] Will Bitcoin reach $75,000 in February?
 [3.8%] Will Trump nominate Judy Shelton as the next Fed chair?
-[15.5%] Will Axiom be accused of insider trading?
-[0.1%] Will Trump nominate Rick Rieder as the next Fed chair?
+[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
+[23.3%] Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
+[1.7%] Will Andy Beshear win the 2028 US Presidential Election?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
-[1.2%] Will Barack Obama win the 2028 Democratic presidential nomination?
-[8.0%] Will Bitcoin dip to $60,000 in February?
-[2.1%] Will Bitcoin reach $75,000 in February?
-[2.6%] Will Elon Musk post 40-64 tweets from February 23 to February 25, 2026?
+[15.5%] Will the US confirm that aliens exist before 2027?
+[5.1%] US strikes Iran by February 27, 2026?
+[97.2%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[6.2%] Will Robinhood be accused of insider trading?
+[1.6%] Will Glenn Youngkin win the 2028 US Presidential Election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Security Alert – Update 7: Ongoing Security Operations - U.S. Mission Mexico (February 24, 2026) - U.S. Embassy & Consulates in Mexico (.gov)
-• Snow again? Weather forecast maps for Boston show 2 upcoming chances for light accumulation. - CBS News
-• Abigail Spanberger gave Democrats’ response to Trump. But she didn’t have the stage to herself. - Politico
-• Judge bars Justice Department from searching through devices seized from Washington Post reporter as part of leak probe - CNN
-• Dozens of FBI records apparently missing from Epstein files, including Trump accuser interviews - CNN
-• Charles Kushner is the latest ambassador stirring trouble. Here's a list. - Axios
-• Tump bestows Purple Hearts, Medals of Honor at State of the Union. See all the awards. - CBS News
-• Hegseth revives push to punish Sen. Mark Kelly - Politico
+• North Korea’s ​Kim Jong-un Hints at Improving U.S. Relations — With Caveats - The New York Times
+• How China is masking drone flights in potential Taiwan rehearsal - Reuters
+• Trump administration to withhold $259M in Minnesota Medicaid funds, citing fraud - The Washington Post
+• Ukraine Is Losing the War - Foreign Affairs
+• F.B.I. Raids Home and Office of L.A.U.S.D. Chief Alberto Carvalho - The New York Times
+• Americans Are Leaving the U.S. in Record Numbers - WSJ
+• Republicans’ alarm grows about holding Texas Senate seat - Politico
+• Larry Summers Will Resign From Harvard After Jeffrey Epstein Revelations - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
-• YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • Google reveals the top trending searches of 2025
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube kills the Trending page after a decade of existence
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Gemini was Google’s top trending search term in 2025
 
 ========================================
 END TRANSMISSION
