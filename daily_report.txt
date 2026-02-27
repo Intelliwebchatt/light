@@ -1,61 +1,68 @@
-INTELLIGENCE SNAPSHOT // 2026-02-26
+INTELLIGENCE SNAPSHOT // 2026-02-27
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,946
-DOW J: 49,482
-NASDAQ: 23,152
-VIX: 18
+S&P 500: 6,909
+DOW J: 49,499
+NASDAQ: 22,878
+VIX: 20
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Trump nominate Scott Bessent as the next Fed chair?
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[0.1%] Will Uzbekistan win the 2026 FIFA World Cup?
-[28.5%] Will Axiom be accused of insider trading?
-[9.5%] US strikes Iran by February 28, 2026?
+[0.1%] Will Mallorca win the 2025–26 La Liga?
+[0.1%] Will Elon Musk post 100-119 tweets from February 24 to March 3, 2026?
+[18.5%] US strikes Iran by February 28, 2026?
+[0.1%] Will Elon Musk post 0-19 tweets from February 27 to March 6, 2026?
+[0.1%] Will Phạm Minh Chính be the next President of Vietnam?
 
 --- US POLITICS (Top 5 Active) ---
-[1.7%] US strikes Iran by February 26, 2026?
-[21.0%] Will Meteora be accused of insider trading?
-[1.2%] Will Cory Booker win the 2028 Democratic presidential nomination?
-[1.4%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
-[0.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
+[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
+[0.1%] Will LeBron James win the 2025–2026 NBA MVP?
+[0.1%] Will the Dallas Mavericks win the 2026 NBA Finals?
+[7.2%] US strikes Iran by February 27, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[5.1%] Will Bitcoin reach $75,000 in February?
-[3.8%] Will Trump nominate Judy Shelton as the next Fed chair?
-[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
-[23.3%] Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
-[1.7%] Will Andy Beshear win the 2028 US Presidential Election?
+[0.1%] Will Elon Musk post 80-99 tweets from February 24 to March 3, 2026?
+[17.5%] Will the US confirm that aliens exist before 2027?
+[65.5%] US strikes Iran by March 31, 2026?
+[0.4%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[15.5%] Will the US confirm that aliens exist before 2027?
-[5.1%] US strikes Iran by February 27, 2026?
-[97.2%] Will there be no change in Fed interest rates after the March 2026 meeting?
-[6.2%] Will Robinhood be accused of insider trading?
-[1.6%] Will Glenn Youngkin win the 2028 US Presidential Election?
+[25.5%] US strikes Iran by March 1, 2026?
+[0.1%] Will Chelsea win the 2025–26 English Premier League?
+[4.0%] Will Trump nominate Judy Shelton as the next Fed chair?
+[0.1%] Will Elon Musk post 80-99 tweets from February 27 to March 6, 2026?
+[31.5%] US strikes Iran by March 2, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• North Korea’s ​Kim Jong-un Hints at Improving U.S. Relations — With Caveats - The New York Times
-• How China is masking drone flights in potential Taiwan rehearsal - Reuters
-• Trump administration to withhold $259M in Minnesota Medicaid funds, citing fraud - The Washington Post
-• Ukraine Is Losing the War - Foreign Affairs
-• F.B.I. Raids Home and Office of L.A.U.S.D. Chief Alberto Carvalho - The New York Times
-• Americans Are Leaving the U.S. in Record Numbers - WSJ
-• Republicans’ alarm grows about holding Texas Senate seat - Politico
-• Larry Summers Will Resign From Harvard After Jeffrey Epstein Revelations - The New York Times
+• With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed - The New York Times - The New York Times
+• Trump’s Foreign Policy: Resurrecting Empire - The New York Times
+• Top U.S. commander in the Middle East briefs Trump on Iran options - Axios
+• Green Party wins Gorton and Denton by-election with Labour pushed into third by Reform - BBC
+• Fact-check: In Trump’s Case for an Attack on Iran, False or Unproven Claims - The New York Times - The New York Times
+• Scoop: US citizens were on stolen boat in deadly shooting with Cuba's coast guard - Axios
+• Pentagon shoots down Customs and Border Protection drone in Texas, federal officials say - CBS News
+• Trump's takeover of the GOP upends Texas Senate race and threatens John Cornyn's seat - NBC News
 
 ----------------------------------------
 
 TRENDING TOPICS
+• YouTube is killing its Trending page a decade after its debut
+• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube kills the Trending page after a decade of existence
 • Google reveals the top trending searches of 2025
-• Gemini was Google’s top trending search term in 2025
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
 
 ========================================
 END TRANSMISSION
