@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-02-27
+INTELLIGENCE SNAPSHOT // 2026-02-28
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,909
-DOW J: 49,499
-NASDAQ: 22,878
+S&P 500: 6,879
+DOW J: 48,978
+NASDAQ: 22,668
 VIX: 20
 
 ----------------------------------------
@@ -12,57 +12,50 @@ VIX: 20
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Mallorca win the 2025–26 La Liga?
-[0.1%] Will Elon Musk post 100-119 tweets from February 24 to March 3, 2026?
-[18.5%] US strikes Iran by February 28, 2026?
 [0.1%] Will Elon Musk post 0-19 tweets from February 27 to March 6, 2026?
+[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
 [0.1%] Will Phạm Minh Chính be the next President of Vietnam?
+[0.1%] Will Mallorca win the 2025–26 La Liga?
+[0.1%] Will South Africa win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
-[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
-[0.1%] Will LeBron James win the 2025–2026 NBA MVP?
-[0.1%] Will the Dallas Mavericks win the 2026 NBA Finals?
-[7.2%] US strikes Iran by February 27, 2026?
+[8.9%] Khamenei out as Supreme Leader of Iran by February 28?
+[0.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.4%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[99.7%] Will Nick Shirley attend the 2026 State of the Union address?
+[0.4%] Will the US next strike Iran on February 27, 2026 (ET)?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Elon Musk post 80-99 tweets from February 24 to March 3, 2026?
-[17.5%] Will the US confirm that aliens exist before 2027?
-[65.5%] US strikes Iran by March 31, 2026?
-[0.4%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[49.5%] Khamenei out as Supreme Leader of Iran by March 31?
+[0.1%] Will Elon Musk post 40-59 tweets from February 27 to March 6, 2026?
+[7.5%] Will Bitcoin dip to $60,000 in February?
+[99.4%] Will the US next strike Iran on February 28, 2026 (ET)?
+[4.5%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[25.5%] US strikes Iran by March 1, 2026?
-[0.1%] Will Chelsea win the 2025–26 English Premier League?
-[4.0%] Will Trump nominate Judy Shelton as the next Fed chair?
-[0.1%] Will Elon Musk post 80-99 tweets from February 27 to March 6, 2026?
-[31.5%] US strikes Iran by March 2, 2026?
+[0.7%] Will Leverkusen win the 2025–26 Champions League?
+[94.7%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[0.9%] Will Roy Cooper win the 2028 Democratic presidential nomination?
+[4.5%] Will Trump nominate Judy Shelton as the next Fed chair?
+[25.8%] Will the Iranian regime fall by March 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed - The New York Times - The New York Times
-• Trump’s Foreign Policy: Resurrecting Empire - The New York Times
-• Top U.S. commander in the Middle East briefs Trump on Iran options - Axios
-• Green Party wins Gorton and Denton by-election with Labour pushed into third by Reform - BBC
-• Fact-check: In Trump’s Case for an Attack on Iran, False or Unproven Claims - The New York Times - The New York Times
-• Scoop: US citizens were on stolen boat in deadly shooting with Cuba's coast guard - Axios
-• Pentagon shoots down Customs and Border Protection drone in Texas, federal officials say - CBS News
-• Trump's takeover of the GOP upends Texas Senate race and threatens John Cornyn's seat - NBC News
+• Iran latest: US and Israel carry out joint attack on Iran as Tehran launches retaliatory strikes - BBC
+• OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic - CNN
+• The Bloody Rise and Fall of Mexico’s Top Crime Boss - The New York Times
+• Blind refugee found dead in New York after being released by immigration authorities - BBC
+• Biden seizes on Trump's sinking favorability in a combative speech in South Carolina - NBC News
+• Fewer Detectives Will Hunt for Nancy Guthrie, Signaling a New Phase - The New York Times
+• Renee Good was ‘slow to anger, quick to love,’ her father tells AP - AP News
+• ‘Acts of war unauthorized by Congress’: Trump’s congressional critics denounce Iran strikes - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
-• YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube kills the Trending page after a decade of existence
 • Google reveals the top trending searches of 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
-• YouTube's Trending Page, Trending Now List to be Replaced by Category-Specific Charts
+• Gemini was Google’s top trending search term in 2025
 
 ========================================
 END TRANSMISSION
