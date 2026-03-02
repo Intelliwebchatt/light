@@ -1,11 +1,11 @@
-INTELLIGENCE SNAPSHOT // 2026-03-01
+INTELLIGENCE SNAPSHOT // 2026-03-02
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,879
 DOW J: 48,978
 NASDAQ: 22,668
-VIX: 20
+VIX: 23
 
 ----------------------------------------
 
@@ -14,42 +14,42 @@ PREDICTION MARKETS
 --- GEOPOLITICS (Top 5 Active) ---
 [99.9%] Khamenei out as Supreme Leader of Iran by February 28?
 [99.9%] Khamenei out as Supreme Leader of Iran by March 31?
-[25.6%] Will the Iranian regime fall by March 31?
-[4.2%] Will Trump nominate Judy Shelton as the next Fed chair?
-[0.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
+[0.4%] Will Atletico Madrid win the 2025–26 La Liga?
+[22.0%] Will the Iranian regime fall by March 31?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will South Africa win the 2026 FIFA World Cup?
-[95.9%] Will there be no change in Fed interest rates after the March 2026 meeting?
-[62.5%] Will Iran close the Strait of Hormuz by March 31?
+[0.2%] Will Paraguay win the 2026 FIFA World Cup?
 [0.4%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[3.9%] Will Jesus Christ return before 2027?
+[0.7%] US x Iran ceasefire by March 2?
+[40.5%] Will Iran close the Strait of Hormuz by March 31?
+[0.4%] Will Bitcoin reach $150,000 in March?
 
 --- TECH & AI (Top 5 Active) ---
-[55.0%] Will the Iranian regime fall before 2027?
-[2.1%] Will the US strike Iran next?
-[1.1%] Will Kim Kardashian win the 2028 US Presidential Election?
-[43.5%] Will the Iranian regime fall by June 30?
-[99.6%] Will the US next strike Iran on February 28, 2026 (ET)?
+[0.9%] Will the Charlotte Hornets win the 2026 NBA Finals?
+[41.5%] Will the Iranian regime fall by June 30?
+[100.0%] Will US or Israel strike Iran on March 2, 2026?
+[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
+[49.5%] Will US or Israel strike Iran first?
 
 --- SCIENCE (Top 5 Active) ---
-[37.1%] Will US or Israel strike Iran first?
-[64.5%] Will Manchester United FC win on 2026-03-01?
-[19.5%] Will the US confirm that aliens exist before 2027?
-[11.8%] Will Reza Pahlavi enter Iran by March 31?
-[1.2%] Will Cory Booker win the 2028 Democratic presidential nomination?
+[0.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[3.7%] Will Trump nominate Judy Shelton as the next Fed chair?
+[7.5%] US x Iran ceasefire by March 6?
+[0.2%] Will Villarreal win the 2025–26 La Liga?
+[51.5%] Will the Iranian regime fall before 2027?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Israel and Iran launch fresh attacks after Iran's Supreme Leader Khamenei killed - BBC
-• Flights cancelled as travel warnings issued after US-Israeli strikes on Iran - BBC
-• At least 9 killed in pro-Iran protest at US consulate in Pakistan’s Karachi - Al Jazeera
-• Dozens dead in Iran school blast blamed on US and Israel strikes - BBC
-• Trump Stays Out of Public View After U.S. Launches Military Assault on Iran - The New York Times
-• Gauging the Impact of Massive U.S.-Israeli Strikes on Iran - Council on Foreign Relations
-• Multiple fatalities confirmed after 6th Street shooting in Austin - KVUE
-• A Supreme Court case over whether marijuana users can own guns is creating unusual alliances - AP News
+• Middle East aviation grounded with airspace and airports closed - Euronews.com
+• Afghanistan Says Pakistan Tried to Strike Prized Air Base - The New York Times
+• US-Israel war on Iran live: conflict spreads to Lebanon and wider region, as Kuwait reports ‘several’ US warplanes crashing - The Guardian
+• Trump said he's pro legal immigration, his policies say otherwise - PBS
+• Joint Statement on Iran’s Missile and Drone Attacks in the Region - U.S. Department of State (.gov)
+• US military reportedly used Claude in Iran strikes despite Trump’s ban - The Guardian
+• The Iran Strike Is All About China - The Free Press
+• Inside El Mencho’s last hideout: Blood, bullets and a cartel boss’ life of luxury - Los Angeles Times
 
 ----------------------------------------
 
