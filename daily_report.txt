@@ -1,60 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-03-02
+INTELLIGENCE SNAPSHOT // 2026-03-03
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,879
-DOW J: 48,978
-NASDAQ: 22,668
-VIX: 23
+S&P 500: 6,882
+DOW J: 48,905
+NASDAQ: 22,749
+VIX: 25
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.9%] Khamenei out as Supreme Leader of Iran by February 28?
-[99.9%] Khamenei out as Supreme Leader of Iran by March 31?
+[100.0%] Khamenei out as Supreme Leader of Iran by February 28?
 [0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[0.4%] Will Atletico Madrid win the 2025–26 La Liga?
-[22.0%] Will the Iranian regime fall by March 31?
+[0.7%] Will Atletico Madrid win the 2025–26 La Liga?
+[100.0%] Khamenei out as Supreme Leader of Iran by March 31?
+[59.0%] Will Iran close the Strait of Hormuz by March 31?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will Paraguay win the 2026 FIFA World Cup?
+[16.0%] Will the Iranian regime fall by March 31?
 [0.4%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.7%] US x Iran ceasefire by March 2?
-[40.5%] Will Iran close the Strait of Hormuz by March 31?
-[0.4%] Will Bitcoin reach $150,000 in March?
+[0.9%] Will Tim Walz win the 2028 Democratic presidential nomination?
+[49.7%] Will US or Israel strike Iran first?
+[0.4%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[0.9%] Will the Charlotte Hornets win the 2026 NBA Finals?
-[41.5%] Will the Iranian regime fall by June 30?
-[100.0%] Will US or Israel strike Iran on March 2, 2026?
-[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
-[49.5%] Will US or Israel strike Iran first?
+[37.5%] Will the Iranian regime fall by June 30?
+[0.8%] Will the Charlotte Hornets win the 2026 NBA Finals?
+[100.0%] Will US or Israel strike Iran on March 3, 2026?
+[0.9%] Will Beto O’Rourke win the 2028 Democratic presidential nomination?
+[13.7%] Will Elon Musk post 180-199 tweets from February 24 to March 3, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.5%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[3.7%] Will Trump nominate Judy Shelton as the next Fed chair?
-[7.5%] US x Iran ceasefire by March 6?
-[0.2%] Will Villarreal win the 2025–26 La Liga?
-[51.5%] Will the Iranian regime fall before 2027?
+[1.9%] Will Andy Beshear win the 2028 US Presidential Election?
+[21.1%] Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
+[4.0%] Will Trump nominate Judy Shelton as the next Fed chair?
+[1.7%] Will Wes Moore win the 2028 Democratic presidential nomination?
+[2.9%] US x Iran ceasefire by March 6?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Middle East aviation grounded with airspace and airports closed - Euronews.com
-• Afghanistan Says Pakistan Tried to Strike Prized Air Base - The New York Times
-• US-Israel war on Iran live: conflict spreads to Lebanon and wider region, as Kuwait reports ‘several’ US warplanes crashing - The Guardian
-• Trump said he's pro legal immigration, his policies say otherwise - PBS
-• Joint Statement on Iran’s Missile and Drone Attacks in the Region - U.S. Department of State (.gov)
-• US military reportedly used Claude in Iran strikes despite Trump’s ban - The Guardian
-• The Iran Strike Is All About China - The Free Press
-• Inside El Mencho’s last hideout: Blood, bullets and a cartel boss’ life of luxury - Los Angeles Times
+• Texas Senate Primary Becomes Most Expensive in History - The New York Times
+• The road to the midterms starts Tuesday. What to expect in key primary races in Texas, North Carolina and Arkansas - Yahoo
+• Savannah Guthrie returns to her mother’s home in first sighting there since disappearance - AP News
+• 9,000 pages of comments slam Trump White House ballroom plan - Axios
+• Iran is not Venezuela as much as Trump wants it to be - Politico
+• An Emboldened Israel Is Seizing Opportunities to Remake Region - The New York Times
+• Pakistan Strikes Bagram Air Base, Satellite Images Show - The New York Times
+• Qatar Says It Shot Down Two Iranian Bombers - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Top trending searches of 2025 revealed by Google. See what made the list.
 • Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
 
 ========================================
 END TRANSMISSION
