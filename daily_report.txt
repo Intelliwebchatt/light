@@ -1,11 +1,11 @@
-INTELLIGENCE SNAPSHOT // 2026-03-04
+INTELLIGENCE SNAPSHOT // 2026-03-05
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,817
-DOW J: 48,501
-NASDAQ: 22,517
-VIX: 23
+S&P 500: 6,870
+DOW J: 48,739
+NASDAQ: 22,807
+VIX: 21
 
 ----------------------------------------
 
@@ -13,47 +13,49 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[0.7%] Will Atletico Madrid win the 2025–26 La Liga?
-[54.4%] Will Mojtaba Khamenei be the next Supreme Leader of Iran?
-[74.0%] Will Iran close the Strait of Hormuz by March 31?
-[16.0%] Will the Iranian regime fall by March 31?
+[100.0%] US strikes Iraq by February 28?
+[81.0%] Will Iran close the Strait of Hormuz by March 31?
+[98.9%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[100.0%] Will Trump say "Waste" this week? (March 1)
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will Bitcoin reach $150,000 in March?
-[100.0%] Will James Talarico be the Democratic nominee for Senate in Texas?
-[99.9%] US strikes Iraq by February 28?
-[0.1%] Will Elon Musk post 0-19 tweets from March 3 to March 10, 2026?
-[0.9%] Will Tim Walz win the 2028 Democratic presidential nomination?
+[0.2%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.2%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[14.8%] Will the Iranian regime fall by March 31?
+[0.7%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[13.5%] Will Ken Paxton win the 2026 Texas Republican Primary?
 
 --- TECH & AI (Top 5 Active) ---
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[49.9%] Will US or Israel strike Iran first?
-[2.5%] US x Iran ceasefire by March 6?
-[67.5%] Will Manchester City FC win on 2026-03-04?
-[0.1%] Will Richard Grenell be the leader of Venezuela end of 2026?
+[1.7%] Will Belgium win the 2026 FIFA World Cup?
+[0.9%] US x Iran ceasefire by March 6?
+[0.2%] Will South Africa win the 2026 FIFA World Cup?
+[99.9%] GPT-5.3 released by March 8, 2026?
+[100.0%] Will the US strike 3 countries in February 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.5%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[39.5%] Will the Iranian regime fall by June 30?
-[4.0%] Will Trump nominate Judy Shelton as the next Fed chair?
-[1.8%] Will Andy Beshear win the 2028 US Presidential Election?
-[0.8%] Will the Charlotte Hornets win the 2026 NBA Finals?
+[65.1%] Will Mojtaba Khamenei be the next Supreme Leader of Iran?
+[0.4%] Will Paraguay win the 2026 FIFA World Cup?
+[0.5%] Will Austria win the 2026 FIFA World Cup?
+[0.7%] Will South Korea win the 2026 FIFA World Cup?
+[0.2%] Will Algeria win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live Updates: U.S.-Israeli war with Iran sees strikes intensify in Tehran on Day 5 as the conflict spreads - CBS News
-• ICE has spun a massive surveillance web. We talked to people caught in it - NPR
-• Americans trying to evacuate Middle East frustrated with government response - CBS News
-• Lock step no more: Iran war shows cracks in Trump’s conservative media support - AP News
-• Scandal-plagued Rep. Tony Gonzales forced to runoff - Politico
-• Representative Dan Crenshaw Loses G.O.P. Primary in Texas - The New York Times
-• Social media believed to be tied to Austin shooter is full of antisemitic, anti-Christian, misogynistic posts - CBS News
-• North Carolina Rep. Valerie Foushee holds narrow lead over challenger Nida Allam - NPR
+• Americans aren't sold on Iran attacks, new polls show - Axios
+• Spanish prime minister rebukes Trump’s war in Iran, escalating feud - The Washington Post
+• China Sets Economy’s Growth Target Below 5% for First Time in Decades - The New York Times - The New York Times
+• "Come to work": A primary fight between House Democrats in Texas turns nasty - Axios
+• Pakistani man says Iran forced him into plot to kill Trump, media say - Reuters
+• Daines Drops Re-election Bid in Montana, Upending a Senate Race - The New York Times - The New York Times
+• Anti-AIPAC group loses first primary test as Rep. Valerie Foushee hangs on - Politico
+• Trump calls on Kurds to aid U.S. effort in Iran, offers support - The Washington Post
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
 ========================================
