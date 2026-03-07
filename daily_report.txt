@@ -1,62 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-03-06
+INTELLIGENCE SNAPSHOT // 2026-03-07
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,831
-DOW J: 47,955
-NASDAQ: 22,749
-VIX: 25
+S&P 500: 6,740
+DOW J: 47,502
+NASDAQ: 22,388
+VIX: 29
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[0.2%] Will Villarreal win the 2025–26 La Liga?
+[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.2%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 [0.1%] Will Chelsea win the 2025–26 English Premier League?
-[0.1%] Will Atletico Madrid win the 2025–26 La Liga?
-[77.5%] Will Iran close the Strait of Hormuz by March 31?
-[0.1%] Will the Indiana Pacers win the 2026 NBA Finals?
-[0.2%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[99.0%] Will there be no change in Fed interest rates after the March 2026 meeting?
-[0.2%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.7%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
-[10.7%] Will the Iranian regime fall by March 31?
-[100.0%] Will Paradex launch a token on March 5?
+[98.6%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[1.1%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[96.7%] Will Iran close the Strait of Hormuz by March 31?
+[99.9%] Will Iran strike Israel on March 4?
+[0.2%] Will Atletico Madrid win the 2025–26 La Liga?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will David Belliard win the Paris mayor election?
-[0.1%] US x Iran ceasefire by March 6?
-[0.2%] Will Villarreal win the 2025–26 La Liga?
-[0.1%] Will Iran win the 2026 FIFA World Cup?
-[47.5%] Will Mojtaba Khamenei be the next Supreme Leader of Iran?
+[100.0%] Will Iran strike Israel on March 3?
+[100.0%] LoL: JD Gaming vs Weibo Gaming (BO5) - LPL Playoffs
+[12.8%] Will the Iranian regime fall by March 31?
+[33.5%] Will the Iranian regime fall by June 30?
+[1.6%] Will Tom Brady win the 2028 Republican presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
-[2.8%] US forces enter Iran by March 7?
-[38.5%] Will the Iranian regime fall by June 30?
-[0.3%] Will Athletic Bilbao win the 2025–26 La Liga?
-[100.0%] Will the price of Bitcoin be above $62,000 on March 6?
-[12.3%] Will Elon Musk post 180-199 tweets from February 27 to March 6, 2026?
+[0.1%] Will Elon Musk post 20-39 tweets from March 6 to March 13, 2026?
+[0.9%] Will Roy Cooper win the 2028 Democratic presidential nomination?
+[0.2%] Will Qatar win the 2026 FIFA World Cup?
+[44.8%] Will Mojtaba Khamenei be the next Supreme Leader of Iran?
+[0.4%] Will Paraguay win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live updates: Israel strikes Tehran, Beirut while Trump wants a say in selecting Iran leader - CNN
-• Russian Offensive Campaign Assessment, March 5, 2026 - Institute for the Study of War
-• U.S. and Venezuela reach historic agreement to re-establish diplomatic ties - Axios
-• Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
-• Wave of strikes in Beirut’s Dahieh; US says B-2 bombers hit underground missile sites, 30 Iranian vessels sunk - ynetnews
-• Anxiety grows among California Democrats as gubernatorial candidates rebuff calls to drop out - Los Angeles Times
-• Senate Democrats Block D.H.S. Funding Again Over Enforcement Guardrails - The New York Times
-• Republicans confront the massive cost of Trump’s Middle East war - Politico
+• As Trump Focuses on Cuba, DOJ Seeks Charges Against Its Leaders - The New York Times
+• Live updates: Iran’s president apologizes to neighbors, says country will halt strikes on them unless attacked - CNN
+• Everything we know on the eighth day of the US and Israel’s war with Iran - CNN
+• How Talarico Won Texas Democrats With Love, Luck and a Little Restraint - The New York Times
+• A Sex Scandal and ‘Mein Kampf’ Give Democrats Hope in West Texas Race - The New York Times
+• Ex-rapper’s political party leads early results in Nepal’s first election since 2025 youth revolt - AP News
+• Missiles from space killed Khamenei - What are Blue Sparrow missiles? - WION
+• MIDDLE EAST LIVE 6 March: World economy at grave risk, warns UN chief; ‘the situation could spiral beyond anyone's control’ - UN News
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • Google reveals the top trending searches of 2025
-• Gemini was Google’s top trending search term in 2025
 
 ========================================
 END TRANSMISSION
