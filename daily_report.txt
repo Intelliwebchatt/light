@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-03-07
+INTELLIGENCE SNAPSHOT // 2026-03-08
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,44 @@ VIX: 29
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.2%] Will Villarreal win the 2025–26 La Liga?
-[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[0.2%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.2%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
 [0.1%] Will Chelsea win the 2025–26 English Premier League?
+[0.2%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.1%] Will David Belliard win the Paris mayor election?
+[0.2%] Will Athletic Bilbao win the 2025–26 La Liga?
 
 --- US POLITICS (Top 5 Active) ---
-[98.6%] Will there be no change in Fed interest rates after the March 2026 meeting?
-[1.1%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
-[96.7%] Will Iran close the Strait of Hormuz by March 31?
-[99.9%] Will Iran strike Israel on March 4?
-[0.2%] Will Atletico Madrid win the 2025–26 La Liga?
+[0.1%] Will AICO win the most seats in the 2026 Colombian Senate election?
+[87.5%] LoL: Bilibili Gaming vs JD Gaming (BO5) - LPL Playoffs
+[98.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[72.5%] Will Mojtaba Khamenei be the next Supreme Leader of Iran?
+[96.9%] Will Iran close the Strait of Hormuz by March 31?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Will Iran strike Israel on March 3?
-[100.0%] LoL: JD Gaming vs Weibo Gaming (BO5) - LPL Playoffs
-[12.8%] Will the Iranian regime fall by March 31?
-[33.5%] Will the Iranian regime fall by June 30?
-[1.6%] Will Tom Brady win the 2028 Republican presidential nomination?
+[1.1%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[100.0%] Will Iran strike Israel on March 4?
+[100.0%] LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner
+[0.8%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
+[0.8%] Will Atalanta win the 2025–26 Champions League?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Elon Musk post 20-39 tweets from March 6 to March 13, 2026?
-[0.9%] Will Roy Cooper win the 2028 Democratic presidential nomination?
-[0.2%] Will Qatar win the 2026 FIFA World Cup?
-[44.8%] Will Mojtaba Khamenei be the next Supreme Leader of Iran?
-[0.4%] Will Paraguay win the 2026 FIFA World Cup?
+[0.1%] Will MAIS win the most seats in the 2026 Colombian Senate election?
+[50.5%] Celtics vs. Cavaliers
+[100.0%] LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner
+[33.5%] Will the Iranian regime fall by June 30?
+[0.1%] LoL: Bilibili Gaming vs JD Gaming - Game 3 Winner
 
 ----------------------------------------
 
 TOP HEADLINES
-• As Trump Focuses on Cuba, DOJ Seeks Charges Against Its Leaders - The New York Times
-• Live updates: Iran’s president apologizes to neighbors, says country will halt strikes on them unless attacked - CNN
-• Everything we know on the eighth day of the US and Israel’s war with Iran - CNN
-• How Talarico Won Texas Democrats With Love, Luck and a Little Restraint - The New York Times
-• A Sex Scandal and ‘Mein Kampf’ Give Democrats Hope in West Texas Race - The New York Times
-• Ex-rapper’s political party leads early results in Nepal’s first election since 2025 youth revolt - AP News
-• Missiles from space killed Khamenei - What are Blue Sparrow missiles? - WION
-• MIDDLE EAST LIVE 6 March: World economy at grave risk, warns UN chief; ‘the situation could spiral beyond anyone's control’ - UN News
+• Trump: "Knocked out" 42 Iranian ships, will "take care" of Cuba - Axios
+• China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war - CNBC
+• Rapper-turned-politician Balen Shah’s RSP heads for poll landslide in Nepal - Al Jazeera
+• After Olympics controversy, Eileen Gu gets nothing but love at SF parade - SFGATE
+• 12-year-old boy among 6 dead as tornadoes rip across Michigan and Oklahoma - NBC News
+• Iran president apologizes for attacks on neighbors, mocks Trump’s call for ‘unconditional surrender' - Fox News
+• Death Valley sees its most spectacular superbloom in a decade - NBC News
+• US embassy in Oslo hit by explosion, Norway police say - BBC
 
 ----------------------------------------
 
