@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-03-08
+INTELLIGENCE SNAPSHOT // 2026-03-09
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,740
 DOW J: 47,502
 NASDAQ: 22,388
-VIX: 29
+VIX: 31
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[0.4%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 [0.2%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
 [0.1%] Will Chelsea win the 2025–26 English Premier League?
-[0.2%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.1%] Will David Belliard win the Paris mayor election?
-[0.2%] Will Athletic Bilbao win the 2025–26 La Liga?
+[0.2%] Will Phạm Thị Thanh Trà be the next Prime Minister of Vietnam?
+[0.1%] Will Thierry Mariani win the Paris mayor election?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will AICO win the most seats in the 2026 Colombian Senate election?
-[87.5%] LoL: Bilibili Gaming vs JD Gaming (BO5) - LPL Playoffs
-[98.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
-[72.5%] Will Mojtaba Khamenei be the next Supreme Leader of Iran?
-[96.9%] Will Iran close the Strait of Hormuz by March 31?
+[0.9%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[0.9%] Will The Greens win the most seats in the 2026 Baden-Württemberg parliamentary elections?
+[98.6%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[5.1%] Will Crude Oil (CL) hit (HIGH) $200 by end of March?
+[93.8%] Will Crude Oil (CL) hit (HIGH) $100 by end of March?
 
 --- TECH & AI (Top 5 Active) ---
-[1.1%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[97.5%] Will Iran close the Strait of Hormuz by March 31?
 [100.0%] Will Iran strike Israel on March 4?
-[100.0%] LoL: Bilibili Gaming vs JD Gaming - Game 1 Winner
-[0.8%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
-[0.8%] Will Atalanta win the 2025–26 Champions League?
+[8.2%] Will the Iranian regime fall by March 31?
+[99.9%] Will the price of Bitcoin be above $60,000 on March 9?
+[0.1%] Will Athletic Bilbao win the 2025–26 La Liga?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will MAIS win the most seats in the 2026 Colombian Senate election?
-[50.5%] Celtics vs. Cavaliers
-[100.0%] LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner
-[33.5%] Will the Iranian regime fall by June 30?
-[0.1%] LoL: Bilibili Gaming vs JD Gaming - Game 3 Winner
+[99.2%] Will CDU win the most seats in the 2026 Baden-Württemberg parliamentary elections?
+[3.9%] Will Jesus Christ return before 2027?
+[24.5%] US forces enter Iran by March 14?
+[46.5%] US forces enter Iran by March 31?
+[0.8%] Will Jared Polis win the 2028 Democratic presidential nomination?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump: "Knocked out" 42 Iranian ships, will "take care" of Cuba - Axios
-• China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war - CNBC
-• Rapper-turned-politician Balen Shah’s RSP heads for poll landslide in Nepal - Al Jazeera
-• After Olympics controversy, Eileen Gu gets nothing but love at SF parade - SFGATE
-• 12-year-old boy among 6 dead as tornadoes rip across Michigan and Oklahoma - NBC News
-• Iran president apologizes for attacks on neighbors, mocks Trump’s call for ‘unconditional surrender' - Fox News
-• Death Valley sees its most spectacular superbloom in a decade - NBC News
-• US embassy in Oslo hit by explosion, Norway police say - BBC
+• Iran latest: Oil price passes $100 for first time since 2022 as Starmer warns of economic impact - BBC
+• Pennsylvania State Police trooper shot, killed in West Caln Township, officials say - CBS News
+• Trump vows legislative blockade until SAVE America voter-ID bill is passed - CNBC
+• House Republicans’ meager majority faces big problems ahead of the midterms - Politico
+• Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong - The New York Times
+• Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says - The New York Times
+• Live Nation reaches settlement with DOJ in antitrust fight - Politico
+• Trump Wants to ‘Take Over’ Elections. These States Are Prime Targets. - The New York Times
 
 ----------------------------------------
 
