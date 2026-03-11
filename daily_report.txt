@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-03-10
+INTELLIGENCE SNAPSHOT // 2026-03-11
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,796
-DOW J: 47,741
-NASDAQ: 22,696
+S&P 500: 6,781
+DOW J: 47,707
+NASDAQ: 22,697
 VIX: 25
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 25
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.2%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.1%] Will Iran strike Israel on March 6?
+[99.8%] Will Iran close the Strait of Hormuz by March 31?
 [0.2%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.2%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 [0.1%] Will Chelsea win the 2025–26 English Premier League?
-[98.8%] Will Iran close the Strait of Hormuz by March 31?
-[4.0%] Will the Iranian regime fall by March 31?
 
 --- US POLITICS (Top 5 Active) ---
-[0.8%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
-[22.5%] Will the Iranian regime fall by June 30?
-[6.5%] US x Iran ceasefire by March 15?
 [100.0%] Will Trump say "Jesus" this week? (March 8)
-[12.5%] US forces enter Iran by March 14?
+[99.0%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[0.1%] Will the Christian Democratic People’s Party (KDNP) win the most seats in the next Hungarian parliamentary election?
+[0.7%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[0.4%] Will Phạm Thị Thanh Trà be the next Prime Minister of Vietnam?
 
 --- TECH & AI (Top 5 Active) ---
-[65.1%] Will Crude Oil (CL) hit (HIGH) $100 by end of March?
-[3.9%] Will Jesus Christ return before 2027?
-[98.8%] Will there be no change in Fed interest rates after the March 2026 meeting?
-[0.3%] Will Australia win the 2026 FIFA World Cup?
-[57.5%] Will Club Atlético de Madrid win on 2026-03-10?
+[0.9%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
+[0.8%] Will Byron Donalds win the 2028 Republican presidential nomination?
+[0.9%] Will the Charlotte Hornets win the 2026 NBA Finals?
+[0.1%] Will Atalanta win the 2025–26 Champions League?
+[0.2%] Will Ghana win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[32.5%] US x Iran ceasefire by March 31?
-[39.5%] Will FC Barcelona win on 2026-03-10?
-[1.3%] Will Iran strike Israel on March 6?
-[0.1%] Will the price of Bitcoin be above $76,000 on March 10?
-[29.5%] US forces enter Iran by March 31?
+[99.8%] Will Iran close the Strait of Hormuz before 2027?
+[74.2%] Will Iran strike Israel on March 10?
+[0.2%] Will Tottenham win the 2025–26 Champions League?
+[99.8%] Will Iran close the Strait of Hormuz by June 30?
+[3.8%] US x Iran ceasefire by March 15?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Oil prices seesaw as Trump sends mixed messages on what’s next in Iran - The Washington Post
-• What to know about Mojtaba Khamenei, Iran's new supreme leader - NPR
-• Georgia special election to replace MTG tests the power of Trump's endorsement - NPR
-• Trump’s War in Iran, and Rising Gas Prices, Collide With Midterm Agenda - The New York Times
-• Alexander brothers, famous US real estate brokers, guilty of sex trafficking - BBC
-• Trump’s ‘free flow of energy’ vow fails to restart shipping in strait of Hormuz - The Guardian
-• US investigators begin search of Epstein’s former ranch in New Mexico - Al Jazeera
-• Trump Antisemitism Inquiry Demanding List of Jews at Penn Heads to Court - The New York Times
+• Iran War Live Updates: Iran Lays Mines in Strait of Hormuz, Triggering U.S. Response - WSJ
+• Missiles, Drones and Airstrikes Pound Middle East Into 12th Day of War - The New York Times
+• Trump's Iran war messaging is all over the map - Axios
+• Georgia Democrat Leads Vote in Marjorie Taylor Greene’s District - Bloomberg
+• Live updates: Aftermath of destructive Midwest tornadoes as severe storm threat shifts east today - FOX Weather
+• Internal Pentagon memo orders military commanders to remove Anthropic AI technology from key systems - CBS News
+• National park evacuated due to volcanic eruption, rock storm - SFGATE
+• The White House isn’t panicking about oil prices. That may change in a few weeks. - Politico
 
 ----------------------------------------
 
