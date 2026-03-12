@@ -1,61 +1,66 @@
-INTELLIGENCE SNAPSHOT // 2026-03-11
+INTELLIGENCE SNAPSHOT // 2026-03-12
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,781
-DOW J: 47,707
-NASDAQ: 22,697
-VIX: 25
+S&P 500: 6,776
+DOW J: 47,417
+NASDAQ: 22,716
+VIX: 26
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Iran strike Israel on March 6?
-[99.8%] Will Iran close the Strait of Hormuz by March 31?
-[0.2%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[0.2%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[0.1%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[100.0%] Will Iran close the Strait of Hormuz by March 31?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
 [0.1%] Will Chelsea win the 2025–26 English Premier League?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] Will Trump say "Jesus" this week? (March 8)
-[99.0%] Will there be no change in Fed interest rates after the March 2026 meeting?
-[0.1%] Will the Christian Democratic People’s Party (KDNP) win the most seats in the next Hungarian parliamentary election?
-[0.7%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
-[0.4%] Will Phạm Thị Thanh Trà be the next Prime Minister of Vietnam?
+[99.5%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[0.9%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
+[0.5%] Will Kristi Noem win the 2028 Republican presidential nomination?
+[0.1%] Will CR win the most seats in the 2026 Colombian Chamber of Representatives election?
+[0.9%] Will Tom Brady win the 2028 Republican presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[0.9%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
-[0.8%] Will Byron Donalds win the 2028 Republican presidential nomination?
-[0.9%] Will the Charlotte Hornets win the 2026 NBA Finals?
-[0.1%] Will Atalanta win the 2025–26 Champions League?
-[0.2%] Will Ghana win the 2026 FIFA World Cup?
+[1.1%] Will Elon Musk win the 2028 Republican presidential nomination?
+[0.9%] Will Josh Hawley win the 2028 Republican presidential nomination?
+[0.7%] Will John Thune win the 2028 Republican presidential nomination?
+[100.0%] Will the price of Bitcoin be above $62,000 on March 12?
+[0.9%] Will Vivek Ramaswamy win the 2028 US Presidential Election?
 
 --- SCIENCE (Top 5 Active) ---
-[99.8%] Will Iran close the Strait of Hormuz before 2027?
-[74.2%] Will Iran strike Israel on March 10?
-[0.2%] Will Tottenham win the 2025–26 Champions League?
-[99.8%] Will Iran close the Strait of Hormuz by June 30?
-[3.8%] US x Iran ceasefire by March 15?
+[0.1%] Will Elon Musk post 0-19 tweets from March 13 to March 20, 2026?
+[0.8%] Will Raphael Warnock win the 2028 Democratic presidential nomination?
+[0.9%] Will Mark Cuban win the 2028 Democratic presidential nomination?
+[1.1%] Will Elon Musk win the 2028 US Presidential Election?
+[100.0%] Will Iran close the Strait of Hormuz by June 30?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iran War Live Updates: Iran Lays Mines in Strait of Hormuz, Triggering U.S. Response - WSJ
-• Missiles, Drones and Airstrikes Pound Middle East Into 12th Day of War - The New York Times
-• Trump's Iran war messaging is all over the map - Axios
-• Georgia Democrat Leads Vote in Marjorie Taylor Greene’s District - Bloomberg
-• Live updates: Aftermath of destructive Midwest tornadoes as severe storm threat shifts east today - FOX Weather
-• Internal Pentagon memo orders military commanders to remove Anthropic AI technology from key systems - CBS News
-• National park evacuated due to volcanic eruption, rock storm - SFGATE
-• The White House isn’t panicking about oil prices. That may change in a few weeks. - Politico
+• Calls grow for Strait of Hormuz ship escorts as Iran escalates attacks - Axios
+• Oil Tankers Attacked Off Iraq as Middle East Crisis Worsens - Bloomberg.com
+• Iranian school was on U.S. target list, may have been mistaken as military site - The Washington Post
+• Gov. Gavin Newsom says no ‘imminent threat’ to California after FBI memo on possible Iran drone attacks - CNN
+• Donald Trump’s Iran war tests US voters’ patience as petrol prices rise - Financial Times
+• How Hegseth Came to See Moral Purpose in War as Weakness - The New York Times
+• What Americans sacrifice due to high health costs - Axios
+• WA income tax passes Senate, Ferguson expected to sign into law - The Seattle Times
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Yahoo 100
+• YouTube is killing its Trending page a decade after its debut
+• YouTube removing the Trending page in favor of Charts, recommendations
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 
 ========================================
 END TRANSMISSION
