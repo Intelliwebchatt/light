@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-03-14
+INTELLIGENCE SNAPSHOT // 2026-03-15
 ========================================
 
 MARKET CLOSE
@@ -12,50 +12,54 @@ VIX: 27
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[99.7%] Will there be no change in Fed interest rates after the March 2026 meeting?
-[0.1%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
 [0.1%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[99.7%] Will Iran strike Israel on March 10?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[5.8%] Netanyahu out by March 31?
+[0.1%] Will LMP – Hungary’s Green Party (LMP) win the most seats in the next Hungarian parliamentary election?
+[99.8%] Will Iran strike Israel on March 10?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will Bitcoin reach $150,000 in March?
-[3.1%] US forces enter Iran by March 14?
-[0.8%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
-[41.5%] US forces enter Iran by March 31?
-[0.7%] US x Iran ceasefire by March 15?
+[0.7%] Will Byron Donalds win the 2028 Republican presidential nomination?
+[0.2%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[1.1%] Will Ted Cruz win the 2028 Republican presidential nomination?
+[0.8%] Will Glenn Youngkin win the 2028 US Presidential Election?
+[99.7%] Will there be no change in Fed interest rates after the March 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
+[0.9%] Will Beto O’Rourke win the 2028 Democratic presidential nomination?
 [0.9%] Will Andrew Yang win the 2028 Democratic presidential nomination?
-[3.6%] Will the Iranian regime fall by March 31?
-[2.5%] Bitcoin Up or Down on March 14?
-[0.1%] Iran leadership change by March 13?
-[7.8%] Netanyahu out by March 31?
+[1.1%] Will Nikki Haley win the 2028 US Presidential Election?
+[0.9%] Will the Charlotte Hornets win the 2026 NBA Finals?
+[4.0%] Will the Iranian regime fall by March 31?
 
 --- SCIENCE (Top 5 Active) ---
-[0.8%] Will Tim Walz win the 2028 US Presidential Election?
-[15.5%] US x Iran ceasefire by March 31?
-[14.5%] Will the Iranian regime fall by April 30?
-[54.5%] Will AFC Bournemouth win on 2026-03-14?
-[0.8%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
+[0.1%] Iran leadership change by March 13?
+[0.1%] US x Iran ceasefire by March 15?
+[0.9%] Will Stephen Smith win the 2028 US Presidential Election?
+[28.5%] Will the Iranian regime fall by June 30?
+[1.2%] Will Elon Musk win the 2028 US Presidential Election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• US bombs military sites on Iranian island as Trump threatens its oil infrastructure - AP News
-• Trump adviser calls for US to ‘declare victory and get out’ of Iran - Financial Times
-• House GOP leadership silent as more members post anti-Muslim statements - NPR
-• Temple Israel Staff Raced to Save Lives in Michigan Synagogue Attack - The New York Times
-• What to know about Iran's low-cost, long-range Shahed drones wreaking havoc in the Middle East - abcnews.com
-• Trump Knew the Risk of Iran Blocking the Strait of Hormuz. He Still Went to War. - WSJ
-• Beale AFB tanker plane lands with damage, linked to deadly KC-135 crash in Iraq - Sacramento Bee
-• Veteran Army combat pilot mourned after shooting at Old Dominion University - The Washington Post
+• Covington Air Force Captain among six identified in Iraq refueling plane crash - KOMO
+• Iran launches strikes on Gulf states day after US threatens oil assets - Euronews.com
+• Major March snowstorm rolls across Minnesota - CBS News
+• Trump says Iran is ready to negotiate a ceasefire but he's not ready to make a deal - NBC News
+• F.C.C. Chair Threatens to Revoke Broadcasters’ Licenses Over War Coverage - The New York Times
+• Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios
+• Trump’s latest tariffs face a fresh set of legal hurdles - Politico
+• US, China economic chiefs meet in Paris to clear path to Trump-Xi summit - Reuters
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Yahoo 100
+• YouTube is killing its Trending page a decade after its debut
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube removing the Trending page in favor of Charts, recommendations
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 
 ========================================
 END TRANSMISSION
