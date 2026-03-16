@@ -1,65 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-03-15
+INTELLIGENCE SNAPSHOT // 2026-03-16
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,632
 DOW J: 46,558
 NASDAQ: 22,105
-VIX: 27
+VIX: 25
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[5.8%] Netanyahu out by March 31?
+[2.8%] Netanyahu out by March 31?
+[0.1%] Will Elon Musk post 215-239 tweets from March 14 to March 16, 2026?
+[99.6%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[99.9%] Will Iran strike Israel on March 10?
 [0.1%] Will LMP – Hungary’s Green Party (LMP) win the most seats in the next Hungarian parliamentary election?
-[99.8%] Will Iran strike Israel on March 10?
 
 --- US POLITICS (Top 5 Active) ---
-[0.7%] Will Byron Donalds win the 2028 Republican presidential nomination?
+[0.1%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
 [0.2%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
-[1.1%] Will Ted Cruz win the 2028 Republican presidential nomination?
-[0.8%] Will Glenn Youngkin win the 2028 US Presidential Election?
-[99.7%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
+[0.1%] Will Saudi Arabia win the 2026 FIFA World Cup?
+[3.0%] Will the Iranian regime fall by March 31?
 
 --- TECH & AI (Top 5 Active) ---
-[0.9%] Will Beto O’Rourke win the 2028 Democratic presidential nomination?
-[0.9%] Will Andrew Yang win the 2028 Democratic presidential nomination?
-[1.1%] Will Nikki Haley win the 2028 US Presidential Election?
-[0.9%] Will the Charlotte Hornets win the 2026 NBA Finals?
-[4.0%] Will the Iranian regime fall by March 31?
+[0.1%] Iran leadership change by March 13?
+[0.5%] Will the Atlanta Hawks win the 2026 NBA Finals?
+[0.9%] Will Ecuador win the 2026 FIFA World Cup?
+[0.5%] Will South Korea win the 2026 FIFA World Cup?
+[29.5%] US forces enter Iran by March 31?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Iran leadership change by March 13?
-[0.1%] US x Iran ceasefire by March 15?
-[0.9%] Will Stephen Smith win the 2028 US Presidential Election?
-[28.5%] Will the Iranian regime fall by June 30?
-[1.2%] Will Elon Musk win the 2028 US Presidential Election?
+[65.5%] LoL: Bilibili Gaming vs BNK FEARX (BO5) - First Stand Group A
+[9.5%] US x Iran ceasefire by March 31?
+[0.1%] Will The Left (Levica) win the most seats in the 2026 Slovenian parliamentary election?
+[81.2%] Will Crude Oil (CL) hit (HIGH) $100 by end of March?
+[0.1%] Will Elon Musk post <40 tweets from March 14 to March 16, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Covington Air Force Captain among six identified in Iraq refueling plane crash - KOMO
-• Iran launches strikes on Gulf states day after US threatens oil assets - Euronews.com
-• Major March snowstorm rolls across Minnesota - CBS News
-• Trump says Iran is ready to negotiate a ceasefire but he's not ready to make a deal - NBC News
-• F.C.C. Chair Threatens to Revoke Broadcasters’ Licenses Over War Coverage - The New York Times
-• Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios
-• Trump’s latest tariffs face a fresh set of legal hurdles - Politico
-• US, China economic chiefs meet in Paris to clear path to Trump-Xi summit - Reuters
+• Exclusive: Trump Administration Plans to Announce Coalition to Escort Ships Through Strait of Hormuz - WSJ
+• 'Lost one leg': Iran's new leader Mojtaba Khamenei secretly flown to Russia for surgery, says report - WION
+• Behind the Curtain: Trump's escalation trap - Axios
+• Democrats blast FCC Chair Carr's broadcast license threats as anti-First Amendment, 'totalitarian' - CNBC
+• Here’s What Happened in the War in the Middle East on Sunday - The New York Times
+• Exclusive: US, China discuss farm goods, managed trade in 'remarkably stable' Paris talks-sources - Reuters
+• CWG Live: Severe storm threat today with possible tornadoes, then sharply colder - The Washington Post
+• This week at Democracy Docket: MAGA melts down over SAVE — and DOJ struggles with the email address field - Democracy Docket
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Yahoo 100
-• YouTube is killing its Trending page a decade after its debut
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube removing the Trending page in favor of Charts, recommendations
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• YouTube's 'Trending' Page is Shutting Down After a Decade
+• Google reveals the top trending searches of 2025
 
 ========================================
 END TRANSMISSION
