@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-03-17
+INTELLIGENCE SNAPSHOT // 2026-03-18
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,699
-DOW J: 46,946
-NASDAQ: 22,374
+S&P 500: 6,716
+DOW J: 46,993
+NASDAQ: 22,480
 VIX: 23
 
 ----------------------------------------
@@ -12,51 +12,49 @@ VIX: 23
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[4.5%] Netanyahu out by March 31?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
-[100.0%] Will Iran strike Israel on March 10?
 [0.1%] Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?
-[99.4%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[0.2%] Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?
+[99.7%] Will there be no change in Fed interest rates after the March 2026 meeting?
+[0.1%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+[2.7%] Netanyahu out by March 31?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
-[0.1%] Will Atalanta win the 2025–26 Champions League?
-[5.5%] Will the Iranian regime fall by March 31?
-[0.4%] Will Bitcoin reach $150,000 in March?
-[0.9%] Will Barack Obama win the 2028 Democratic presidential nomination?
+[1.1%] Will LeBron James win the 2028 Democratic presidential nomination?
+[0.1%] Will Chelsea win the 2025–26 English Premier League?
+[0.2%] Will Bitcoin reach $150,000 in March?
+[1.1%] Will Brian Kemp win the 2028 Republican presidential nomination?
+[0.8%] Will Stephen Smith win the 2028 US Presidential Election?
 
 --- TECH & AI (Top 5 Active) ---
-[0.4%] Will South Korea win the 2026 FIFA World Cup?
-[90.5%] LoL: Gen.G vs JD Gaming (BO5) - First Stand Group B
-[0.9%] Will MrBeast win the 2028 Democratic presidential nomination?
-[0.1%] Will Elon Musk post 240-259 tweets from March 10 to March 17, 2026?
-[0.2%] Will Tunisia win the 2026 FIFA World Cup?
+[59.5%] Lehigh Mountain Hawks vs. Prairie View A&M Panthers
+[0.8%] Will Hillary Clinton win the 2028 Democratic presidential nomination?
+[3.9%] Will the Iranian regime fall by March 31?
+[62.5%] Will FC Barcelona win on 2026-03-18?
+[1.7%] Will Sporting win the 2025–26 Champions League?
 
 --- SCIENCE (Top 5 Active) ---
-[16.5%] Will Real Madrid CF win on 2026-03-17?
-[49.5%] North Carolina State Wolfpack vs. Texas Longhorns
-[99.9%] Will the highest temperature in Tel Aviv be 19°C on March 16?
-[0.1%] Will Beth Van Duyne win the 2026 Texas Republican Primary?
-[0.2%] Will Algeria win the 2026 FIFA World Cup?
+[1.2%] Will Michelle Obama win the 2028 Democratic presidential nomination?
+[81.5%] LoL: Bilibili Gaming vs G2 Esports (BO5) - First Stand Group A
+[3.2%] Will Tucker Carlson win the 2028 US Presidential Election?
+[34.5%] Will Club Atlético de Madrid win on 2026-03-18?
+[0.9%] Will Tom Brady win the 2028 Republican presidential nomination?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live Updates: Israel kills 2 senior Iran leaders as allies reject Trump's call for Strait of Hormuz help - CBS News
-• Iran war: Germany's Merz distances himself from Trump - dw.com
-• Judge halts RFK Jr.’s vaccine overhaul, citing flawed process - The Washington Post
-• Afghanistan: Pakistan blamed after air strike on Kabul rehab centre kills at least 100 - BBC
-• ‘They hold the cards now’: Trump allies fear Iran is slipping beyond the president’s control - Politico
-• Illinois Senate primary tests Democrats' anti-ICE message - NBC News
-• Supreme Court to consider Trump administration's efforts to end deportation protections for Syrians, Haitians - CBS News
-• Grief author Kouri Richins found guilty of murdering her husband - Axios
+• Israel says it killed Iran’s intelligence chief in overnight strike - NPR
+• Juliana Stratton wins Illinois Democratic Senate primary race - The Guardian
+• In His Resignation Letter, Joe Kent Spoke About the Death of His Wife - The New York Times
+• The Senate’s marathon elections debate is dividing Republicans, not Democrats - Politico
+• Israel claims another top Iranian official killed while Iran’s attacks kill 2 near Tel Aviv - AP News
+• Kat Abughazaleh loses primary election bid for Illinois U.S. House seat - The 19th News
+• California Heat Wave Makes Winter Feel Like Summer - The New York Times
+• Tracking current TSA wait times at select major airports - CNN
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Yahoo 100
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
 ========================================
