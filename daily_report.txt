@@ -1,63 +1,63 @@
-INTELLIGENCE SNAPSHOT // 2026-03-19
+INTELLIGENCE SNAPSHOT // 2026-03-20
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,625
-DOW J: 46,225
-NASDAQ: 22,152
-VIX: 27
+S&P 500: 6,606
+DOW J: 46,021
+NASDAQ: 22,091
+VIX: 25
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[1.7%] Netanyahu out by March 31?
+[2.5%] Will the Iranian regime fall by March 31?
 [0.1%] Will Chelsea win the 2025–26 English Premier League?
-[2.9%] Netanyahu out by March 31?
-[36.5%] South Florida Bulls vs. Louisville Cardinals
-[0.1%] Will Dialogue for Hungary (Párbeszéd) win the most seats in the next Hungarian parliamentary election?
-[0.1%] Will Trump say "Ayatollah" or "Khamenei" this week? (March 15)
+[14.5%] Hofstra Pride vs. Alabama Crimson Tide
+[19.0%] LoL: G2 Esports vs BNK FEARX (BO5) - First Stand Group A
 
 --- US POLITICS (Top 5 Active) ---
-[3.1%] Will the Iranian regime fall by March 31?
-[25.5%] Akron Zips vs. Texas Tech Red Raiders
-[52.5%] Counter-Strike: PARIVISION vs NIP (BO3) - BLAST Open Rotterdam Group B
-[45.5%] Missouri Tigers vs. Miami Hurricanes
-[0.7%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[0.9%] Prairie View A&M Panthers vs. Florida Gators
+[11.5%] California Baptist Lancers vs. Kansas Jayhawks
+[45.5%] Will Manchester United FC win on 2026-03-20?
+[6.5%] US x Iran ceasefire by March 31?
+[23.5%] US forces enter Iran by March 31?
 
 --- TECH & AI (Top 5 Active) ---
-[99.1%] LoL: Gen.G vs LYON (BO5) - First Stand Group B
-[1.8%] Will Crude Oil (CL) hit (HIGH) $200 by end of March?
-[0.7%] Will Tim Walz win the 2028 US Presidential Election?
-[0.2%] Will Bitcoin reach $150,000 in March?
-[7.5%] US x Iran ceasefire by March 31?
+[100.0%] Will Israel take military action in Gaza on March 18, 2026?
+[0.1%] Will Elon Musk post 300-319 tweets from March 13 to March 20, 2026?
+[0.2%] Will Algeria win the 2026 FIFA World Cup?
+[0.1%] Will Pierre-Yves Bournazel win the Paris mayor election?
+[53.5%] Iowa Hawkeyes vs. Clemson Tigers
 
 --- SCIENCE (Top 5 Active) ---
-[2.1%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
-[3.9%] Will Jesus Christ return before 2027?
-[44.5%] Lakers vs. Heat
-[18.5%] Will the US confirm that aliens exist before 2027?
-[2.8%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
+[33.5%] UCF Knights vs. UCLA Bruins
+[96.0%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[4.4%] Counter-Strike: B8 vs NRG (BO3) - BLAST Open Rotterdam Group A
+[12.4%] Will Elon Musk post 360-379 tweets from March 13 to March 20, 2026?
+[65.2%] Will Crude Oil (CL) hit (HIGH) $100 by end of March?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live updates: Energy prices soar as attacks on Middle East gas facilities escalate - CNN
-• Oregon institutions reckon with removing Cesar Chavez’s name following sexual abuse report - Oregon Public Broadcasting - OPB
-• FBI investigates ex-U.S. Counterterrorism Center head Joe Kent for alleged leaks - Axios
-• What’s a Threat? Gabbard Says It’s Up to Trump, on Iran and Elsewhere. - The New York Times
-• Drones over base where Rubio, Hegseth live raise security concerns - The Washington Post
-• Iran war: What’s the Jones Act, and why has Trump suspended it for 60 days? - Al Jazeera
-• TSA officers are the latest aviation workers to be used as ‘political pawns.’ They just want the shutdown to end - CNN
-• Markwayne Mullin Confirmation Hearing: DHS Nominee Attacked For ‘Anger Issues’ And Addresses ICE - Forbes
+• Trump stretches ‘America First’ on Iran. His voters are going along with it. - Politico
+• Death of American College Student in Spain Was Likely an Accident, Police Say - The New York Times
+• Cesar Chavez abuse allegations: Dolores Huerta speaks with ABC News on camera for first time after sharing - ABC7 Los Angeles
+• Fallen Hero’s Dad Calls BS on Pentagon Pete’s Brazen Claim - The Daily Beast
+• Trump mulls risky Kharg Island takeover to force Iran to open strait - Axios
+• Teenager among first to be executed over Iran's anti-government protests - BBC
+• U.S. Mint can begin to produce Trump commemorative gold coin - NPR
+• Judge rules US government overreached with transgender health care declaration - AP News
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Yahoo 100
-• YouTube’s ‘Trending’ section is about to disappear
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 
 ========================================
 END TRANSMISSION
