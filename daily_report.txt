@@ -1,61 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-03-23
+INTELLIGENCE SNAPSHOT // 2026-03-24
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,506
-DOW J: 45,577
-NASDAQ: 21,648
-VIX: 26
+S&P 500: 6,581
+DOW J: 46,208
+NASDAQ: 21,947
+VIX: 27
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[1.1%] Netanyahu out by March 31?
-[0.9%] Will Kim Kardashian win the 2028 Democratic presidential nomination?
-[23.5%] US x Iran ceasefire by March 31?
-[0.8%] Will Andrew Yang win the 2028 Democratic presidential nomination?
-[0.5%] Will Byron Donalds win the 2028 Republican presidential nomination?
+[99.9%] Will Israel launch a major ground offensive in Lebanon by March 31?
+[12.5%] US x Iran ceasefire by March 31?
+[0.9%] Netanyahu out by March 31?
+[0.1%] Will Movement for a Better Hungary (Jobbik) win the most seats in the next Hungarian parliamentary election?
+[0.5%] Trump out as President by March 31?
 
 --- US POLITICS (Top 5 Active) ---
+[0.5%] Will LeBron James win the 2028 US Presidential Election?
+[1.5%] Will the Iranian regime fall by March 31?
+[20.5%] US forces enter Iran by March 31?
 [0.1%] Will Joel Embiid win the 2025–2026 NBA MVP?
-[54.5%] Lakers vs. Pistons
-[0.9%] Will Phil Murphy win the 2028 Democratic presidential nomination?
-[0.9%] Will LeBron James win the 2028 Democratic presidential nomination?
-[1.8%] Will the Slovenian Democratic Party (SDS) win the most seats in the 2026 Slovenian parliamentary election?
+[0.1%] Will Bitcoin reach $150,000 in March?
 
 --- TECH & AI (Top 5 Active) ---
-[1.1%] Will Ted Cruz win the 2028 Republican presidential nomination?
-[98.2%] Will the Freedom Movement (GS) win the most seats in the 2026 Slovenian parliamentary election?
-[13.5%] US forces enter Iran by March 31?
-[0.8%] Will Katie Britt win the 2028 Republican presidential nomination?
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[77.0%] Backpack FDV above $200M one day after launch?
+[0.1%] Will Elon Musk post 340-359 tweets from March 17 to March 24, 2026?
+[0.7%] Will Kim Kardashian win the 2028 US Presidential Election?
+[32.5%] US x Iran ceasefire by April 15?
+[55.5%] US forces enter Iran by April 30?
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Will Villarreal win the 2025–26 La Liga?
-[0.7%] Will Hunter Biden win the 2028 Democratic presidential nomination?
-[98.9%] Will Israel launch a major ground offensive in Lebanon by March 31?
 [0.1%] Will Stephen Curry win the 2025–2026 NBA MVP?
-[36.5%] US x Iran ceasefire by April 15?
+[11.5%] Will Manchester City win the 2025–26 English Premier League?
+[0.8%] Will Tim Walz win the 2028 Democratic presidential nomination?
+[68.5%] Nuggets vs. Suns
+[7.5%] Kharg Island no longer under Iranian control by March 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump postpones military strikes on Iranian power plants for five days - Al Jazeera
-• Trump to deploy ICE agents to airports Monday - Axios
-• Senate advances Markwayne Mullin's nomination for DHS Secretary in procedural vote - CBS News
-• French far right claims momentum for presidency after local elections - politico.eu
-• Houston airports see highest TSA callout rates in the nation, straining security lines | What travelers need to know - KHOU
-• Mapping ICE's expanding footprint, and the communities fighting back - NPR
-• Two killed after Canadian jet hits fire truck at NYC’s LaGuardia airport - Al Jazeera
-• Suspect in Chicago Student’s Killing Was in U.S. Illegally, D.H.S. Says - The New York Times
+• Strikes hit Iran and Tehran targets Israel and Gulf states amid mixed signals over talks to end war - AP News
+• Iran Update Special Report, March 23, 2026 - Institute for the Study of War
+• Houston airport's only 2 TSA checkpoints pass 4-hour waits after ICE arrival - Houston Chronicle
+• ICE agents deployed to US airports: Which airports are affected? - Al Jazeera
+• As parents age, their children face hard choices about when to take the car keys - NPR
+• Trump puts Republicans in a bind on the DHS shutdown: From the Politics Desk - NBC News
+• Air Canada passenger seated at emergency exit says pilots’ actions saved lives - NBC News
+• He was Rubio’s friend and roommate. Now Rubio will testify against him. - The Washington Post
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Yahoo 100
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
 ========================================
