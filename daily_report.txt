@@ -1,62 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-03-24
+INTELLIGENCE SNAPSHOT // 2026-03-25
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,581
-DOW J: 46,208
-NASDAQ: 21,947
-VIX: 27
+S&P 500: 6,556
+DOW J: 46,124
+NASDAQ: 21,762
+VIX: 26
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.9%] Will Israel launch a major ground offensive in Lebanon by March 31?
-[12.5%] US x Iran ceasefire by March 31?
-[0.9%] Netanyahu out by March 31?
+[100.0%] Will Israel launch a major ground offensive in Lebanon by March 31?
 [0.1%] Will Movement for a Better Hungary (Jobbik) win the most seats in the next Hungarian parliamentary election?
-[0.5%] Trump out as President by March 31?
+[14.5%] US x Iran ceasefire by March 31?
+[17.5%] US forces enter Iran by March 31?
+[0.9%] Netanyahu out by March 31?
 
 --- US POLITICS (Top 5 Active) ---
-[0.5%] Will LeBron James win the 2028 US Presidential Election?
-[1.5%] Will the Iranian regime fall by March 31?
-[20.5%] US forces enter Iran by March 31?
-[0.1%] Will Joel Embiid win the 2025–2026 NBA MVP?
+[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[0.1%] Will Dialogue for Hungary (Párbeszéd) win the most seats in the next Hungarian parliamentary election?
 [0.1%] Will Bitcoin reach $150,000 in March?
+[0.5%] Will LeBron James win the 2028 US Presidential Election?
+[1.1%] Will the Iranian regime fall by March 31?
 
 --- TECH & AI (Top 5 Active) ---
-[77.0%] Backpack FDV above $200M one day after launch?
-[0.1%] Will Elon Musk post 340-359 tweets from March 17 to March 24, 2026?
-[0.7%] Will Kim Kardashian win the 2028 US Presidential Election?
-[32.5%] US x Iran ceasefire by April 15?
+[0.2%] Will the Golden State Warriors win the 2026 NBA Finals?
+[0.1%] Will Iran conduct a military action against Israel on March 19, 2026?
 [55.5%] US forces enter Iran by April 30?
+[25.2%] Will Crude Oil (CL) hit (HIGH) $100 by end of March?
+[12.8%] Will England win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Stephen Curry win the 2025–2026 NBA MVP?
-[11.5%] Will Manchester City win the 2025–26 English Premier League?
-[0.8%] Will Tim Walz win the 2028 Democratic presidential nomination?
-[68.5%] Nuggets vs. Suns
-[7.5%] Kharg Island no longer under Iranian control by March 31?
+[0.7%] Will Beto O’Rourke win the 2028 Democratic presidential nomination?
+[6.5%] Kharg Island no longer under Iranian control by March 31?
+[100.0%] Will the price of Bitcoin be above $64,000 on March 25?
+[100.0%] Will the price of Bitcoin be above $62,000 on March 25?
+[3.0%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Strikes hit Iran and Tehran targets Israel and Gulf states amid mixed signals over talks to end war - AP News
-• Iran Update Special Report, March 23, 2026 - Institute for the Study of War
-• Houston airport's only 2 TSA checkpoints pass 4-hour waits after ICE arrival - Houston Chronicle
-• ICE agents deployed to US airports: Which airports are affected? - Al Jazeera
-• As parents age, their children face hard choices about when to take the car keys - NPR
-• Trump puts Republicans in a bind on the DHS shutdown: From the Politics Desk - NBC News
-• Air Canada passenger seated at emergency exit says pilots’ actions saved lives - NBC News
-• He was Rubio’s friend and roommate. Now Rubio will testify against him. - The Washington Post
+• Democrats flip Florida state seat that includes Trump's Mar-a-Lago home - BBC
+• Pentagon orders troops from 82nd Airborne Division to deploy to Middle East - NPR
+• Iran receives a US ceasefire plan, officials say, as strikes batter the Middle East - AP News
+• Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz - The New York Times
+• This Is How Much ICE Agents Could Be Making—As TSA Workers Go Without Pay - Forbes
+• Pakistan Offers to Host Talks Between Iran and the United States - The New York Times
+• Trump cuts exacerbate budget fights in red states - Politico
+• Deal to fund DHS falters amid bipartisan pushback - Axios
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Yahoo 100
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
 ========================================
