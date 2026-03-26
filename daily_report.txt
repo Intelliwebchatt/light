@@ -1,61 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2026-03-25
+INTELLIGENCE SNAPSHOT // 2026-03-26
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,556
-DOW J: 46,124
-NASDAQ: 21,762
-VIX: 26
+S&P 500: 6,592
+DOW J: 46,429
+NASDAQ: 21,930
+VIX: 28
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Will Israel launch a major ground offensive in Lebanon by March 31?
+[0.1%] Will Elon Musk post 20-39 tweets from March 27 to April 3, 2026?
+[12.5%] US x Iran ceasefire by March 31?
 [0.1%] Will Movement for a Better Hungary (Jobbik) win the most seats in the next Hungarian parliamentary election?
-[14.5%] US x Iran ceasefire by March 31?
-[17.5%] US forces enter Iran by March 31?
-[0.9%] Netanyahu out by March 31?
+[0.7%] Netanyahu out by March 31?
+[0.1%] Will Dialogue for Hungary (Párbeszéd) win the most seats in the next Hungarian parliamentary election?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
-[0.1%] Will Dialogue for Hungary (Párbeszéd) win the most seats in the next Hungarian parliamentary election?
-[0.1%] Will Bitcoin reach $150,000 in March?
-[0.5%] Will LeBron James win the 2028 US Presidential Election?
-[1.1%] Will the Iranian regime fall by March 31?
+[0.9%] Will the Iranian regime fall by March 31?
+[25.5%] US forces enter Iran by March 31?
+[24.5%] Texas Longhorns vs. Purdue Boilermakers
+[4.5%] Will Trump visit China by April 30?
+[1.8%] Will Byron Donalds win the 2028 Republican presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[0.2%] Will the Golden State Warriors win the 2026 NBA Finals?
-[0.1%] Will Iran conduct a military action against Israel on March 19, 2026?
-[55.5%] US forces enter Iran by April 30?
-[25.2%] Will Crude Oil (CL) hit (HIGH) $100 by end of March?
-[12.8%] Will England win the 2026 FIFA World Cup?
+[99.8%] Will Israel take military action in Lebanon on March 20, 2026?
+[0.2%] Will Trump visit China by March 31?
+[3.9%] Will Jesus Christ return before 2027?
+[5.8%] Will Real Salt Lake win the 2026 MLS Cup?
+[7.2%] Will Purdue win the 2026 NCAA Tournament?
 
 --- SCIENCE (Top 5 Active) ---
-[0.7%] Will Beto O’Rourke win the 2028 Democratic presidential nomination?
-[6.5%] Kharg Island no longer under Iranian control by March 31?
-[100.0%] Will the price of Bitcoin be above $64,000 on March 25?
-[100.0%] Will the price of Bitcoin be above $62,000 on March 25?
-[3.0%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
+[14.5%] Will Tom Steyer win the California Governor Election in 2026?
+[0.1%] Will Iran win the 2026 FIFA World Cup?
+[0.4%] Will Algeria win the 2026 FIFA World Cup?
+[35.5%] Pelicans vs. Pistons
+[61.5%] US forces enter Iran by April 30?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Democrats flip Florida state seat that includes Trump's Mar-a-Lago home - BBC
-• Pentagon orders troops from 82nd Airborne Division to deploy to Middle East - NPR
-• Iran receives a US ceasefire plan, officials say, as strikes batter the Middle East - AP News
-• Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz - The New York Times
-• This Is How Much ICE Agents Could Be Making—As TSA Workers Go Without Pay - Forbes
-• Pakistan Offers to Host Talks Between Iran and the United States - The New York Times
-• Trump cuts exacerbate budget fights in red states - Politico
-• Deal to fund DHS falters amid bipartisan pushback - Axios
+• Who Is Alireza Tangsiri, the Latest Iranian Commander Targeted by Israel? - The New York Times
+• Trump says Iran 'afraid' to admit to talks as Tehran rejects reports of dialogue - BBC
+• GOP lawmakers vent frustration over Trump administration’s lack of info on Iran war - CNN
+• Melania Trump shares the spotlight with a robot at an education and technology event - NPR
+• Pentagon prepares for massive "final blow" of Iran war - Axios
+• Houston airport has become a symbol for the shutdown’s impacts on air travel - AP News
+• What a GOP loss in Trump’s Mar-a-Lago district says about the midterms - The Washington Post
+• Immigration Slowdown Hits Every Metro Area in the U.S., Census Shows - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
-• Top trending searches of 2025 revealed by Google. See what made the list.
+• Buster, Fido, Max: What are the top trending dog names for 2025?
 • Google reveals the top trending searches of 2025
 
 ========================================
