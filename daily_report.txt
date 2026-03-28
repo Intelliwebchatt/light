@@ -1,61 +1,59 @@
-INTELLIGENCE SNAPSHOT // 2026-03-27
+INTELLIGENCE SNAPSHOT // 2026-03-28
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,477
-DOW J: 45,960
-NASDAQ: 21,408
-VIX: 30
+S&P 500: 6,369
+DOW J: 45,167
+NASDAQ: 20,948
+VIX: 31
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[16.5%] US forces enter Iran by March 31?
-[3.8%] US x Iran ceasefire by March 31?
 [0.5%] Netanyahu out by March 31?
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
-[0.2%] Will Jordan win the 2026 FIFA World Cup?
+[8.5%] US forces enter Iran by March 31?
+[73.5%] Illinois Fighting Illini vs. Iowa Hawkeyes
+[0.1%] Will the Democratic Coalition (DK) win the most seats in the next Hungarian parliamentary election?
+[2.8%] US x Iran ceasefire by March 31?
 
 --- US POLITICS (Top 5 Active) ---
-[0.7%] Will the Iranian regime fall by March 31?
-[0.1%] Will Nathalie Perrin-Gilbert win the 2026 Lyon mayoral election?
-[0.1%] Will Baidu have the best AI model at the end of March 2026?
-[0.1%] Will Elon Musk post 20-39 tweets from March 27 to April 3, 2026?
-[0.2%] Will Cape Verde win the 2026 FIFA World Cup?
+[0.2%] Will Haiti win the 2026 FIFA World Cup?
+[0.1%] Will Elon Musk post 20-39 tweets from March 31 to April 7, 2026?
+[0.5%] Will the Iranian regime fall by March 31?
+[75.0%] Will Crude Oil (CL) hit (HIGH) $100 by end of March?
+[0.5%] Will Byron Donalds win the 2028 Republican presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Will Israel take military action in Lebanon on March 20, 2026?
-[8.5%] Will the Iranian regime fall by April 30?
-[0.1%] Will Bitcoin reach $100,000 in March?
-[61.5%] US forces enter Iran by April 30?
-[6.8%] Will Purdue win the 2026 NCAA Tournament?
+[53.5%] US forces enter Iran by April 30?
+[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[16.9%] Will AfD win the most seats in the 2026 Berlin state elections?
+[3.5%] Netanyahu out by April 30?
+[0.2%] Will Atletico Madrid win the 2025–26 La Liga?
 
 --- SCIENCE (Top 5 Active) ---
-[6.5%] Kharg Island no longer under Iranian control by March 31?
-[0.1%] Will Bitcoin reach $105,000 in March?
-[0.1%] Will Ethereum reach $4,000 in March?
-[1.4%] Will Bitcoin reach $80,000 in March?
-[49.5%] Spread: Nuggets (-18.5)
+[1.2%] Will Michelle Bowman be confirmed as Fed Chair?
+[100.0%] Will the price of Bitcoin be above $60,000 on March 28?
+[44.5%] Pistons vs. Timberwolves
+[3.9%] Will Jesus Christ return before 2027?
+[4.2%] Will Denmark win the televote for Eurovision 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Senate passes bill to reopen much of DHS after Trump moves to pay TSA officers - The Washington Post
-• Trump’s signature to appear on US currency in first for sitting president - Al Jazeera
-• ‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz - The Guardian
-• U.S. uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon - The Washington Post
-• Judge blocks Pentagon from labeling Anthropic AI a "supply chain risk" and halts Trump's ban on federal use - CBS News
-• Israel launches a new wave of strikes on Iran with no sign of diplomatic breakthrough - AP News
-• Trump administration opens investigations into race in admissions at 3 medical schools - CNN
-• Trump extends deadline for Iran negotiations - Axios
+• Iran-backed Houthis claim first missile launch on Israel as war in the Mideast intensifies - AP News
+• Third No Kings protests to see millions across US push back on Trump administration - The Guardian
+• At least 10 U.S. troops wounded in Iranian attack on Saudi air base - The Washington Post
+• House Vote Sets Up Clash With the Senate on D.H.S. Funding, Prolonging Shutdown - The New York Times
+• 4 weeks in, Trump’s conflicting signals on Iran war frustrate GOP lawmakers and political allies - CNN
+• Trump signs order to pay TSA employees amid shutdown standoff - Federal News Network
+• Rifts over Iran, but unity for Trump: Takeaways from CPAC 2026 - npr.org
+• U.S. Tomahawks are being used in Iran war faster than stockpile is being refilled - CBS News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
-• Google reveals the top trending searches of 2025
 
 ========================================
 END TRANSMISSION
