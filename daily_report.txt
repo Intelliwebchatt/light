@@ -1,59 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-03-29
+INTELLIGENCE SNAPSHOT // 2026-03-30
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,369
 DOW J: 45,167
 NASDAQ: 20,948
-VIX: 31
+VIX: 30
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[10.5%] US forces enter Iran by March 31?
-[0.5%] Netanyahu out by March 31?
-[1.5%] US x Iran ceasefire by March 31?
-[0.1%] Will the next Prime Minister of Hungary be János Lázár?
-[24.5%] Tennessee Volunteers vs. Michigan Wolverines
-
---- US POLITICS (Top 5 Active) ---
-[0.4%] Will Tunisia win the 2026 FIFA World Cup?
-[94.0%] Counter-Strike: Vitality vs Natus Vincere (BO5) - BLAST Open Rotterdam Playoffs
-[99.6%] Will Hezbollah conduct military action against Israel on March 22, 2026?
-[0.4%] Will Paraguay win the 2026 FIFA World Cup?
+[0.2%] Will Curaçao win the 2026 FIFA World Cup?
+[0.1%] Netanyahu out by March 31?
+[5.3%] US forces enter Iran by March 31?
+[0.1%] Will the Iranian regime fall by March 31?
 [0.1%] Will Trump visit China by March 31?
 
---- TECH & AI (Top 5 Active) ---
-[67.5%] US forces enter Iran by April 30?
-[0.5%] Will the Iranian regime fall by March 31?
+--- US POLITICS (Top 5 Active) ---
+[0.1%] Will Elon Musk post 80-99 tweets from March 27 to April 3, 2026?
+[68.5%] US forces enter Iran by April 30?
+[0.4%] Will Ghana win the 2026 FIFA World Cup?
+[1.6%] US x Iran ceasefire by March 31?
 [0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
-[49.5%] Celtics vs. Hornets
-[0.5%] Will Erika Kirk win the 2028 Republican presidential nomination?
+
+--- TECH & AI (Top 5 Active) ---
+[3.9%] Will Jesus Christ return before 2027?
+[0.2%] Will Bitcoin reach $80,000 in March?
+[0.1%] Will New Zealand win the 2026 FIFA World Cup?
+[80.3%] Will Crude Oil (CL) hit (HIGH) $100 by end of March?
+[36.5%] Maple Leafs vs. Ducks
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] Dota 2: Team Yandex vs Xtreme Gaming - Game 1 Winner
-[0.1%] Will Uzbekistan win the 2026 FIFA World Cup?
-[0.1%] Will Elon Musk post 40-59 tweets from March 27 to April 3, 2026?
-[79.0%] LoL: Team WE vs ThunderTalk Gaming (BO3) - Esports World Cup China Qualifier Phase 1
-[13.7%] Will AfD win the most seats in the 2026 Berlin state elections?
+[100.0%] Will the price of Bitcoin be above $62,000 on March 30?
+[0.8%] Will Tom Brady win the 2028 Republican presidential nomination?
+[0.1%] Will the Democratic Coalition (DK) win the most seats in the next Hungarian parliamentary election?
+[100.0%] Will the price of Bitcoin be above $60,000 on March 30?
+[0.7%] Will Barack Obama win the 2028 Democratic presidential nomination?
 
 ----------------------------------------
 
 TOP HEADLINES
-• 5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up - The New York Times
-• Live updates: Iran ‘waiting’ for ground invasion, as US moves in more troops to Middle East - CNN
-• Yemen’s Houthis launch ballistic missile at Israel as Middle East conflict escalates - France 24
-• Mediators gather in Pakistan for talks on ending the monthlong Iran war - AP News
-• A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain. - The New York Times
-• What to know about Trump's executive order to pay TSA officers and its impact on airport security lines - PBS
-• Some critics of birthright citizenship say it's a fraud issue. What does that mean? - npr.org
-• A month into Iran, the GOP’s political reality sinks in - Politico
+• Trump says he is considering seizing Iran's Kharg Island, but deal could be made 'very quickly' - bbc.com
+• How a SCOTUS decision on birthright citizenship could impact education access - NPR
+• Trump says he has "no problem" with Russian tanker bringing oil to Cuba despite blockade - CBS News
+• Dow futures fall 300 points as Wall Street braces for U.S. ground assault on Iran and Houthi attacks - Fortune
+• Catholic Leaders Barred From Jerusalem Holy Site on Palm Sunday - The New York Times
+• US Sees First Combat Loss of Valuable E-3 Jet in Missile Strike - Bloomberg.com
+• Poll: The battle for MAHA that could sway the midterms - Politico
+• Fighter jets scrambled, flares deployed after plane spotted near Trump's Mar-a-Lago resort - CBS News
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Yahoo 100
+• Google reveals the top trending searches of 2025
 
 ========================================
 END TRANSMISSION
