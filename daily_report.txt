@@ -1,59 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2026-03-31
+INTELLIGENCE SNAPSHOT // 2026-04-01
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,344
-DOW J: 45,216
-NASDAQ: 20,795
-VIX: 28
+S&P 500: 6,529
+DOW J: 46,342
+NASDAQ: 21,591
+VIX: 25
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will the Iranian regime fall by March 31?
-[0.1%] Will Curaçao win the 2026 FIFA World Cup?
-[1.9%] US forces enter Iran by March 31?
-[0.4%] US x Iran ceasefire by March 31?
-[59.5%] US forces enter Iran by April 30?
+[0.1%] Netanyahu out by March 31?
+[0.5%] US forces enter Iran by March 31?
+[3.5%] Will the Iranian regime fall by April 30?
+[55.5%] US forces enter Iran by April 30?
+[18.5%] US x Iran ceasefire by April 15?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Netanyahu out by March 31?
-[70.5%] US forces enter Iran by December 31?
-[23.5%] Will Crude Oil (CL) hit (HIGH) $105 by end of March?
-[3.2%] Will Crude Oil (CL) hit (HIGH) $110 by end of March?
-[16.5%] Will the Iranian regime fall by June 30?
+[0.2%] Will Qatar win the 2026 FIFA World Cup?
+[0.2%] Will Panama win the 2026 FIFA World Cup?
+[8.5%] US x Iran ceasefire by April 7?
+[0.1%] LoL: T1 vs KT Rolster - Game 2 Winner
+[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[0.7%] Will Raphael Warnock win the 2028 Democratic presidential nomination?
-[0.8%] Will Liz Cheney win the 2028 Democratic presidential nomination?
-[0.8%] Will Andrew Yang win the 2028 Democratic presidential nomination?
-[0.1%] Will Elon Musk post 20-39 tweets from March 31 to April 7, 2026?
-[0.1%] Blast Open Rotterdam 2026: Will a player break something during a game? 
+[10.5%] Will the Iranian regime fall by June 30?
+[35.5%] US x Iran ceasefire by April 30?
+[0.8%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[0.1%] LoL: T1 vs KT Rolster (BO3) - LCK Rounds 1-2
+[98.0%] Will there be no change in Fed interest rates after the April 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[54.5%] Hurricanes vs. Blue Jackets
-[0.4%] Will Algeria win the 2026 FIFA World Cup?
-[0.1%] Will the Democratic Coalition (DK) win the most seats in the next Hungarian parliamentary election?
-[100.0%] Will the price of Bitcoin be above $60,000 on March 31?
-[0.1%] Grand Prix Hassan II: Juan Manuel Cerundolo vs Kamil Majchrzak
+[17.3%] Will the San Antonio Spurs win the 2026 NBA Finals?
+[65.5%] US forces enter Iran by December 31?
+[0.9%] EdgeX FDV above $1B one day after launch?
+[0.1%] Will Curaçao win the 2026 FIFA World Cup?
+[99.9%] Will the price of Bitcoin be above $64,000 on April 1?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iran War: Iran Strikes Fully Laden Kuwait Oil Tanker in Dubai Port Area - Bloomberg.com
-• Iran war latest: Burned Kuwaiti oil tanker pictured off Dubai coast after Iran reportedly hit vessel - BBC
-• Babies are an afterthought in the birthright citizenship case, advocates say - NPR
-• Trump floats siege on Iran stronghold as Tehran loosens grip on Strait of Hormuz - Fox News
-• Things to know about Rice’s whale, rare species in way of Trump plans for more Gulf drilling - AP News
-• TSA agents see partial paychecks - Federal News Network
-• The DHS shutdown might never end - Politico
-• Trump Shares Renders Of His Future Presidential Library—A Miami Skyscraper Emblazoned With His Name - Forbes
+• Trump to address nation after saying U.S. may leave war within weeks - NPR
+• What's at risk if SCOTUS sides with Trump in birthright citizenship case - Axios
+• Trump says he's considering pulling U.S. out of 'paper tiger' NATO - CNBC
+• Bomb Shelters and a Drone-Proof Roof: Trump Says Ballroom Is a Matter of Security - The New York Times
+• Hegseth exonerates helicopter crews over Kid Rock flyby, nullifying Army probe - The Washington Post
+• What is NASA’s Artemis II moon mission, and when will it launch? - Al Jazeera
+• Washington Secretary of State Steve Hobbs blasts Trump executive order on voter lists - KOMO
+• Shutdown infighting shatters GOP unity in critical stretch for Trump - CNN
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Top trending searches of 2025 revealed by Google. See what made the list.
 • Google reveals the top trending searches of 2025
 
 ========================================
