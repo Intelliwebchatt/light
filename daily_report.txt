@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-04-01
+INTELLIGENCE SNAPSHOT // 2026-04-02
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,529
-DOW J: 46,342
-NASDAQ: 21,591
-VIX: 25
+S&P 500: 6,575
+DOW J: 46,566
+NASDAQ: 21,841
+VIX: 28
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[0.1%] US forces enter Iran by March 31?
+[61.5%] US forces enter Iran by April 30?
 [0.1%] Netanyahu out by March 31?
-[0.5%] US forces enter Iran by March 31?
-[3.5%] Will the Iranian regime fall by April 30?
-[55.5%] US forces enter Iran by April 30?
-[18.5%] US x Iran ceasefire by April 15?
+[2.1%] US x Iran ceasefire by April 7?
+[8.5%] US x Iran ceasefire by April 15?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will Qatar win the 2026 FIFA World Cup?
-[0.2%] Will Panama win the 2026 FIFA World Cup?
-[8.5%] US x Iran ceasefire by April 7?
-[0.1%] LoL: T1 vs KT Rolster - Game 2 Winner
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[0.2%] Will Iraq win the 2026 FIFA World Cup?
+[0.1%] Will Beth Van Duyne win the 2026 Texas Republican Primary?
+[0.1%] Will Movement for a Better Hungary (Jobbik) win the most seats in the next Hungarian parliamentary election?
+[3.2%] Will the Iranian regime fall by April 30?
+[0.3%] Will CR win the third most seats in the 2026 Colombian Chamber of Representatives election?
 
 --- TECH & AI (Top 5 Active) ---
-[10.5%] Will the Iranian regime fall by June 30?
-[35.5%] US x Iran ceasefire by April 30?
-[0.8%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
-[0.1%] LoL: T1 vs KT Rolster (BO3) - LCK Rounds 1-2
-[98.0%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[23.5%] US x Iran ceasefire by April 30?
+[0.9%] Will Trump talk to Xi Jinping in March?
+[0.1%] Will the Democratic Coalition (DK) win the most seats in the next Hungarian parliamentary election?
+[0.8%] Will Turkiye win the 2026 FIFA World Cup?
+[0.1%] LoL: Kiwoom DRX vs DN SOOPers - Game 2 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[17.3%] Will the San Antonio Spurs win the 2026 NBA Finals?
-[65.5%] US forces enter Iran by December 31?
-[0.9%] EdgeX FDV above $1B one day after launch?
-[0.1%] Will Curaçao win the 2026 FIFA World Cup?
-[99.9%] Will the price of Bitcoin be above $64,000 on April 1?
+[24.5%] Lakers vs. Thunder
+[0.5%] Will Elon Musk post 200-219 tweets from March 27 to April 3, 2026?
+[11.5%] Will the Iranian regime fall by June 30?
+[70.5%] US forces enter Iran by December 31?
+[0.1%] LoL: Dplus KIA vs Nongshim Red Force (BO3) - LCK Rounds 1-2
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump to address nation after saying U.S. may leave war within weeks - NPR
-• What's at risk if SCOTUS sides with Trump in birthright citizenship case - Axios
-• Trump says he's considering pulling U.S. out of 'paper tiger' NATO - CNBC
-• Bomb Shelters and a Drone-Proof Roof: Trump Says Ballroom Is a Matter of Security - The New York Times
-• Hegseth exonerates helicopter crews over Kid Rock flyby, nullifying Army probe - The Washington Post
-• What is NASA’s Artemis II moon mission, and when will it launch? - Al Jazeera
-• Washington Secretary of State Steve Hobbs blasts Trump executive order on voter lists - KOMO
-• Shutdown infighting shatters GOP unity in critical stretch for Trump - CNN
+• Watch: Trump addresses the nation at critical moment in the war with Iran - NPR
+• Republicans aren’t rushing to save Trump’s ballroom - Politico
+• 4.6 magnitude earthquake shakes California, centered in Santa Cruz Mountains - San Francisco Chronicle
+• Key Justices Appear Skeptical of Limiting Birthright Citizenship - The New York Times
+• Trump's VA killed a home loan program. Vets are now losing their homes because of it - NPR
+• Republicans announce plan to end record-long DHS shutdown - Axios
+• 5 things to know for April 2: Artemis II launch, Trump’s address, Oil prices, China’s nuclear arsenal, Raw cheese - CNN
+• The Women Who Believe Women Should Lose the Right to Vote - The New York Times
 
 ----------------------------------------
 
