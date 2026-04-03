@@ -1,60 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-04-02
+INTELLIGENCE SNAPSHOT // 2026-04-03
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,575
-DOW J: 46,566
-NASDAQ: 21,841
-VIX: 28
+S&P 500: 6,583
+DOW J: 46,505
+NASDAQ: 21,879
+VIX: 24
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] US forces enter Iran by March 31?
-[61.5%] US forces enter Iran by April 30?
-[0.1%] Netanyahu out by March 31?
-[2.1%] US x Iran ceasefire by April 7?
-[8.5%] US x Iran ceasefire by April 15?
+[78.0%] US forces enter Iran by April 30?
+[0.1%] LoL: Gen.G vs KT Rolster (BO3) - LCK Rounds 1-2
+[0.2%] Will Congo DR win the 2026 FIFA World Cup?
+[0.1%] Will Trump talk to Xi Jinping in March?
+[1.2%] US x Iran ceasefire by April 7?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will Iraq win the 2026 FIFA World Cup?
-[0.1%] Will Beth Van Duyne win the 2026 Texas Republican Primary?
-[0.1%] Will Movement for a Better Hungary (Jobbik) win the most seats in the next Hungarian parliamentary election?
-[3.2%] Will the Iranian regime fall by April 30?
-[0.3%] Will CR win the third most seats in the 2026 Colombian Chamber of Representatives election?
+[0.4%] Will Scotland win the 2026 FIFA World Cup?
+[0.1%] US forces enter Iran by March 31?
+[4.5%] Bucharest Open: Daniel Altmaier vs Dino Prizmic
+[16.1%] Will Spain win the 2026 FIFA World Cup?
+[100.0%] LoL: Gen.G vs KT Rolster - Game 2 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[23.5%] US x Iran ceasefire by April 30?
-[0.9%] Will Trump talk to Xi Jinping in March?
-[0.1%] Will the Democratic Coalition (DK) win the most seats in the next Hungarian parliamentary election?
-[0.8%] Will Turkiye win the 2026 FIFA World Cup?
-[0.1%] LoL: Kiwoom DRX vs DN SOOPers - Game 2 Winner
+[16.2%] Will Gavin Newsom win the 2028 US Presidential Election?
+[17.8%] Will the San Antonio Spurs win the 2026 NBA Finals?
+[19.5%] US x Iran ceasefire by April 30?
+[0.1%] LoL: BNK FEARX vs HANJIN BRION - Game 1 Winner
+[1.2%] Will Uruguay win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[24.5%] Lakers vs. Thunder
-[0.5%] Will Elon Musk post 200-219 tweets from March 27 to April 3, 2026?
-[11.5%] Will the Iranian regime fall by June 30?
-[70.5%] US forces enter Iran by December 31?
-[0.1%] LoL: Dplus KIA vs Nongshim Red Force (BO3) - LCK Rounds 1-2
+[8.6%] Will Brazil win the 2026 FIFA World Cup?
+[0.1%] Will Elon Musk post 240-259 tweets from March 27 to April 3, 2026?
+[3.4%] Will Atletico Madrid win the 2025–26 Champions League?
+[0.2%] Will San Marino win Eurovision 2026?
+[0.7%] Will Raphael Warnock win the 2028 Democratic presidential nomination?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Watch: Trump addresses the nation at critical moment in the war with Iran - NPR
-• Republicans aren’t rushing to save Trump’s ballroom - Politico
-• 4.6 magnitude earthquake shakes California, centered in Santa Cruz Mountains - San Francisco Chronicle
-• Key Justices Appear Skeptical of Limiting Birthright Citizenship - The New York Times
-• Trump's VA killed a home loan program. Vets are now losing their homes because of it - NPR
-• Republicans announce plan to end record-long DHS shutdown - Axios
-• 5 things to know for April 2: Artemis II launch, Trump’s address, Oil prices, China’s nuclear arsenal, Raw cheese - CNN
-• The Women Who Believe Women Should Lose the Right to Vote - The New York Times
+• Iran war live updates: Iran fires missiles at Israel and Gulf, explosions around Tehran - AP News
+• Pam Bondi Wanted a Graceful Exit. But Trump Wanted Her Gone. - The New York Times
+• U.S. bombs Iran's civilian infrastructure for first time after "Stone Ages" threat - Axios
+• Takeaways from Trump's tough week, as war and gas prices take a toll - NPR
+• Artemis II astronauts rocket toward the moon after spending a day around Earth - Politico
+• Trump's White House ballroom gets final approval despite judge's ruling halting work - pbs.org
+• Fight Over Funding Islamic Schools in Texas Exposes G.O.P. Tensions - The New York Times
+• Trump unveils 100% tariff on some patented drugs on ‘Liberation Day’ anniversary - AP News
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
 ========================================
