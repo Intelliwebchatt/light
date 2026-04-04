@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-04-03
+INTELLIGENCE SNAPSHOT // 2026-04-04
 ========================================
 
 MARKET CLOSE
@@ -12,50 +12,48 @@ VIX: 24
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[78.0%] US forces enter Iran by April 30?
-[0.1%] LoL: Gen.G vs KT Rolster (BO3) - LCK Rounds 1-2
-[0.2%] Will Congo DR win the 2026 FIFA World Cup?
+[85.5%] US forces enter Iran by April 30?
+[89.5%] US forces enter Iran by December 31?
 [0.1%] Will Trump talk to Xi Jinping in March?
-[1.2%] US x Iran ceasefire by April 7?
+[1.1%] US x Iran ceasefire by April 7?
+[1.5%] Will USA win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will Scotland win the 2026 FIFA World Cup?
+[100.0%] Ukraine strikes another tanker in Black Sea by March 31, 2026?
+[100.0%] Will Trump talk to Mohammed bin Salman in March?
+[100.0%] LoL: T1 vs Hanwha Life Esports (BO3) - LCK Rounds 1-2
 [0.1%] US forces enter Iran by March 31?
-[4.5%] Bucharest Open: Daniel Altmaier vs Dino Prizmic
-[16.1%] Will Spain win the 2026 FIFA World Cup?
-[100.0%] LoL: Gen.G vs KT Rolster - Game 2 Winner
+[88.0%] Will Manchester City FC win on 2026-04-04?
 
 --- TECH & AI (Top 5 Active) ---
-[16.2%] Will Gavin Newsom win the 2028 US Presidential Election?
-[17.8%] Will the San Antonio Spurs win the 2026 NBA Finals?
-[19.5%] US x Iran ceasefire by April 30?
-[0.1%] LoL: BNK FEARX vs HANJIN BRION - Game 1 Winner
-[1.2%] Will Uruguay win the 2026 FIFA World Cup?
+[18.7%] Will the San Antonio Spurs win the 2026 NBA Finals?
+[100.0%] LoL: T1 vs Hanwha Life Esports - Game 2 Winner
+[67.5%] Indian Premier League: Delhi Capitals vs Mumbai Indians
+[17.5%] US x Iran ceasefire by April 30?
+[0.1%] LoL: Top Esports vs Invictus Gaming - Game 1 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[8.6%] Will Brazil win the 2026 FIFA World Cup?
-[0.1%] Will Elon Musk post 240-259 tweets from March 27 to April 3, 2026?
-[3.4%] Will Atletico Madrid win the 2025–26 Champions League?
-[0.2%] Will San Marino win Eurovision 2026?
-[0.7%] Will Raphael Warnock win the 2028 Democratic presidential nomination?
+[98.4%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[0.1%] LoL: Weibo Gaming vs Anyone's Legend - Game 2 Winner
+[13.5%] Will France win the 2026 FIFA World Cup?
+[2.6%] Will Ron DeSantis win the 2028 Republican presidential nomination?
+[1.5%] Will Judy Shelton be confirmed as Fed Chair?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iran war live updates: Iran fires missiles at Israel and Gulf, explosions around Tehran - AP News
-• Pam Bondi Wanted a Graceful Exit. But Trump Wanted Her Gone. - The New York Times
-• U.S. bombs Iran's civilian infrastructure for first time after "Stone Ages" threat - Axios
-• Takeaways from Trump's tough week, as war and gas prices take a toll - NPR
-• Artemis II astronauts rocket toward the moon after spending a day around Earth - Politico
-• Trump's White House ballroom gets final approval despite judge's ruling halting work - pbs.org
-• Fight Over Funding Islamic Schools in Texas Exposes G.O.P. Tensions - The New York Times
-• Trump unveils 100% tariff on some patented drugs on ‘Liberation Day’ anniversary - AP News
+• Live updates: US and Iran race to find crew member from downed F-15 jet - CNN
+• Fact-checking key moments in Bondi's tenure as Trump's attorney general - PBS
+• Two fires break out in Southern California amid Santa Ana winds, triggering evacuations - Los Angeles Times
+• White House budget proposal silent on civilian federal pay raise - Federal News Network
+• Judge rejects Department of Justice bid to reinstate Powell subpoenas - Axios
+• NC joins lawsuit over Trump’s mail-in ballot order, calling it an unconstitutional power grab - WRAL
+• Arrest of Wisconsin Mosque Leader Was Tied to Trump Antisemitism Campaign - The New York Times
+• GOPers ignore election officials’ warnings, leaving Georgia little time for paper ballots switch - Democracy Docket
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
 ========================================
