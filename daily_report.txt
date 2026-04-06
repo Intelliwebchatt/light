@@ -1,59 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2026-04-05
+INTELLIGENCE SNAPSHOT // 2026-04-06
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,583
 DOW J: 46,505
 NASDAQ: 21,879
-VIX: 24
+VIX: 25
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.8%] US forces enter Iran by April 30?
-[99.9%] US forces enter Iran by December 31?
+[99.6%] US forces enter Iran by April 30?
+[3.5%] US x Iran ceasefire by April 7?
 [0.1%] Will Trump talk to Xi Jinping in March?
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
-[1.8%] Trump out as President by April 30?
+[16.5%] US x Iran ceasefire by April 15?
+[99.7%] US forces enter Iran by December 31?
 
 --- US POLITICS (Top 5 Active) ---
-[3.8%] Will the Iranian regime fall by April 30?
-[1.1%] US x Iran ceasefire by April 7?
-[0.1%] LoL: JD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend
-[100.0%] Counter-Strike: 3DMAX vs Voca (BO3) - PGL Bucharest Group Stage
-[6.5%] Indian Premier League: Sunrisers Hyderabad vs Lucknow Super Giants
+[0.2%] Will Australia win the 2026 FIFA World Cup?
+[27.5%] US x Iran ceasefire by April 30?
+[1.6%] Will Colombia win the 2026 FIFA World Cup?
+[1.5%] Trump out as President by April 30?
+[0.1%] Will Como 1907 win on 2026-04-06?
 
 --- TECH & AI (Top 5 Active) ---
-[17.8%] Will the San Antonio Spurs win the 2026 NBA Finals?
-[0.4%] Will Alexander Albon be the 2026 F1 Drivers' Champion?
-[16.8%] Will Gavin Newsom win the 2028 US Presidential Election?
-[100.0%] UFC Fight Night: Ethyn Ewing vs. Rafael Estevam (Bantamweight, Main Card)
-[0.4%] Will Carlos Sainz Jr. be the 2026 F1 Drivers' Champion?
+[0.1%] LoL: HANJIN BRION Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 1-2
+[3.5%] Will the Iranian regime fall by April 30?
+[1.2%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
+[0.7%] Will Byron Donalds win the 2028 Republican presidential nomination?
+[0.7%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[1.8%] Will Stephen A. Smith win the 2028 Democratic presidential nomination?
-[11.2%] Will England win the 2026 FIFA World Cup?
-[15.8%] Will Spain win the 2026 FIFA World Cup?
-[2.8%] Will Norway win the 2026 FIFA World Cup?
+[0.1%] Counter-Strike: B8 vs 3DMAX (BO3) - PGL Bucharest Group Stage
+[0.1%] Will Tiger Woods win the 2026 Masters tournament?
+[0.5%] Will Mike Pence win the 2028 Republican presidential nomination?
 [55.5%] Will the U.S. invade Iran before 2027?
+[0.9%] Will Ecuador win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live updates: Iran war news; US forces rescue missing F-15 crew member, Trump says - CNN
-• Pope Leo XIV celebrates first Easter vigil, calls for harmony and peace in a world torn by war - Politico
-• Middle East crisis live: Iranian drone attacks cause ‘significant material losses’ at Kuwait energy facilities - The Guardian
-• Trump threatens Iran with "hell" if Hormuz strait isn't open in 48 hours - Axios
-• Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. - The New York Times
-• Man charged with impaired driving after car plows into pedestrians during Louisiana parade: Authorities - ABC News
-• In the West’s water war, Arizona's governor is betting on Trump — and Iran - Politico
-• $400 Bibles? Luxurious Scripture Is on the Rise. - The New York Times
+• Trump threatens Iran with a new deadline: What we know about the war, now in its 6th week - CNN
+• The US set up an airfield inside Iran to rescue the F-15 airman. Marines just practiced building one - Fortune
+• Gold Falls as Trump Threatens Escalation of US Attacks on Iran - Bloomberg.com
+• Trump endorses Steve Hilton in California governor's race - Politico
+• From Oman, a waterfront view of the embattled Strait of Hormuz - The Washington Post
+• Pope Leo XIV Calls for Peace in First Easter Mass - The New York Times
+• Iran chides ‘caveman’ Trump over strong language on social media - politico.eu
+• Jim Jordan’s dream might not be deferred much longer - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Buster, Fido, Max: What are the top trending dog names for 2025?
 • Google reveals the top trending searches of 2025
 
 ========================================
