@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-04-06
+INTELLIGENCE SNAPSHOT // 2026-04-07
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,583
-DOW J: 46,505
-NASDAQ: 21,879
+S&P 500: 6,612
+DOW J: 46,670
+NASDAQ: 21,996
 VIX: 25
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 25
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.6%] US forces enter Iran by April 30?
-[3.5%] US x Iran ceasefire by April 7?
-[0.1%] Will Trump talk to Xi Jinping in March?
-[16.5%] US x Iran ceasefire by April 15?
-[99.7%] US forces enter Iran by December 31?
+[99.7%] US forces enter Iran by April 30?
+[2.8%] US x Iran ceasefire by April 7?
+[0.7%] Will Beto O’Rourke win the 2028 Democratic presidential nomination?
+[13.5%] US x Iran ceasefire by April 15?
+[99.8%] US forces enter Iran by December 31?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will Australia win the 2026 FIFA World Cup?
+[0.7%] Will Phil Murphy win the 2028 Democratic presidential nomination?
 [27.5%] US x Iran ceasefire by April 30?
-[1.6%] Will Colombia win the 2026 FIFA World Cup?
-[1.5%] Trump out as President by April 30?
-[0.1%] Will Como 1907 win on 2026-04-06?
+[0.5%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
+[0.1%] Will the next Prime Minister of Hungary be Klára Dobrev?
+[100.0%] Will Iran strike UAE again in March?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] LoL: HANJIN BRION Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 1-2
-[3.5%] Will the Iranian regime fall by April 30?
-[1.2%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
-[0.7%] Will Byron Donalds win the 2028 Republican presidential nomination?
-[0.7%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[0.8%] Will Barack Obama win the 2028 Democratic presidential nomination?
+[0.6%] Will La U win the third most seats in the 2026 Colombian Chamber of Representatives election?
+[24.5%] Counter-Strike: PARIVISION vs 3DMAX (BO3) - PGL Bucharest Group Stage
+[40.5%] Will FC Bayern München win on 2026-04-07?
+[0.4%] Will Valtteri Bottas be the 2026 F1 Drivers' Champion?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Counter-Strike: B8 vs 3DMAX (BO3) - PGL Bucharest Group Stage
-[0.1%] Will Tiger Woods win the 2026 Masters tournament?
+[1.0%] Will Conservative win the third most seats in the 2026 Colombian Chamber of Representatives election?
+[16.2%] Will the San Antonio Spurs win the 2026 NBA Finals?
+[50.5%] Sporting CP vs. Arsenal FC: O/U 2.5
 [0.5%] Will Mike Pence win the 2028 Republican presidential nomination?
-[55.5%] Will the U.S. invade Iran before 2027?
-[0.9%] Will Ecuador win the 2026 FIFA World Cup?
+[100.0%] Counter-Strike: B8 vs Inner Circle Esports (BO3) - PGL Bucharest Group Stage
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump threatens Iran with a new deadline: What we know about the war, now in its 6th week - CNN
-• The US set up an airfield inside Iran to rescue the F-15 airman. Marines just practiced building one - Fortune
-• Gold Falls as Trump Threatens Escalation of US Attacks on Iran - Bloomberg.com
-• Trump endorses Steve Hilton in California governor's race - Politico
-• From Oman, a waterfront view of the embattled Strait of Hormuz - The Washington Post
-• Pope Leo XIV Calls for Peace in First Easter Mass - The New York Times
-• Iran chides ‘caveman’ Trump over strong language on social media - politico.eu
-• Jim Jordan’s dream might not be deferred much longer - Politico
+• Trump's tipping point: Destroy Iran's infrastructure or give talks a chance - Axios
+• Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ - The New York Times
+• Trump Floats Seizing Iran Oil as He Weighs Chinese Leverage Play - Bloomberg.com
+• Australia Charges Ex-Soldier With War Crimes in Afghanistan - The New York Times
+• Voters set to decide Wisconsin Supreme Court race and Georgia runoff for Marjorie Taylor Greene's seat - nbcnews.com
+• Artemis II astronauts swung by the moon, broke an Apollo record, and saw an eclipse - NPR
+• Liberals will try to expand their majority on the Wisconsin Supreme Court in a Tuesday election - CNN
+• ‘Vile on every level’: Tucker Carlson rips Donald Trump over Easter Sunday ‘f-word’ post - Politico
 
 ----------------------------------------
 
