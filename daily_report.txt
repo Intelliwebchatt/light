@@ -1,60 +1,59 @@
-INTELLIGENCE SNAPSHOT // 2026-04-07
+INTELLIGENCE SNAPSHOT // 2026-04-08
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,612
-DOW J: 46,670
-NASDAQ: 21,996
-VIX: 25
+S&P 500: 6,617
+DOW J: 46,584
+NASDAQ: 22,018
+VIX: 20
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.7%] US forces enter Iran by April 30?
-[2.8%] US x Iran ceasefire by April 7?
-[0.7%] Will Beto O’Rourke win the 2028 Democratic presidential nomination?
-[13.5%] US x Iran ceasefire by April 15?
-[99.8%] US forces enter Iran by December 31?
+[99.8%] US forces enter Iran by April 30?
+[99.7%] US x Iran ceasefire by April 7?
+[46.7%] Iran x Israel/US conflict ends by April 7?
+[52.5%] Will Paris Saint-Germain FC win on 2026-04-08?
+[99.9%] US forces enter Iran by December 31?
 
 --- US POLITICS (Top 5 Active) ---
-[0.7%] Will Phil Murphy win the 2028 Democratic presidential nomination?
-[27.5%] US x Iran ceasefire by April 30?
-[0.5%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
-[0.1%] Will the next Prime Minister of Hungary be Klára Dobrev?
-[100.0%] Will Iran strike UAE again in March?
+[2.5%] Will the Iranian regime fall by April 30?
+[0.2%] Will Congo DR win the 2026 FIFA World Cup?
+[65.0%] Iran x Israel/US conflict ends by April 15?
+[28.5%] Will the U.S. invade Iran before 2027?
+[1.1%] Will WTI Crude Oil (WTI) hit (HIGH) $200 in April?
 
 --- TECH & AI (Top 5 Active) ---
-[0.8%] Will Barack Obama win the 2028 Democratic presidential nomination?
-[0.6%] Will La U win the third most seats in the 2026 Colombian Chamber of Representatives election?
-[24.5%] Counter-Strike: PARIVISION vs 3DMAX (BO3) - PGL Bucharest Group Stage
-[40.5%] Will FC Bayern München win on 2026-04-07?
-[0.4%] Will Valtteri Bottas be the 2026 F1 Drivers' Champion?
+[2.1%] Kharg Island no longer under Iranian control by April 15?
+[24.5%] Will Liverpool FC win on 2026-04-08?
+[39.5%] Strait of Hormuz traffic returns to normal by end of April?
+[1.6%] Trump out as President by April 30?
+[0.1%] Will Vicky Dávila win the 2026 Colombian presidential election?
 
 --- SCIENCE (Top 5 Active) ---
-[1.0%] Will Conservative win the third most seats in the 2026 Colombian Chamber of Representatives election?
-[16.2%] Will the San Antonio Spurs win the 2026 NBA Finals?
-[50.5%] Sporting CP vs. Arsenal FC: O/U 2.5
-[0.5%] Will Mike Pence win the 2028 Republican presidential nomination?
-[100.0%] Counter-Strike: B8 vs Inner Circle Esports (BO3) - PGL Bucharest Group Stage
+[100.0%] Rolex Monte Carlo Masters: Jiri Lehecka vs Alejandro Tabilo
+[0.4%] Will Egypt win the 2026 FIFA World Cup?
+[0.1%] LoL: T1 vs Gen.G - Game 1 Winner
+[98.5%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[4.5%] Rolex Monte Carlo Masters: Cristian Garin vs Alexander Zverev
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump's tipping point: Destroy Iran's infrastructure or give talks a chance - Axios
-• Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ - The New York Times
-• Trump Floats Seizing Iran Oil as He Weighs Chinese Leverage Play - Bloomberg.com
-• Australia Charges Ex-Soldier With War Crimes in Afghanistan - The New York Times
-• Voters set to decide Wisconsin Supreme Court race and Georgia runoff for Marjorie Taylor Greene's seat - nbcnews.com
-• Artemis II astronauts swung by the moon, broke an Apollo record, and saw an eclipse - NPR
-• Liberals will try to expand their majority on the Wisconsin Supreme Court in a Tuesday election - CNN
-• ‘Vile on every level’: Tucker Carlson rips Donald Trump over Easter Sunday ‘f-word’ post - Politico
+• US, Israel and Iran agree to a 2-week ceasefire though some attacks continue - AP News
+• 'Political disaster': Israeli leaders lash out over ceasefire, split on who’s to blame - The Jerusalem Post
+• Georgia, Wisconsin Elections Show Declining Appetite for Republican Candidates - nytimes.com
+• Abortion clinics are closing nationwide. Could urgent care help fill the gap? - NPR
+• Trump's Iran post causes talk of his impeachment, removal to erupt among Hill Democrats - Axios
+• Pope Leo condemns Trump’s latest threats against Iran - Politico
+• Gilgo Beach serial killings suspect heads to court for expected guilty plea - NBC News
+• Newlywed wife of US soldier freed by ICE after detention at military base - BBC
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Buster, Fido, Max: What are the top trending dog names for 2025?
 • Google reveals the top trending searches of 2025
 
 ========================================
