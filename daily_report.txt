@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-04-08
+INTELLIGENCE SNAPSHOT // 2026-04-09
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,617
-DOW J: 46,584
-NASDAQ: 22,018
-VIX: 20
+S&P 500: 6,783
+DOW J: 47,910
+NASDAQ: 22,635
+VIX: 21
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.8%] US forces enter Iran by April 30?
-[99.7%] US x Iran ceasefire by April 7?
-[46.7%] Iran x Israel/US conflict ends by April 7?
-[52.5%] Will Paris Saint-Germain FC win on 2026-04-08?
-[99.9%] US forces enter Iran by December 31?
+[99.9%] US x Iran ceasefire by April 7?
+[43.1%] Iran x Israel/US conflict ends by April 7?
+[0.1%] Will Morten Messerschmidt be the next prime minister of Denmark after the 2026 parliamentary elections?
+[0.1%] LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Rounds 1-2
+[0.4%] Will Congo DR win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[2.5%] Will the Iranian regime fall by April 30?
-[0.2%] Will Congo DR win the 2026 FIFA World Cup?
-[65.0%] Iran x Israel/US conflict ends by April 15?
-[28.5%] Will the U.S. invade Iran before 2027?
-[1.1%] Will WTI Crude Oil (WTI) hit (HIGH) $200 in April?
+[32.5%] Will the next Prime Minister of Hungary be Viktor Orbán?
+[0.9%] Will Ecuador win the 2026 FIFA World Cup?
+[0.1%] LoL: Weibo Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Ascend
+[67.5%] Will the next Prime Minister of Hungary be Péter Magyar?
+[100.0%] LoL: KT Rolster vs Nongshim Red Force - Game 1 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[2.1%] Kharg Island no longer under Iranian control by April 15?
-[24.5%] Will Liverpool FC win on 2026-04-08?
-[39.5%] Strait of Hormuz traffic returns to normal by end of April?
-[1.6%] Trump out as President by April 30?
-[0.1%] Will Vicky Dávila win the 2026 Colombian presidential election?
+[13.5%] Will Scottie Scheffler win the 2026 Masters tournament?
+[61.3%] Iran x Israel/US conflict ends by April 15?
+[9.6%] Rolex Monte Carlo Masters: Tomas Machac vs Jannik Sinner
+[92.5%] Counter-Strike: Astralis vs EYEBALLERS (BO3) - PGL Bucharest Playoffs
+[100.0%] Rolex Monte Carlo Masters: Felix Auger-Aliassime vs Casper Ruud
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] Rolex Monte Carlo Masters: Jiri Lehecka vs Alejandro Tabilo
-[0.4%] Will Egypt win the 2026 FIFA World Cup?
-[0.1%] LoL: T1 vs Gen.G - Game 1 Winner
-[98.5%] Will there be no change in Fed interest rates after the April 2026 meeting?
-[4.5%] Rolex Monte Carlo Masters: Cristian Garin vs Alexander Zverev
+[7.3%] Will Atletico Madrid win the 2025–26 Champions League?
+[0.7%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[0.8%] Will Turkiye win the 2026 FIFA World Cup?
+[30.5%] Will the U.S. invade Iran before 2027?
+[65.5%] Hurricanes vs. Blackhawks
 
 ----------------------------------------
 
 TOP HEADLINES
-• US, Israel and Iran agree to a 2-week ceasefire though some attacks continue - AP News
-• 'Political disaster': Israeli leaders lash out over ceasefire, split on who’s to blame - The Jerusalem Post
-• Georgia, Wisconsin Elections Show Declining Appetite for Republican Candidates - nytimes.com
-• Abortion clinics are closing nationwide. Could urgent care help fill the gap? - NPR
-• Trump's Iran post causes talk of his impeachment, removal to erupt among Hill Democrats - Axios
-• Pope Leo condemns Trump’s latest threats against Iran - Politico
-• Gilgo Beach serial killings suspect heads to court for expected guilty plea - NBC News
-• Newlywed wife of US soldier freed by ICE after detention at military base - BBC
+• Trump Finds Himself With Fragile Iran Cease-Fire After the Scramble to Make a Deal - The New York Times
+• Israeli military says it has killed nephew of Hezbollah chief Naim Qassem - Reuters
+• Husband’s arrest in disappearance of American woman in the Bahamas puts his account under scrutiny - CNN
+• Shipping stalls as Tehran dictates terms in Strait of Hormuz - Financial Times
+• Trump Reportedly Considers Punishing Unsupportive NATO Countries By Removing U.S. Troops - Forbes
+• Trump warns strikes will resume if Iran doesn't agree to his peace terms - NPR
+• Hawaii doctor accused of trying to kill his wife convicted of attempted manslaughter - AP News
+• These Homesteaders Live Off the Land (and Prep for the End of the World) - The New York Times
 
 ----------------------------------------
 
