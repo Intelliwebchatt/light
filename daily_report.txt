@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-04-10
+INTELLIGENCE SNAPSHOT // 2026-04-11
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,825
-DOW J: 48,186
-NASDAQ: 22,822
+S&P 500: 6,817
+DOW J: 47,917
+NASDAQ: 22,903
 VIX: 19
 
 ----------------------------------------
@@ -12,49 +12,50 @@ VIX: 19
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] US x Iran ceasefire by April 7?
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
-[5.9%] Russia x Ukraine ceasefire by April 30, 2026?
-[0.1%] Rolex Monte Carlo Masters: Joao Fonseca vs Alexander Zverev
-[100.0%] LoL: Hanwha Life Esports vs BNK FEARX (BO3) - LCK Rounds 1-2
+[52.5%] Will Arsenal FC win on 2026-04-11?
+[1.2%] US x Iran meeting by April 10, 2026?
+[28.5%] Will the next Prime Minister of Hungary be Viktor Orbán?
+[0.1%] Military action against Iran ends on April 29, 2026?
+[0.9%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[2.8%] Will the Iranian regime fall by April 30?
-[55.7%] Iran x Israel/US conflict ends by April 7?
-[0.7%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
-[70.5%] Will the next Prime Minister of Hungary be Péter Magyar?
-[0.8%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[71.5%] Will the next Prime Minister of Hungary be Péter Magyar?
+[0.7%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
+[0.4%] Will Congo DR win the 2026 FIFA World Cup?
+[98.2%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[3.7%] Rolex Monte Carlo Masters: Alexander Zverev vs Jannik Sinner
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] LoL: LNG Esports vs EDward Gaming (BO3) - LPL Group Nirvana
-[28.5%] Will the next Prime Minister of Hungary be Viktor Orbán?
-[98.4%] Will there be no change in Fed interest rates after the April 2026 meeting?
-[0.1%] Will the next Prime Minister of Hungary be János Lázár?
-[0.4%] Will the Philadelphia 76ers win the 2026 NBA Finals?
+[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[70.5%] Will Rory McIlroy win the 2026 Masters tournament?
+[44.5%] Counter-Strike: Astralis vs FUT Esports (BO5) - PGL Bucharest Playoffs
+[82.5%] Indian Premier League: Punjab Kings vs Sunrisers Hyderabad
+[2.3%] Will the Iranian regime fall by April 30?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] LoL: DN SOOPers vs T1 (BO3) - LCK Rounds 1-2
-[0.4%] Will Liam Lawson be the 2026 F1 Drivers' Champion?
-[0.8%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
-[8.6%] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?
-[63.6%] Iran x Israel/US conflict ends by April 15?
+[3.5%] Russia x Ukraine ceasefire by April 30, 2026?
+[0.1%] LoL: Nongshim Red Force vs Kiwoom DRX (BO3) - LCK Rounds 1-2
+[50.5%] Will Real Sociedad de Fútbol win on 2026-04-11?
+[100.0%] LoL: Dplus KIA vs Gen.G - Game 1 Winner
+[100.0%] LoL: Dplus KIA vs Gen.G - Game 2 Winner
 
 ----------------------------------------
 
 TOP HEADLINES
-• Jimmy Kimmel Salutes Melania’s White House Surprise - The New York Times
-• Live Updates: Trump cautions Iran against charging tolls to go through Strait of Hormuz as fragile ceasefire holds - CBS News
-• With Iran Setting Limits, Strait of Hormuz Remains Thorny Politically - The New York Times
-• What is Israel’s war in Lebanon, and why could it shatter the Iran ceasefire? - CNN
-• Trump Lashes Out at MAGA Critics Amid Iran Split - WSJ
-• Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi - Al Jazeera
-• Judge Rejects Hegseth’s Second Attempt to Restrict Reporters at Pentagon - The New York Times
-• White House staff received email warning them not to place bets on prediction markets, officials say - CBS News
+• Live updates: Iran war news as Vance meets Pakistan’s prime minister ahead of US-Iran talks - CNN
+• California Rep. Eric Swalwell denies sexual assault allegations, won't drop out of governor's race following SF Chronicle report - ABC7 San Francisco
+• Growing List of Orban Loyalists Defecting Before Critical Election - The New York Times
+• Iran's new supreme leader has severe and disfiguring wounds, sources say - Reuters
+• Artemis II splashes down safely after historic voyage around the moon - The Washington Post
+• The Era of Free Seas Is Unraveling—and Now Everyone’s Going to Pay - WSJ
+• RFK Jr. has turned corporate America’s name to mud, POLITICO Poll finds - Politico
+• Trump was talking about affordability. Then came the war. - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Trending News
+• Google reveals the top trending searches of 2025
 
 ========================================
 END TRANSMISSION
