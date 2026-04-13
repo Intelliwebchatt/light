@@ -1,60 +1,59 @@
-INTELLIGENCE SNAPSHOT // 2026-04-12
+INTELLIGENCE SNAPSHOT // 2026-04-13
 ========================================
 
 MARKET CLOSE
 S&P 500: 6,817
 DOW J: 47,917
 NASDAQ: 22,903
-VIX: 19
+VIX: 21
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[84.5%] Will the next Prime Minister of Hungary be Péter Magyar?
-[15.5%] Will the next Prime Minister of Hungary be Viktor Orbán?
-[0.2%] Will Cape Verde win the 2026 FIFA World Cup?
-[47.5%] Rolex Monte Carlo Masters: Carlos Alcaraz vs Jannik Sinner
-[2.8%] Will the Iranian regime fall by April 30?
+[0.4%] Will the next Prime Minister of Hungary be Viktor Orbán?
+[99.1%] Will the next Prime Minister of Hungary be Péter Magyar?
+[100.0%] Military action against Iran ends by April 17, 2026?
+[0.1%] Will the next Prime Minister of Hungary be István Kapitány?
+[0.2%] Will Bitcoin reach $150,000 in April?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will New Zealand win the 2026 FIFA World Cup?
-[35.0%] Will Rory McIlroy win the 2026 Masters tournament?
-[0.2%] Will Congo DR win the 2026 FIFA World Cup?
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
-[47.2%] Iran x Israel/US conflict ends by April 7?
+[0.1%] LoL: Bilibili Gaming vs JD Gaming (BO3) - Esports World Cup China Qualifier Phase 2
+[0.1%] Will Uzbekistan win the 2026 FIFA World Cup?
+[0.5%] Will La U win the third most seats in the 2026 Colombian Chamber of Representatives election?
+[2.6%] US x Iran meeting by April 10, 2026?
+[0.5%] Will Sweden win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[6.7%] Will Portugal win the 2026 FIFA World Cup?
-[0.1%] Will the next Prime Minister of Hungary be István Kapitány?
-[0.4%] Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
-[0.9%] Will Uruguay win the 2026 FIFA World Cup?
-[18.5%] Nuggets vs. Spurs
+[16.2%] Will France win the 2026 FIFA World Cup?
+[1.6%] Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?
+[43.5%] Will Rafael López Aliaga win the 2026 Peruvian presidential election?
+[0.1%] Will New Zealand win the 2026 FIFA World Cup?
+[44.0%] Will Keiko Fujimori win the 2026 Peruvian presidential election?
 
 --- SCIENCE (Top 5 Active) ---
-[0.8%] Will Ecuador win the 2026 FIFA World Cup?
-[8.6%] Will Argentina win the 2026 FIFA World Cup?
-[17.1%] Will Spain win the 2026 FIFA World Cup?
-[2.9%] Kharg Island no longer under Iranian control by April 15?
-[1.8%] Will Belgium win the 2026 FIFA World Cup?
+[3.9%] Will Jorge Nieto win the 2026 Peruvian presidential election?
+[48.4%] Iran x Israel/US conflict ends by April 7?
+[0.8%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
+[0.1%] LoL: Bilibili Gaming vs JD Gaming - Game 2 Winner
+[1.4%] Will Ricardo Belmont win the 2026 Peruvian presidential election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iran War Live Updates: Top Iranian Negotiator Suggests Further Peace Talks Are Possible - The New York Times
-• Fraud accusations fly as Hungarians vote in contentious election - politico.eu
-• Eric Swalwell abuse claims investigated by Manhattan district attorney - BBC
-• Lebanese bury 13 officers killed by Israel as grief and outrage surge ahead of talks in the US - AP News
-• US officials claim Iran unable to find mines it laid in strait of Hormuz, report says - The Guardian
-• 6 days later, a mother, sailor and lover of the sea is still missing while her husband remains in police custody - CNN
-• Decades after a Texas mom's disappearance, a tip leads to the location of her secret grave - CBS News
-• America’s Fastest-Growing County Wonders if ‘Paradise’ Is Growing Too Fast - The New York Times
+• UK 'not supporting' U.S. Iran blockade as France's Macron confirms 'multinational' talks on the Strait of Hormuz - CNBC
+• Who is Peter Magyar, Hungary’s new leader who trounced Viktor Orban? - Al Jazeera
+• After Criticizing Pope, Trump Posts Image of Himself as a Jesus-Like Figure - The New York Times
+• Swalwell exits California governor's race after assault allegations as rivals seek his supporters - AP News
+• How a $75 billion windfall from Congress has insulated ICE - NPR
+• Inside Vance’s Iran negotiations: No deal, but ‘friendly’ talks - The Washington Post
+• ‘It’s all we have to run on’: GOP looks to tout tax cuts as war overtakes Hill agenda - Politico
+• Mayor Zohran Mamdani announces site of first New York City-run grocery store - CBS News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Trending News
 • Google reveals the top trending searches of 2025
 
 ========================================
