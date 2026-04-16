@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-04-15
+INTELLIGENCE SNAPSHOT // 2026-04-16
 ========================================
 
 MARKET CLOSE
-S&P 500: 6,967
-DOW J: 48,536
-NASDAQ: 23,639
+S&P 500: 7,023
+DOW J: 48,464
+NASDAQ: 24,016
 VIX: 18
 
 ----------------------------------------
@@ -13,43 +13,43 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [100.0%] Military action against Iran ends by April 17, 2026?
-[0.2%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
-[100.0%] LoL: KT Rolster vs Dplus KIA (BO3) - LCK Rounds 1-2
-[1.8%] Trump announces end of military operations against Iran by April 15th?
-[0.1%] Will Curaçao win the 2026 FIFA World Cup?
+[0.1%] Will "Donk" be said during the PGL Bucharest 2026 Grand Final?
+[0.4%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
+[0.5%] Will the Golden State Warriors win the 2026 NBA Finals?
+[15.5%] US x Iran permanent peace deal by April 22, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
-[12.5%] Will Rafael López Aliaga win the 2026 Peruvian presidential election?
-[0.5%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
-[4.8%] Israel x Hezbollah ceasefire by April 15, 2026?
-[98.9%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[0.2%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[99.1%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[0.4%] Will the Phoenix Suns win the 2026 NBA Finals?
+[16.0%] Will Rafael López Aliaga win the 2026 Peruvian presidential election?
+[100.0%] LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend
 
 --- TECH & AI (Top 5 Active) ---
-[20.6%] Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?
-[23.5%] US x Iran permanent peace deal by April 22, 2026?
-[63.5%] Will Keiko Fujimori win the 2026 Peruvian presidential election?
-[100.0%] LoL: KT Rolster vs Dplus KIA - Game 2 Winner
-[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
+[16.5%] Strait of Hormuz traffic returns to normal by end of April?
+[0.1%] BMW Open: Daniel Altmaier vs Alex Molcan
+[50.6%] Israel x Hezbollah ceasefire by April 30, 2026?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[33.5%] Will Bayern Munich win the 2025–26 Champions League?
 
 --- SCIENCE (Top 5 Active) ---
 [100.0%] Will Iran strike Iraq by April 30, 2026?
-[100.0%] LoL: Weibo Gaming vs Invictus Gaming - Game 2 Winner
-[2.2%] Will the Iranian regime fall by April 30?
-[98.9%] Will the next Prime Minister of Hungary be Péter Magyar?
-[0.7%] Will Mike Pence win the 2028 Republican presidential nomination?
+[0.1%] LoL: DN SOOPers vs Hanwha Life Esports - Game 2 Winner
+[42.5%] Washington Nationals vs. Pittsburgh Pirates
+[100.0%] LoL: Top Esports vs Bilibili Gaming - Game 1 Winner
+[19.1%] Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Sanctioned China tanker turns back to Strait of Hormuz, day after Gulf exit - Reuters
-• Iran war: What is happening on day 47 of the US-Iran conflict? - Al Jazeera
-• Governor Newsom issues proclamation setting special election for California Congressional District 14 - California State Portal | CA.gov
-• Late Night Laughs at Explanations of Trump’s Jesus ‘Joke’ - The New York Times
-• Mediators move closer to extending US-Iran ceasefire, officials tell AP - AP News
-• Justice Department moves to toss conspiracy convictions for Jan. 6 rioters - NPR
-• Hampshire College Will Close Amid Student Enrollment Declines - The New York Times
-• Woman killed by police at Omaha Walmart after allegedly kidnapping, slashing child - CBS News
+• Pope criticises 'tyrants' who spend billions on wars, days after Trump spat - BBC
+• 3 things to know about naval blockades as U.S. begins patrols in the Strait of Hormuz - NPR
+• New Jersey special House election is another test of Trump’s popularity ahead of midterms - Politico
+• Trump wants a Tax Day victory lap in Las Vegas. The city’s economy isn’t cooperating. - Politico
+• Ceasefire with Israel expected ‘soon’, say Lebanese officials - Financial Times
+• Done and Dusted? Trump’s Portrayal of the War in Iran Collides With Reality. - The New York Times
+• Floodwaters inundate Wisconsin streets, trapping drivers, as Midwest rebuilds after powerful storms - NBC News
+• Questions emerge on Eric Swalwell's his physical location, financial activities amid sexual assault allegations - ABC7 San Francisco
 
 ----------------------------------------
 
