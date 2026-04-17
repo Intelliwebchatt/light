@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-04-16
+INTELLIGENCE SNAPSHOT // 2026-04-17
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,023
-DOW J: 48,464
-NASDAQ: 24,016
+S&P 500: 7,041
+DOW J: 48,579
+NASDAQ: 24,103
 VIX: 18
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 18
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Military action against Iran ends by April 17, 2026?
-[0.1%] Will "Donk" be said during the PGL Bucharest 2026 Grand Final?
+[99.9%] Israel x Hezbollah ceasefire by April 18, 2026?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[100.0%] LoL: Dplus KIA vs T1 (BO3) - LCK Rounds 1-2
 [0.4%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
-[0.5%] Will the Golden State Warriors win the 2026 NBA Finals?
-[15.5%] US x Iran permanent peace deal by April 22, 2026?
+[38.5%] US x Iran permanent peace deal by April 22, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
-[99.1%] Will there be no change in Fed interest rates after the April 2026 meeting?
-[0.4%] Will the Phoenix Suns win the 2026 NBA Finals?
-[16.0%] Will Rafael López Aliaga win the 2026 Peruvian presidential election?
-[100.0%] LoL: Top Esports vs Bilibili Gaming (BO3) - LPL Group Ascend
+[53.0%] Strait of Hormuz traffic returns to normal by end of April?
+[0.5%] Will the Charlotte Hornets win the 2026 NBA Finals?
+[1.1%] Will USA win the 2026 FIFA World Cup?
+[100.0%] LoL: Dplus KIA vs T1 - Game 1 Winner
+[11.9%] Will Atletico Madrid win the 2025–26 Champions League?
 
 --- TECH & AI (Top 5 Active) ---
-[16.5%] Strait of Hormuz traffic returns to normal by end of April?
-[0.1%] BMW Open: Daniel Altmaier vs Alex Molcan
-[50.6%] Israel x Hezbollah ceasefire by April 30, 2026?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
-[33.5%] Will Bayern Munich win the 2025–26 Champions League?
+[99.2%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[22.0%] US obtains Iranian enriched uranium by May 31?
+[59.5%] Hornets vs. Magic
+[15.2%] Will the San Antonio Spurs win the 2026 NBA Finals?
+[0.7%] Will LeBron James win the 2028 US Presidential Election?
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] Will Iran strike Iraq by April 30, 2026?
-[0.1%] LoL: DN SOOPers vs Hanwha Life Esports - Game 2 Winner
-[42.5%] Washington Nationals vs. Pittsburgh Pirates
-[100.0%] LoL: Top Esports vs Bilibili Gaming - Game 1 Winner
-[19.1%] Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?
+[1.1%] Will Mexico win the 2026 FIFA World Cup?
+[0.7%] Will Senegal win the 2026 FIFA World Cup?
+[88.5%] BMW Open: Alexander Zverev vs Francisco Cerundolo
+[1.2%] Will Lorenzo Musetti win the 2026 Men's French Open?
+[10.3%] Will Marco Rubio win the 2028 US Presidential Election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Pope criticises 'tyrants' who spend billions on wars, days after Trump spat - BBC
-• 3 things to know about naval blockades as U.S. begins patrols in the Strait of Hormuz - NPR
-• New Jersey special House election is another test of Trump’s popularity ahead of midterms - Politico
-• Trump wants a Tax Day victory lap in Las Vegas. The city’s economy isn’t cooperating. - Politico
-• Ceasefire with Israel expected ‘soon’, say Lebanese officials - Financial Times
-• Done and Dusted? Trump’s Portrayal of the War in Iran Collides With Reality. - The New York Times
-• Floodwaters inundate Wisconsin streets, trapping drivers, as Midwest rebuilds after powerful storms - NBC News
-• Questions emerge on Eric Swalwell's his physical location, financial activities amid sexual assault allegations - ABC7 San Francisco
+• Trump announces 10-day ceasefire between Israel and Lebanon - Axios
+• Democrat Analilia Mejia wins special House election - New Jersey Monitor
+• How the first American pope is reclaiming Christian values from the Trump administration - CNN
+• House Votes to Extend Expiring Law on Warrantless Surveillance for 10 Days - The New York Times
+• ICE acting director Todd Lyons will resign at end of May, DHS says - NPR
+• Iran Update Special Report, April 16, 2026 - Institute for the Study of War
+• Remains found in car submerged in Oregon river identified as family who mysteriously vanished in 1958 - CBS News
+• French widow, 86, flies home after ICE detention ordeal - The Guardian
 
 ----------------------------------------
 
