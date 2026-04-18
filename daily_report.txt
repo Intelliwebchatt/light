@@ -1,61 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2026-04-17
+INTELLIGENCE SNAPSHOT // 2026-04-18
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,041
-DOW J: 48,579
-NASDAQ: 24,103
-VIX: 18
+S&P 500: 7,126
+DOW J: 49,447
+NASDAQ: 24,468
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.9%] Israel x Hezbollah ceasefire by April 18, 2026?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
-[100.0%] LoL: Dplus KIA vs T1 (BO3) - LCK Rounds 1-2
-[0.4%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
-[38.5%] US x Iran permanent peace deal by April 22, 2026?
+[100.0%] Israel x Hezbollah ceasefire by April 18, 2026?
+[0.1%] Warriors vs. Suns
+[30.5%] Strait of Hormuz traffic returns to normal by end of April?
+[2.2%] Will Jon Stewart win the 2028 Democratic presidential nomination?
+[25.5%] US x Iran permanent peace deal by April 22, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[53.0%] Strait of Hormuz traffic returns to normal by end of April?
-[0.5%] Will the Charlotte Hornets win the 2026 NBA Finals?
-[1.1%] Will USA win the 2026 FIFA World Cup?
-[100.0%] LoL: Dplus KIA vs T1 - Game 1 Winner
-[11.9%] Will Atletico Madrid win the 2025–26 Champions League?
+[0.9%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+[0.8%] Will Steve Bannon win the 2028 Republican presidential nomination?
+[44.5%] US x Iran permanent peace deal by April 30, 2026?
+[0.8%] Will the Iranian regime fall by April 30?
+[27.5%] US obtains Iranian enriched uranium by May 31?
 
 --- TECH & AI (Top 5 Active) ---
-[99.2%] Will there be no change in Fed interest rates after the April 2026 meeting?
-[22.0%] US obtains Iranian enriched uranium by May 31?
-[59.5%] Hornets vs. Magic
-[15.2%] Will the San Antonio Spurs win the 2026 NBA Finals?
-[0.7%] Will LeBron James win the 2028 US Presidential Election?
+[99.5%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[0.1%] Dota 2: Team Liquid vs GamerLegion - Game 2 Winner
+[100.0%] LoL: Hanwha Life Esports vs Gen.G - Game 2 Winner
+[0.1%] LoL: Invictus Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend
+[0.2%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[1.1%] Will Mexico win the 2026 FIFA World Cup?
-[0.7%] Will Senegal win the 2026 FIFA World Cup?
-[88.5%] BMW Open: Alexander Zverev vs Francisco Cerundolo
-[1.2%] Will Lorenzo Musetti win the 2026 Men's French Open?
-[10.3%] Will Marco Rubio win the 2028 US Presidential Election?
+[51.5%] Indian Premier League: Royal Challengers Bangalore vs Delhi Capitals
+[0.2%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[27.5%] Timberwolves vs. Nuggets
+[74.5%] Dota 2: Team Liquid vs GamerLegion (BO3) - PGL Wallachia Group Stage
+[33.5%] Barcelona Open: Andrey Rublev vs Hamad Medjedovic
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump announces 10-day ceasefire between Israel and Lebanon - Axios
-• Democrat Analilia Mejia wins special House election - New Jersey Monitor
-• How the first American pope is reclaiming Christian values from the Trump administration - CNN
-• House Votes to Extend Expiring Law on Warrantless Surveillance for 10 Days - The New York Times
-• ICE acting director Todd Lyons will resign at end of May, DHS says - NPR
-• Iran Update Special Report, April 16, 2026 - Institute for the Study of War
-• Remains found in car submerged in Oregon river identified as family who mysteriously vanished in 1958 - CBS News
-• French widow, 86, flies home after ICE detention ordeal - The Guardian
+• Live Updates: Iran reimposes restrictions on Strait of Hormuz 1 day after Trump said it was "completely open" - CBS News
+• How Trump Helped Pope Leo Find His Voice - The New York Times
+• Live updates: Life-threatening storms target the Heartland, intense tornadoes and huge hail possible - FOX Weather
+• What smart people are saying about NYC's proposed annual pied-à-terre tax on homes worth $5 million - Business Insider
+• Trump shocked Netanyahu with post declaring Lebanon strikes "prohibited" - Axios
+• Republicans rush to close the gap in the final stretch of Virginia's redistricting election - NBC News
+• Trump ballroom construction allowed for now, US appeals court says - Reuters
+• ‘Big sigh of relief’: Republicans finally get some good news - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
 ========================================
