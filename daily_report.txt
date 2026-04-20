@@ -1,60 +1,59 @@
-INTELLIGENCE SNAPSHOT // 2026-04-19
+INTELLIGENCE SNAPSHOT // 2026-04-20
 ========================================
 
 MARKET CLOSE
 S&P 500: 7,126
 DOW J: 49,447
 NASDAQ: 24,468
-VIX: 17
+VIX: 19
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.9%] Israel x Hezbollah ceasefire by April 18, 2026?
-[24.5%] US x Iran permanent peace deal by April 22, 2026?
-[11.5%] 76ers vs. Celtics
-[28.5%] Strait of Hormuz traffic returns to normal by end of April?
-[1.3%] Will the Iranian regime fall by April 30?
+[100.0%] Israel x Hezbollah ceasefire by April 18, 2026?
+[0.6%] Will PH win the third most seats in the 2026 Colombian Chamber of Representatives election?
+[17.5%] US x Iran permanent peace deal by April 22, 2026?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[30.5%] Hawks vs. Knicks
 
 --- US POLITICS (Top 5 Active) ---
-[62.5%] Indian Premier League: Kolkata Knight Riders vs Rajasthan Royals
-[0.1%] LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Rounds 1-2
-[16.0%] Will France win the 2026 FIFA World Cup?
-[21.5%] Magic vs. Pistons
-[55.5%] Will Aston Villa FC win on 2026-04-19?
+[28.5%] Strait of Hormuz traffic returns to normal by end of April?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[89.8%] Iran x Israel/US conflict ends by April 7?
+[1.8%] Will the Tampa Bay Buccaneers win the 2027 NFL league championship?
+[38.5%] Will Bitcoin reach $80,000 in April?
 
 --- TECH & AI (Top 5 Active) ---
-[4.5%] Kharg Island no longer under Iranian control by April 30?
-[0.1%] Will the Phoenix Suns win the 2026 NBA Finals?
-[31.5%] Will the U.S. invade Iran before 2027?
-[42.5%] Will Liverpool FC win on 2026-04-19?
-[0.2%] Will Iran win the 2026 FIFA World Cup?
+[1.1%] Will USA win the 2026 FIFA World Cup?
+[5.6%] Kharg Island no longer under Iranian control by April 30?
+[100.0%] LoL: Bilibili Gaming vs Invictus Gaming (BO3) - Esports World Cup China Qualifier Phase 2
+[1.1%] Will Glenn Youngkin win the 2028 US Presidential Election?
+[99.4%] Will there be no change in Fed interest rates after the April 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[51.5%] Will Manchester City FC win on 2026-04-19?
-[2.2%] Will Jon Stewart win the 2028 Democratic presidential nomination?
-[100.0%] LoL: Top Esports vs Invictus Gaming - Game 2 Winner
-[16.0%] Will Spain win the 2026 FIFA World Cup?
-[8.5%] Will the Iranian regime fall by June 30?
+[2.0%] Will the Los Angeles Lakers win the 2026 NBA Finals?
+[1.1%] Will the Iranian regime fall by April 30?
+[0.2%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
+[0.1%] Dota 2: BetBoom Team vs Team Falcons - Game 1 Winner
+[0.4%] Will the Toronto Raptors win the 2026 NBA Finals?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iran doubles down on closing Strait of Hormuz as ceasefire nears expiration - Politico
-• Pope Leo’s target is bigger than Trump. He’s rebuking the ‘MAGA Jesus’ - CNN
-• Allies fear a rushed US–Iran framework deal could backfire, leaving technical deadlock - Reuters
-• Iranian official says excessive demands made by U.S. are barrier to in-person talks - PBS
-• SCOTUS Hit by Bombshell Leak of Secret ‘Shadow Docket’ Memos - The Daily Beast
-• Iran: Attacks on ships reported as Strait of Hormuz recloses - DW.com
-• Activists Tear-Gassed at Failed Raid of Beagle Research Facility - The New York Times
-• Battleground Republicans are starting to worry about the Senate - Politico
+• US captures Iranian ship Touska amid mediation efforts: All we know - Al Jazeera
+• 8 children killed in mass shooting in Shreveport, Louisiana, as father targets his family, police say - CBS News
+• Live Updates: Risk of Iran war reigniting as Trump renews threats, Tehran says no plan to attend peace talks - CBS News
+• Japan eases back tsunami warning after magnitude 7.7 quake, no immediate reports of casualties, damage - Reuters
+• Trump Administration to Begin Refunding $166 Billion in Tariffs - The New York Times
+• The pope's English fuels a Trump feud - Axios
+• Republicans stare down a growing, neverending FISA crisis - Politico
+• Canada's prime minister says economic connection to the U.S. has shifted from a strength to a weakness - PBS
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Top trending searches of 2025 revealed by Google. See what made the list.
 • Google reveals the top trending searches of 2025
 
 ========================================
