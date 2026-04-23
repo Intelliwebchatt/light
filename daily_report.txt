@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-04-22
+INTELLIGENCE SNAPSHOT // 2026-04-23
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,064
-DOW J: 49,149
-NASDAQ: 24,260
+S&P 500: 7,138
+DOW J: 49,490
+NASDAQ: 24,658
 VIX: 19
 
 ----------------------------------------
@@ -13,49 +13,48 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[0.5%] US x Iran permanent peace deal by April 22, 2026?
-[99.9%] Iran x Israel/US conflict ends by April 7?
+[8.5%] US x Iran ceasefire extended by April 22, 2026?
+[100.0%] Iran x Israel/US conflict ends by April 7?
+[0.2%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
 [100.0%] Iran x Israel/US conflict ends by May 15?
-[100.0%] Iran x Israel/US conflict ends by April 15?
 
 --- US POLITICS (Top 5 Active) ---
-[8.5%] Strait of Hormuz traffic returns to normal by end of April?
-[29.5%] Will the U.S. invade Iran before 2027?
-[16.5%] US x Iran permanent peace deal by April 30, 2026?
-[1.2%] Will USA win the 2026 FIFA World Cup?
-[0.7%] Will the Iranian regime fall by April 30?
+[2.8%] Strait of Hormuz traffic returns to normal by end of April?
+[99.5%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[10.5%] US x Iran permanent peace deal by April 30, 2026?
+[100.0%] U.S. forces seize another oil tanker by April 30?
 
 --- TECH & AI (Top 5 Active) ---
-[99.4%] Will there be no change in Fed interest rates after the April 2026 meeting?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
-[100.0%] Iran x Israel/US conflict ends by June 30?
-[56.5%] US x Iran ceasefire extended by April 22, 2026?
-[100.0%] LoL: Hanwha Life Esports vs Nongshim Red Force (BO3) - LCK Rounds 1-2
+[100.0%] Iran x Israel/US conflict ends by April 15?
+[0.5%] Will the Iranian regime fall by April 30?
+[0.8%] Will Ecuador win the 2026 FIFA World Cup?
+[24.0%] Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?
+[100.0%] Dota 2: Aurora vs Heroic - Game 1 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[0.5%] US x Iran diplomatic meeting by April 22, 2026?
-[69.0%] Dota 2: South America Rejects vs MOUZ (BO3) - PGL Wallachia Group Stage
-[0.1%] Will Elon Musk post 840-879 tweets in April 2026?
-[0.1%] LoL: Hanwha Life Esports vs Nongshim Red Force - Game 2 Winner
-[12.0%] Will the Boston Celtics win the 2026 NBA Finals?
+[0.1%] Will Iran win the 2026 FIFA World Cup?
+[1.2%] Will USA win the 2026 FIFA World Cup?
+[100.0%] LoL: Ninjas in Pyjamas vs Bilibili Gaming - Game 1 Winner
+[38.5%] US x Iran permanent peace deal by May 31, 2026?
+[0.2%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• With Virginia vote, Democrats gain edge over Trump's national GOP redistricting push - NPR
-• Live updates: Iran war news, Iran says it has seized two ships crossing Strait of Hormuz - CNN
-• Trump administration sues Southern Poverty Law Center on fraud charges - Al Jazeera
-• RFK Jr. Brazenly Says Measles Outbreaks Not His Fault: ‘I’ve Never Been Anti-Vaccine’ - HuffPost
-• Mexico to beef up security at tourist sites after shooting at pyramids in lead up to World Cup - AP News
-• Trump taps longtime insider to fix Labor Department headache - Politico
-• Man Is Charged With Providing Gun to Louisiana Shooter - The New York Times
-• Texas can require public schools to display Ten Commandments in classrooms, court rules - AP News
+• Senate GOP is kickstarting budget reconciliation to fund ICE. Here's how that works - NPR
+• Iran fires on 2 ships in Strait of Hormuz after Trump extends ceasefire - Fox News
+• Who is John Phelan, the US Navy Secretary fired by Pete Hegseth? - Al Jazeera
+• 5 takeaways from first major California governor’s debate after Swalwell exit - The Hill
+• Exclusive: US intercepts three Iranian oil tankers in Asian waters, sources say - Reuters
+• Virginia judge blocks redistricting referendum from being certified - WJLA
+• Police hunt teen suspect in connection with University of Iowa shooting - NBC News
+• Live updates: Trump says ‘no time frame’ on Iran war as blockade standoff stalls talks - CNN
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Google reveals the top trending searches of 2025
-• Trending diets for 2026
 
 ========================================
 END TRANSMISSION
