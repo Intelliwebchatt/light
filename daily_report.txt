@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-04-23
+INTELLIGENCE SNAPSHOT // 2026-04-24
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,138
-DOW J: 49,490
-NASDAQ: 24,658
+S&P 500: 7,108
+DOW J: 49,310
+NASDAQ: 24,439
 VIX: 19
 
 ----------------------------------------
@@ -12,49 +12,57 @@ VIX: 19
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[8.5%] US x Iran ceasefire extended by April 22, 2026?
 [100.0%] Iran x Israel/US conflict ends by April 7?
-[0.2%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
-[100.0%] Iran x Israel/US conflict ends by May 15?
+[1.4%] Will Bitcoin hit $150k by June 30, 2026?
+[0.1%] US x Iran ceasefire extended by April 22, 2026?
+[0.2%] Will the Indian National Congress (INC) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
+[0.2%] Will Australia win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[2.8%] Strait of Hormuz traffic returns to normal by end of April?
-[99.5%] Will there be no change in Fed interest rates after the April 2026 meeting?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
-[10.5%] US x Iran permanent peace deal by April 30, 2026?
+[100.0%] Iran x Israel/US conflict ends by May 15?
+[9.5%] US x Iran permanent peace deal by April 30, 2026?
 [100.0%] U.S. forces seize another oil tanker by April 30?
+[0.7%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
+[0.8%] Will Jared Polis win the 2028 Democratic presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Iran x Israel/US conflict ends by April 15?
-[0.5%] Will the Iranian regime fall by April 30?
-[0.8%] Will Ecuador win the 2026 FIFA World Cup?
-[24.0%] Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?
-[100.0%] Dota 2: Aurora vs Heroic - Game 1 Winner
+[56.5%] Spurs vs. Trail Blazers
+[1.2%] Will USA win the 2026 FIFA World Cup?
+[4.0%] Strait of Hormuz traffic returns to normal by end of April?
+[0.1%] Will Iraq win the 2026 FIFA World Cup?
+[3.5%] Will the Iranian regime fall by May 31?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Iran win the 2026 FIFA World Cup?
-[1.2%] Will USA win the 2026 FIFA World Cup?
-[100.0%] LoL: Ninjas in Pyjamas vs Bilibili Gaming - Game 1 Winner
-[38.5%] US x Iran permanent peace deal by May 31, 2026?
-[0.2%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[0.4%] US x Iran permanent peace deal by April 24, 2026?
+[100.0%] Iran x Israel/US conflict ends by April 15?
+[0.2%] Will Czechia win the 2026 FIFA World Cup?
+[33.5%] US x Iran permanent peace deal by May 31, 2026?
+[0.5%] Will the Iranian regime fall by April 30?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Senate GOP is kickstarting budget reconciliation to fund ICE. Here's how that works - NPR
-• Iran fires on 2 ships in Strait of Hormuz after Trump extends ceasefire - Fox News
-• Who is John Phelan, the US Navy Secretary fired by Pete Hegseth? - Al Jazeera
-• 5 takeaways from first major California governor’s debate after Swalwell exit - The Hill
-• Exclusive: US intercepts three Iranian oil tankers in Asian waters, sources say - Reuters
-• Virginia judge blocks redistricting referendum from being certified - WJLA
-• Police hunt teen suspect in connection with University of Iowa shooting - NBC News
-• Live updates: Trump says ‘no time frame’ on Iran war as blockade standoff stalls talks - CNN
+• Israel-Lebanon ceasefire extended by three weeks, Trump says - Axios
+• US soldier charged with using classified intel to win $400K Polymarket bet on Maduro raid - AP News
+• Trump’s Dreams for a Battleship Led to His Navy Secretary’s Ouster - The New York Times
+• After 2 failed votes, Mike Johnson unveils new plan to extend key U.S. spy powers - NPR
+• 'Permanently Wiped': Trump Has A Full-Blown Freakout In 1:13 a.m. Social Media Rant - HuffPost
+• Iran War Has Drained U.S. Supplies of Critical, Costly Weapons - The New York Times
+• Tornado roars through Enid, Oklahoma, destroys homes, forces Air Force base to close - CBS News
+• India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
 
 ----------------------------------------
 
 TRENDING TOPICS
+• YouTube is killing its Trending page a decade after its debut
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• Find Out What's Trending Online Right Now
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube removing the Trending page in favor of Charts, recommendations
 • Google reveals the top trending searches of 2025
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• Gemini was Google’s top trending search term in 2025
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 
 ========================================
 END TRANSMISSION
