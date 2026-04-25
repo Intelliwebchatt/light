@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-04-24
+INTELLIGENCE SNAPSHOT // 2026-04-25
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,108
-DOW J: 49,310
-NASDAQ: 24,439
+S&P 500: 7,165
+DOW J: 49,231
+NASDAQ: 24,837
 VIX: 19
 
 ----------------------------------------
@@ -12,57 +12,48 @@ VIX: 19
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Iran x Israel/US conflict ends by April 7?
-[1.4%] Will Bitcoin hit $150k by June 30, 2026?
 [0.1%] US x Iran ceasefire extended by April 22, 2026?
-[0.2%] Will the Indian National Congress (INC) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
-[0.2%] Will Australia win the 2026 FIFA World Cup?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[1.4%] Will Bitcoin hit $150k by June 30, 2026?
+[99.6%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[0.1%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] Iran x Israel/US conflict ends by May 15?
-[9.5%] US x Iran permanent peace deal by April 30, 2026?
-[100.0%] U.S. forces seize another oil tanker by April 30?
-[0.7%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
-[0.8%] Will Jared Polis win the 2028 Democratic presidential nomination?
+[0.1%] Will the Indian National Congress (INC) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
+[0.1%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
+[0.1%] Will the price of Bitcoin be above $78,000 on April 24?
+[6.5%] US x Iran permanent peace deal by April 30, 2026?
+[1.6%] Strait of Hormuz traffic returns to normal by end of April?
 
 --- TECH & AI (Top 5 Active) ---
-[56.5%] Spurs vs. Trail Blazers
-[1.2%] Will USA win the 2026 FIFA World Cup?
-[4.0%] Strait of Hormuz traffic returns to normal by end of April?
-[0.1%] Will Iraq win the 2026 FIFA World Cup?
-[3.5%] Will the Iranian regime fall by May 31?
+[44.5%] Indian Premier League: Delhi Capitals vs Punjab Kings
+[100.0%] Dota 2: Team Liquid vs South America Rejects - Game 2 Winner
+[100.0%] LoL: Weibo Gaming vs Anyone's Legend - Game 2 Winner
+[3.0%] Will Bitcoin dip to $65,000 in April?
+[67.5%] US x Iran diplomatic meeting by April 30, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.4%] US x Iran permanent peace deal by April 24, 2026?
-[100.0%] Iran x Israel/US conflict ends by April 15?
-[0.2%] Will Czechia win the 2026 FIFA World Cup?
-[33.5%] US x Iran permanent peace deal by May 31, 2026?
-[0.5%] Will the Iranian regime fall by April 30?
+[1.2%] Will USA win the 2026 FIFA World Cup?
+[98.2%] Will Kevin Warsh be confirmed as Fed Chair?
+[0.1%] Will Rick Reider be confirmed as Fed Chair?
+[4.0%] Will the Los Angeles Lakers win the 2026 NBA Finals?
+[24.5%] US x Iran diplomatic meeting by April 26, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Israel-Lebanon ceasefire extended by three weeks, Trump says - Axios
-• US soldier charged with using classified intel to win $400K Polymarket bet on Maduro raid - AP News
-• Trump’s Dreams for a Battleship Led to His Navy Secretary’s Ouster - The New York Times
-• After 2 failed votes, Mike Johnson unveils new plan to extend key U.S. spy powers - NPR
-• 'Permanently Wiped': Trump Has A Full-Blown Freakout In 1:13 a.m. Social Media Rant - HuffPost
-• Iran War Has Drained U.S. Supplies of Critical, Costly Weapons - The New York Times
-• Tornado roars through Enid, Oklahoma, destroys homes, forces Air Force base to close - CBS News
-• India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
+• Live Updates: Witkoff, Kushner set to head to Pakistan for Iran peace talks today - CBS News
+• 31 sloths die in Florida before opening of attraction - BBC
+• King Charles to attend 9/11 event with New York Mayor Mamdani - Reuters
+• One of Two Missing USF Doctoral Students Is Found Dead, Officials Say - The New York Times
+• Justice Department to allow firing squads for executions in move to ramp up capital punishment - NPR
+• Some Planned Parenthood clinics are using Botox to smooth over federal cuts - NPR
+• Camp Mystic May Not Receive License to Reopen After Fatal Flood in Texas - The New York Times
+• “We Knew They Were Paying Informants”: SPLC Donors Reject Trump DOJ Fraud Claims - The Intercept
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• Find Out What's Trending Online Right Now
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• YouTube removing the Trending page in favor of Charts, recommendations
-• Google reveals the top trending searches of 2025
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• Gemini was Google’s top trending search term in 2025
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 
 ========================================
 END TRANSMISSION
