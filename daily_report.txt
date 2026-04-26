@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-04-25
+INTELLIGENCE SNAPSHOT // 2026-04-26
 ========================================
 
 MARKET CLOSE
@@ -13,43 +13,43 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [0.1%] US x Iran ceasefire extended by April 22, 2026?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[99.6%] Will there be no change in Fed interest rates after the April 2026 meeting?
-[0.1%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[99.8%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[0.1%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
+[2.5%] US x Iran permanent peace deal by April 30, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will the Indian National Congress (INC) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
-[0.1%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
-[0.1%] Will the price of Bitcoin be above $78,000 on April 24?
-[6.5%] US x Iran permanent peace deal by April 30, 2026?
-[1.6%] Strait of Hormuz traffic returns to normal by end of April?
+[1.2%] Will USA win the 2026 FIFA World Cup?
+[0.1%] Trump out as President by April 30?
+[0.7%] Strait of Hormuz traffic returns to normal by end of April?
+[1.9%] Will the Minnesota Timberwolves win the 2026 NBA Finals?
+[14.5%] US x Iran diplomatic meeting by April 30, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[44.5%] Indian Premier League: Delhi Capitals vs Punjab Kings
-[100.0%] Dota 2: Team Liquid vs South America Rejects - Game 2 Winner
-[100.0%] LoL: Weibo Gaming vs Anyone's Legend - Game 2 Winner
-[3.0%] Will Bitcoin dip to $65,000 in April?
-[67.5%] US x Iran diplomatic meeting by April 30, 2026?
+[100.0%] Dota 2: Aurora vs Team Falcons - Game 2 Winner
+[0.1%] Will the price of Bitcoin be above $78,000 on April 24?
+[100.0%] Dota 2: Aurora vs Team Falcons (BO3) - PGL Wallachia Playoffs
+[0.1%] LoL: Nongshim Red Force vs Gen.G - Game 1 Winner
+[4.2%] Will the Iranian regime fall by May 31?
 
 --- SCIENCE (Top 5 Active) ---
-[1.2%] Will USA win the 2026 FIFA World Cup?
-[98.2%] Will Kevin Warsh be confirmed as Fed Chair?
-[0.1%] Will Rick Reider be confirmed as Fed Chair?
-[4.0%] Will the Los Angeles Lakers win the 2026 NBA Finals?
-[24.5%] US x Iran diplomatic meeting by April 26, 2026?
+[0.1%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[61.5%] Dota 2: BetBoom Team vs Aurora - Game 1 Winner
+[0.1%] LoL: Weibo Gaming vs Bilibili Gaming - Game 1 Winner
+[0.1%] LoL: Nongshim Red Force vs Gen.G - Game 2 Winner
+[0.4%] US x Iran diplomatic meeting by April 26, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live Updates: Witkoff, Kushner set to head to Pakistan for Iran peace talks today - CBS News
-• 31 sloths die in Florida before opening of attraction - BBC
-• King Charles to attend 9/11 event with New York Mayor Mamdani - Reuters
-• One of Two Missing USF Doctoral Students Is Found Dead, Officials Say - The New York Times
-• Justice Department to allow firing squads for executions in move to ramp up capital punishment - NPR
-• Some Planned Parenthood clinics are using Botox to smooth over federal cuts - NPR
-• Camp Mystic May Not Receive License to Reopen After Fatal Flood in Texas - The New York Times
-• “We Knew They Were Paying Informants”: SPLC Donors Reject Trump DOJ Fraud Claims - The Intercept
+• Trump unhurt and suspect in custody after shots fired at White House correspondents' dinner - BBC
+• Surviving in a poisoned land: Chernobyl's wildlife is different, but not in the ways you might think - BBC
+• Trump cancels envoys' trip to Pakistan for Iran talks - Axios
+• King will have 'appropriate security' for US trip, minister says - BBC
+• 2 University of South Florida doctoral students were promising young researchers. Now a roommate is charged in their killing - CNN
+• Mali’s Defence Minister Sadio Camara killed amid coordinated attacks - Al Jazeera
+• 1 police officer killed, another wounded, in shooting at Chicago hospital, officials say - ABC7 Los Angeles
+• The Poverty of the DOJ Indictment of the Southern Poverty Law Center - Just Security
 
 ----------------------------------------
 
