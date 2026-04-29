@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-04-27
+INTELLIGENCE SNAPSHOT // 2026-04-29
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,165
-DOW J: 49,231
-NASDAQ: 24,837
-VIX: 19
+S&P 500: 7,139
+DOW J: 49,142
+NASDAQ: 24,664
+VIX: 18
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] US x Iran ceasefire extended by April 22, 2026?
-[0.1%] Lakers vs. Rockets
-[99.9%] Will there be no change in Fed interest rates after the April 2026 meeting?
+[0.2%] US x Iran ceasefire extended by April 22, 2026?
+[0.1%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
+[99.8%] Will there be no change in Fed interest rates after the April 2026 meeting?
 [0.1%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
-[0.1%] Will the Indian National Congress (INC) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
+[1.4%] Will Bitcoin hit $150k by June 30, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[0.1%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
-[0.2%] Will the Iranian regime fall by April 30?
-[1.8%] US x Iran permanent peace deal by April 30, 2026?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?
+[93.0%] Clavicular pregnancy in 2026?
+[0.2%] Will Iran win the 2026 FIFA World Cup?
+[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
+[0.2%] Will Qatar win the 2026 FIFA World Cup?
+[0.4%] Will Tunisia win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[94.5%] Madrid Open: Aryna Sabalenka vs Naomi Osaka
-[1.2%] Will USA win the 2026 FIFA World Cup?
-[0.4%] Strait of Hormuz traffic returns to normal by end of April?
-[49.5%] Will Manchester United FC win on 2026-04-27?
-[0.1%] Will the Portland Trail Blazers win the 2026 NBA Finals?
+[0.2%] Will Panama win the 2026 FIFA World Cup?
+[0.4%] Will Algeria win the 2026 FIFA World Cup?
+[0.2%] Will Iraq win the 2026 FIFA World Cup?
+[0.2%] Will Cape Verde win the 2026 FIFA World Cup?
+[16.0%] Will France win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[39.5%] Israel x Hezbollah Ceasefire extended by April 26, 2026?
-[0.1%] Will Iraq win the 2026 FIFA World Cup?
-[0.1%] Madrid Open: Belinda Bencic vs Hailey Baptiste
-[15.9%] Will the San Antonio Spurs win the 2026 NBA Finals?
-[0.2%] Russia x Ukraine ceasefire by April 30, 2026?
+[0.4%] Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
+[0.2%] Will Jordan win the 2026 FIFA World Cup?
+[0.2%] Will Curaçao win the 2026 FIFA World Cup?
+[0.4%] Will Egypt win the 2026 FIFA World Cup?
+[0.7%] Will Canada win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• White House press dinner shooting raises questions over security at event - The Guardian
-• Iran’s flurry of diplomacy, as Trump insists U.S. has ‘the cards’ - NPR
-• Photos show British royal visits to the U.S. through history as King Charles III makes a state visit - CBS News
-• Iran reportedly proposes Hormuz Strait deal to U.S. Here’s where things stand — and what’s next for markets - CNBC
-• Supreme Court Reviews Police Use of Cell Location Data to Find Criminals - The New York Times
-• How Trump is moving to control U.S. elections, one state at a time - Reuters
-• Human remains found in search for missing University of South Florida doctoral student - CBS News
-• At least 2 dead after tornadoes destroy homes in northern Texas - PBS
+• 'You'd be speaking French': King Charles pokes fun at Trump during state dinner - France 24
+• Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!' - CNBC
+• Kimmel Calls Out Trump’s Joke About His Own Death - Deadline
+• Supreme Court weighs Trump's effort to end temporary protected status for Haitians, Syrians - NPR
+• Mysteries surround Cole Tomas Allen and his final movements in D.C. attack - Los Angeles Times
+• James Comey indicted again, this time over "86 47" photo - Axios
+• Capitol agenda: Nobody’s making Mike Johnson’s week easy - Politico
+• Fires Rage in Georgia - NASA Science (.gov)
 
 ----------------------------------------
 
