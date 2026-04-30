@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-04-29
+INTELLIGENCE SNAPSHOT // 2026-04-30
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,139
-DOW J: 49,142
-NASDAQ: 24,664
+S&P 500: 7,136
+DOW J: 48,862
+NASDAQ: 24,673
 VIX: 18
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 18
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.2%] US x Iran ceasefire extended by April 22, 2026?
-[0.1%] Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?
-[99.8%] Will there be no change in Fed interest rates after the April 2026 meeting?
-[0.1%] Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?
+[0.1%] US x Iran ceasefire extended by April 22, 2026?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
+[0.1%] Will the Iranian regime fall by April 30?
+[99.9%] Israel x Hezbollah Ceasefire extended by April 26, 2026?
+[0.1%] Will the Indian National Congress (INC) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
 
 --- US POLITICS (Top 5 Active) ---
-[93.0%] Clavicular pregnancy in 2026?
-[0.2%] Will Iran win the 2026 FIFA World Cup?
-[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
-[0.2%] Will Qatar win the 2026 FIFA World Cup?
-[0.4%] Will Tunisia win the 2026 FIFA World Cup?
+[0.1%] LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Nirvana
+[98.4%] Clavicular pregnancy in 2026?
+[0.1%] Madrid Open: Casper Ruud vs Alexander Blockx
+[100.0%] LoL: Gen.G vs Kiwoom DRX (BO3) - LCK Rounds 1-2
+[0.1%] Strait of Hormuz traffic returns to normal by end of April?
 
 --- TECH & AI (Top 5 Active) ---
-[0.2%] Will Panama win the 2026 FIFA World Cup?
-[0.4%] Will Algeria win the 2026 FIFA World Cup?
-[0.2%] Will Iraq win the 2026 FIFA World Cup?
-[0.2%] Will Cape Verde win the 2026 FIFA World Cup?
-[16.0%] Will France win the 2026 FIFA World Cup?
+[0.4%] Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?
+[1.8%] Will Morocco win the 2026 FIFA World Cup?
+[0.4%] US x Iran permanent peace deal by April 30, 2026?
+[0.1%] Kharg Island no longer under Iranian control by April 30?
+[25.5%] MegaETH market cap (FDV) >$2B one day after launch?
 
 --- SCIENCE (Top 5 Active) ---
-[0.4%] Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
-[0.2%] Will Jordan win the 2026 FIFA World Cup?
-[0.2%] Will Curaçao win the 2026 FIFA World Cup?
-[0.4%] Will Egypt win the 2026 FIFA World Cup?
-[0.7%] Will Canada win the 2026 FIFA World Cup?
+[3.9%] Over $3M committed to the Printr public sale?
+[0.1%] Will Elon Musk post 140-159 tweets from April 24 to May 1, 2026?
+[97.0%] MegaETH market cap (FDV) >$1B one day after launch?
+[53.5%] Nuggets vs. Timberwolves: O/U 224.5
+[0.1%] LoL: BNK FEARX vs Dplus KIA (BO3) - LCK Rounds 1-2
 
 ----------------------------------------
 
 TOP HEADLINES
-• 'You'd be speaking French': King Charles pokes fun at Trump during state dinner - France 24
-• Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!' - CNBC
-• Kimmel Calls Out Trump’s Joke About His Own Death - Deadline
-• Supreme Court weighs Trump's effort to end temporary protected status for Haitians, Syrians - NPR
-• Mysteries surround Cole Tomas Allen and his final movements in D.C. attack - Los Angeles Times
-• James Comey indicted again, this time over "86 47" photo - Axios
-• Capitol agenda: Nobody’s making Mike Johnson’s week easy - Politico
-• Fires Rage in Georgia - NASA Science (.gov)
+• Hegseth spars with lawmakers as Iran war’s price tag hits $25 billion - The Washington Post
+• What a weakened Voting Rights Act means in today's America - Axios
+• Maine Gov. Janet Mills suspends Senate campaign - NBC News
+• Israeli forces raid Global Sumud Flotilla boats in international waters - Al Jazeera
+• Trump weighs pulling US troops from Germany amid clash with chancellor over Iran war - Fox News
+• King Charles US visit live: Macron responds to ‘speaking French’ jibe at Trump ahead of final day of tour - The Independent
+• Coast Guard operating in "crisis" as DHS shutdown halts pay in May, cuts power, strains missions overseas - CBS News
+• New Orleans sheriff indicted for allegedly failing to prevent jailbreak and escape of 10 inmates - NBC News
 
 ----------------------------------------
 
