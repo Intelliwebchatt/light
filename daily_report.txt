@@ -1,59 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2026-04-30
+INTELLIGENCE SNAPSHOT // 2026-05-01
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,136
-DOW J: 48,862
-NASDAQ: 24,673
-VIX: 18
+S&P 500: 7,209
+DOW J: 49,652
+NASDAQ: 24,892
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] US x Iran ceasefire extended by April 22, 2026?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[0.1%] Will the Iranian regime fall by April 30?
-[99.9%] Israel x Hezbollah Ceasefire extended by April 26, 2026?
-[0.1%] Will the Indian National Congress (INC) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
+[100.0%] LoL: Hanwha Life Esports vs T1 (BO3) - LCK Rounds 1-2
+[0.1%] Strait of Hormuz traffic returns to normal by end of April?
+[0.1%] MegaETH market cap (FDV) >$2B one day after launch?
+[3.0%] Will the Iranian regime fall by May 31?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] LoL: ThunderTalk Gaming vs LGD Gaming (BO3) - LPL Group Nirvana
-[98.4%] Clavicular pregnancy in 2026?
-[0.1%] Madrid Open: Casper Ruud vs Alexander Blockx
-[100.0%] LoL: Gen.G vs Kiwoom DRX (BO3) - LCK Rounds 1-2
-[0.1%] Strait of Hormuz traffic returns to normal by end of April?
+[100.0%] LoL: Hanwha Life Esports vs T1 - Game 1 Winner
+[0.2%] Will Australia win the 2026 FIFA World Cup?
+[1.6%] Will USA win the 2026 FIFA World Cup?
+[0.1%] LoL: Hanwha Life Esports vs T1 - Game 2 Winner
+[6.5%] US x Iran permanent peace deal by May 15, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.4%] Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?
-[1.8%] Will Morocco win the 2026 FIFA World Cup?
-[0.4%] US x Iran permanent peace deal by April 30, 2026?
-[0.1%] Kharg Island no longer under Iranian control by April 30?
-[25.5%] MegaETH market cap (FDV) >$2B one day after launch?
+[100.0%] LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner
+[14.5%] LoL: Weibo Gaming vs Invictus Gaming - Game 2 Winner
+[59.5%] Pistons vs. Magic
+[0.1%] Will Iran win the 2026 FIFA World Cup?
+[20.5%] US x Iran permanent peace deal by May 31, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[3.9%] Over $3M committed to the Printr public sale?
-[0.1%] Will Elon Musk post 140-159 tweets from April 24 to May 1, 2026?
-[97.0%] MegaETH market cap (FDV) >$1B one day after launch?
-[53.5%] Nuggets vs. Timberwolves: O/U 224.5
-[0.1%] LoL: BNK FEARX vs Dplus KIA (BO3) - LCK Rounds 1-2
+[0.1%] LoL: Top Esports vs Anyone's Legend - Game 2 Winner
+[1.1%] Will Uruguay win the 2026 FIFA World Cup?
+[0.8%] Will Ecuador win the 2026 FIFA World Cup?
+[7.5%] Strait of Hormuz traffic returns to normal by May 15?
+[5.7%] Russia x Ukraine ceasefire by May 31, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Hegseth spars with lawmakers as Iran war’s price tag hits $25 billion - The Washington Post
-• What a weakened Voting Rights Act means in today's America - Axios
-• Maine Gov. Janet Mills suspends Senate campaign - NBC News
-• Israeli forces raid Global Sumud Flotilla boats in international waters - Al Jazeera
-• Trump weighs pulling US troops from Germany amid clash with chancellor over Iran war - Fox News
-• King Charles US visit live: Macron responds to ‘speaking French’ jibe at Trump ahead of final day of tour - The Independent
-• Coast Guard operating in "crisis" as DHS shutdown halts pay in May, cuts power, strains missions overseas - CBS News
-• New Orleans sheriff indicted for allegedly failing to prevent jailbreak and escape of 10 inmates - NBC News
+• Nationwide May Day protests expected to pick up mantle of 'No Kings' - NPR
+• Has the US-Iran ceasefire reset the clock on War Powers Act deadline? - Al Jazeera
+• "You are not right for this job": Senator Mark Kelly grills Secretary Pete Hegseth in SASC hearing - KGUN 9
+• What to know after House passes Homeland Security funding and ends historic shutdown - PBS
+• US prosecutors release new footage of Trump shooting suspect - DW.com
+• Democrats coalesce around Platner as Mills exits Maine Senate race - The Hill
+• ‘Divided us with a smile’: GOP groaning over Mike Johnson reaches a fever pitch - Politico
+• Could your '8647' merch get you in trouble? - NBC News
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Trending diets for 2026
 
 ========================================
 END TRANSMISSION
