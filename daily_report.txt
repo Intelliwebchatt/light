@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-05-02
+INTELLIGENCE SNAPSHOT // 2026-05-03
 ========================================
 
 MARKET CLOSE
@@ -12,48 +12,49 @@ VIX: 17
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[99.8%] QatarEnergy announces/resumes LNG production in Qatar by April 30?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[100.0%] LoL: Gen.G vs Dplus KIA (BO3) - LCK Rounds 1-2
-[99.2%] QatarEnergy announces/resumes LNG production in Qatar by April 30?
-[74.5%] Will Villarreal CF win on 2026-05-02?
-[100.0%] LoL: Kiwoom DRX vs Nongshim Red Force (BO3) - LCK Rounds 1-2
+[57.5%] Will AC Milan win on 2026-05-03?
+[1.6%] Indian Premier League: Sunrisers Hyderabad vs Kolkata Knight Riders
+[2.8%] Will the Iranian regime fall by May 31?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] LoL: Kiwoom DRX vs Nongshim Red Force - Game 2 Winner
-[100.0%] LoL: Kiwoom DRX vs Nongshim Red Force - Game 1 Winner
-[28.5%] 76ers vs. Celtics
-[21.5%] US x Iran permanent peace deal by May 31, 2026?
-[5.5%] Strait of Hormuz traffic returns to normal by May 15?
+[35.5%] Will Liverpool FC win on 2026-05-03?
+[39.5%] Will Manchester United FC win on 2026-05-03?
+[71.5%] Will Lille OSC win on 2026-05-03?
+[0.1%] LoL: ThunderTalk Gaming vs LNG Esports (BO3) - LPL Group Nirvana
+[0.1%] LoL: DN SOOPers vs BNK FEARX (BO3) - LCK Rounds 1-2
 
 --- TECH & AI (Top 5 Active) ---
-[51.5%] Will Brentford FC win on 2026-05-02?
-[3.2%] Will the Detroit Pistons win the 2026 NBA Finals?
-[2.4%] Will the Iranian regime fall by May 31?
-[49.5%] UFC Fight Night: Carlos Prates vs. Jack Della Maddalena (Welterweight, Main Card)
-[0.1%] LoL: Weibo Gaming vs Top Esports - Game 1 Winner
+[100.0%] LoL: ThunderTalk Gaming vs LNG Esports - Game 2 Winner
+[3.4%] Will the Philadelphia 76ers win the 2026 NBA Finals?
+[28.5%] Raptors vs. Cavaliers
+[0.1%] LoL: DN SOOPers vs BNK FEARX - Game 2 Winner
+[0.1%] LoL: DN SOOPers vs BNK FEARX - Game 1 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[30.5%] Will the U.S. invade Iran before 2027?
-[0.1%] LoL: Weibo Gaming vs Top Esports (BO3) - LPL Group Ascend
-[0.1%] UFC Fight Night: Robert Bryczek vs. Cam Rowston (Middleweight, Main Card)
-[7.5%] US x Iran permanent peace deal by May 15, 2026?
-[2.6%] US x Iran diplomatic meeting by May 5, 2026?
+[4.5%] Strait of Hormuz traffic returns to normal by May 15?
+[25.5%] Magic vs. Pistons
+[9.5%] US obtains Iranian enriched uranium by May 31?
+[0.1%] LoL: Ninjas in Pyjamas vs Bilibili Gaming - Game 1 Winner
+[0.1%] LoL: KT Rolster vs HANJIN BRION - Game 2 Winner
 
 ----------------------------------------
 
 TOP HEADLINES
-• Germany urges stronger European defence after US announces troop drawdown - Reuters
-• Trump Tells Congress Iran War Is ‘Terminated,’ Arguing He Doesn’t Need Approval To Continue - Forbes
-• Court restricts abortion access across the US by blocking the mailing of mifepristone - AP News
-• Pirro says video shows moment gunman fired outside correspondents’ dinner - The Washington Post
-• Hegseth’s and Moulton’s Parallel Lives Collide Over Iran - The New York Times
-• Pickleball, protests and MAGA. Trump stirs FL retirement community - USA Today
-• Bard College’s President, Leon Botstein, Will Retire After Epstein Revelations - The New York Times
-• Former U.S. Congressman and Lobbyist Convicted of Acting as Unregistered Agents of Venezuela in Connection with $50 Million Contract - Department of Justice (.gov)
+• What’s Iran’s 14-point proposal to end the war? And will Trump accept it? - Al Jazeera
+• Trump says cutting US troops in Germany 'a lot further' - dw.com
+• Blanche challenges Obama’s framing of WHCD shooting: ‘Disappointing’ - The Hill
+• He spent 60 years building Black political power. He sees a wipeout coming. - The Washington Post
+• Drugmakers file emergency appeal to restore abortion pill access - Politico
+• Israeli air strikes on Lebanon kill 41 people in 24-hours - Al Jazeera
+• Search and Rescue Ongoing at African Lion 2026 - africom.mil
+• White House Correspondents' dinner shooting suspect is on restrictive suicide precautions, lawyers say - NBC News
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Instagram to Sell Reels Ads for Viral TV and Movies Content, ‘Cultural Moments’ Like NFL Games and Black Friday
 
 ========================================
 END TRANSMISSION
