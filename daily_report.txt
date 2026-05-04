@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-05-03
+INTELLIGENCE SNAPSHOT // 2026-05-04
 ========================================
 
 MARKET CLOSE
 S&P 500: 7,230
 DOW J: 49,499
 NASDAQ: 25,114
-VIX: 17
+VIX: 18
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.8%] QatarEnergy announces/resumes LNG production in Qatar by April 30?
+[100.0%] QatarEnergy announces/resumes LNG production in Qatar by April 30?
+[69.5%] Will Chelsea FC win on 2026-05-04?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[57.5%] Will AC Milan win on 2026-05-03?
-[1.6%] Indian Premier League: Sunrisers Hyderabad vs Kolkata Knight Riders
-[2.8%] Will the Iranian regime fall by May 31?
+[0.5%] Will Eric Trump win the 2028 US Presidential Election?
+[5.5%] Strait of Hormuz traffic returns to normal by May 15?
 
 --- US POLITICS (Top 5 Active) ---
-[35.5%] Will Liverpool FC win on 2026-05-03?
-[39.5%] Will Manchester United FC win on 2026-05-03?
-[71.5%] Will Lille OSC win on 2026-05-03?
-[0.1%] LoL: ThunderTalk Gaming vs LNG Esports (BO3) - LPL Group Nirvana
-[0.1%] LoL: DN SOOPers vs BNK FEARX (BO3) - LCK Rounds 1-2
+[3.4%] Will the Iranian regime fall by May 31?
+[20.5%] Strait of Hormuz traffic returns to normal by end of May?
+[100.0%] Will a U.S. anti-cartel operation outside of the United States occur by April 30, 2026?
+[5.7%] Will the Detroit Pistons win the 2026 NBA Finals?
+[1.1%] Will Croatia win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] LoL: ThunderTalk Gaming vs LNG Esports - Game 2 Winner
-[3.4%] Will the Philadelphia 76ers win the 2026 NBA Finals?
-[28.5%] Raptors vs. Cavaliers
-[0.1%] LoL: DN SOOPers vs BNK FEARX - Game 2 Winner
-[0.1%] LoL: DN SOOPers vs BNK FEARX - Game 1 Winner
+[0.1%] LoL: KT Rolster vs BNK FEARX (BO3) - Esports World Cup Korea Qualifier Playoffs
+[99.7%] Will Tamilaga Vettri Kazhagam (TVK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
+[24.5%] Iran closes its airspace by May 8?
+[4.5%] US x Iran permanent peace deal by May 15, 2026?
+[21.1%] Will JD Vance win the 2028 US Presidential Election?
 
 --- SCIENCE (Top 5 Active) ---
-[4.5%] Strait of Hormuz traffic returns to normal by May 15?
-[25.5%] Magic vs. Pistons
-[9.5%] US obtains Iranian enriched uranium by May 31?
-[0.1%] LoL: Ninjas in Pyjamas vs Bilibili Gaming - Game 1 Winner
-[0.1%] LoL: KT Rolster vs HANJIN BRION - Game 2 Winner
+[99.7%] Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 West Bengal Legislative Assembly election?
+[0.4%] Will South Korea win the 2026 FIFA World Cup?
+[0.1%] LoL: Kiwoom DRX vs DN SOOPers (BO3) - Esports World Cup Korea Qualifier Playoffs
+[0.1%] Will the Dravida Munnetra Kazhagam (DMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
+[65.5%] Will Manchester City FC win on 2026-05-04?
 
 ----------------------------------------
 
 TOP HEADLINES
-• What’s Iran’s 14-point proposal to end the war? And will Trump accept it? - Al Jazeera
-• Trump says cutting US troops in Germany 'a lot further' - dw.com
-• Blanche challenges Obama’s framing of WHCD shooting: ‘Disappointing’ - The Hill
-• He spent 60 years building Black political power. He sees a wipeout coming. - The Washington Post
-• Drugmakers file emergency appeal to restore abortion pill access - Politico
-• Israeli air strikes on Lebanon kill 41 people in 24-hours - Al Jazeera
-• Search and Rescue Ongoing at African Lion 2026 - africom.mil
-• White House Correspondents' dinner shooting suspect is on restrictive suicide precautions, lawyers say - NBC News
+• Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz - washingtonpost.com
+• Rudy Giuliani in critical condition in hospital - BBC
+• Iran prevents entry of U.S. warships into Strait of Hormuz, Navy says - Reuters
+• At Least 10 Injured in Shooting at Lakeside Party in Oklahoma - The New York Times
+• In many states, election-denying candidates are running to control voting - NPR
+• Breaking down the redistricting arms race following the Supreme Court's VRA ruling - Politico
+• United 767 Hits Bakery Truck On Newark Approach — Wheel Smashes Driver’s Window Near NJ Turnpike - View from the Wing
+• After Republicans blocked Indiana redistricting, millions poured in to defeat them - NPR
 
 ----------------------------------------
 
