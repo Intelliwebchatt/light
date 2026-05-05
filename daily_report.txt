@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-05-04
+INTELLIGENCE SNAPSHOT // 2026-05-05
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,230
-DOW J: 49,499
-NASDAQ: 25,114
+S&P 500: 7,201
+DOW J: 48,942
+NASDAQ: 25,068
 VIX: 18
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 18
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] QatarEnergy announces/resumes LNG production in Qatar by April 30?
-[69.5%] Will Chelsea FC win on 2026-05-04?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[0.5%] Will Eric Trump win the 2028 US Presidential Election?
-[5.5%] Strait of Hormuz traffic returns to normal by May 15?
+[15.5%] Iran closes its airspace by May 8?
+[30.5%] Will the U.S. invade Iran before 2027?
+[13.5%] Lakers vs. Thunder
+[6.1%] Russia x Ukraine ceasefire by May 31, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[3.4%] Will the Iranian regime fall by May 31?
-[20.5%] Strait of Hormuz traffic returns to normal by end of May?
-[100.0%] Will a U.S. anti-cartel operation outside of the United States occur by April 30, 2026?
-[5.7%] Will the Detroit Pistons win the 2026 NBA Finals?
+[2.2%] Strait of Hormuz traffic returns to normal by May 15?
+[2.9%] Will the Iranian regime fall by May 31?
 [1.1%] Will Croatia win the 2026 FIFA World Cup?
+[1.7%] Will Morocco win the 2026 FIFA World Cup?
+[12.5%] US x Iran permanent peace deal by May 31, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] LoL: KT Rolster vs BNK FEARX (BO3) - Esports World Cup Korea Qualifier Playoffs
-[99.7%] Will Tamilaga Vettri Kazhagam (TVK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
-[24.5%] Iran closes its airspace by May 8?
-[4.5%] US x Iran permanent peace deal by May 15, 2026?
-[21.1%] Will JD Vance win the 2028 US Presidential Election?
+[1.1%] Will Mexico win the 2026 FIFA World Cup?
+[0.5%] Will Yaël Braun-Pivet win the 2027 French presidential election?
+[15.5%] Strait of Hormuz traffic returns to normal by end of May?
+[0.8%] Will Eric Trump win the 2028 Republican presidential nomination?
+[100.0%] LoL: Dplus KIA vs Nongshim Red Force (BO3) - Esports World Cup Korea Qualifier Playoffs
 
 --- SCIENCE (Top 5 Active) ---
-[99.7%] Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 West Bengal Legislative Assembly election?
-[0.4%] Will South Korea win the 2026 FIFA World Cup?
-[0.1%] LoL: Kiwoom DRX vs DN SOOPers (BO3) - Esports World Cup Korea Qualifier Playoffs
-[0.1%] Will the Dravida Munnetra Kazhagam (DMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?
-[65.5%] Will Manchester City FC win on 2026-05-04?
+[16.5%] Will Club Atlético de Madrid win on 2026-05-05?
+[0.5%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
+[2.9%] Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?
+[4.3%] Will the Minnesota Timberwolves win the 2026 NBA Finals?
+[10.5%] Russia x Ukraine ceasefire by June 30, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz - washingtonpost.com
-• Rudy Giuliani in critical condition in hospital - BBC
-• Iran prevents entry of U.S. warships into Strait of Hormuz, Navy says - Reuters
-• At Least 10 Injured in Shooting at Lakeside Party in Oklahoma - The New York Times
-• In many states, election-denying candidates are running to control voting - NPR
-• Breaking down the redistricting arms race following the Supreme Court's VRA ruling - Politico
-• United 767 Hits Bakery Truck On Newark Approach — Wheel Smashes Driver’s Window Near NJ Turnpike - View from the Wing
-• After Republicans blocked Indiana redistricting, millions poured in to defeat them - NPR
+• U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire - NPR
+• It's showtime for Trump's revenge tour. Will he win? - Politico
+• Abortion pill rulings cause whiplash and confusion - Axios
+• Department of Education opens investigation into Smith College for admitting trans women - CNN
+• ‘Dangerous escalation’: World condemns Iran after attacks on UAE - Al Jazeera
+• Man wounded after allegedly shooting at Secret Service near White House, bystander struck - WTOP
+• Man accused of starting Palisades fire was ‘angry, intense, driving erratically’, lawyers say - The Guardian
+• Can Ken Paxton Win a Senate Primary in Texas Without His Biggest Donors? - The New York Times
 
 ----------------------------------------
 
