@@ -1,11 +1,11 @@
-INTELLIGENCE SNAPSHOT // 2026-05-05
+INTELLIGENCE SNAPSHOT // 2026-05-06
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,201
-DOW J: 48,942
-NASDAQ: 25,068
-VIX: 18
+S&P 500: 7,317
+DOW J: 49,796
+NASDAQ: 25,566
+VIX: 17
 
 ----------------------------------------
 
@@ -13,43 +13,43 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[15.5%] Iran closes its airspace by May 8?
-[30.5%] Will the U.S. invade Iran before 2027?
-[13.5%] Lakers vs. Thunder
-[6.1%] Russia x Ukraine ceasefire by May 31, 2026?
+[19.5%] Will the U.S. invade Iran before 2027?
+[13.7%] US x Iran permanent peace deal by May 15, 2026?
+[24.5%] US x Iran permanent peace deal by May 31, 2026?
+[4.2%] Iran closes its airspace by May 8?
 
 --- US POLITICS (Top 5 Active) ---
-[2.2%] Strait of Hormuz traffic returns to normal by May 15?
-[2.9%] Will the Iranian regime fall by May 31?
-[1.1%] Will Croatia win the 2026 FIFA World Cup?
-[1.7%] Will Morocco win the 2026 FIFA World Cup?
-[12.5%] US x Iran permanent peace deal by May 31, 2026?
+[0.7%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
+[4.7%] Strait of Hormuz traffic returns to normal by May 15?
+[29.5%] Strait of Hormuz traffic returns to normal by end of May?
+[1.2%] Will 40 ships transit the Strait of Hormuz on any day by April 30?
+[43.5%] US x Iran permanent peace deal by June 30, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[1.1%] Will Mexico win the 2026 FIFA World Cup?
-[0.5%] Will Yaël Braun-Pivet win the 2027 French presidential election?
-[15.5%] Strait of Hormuz traffic returns to normal by end of May?
-[0.8%] Will Eric Trump win the 2028 Republican presidential nomination?
-[100.0%] LoL: Dplus KIA vs Nongshim Red Force (BO3) - Esports World Cup Korea Qualifier Playoffs
+[51.0%] Strait of Hormuz traffic returns to normal by end of June?
+[100.0%] LoL: Team WE vs Invictus Gaming (BO3) - LPL Group Ascend
+[60.5%] Will FC Bayern München win on 2026-05-06?
+[26.5%] Iran closes its airspace by May 31?
+[0.1%] LoL: Top Esports vs JD Gaming - Game 1 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[16.5%] Will Club Atlético de Madrid win on 2026-05-05?
-[0.5%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
-[2.9%] Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?
-[4.3%] Will the Minnesota Timberwolves win the 2026 NBA Finals?
-[10.5%] Russia x Ukraine ceasefire by June 30, 2026?
+[4.5%] Will the Iranian regime fall by June 30?
+[7.5%] US obtains Iranian enriched uranium by May 31?
+[2.1%] Will Japan win the 2026 FIFA World Cup?
+[22.5%] Will Paris Saint-Germain FC win on 2026-05-06?
+[53.5%] Spread: Spurs (-9.5)
 
 ----------------------------------------
 
 TOP HEADLINES
-• U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire - NPR
-• It's showtime for Trump's revenge tour. Will he win? - Politico
-• Abortion pill rulings cause whiplash and confusion - Axios
-• Department of Education opens investigation into Smith College for admitting trans women - CNN
-• ‘Dangerous escalation’: World condemns Iran after attacks on UAE - Al Jazeera
-• Man wounded after allegedly shooting at Secret Service near White House, bystander struck - WTOP
-• Man accused of starting Palisades fire was ‘angry, intense, driving erratically’, lawyers say - The Guardian
-• Can Ken Paxton Win a Senate Primary in Texas Without His Biggest Donors? - The New York Times
+• Democrats win big in US special elections, but Trump reinforces hold on GOP - The Times of Israel
+• Trump orders military to pause Strait of Hormuz mission to allow time for peace talks - The Washington Post
+• Commentary: Who won the California governor debate on CNN? Here's what our columnists say - Los Angeles Times
+• Has the US accepted Iran’s demand to settle Hormuz first, nuclear later? - Al Jazeera
+• The future Pope Leo XIV grew up amid a changing Chicago - National Catholic Reporter
+• Assaults against U.S. Jews reach 46-year high - Axios
+• Pope Leo rejects claim he supports nuclear weapons after Trump tirade - The Guardian
+• Trump’s commerce chief Lutnick to face Epstein grilling in closed-door interview – US politics live - The Guardian
 
 ----------------------------------------
 
