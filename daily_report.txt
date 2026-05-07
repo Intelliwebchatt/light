@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-05-06
+INTELLIGENCE SNAPSHOT // 2026-05-07
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,317
-DOW J: 49,796
-NASDAQ: 25,566
+S&P 500: 7,368
+DOW J: 49,999
+NASDAQ: 25,893
 VIX: 17
 
 ----------------------------------------
@@ -13,48 +13,56 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[19.5%] Will the U.S. invade Iran before 2027?
-[13.7%] US x Iran permanent peace deal by May 15, 2026?
-[24.5%] US x Iran permanent peace deal by May 31, 2026?
-[4.2%] Iran closes its airspace by May 8?
+[0.1%] Will the next Prime Minister of Hungary be István Kapitány?
+[26.2%] US x Iran permanent peace deal by May 15, 2026?
+[42.5%] US x Iran permanent peace deal by May 31, 2026?
+[0.1%] Internazionali BNL d'Italia: Federico Cina vs Alexander Blockx
 
 --- US POLITICS (Top 5 Active) ---
-[0.7%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
-[4.7%] Strait of Hormuz traffic returns to normal by May 15?
-[29.5%] Strait of Hormuz traffic returns to normal by end of May?
-[1.2%] Will 40 ships transit the Strait of Hormuz on any day by April 30?
-[43.5%] US x Iran permanent peace deal by June 30, 2026?
+[7.5%] Strait of Hormuz traffic returns to normal by May 15?
+[100.0%] LoL: Weibo Gaming vs Team WE (BO3) - LPL Group Ascend
+[100.0%] LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner
+[4.5%] Will the Iranian regime fall by June 30?
+[100.0%] LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Rounds 1-2
 
 --- TECH & AI (Top 5 Active) ---
-[51.0%] Strait of Hormuz traffic returns to normal by end of June?
-[100.0%] LoL: Team WE vs Invictus Gaming (BO3) - LPL Group Ascend
-[60.5%] Will FC Bayern München win on 2026-05-06?
-[26.5%] Iran closes its airspace by May 31?
-[0.1%] LoL: Top Esports vs JD Gaming - Game 1 Winner
+[44.5%] Internazionali BNL d'Italia: Roman Andres Burruchaga vs Mattia Bellucci
+[19.5%] Will the U.S. invade Iran before 2027?
+[0.9%] Will Switzerland win the 2026 FIFA World Cup?
+[56.5%] US x Iran permanent peace deal by June 30, 2026?
+[0.7%] Will Sweden win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[4.5%] Will the Iranian regime fall by June 30?
-[7.5%] US obtains Iranian enriched uranium by May 31?
-[2.1%] Will Japan win the 2026 FIFA World Cup?
-[22.5%] Will Paris Saint-Germain FC win on 2026-05-06?
-[53.5%] Spread: Spurs (-9.5)
+[57.5%] Will PSG win the 2025–26 Champions League?
+[0.2%] Will New Zealand win the 2026 FIFA World Cup?
+[35.5%] Strait of Hormuz traffic returns to normal by end of May?
+[100.0%] Internazionali BNL d'Italia: Noemi Basiletti vs Ajla Tomljanovic
+[9.3%] Hantavirus pandemic in 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Democrats win big in US special elections, but Trump reinforces hold on GOP - The Times of Israel
-• Trump orders military to pause Strait of Hormuz mission to allow time for peace talks - The Washington Post
-• Commentary: Who won the California governor debate on CNN? Here's what our columnists say - Los Angeles Times
-• Has the US accepted Iran’s demand to settle Hormuz first, nuclear later? - Al Jazeera
-• The future Pope Leo XIV grew up amid a changing Chicago - National Catholic Reporter
-• Assaults against U.S. Jews reach 46-year high - Axios
-• Pope Leo rejects claim he supports nuclear weapons after Trump tirade - The Guardian
-• Trump’s commerce chief Lutnick to face Epstein grilling in closed-door interview – US politics live - The Guardian
+• Live updates: US awaits Iran’s response to latest proposal to end war - CNN
+• Court releases purported suicide note from Jeffrey Epstein - The Washington Post
+• Campaign staffers tell NPR they make 'thousands' betting on their own candidates - NPR
+• Russia doesn’t have much to celebrate on Victory Day, as Ukraine brings the war home to Putin - The Conversation
+• China asks banks to pause new loans to US-sanctioned refiners, Bloomberg News reports - Reuters
+• Rubio’s Rome challenge: Managing an ally, appealing to a pope - politico.eu
+• Live Updates: Trump says Iran war will "be over quickly" as Tehran seeks to lay claim to Strait of Hormuz - CBS News
+• Tornado Cluster in Mississippi Damages More Than 1,000 Buildings - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Instagram to Sell Reels Ads for Viral TV and Movies Content, ‘Cultural Moments’ Like NFL Games and Black Friday
+• YouTube is killing its Trending page a decade after its debut
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube removing the Trending page in favor of Charts, recommendations
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Google reveals the top trending searches of 2025
+• Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
 END TRANSMISSION
