@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-05-07
+INTELLIGENCE SNAPSHOT // 2026-05-08
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,368
-DOW J: 49,999
-NASDAQ: 25,893
+S&P 500: 7,337
+DOW J: 49,597
+NASDAQ: 25,806
 VIX: 17
 
 ----------------------------------------
@@ -13,56 +13,48 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[0.1%] Will the next Prime Minister of Hungary be István Kapitány?
-[26.2%] US x Iran permanent peace deal by May 15, 2026?
-[42.5%] US x Iran permanent peace deal by May 31, 2026?
-[0.1%] Internazionali BNL d'Italia: Federico Cina vs Alexander Blockx
+[19.7%] US x Iran permanent peace deal by May 15, 2026?
+[33.5%] US x Iran permanent peace deal by May 31, 2026?
+[9.7%] Hantavirus pandemic in 2026?
+[48.5%] Knicks vs. 76ers
 
 --- US POLITICS (Top 5 Active) ---
-[7.5%] Strait of Hormuz traffic returns to normal by May 15?
-[100.0%] LoL: Weibo Gaming vs Team WE (BO3) - LPL Group Ascend
-[100.0%] LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner
-[4.5%] Will the Iranian regime fall by June 30?
-[100.0%] LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Rounds 1-2
+[0.1%] Will the next Prime Minister of Hungary be István Kapitány?
+[18.5%] UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)
+[52.5%] US x Iran permanent peace deal by June 30, 2026?
+[1.1%] Will Switzerland win the 2026 FIFA World Cup?
+[0.7%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[44.5%] Internazionali BNL d'Italia: Roman Andres Burruchaga vs Mattia Bellucci
-[19.5%] Will the U.S. invade Iran before 2027?
-[0.9%] Will Switzerland win the 2026 FIFA World Cup?
-[56.5%] US x Iran permanent peace deal by June 30, 2026?
-[0.7%] Will Sweden win the 2026 FIFA World Cup?
+[27.5%] Strait of Hormuz traffic returns to normal by end of May?
+[3.4%] Strait of Hormuz traffic returns to normal by May 15?
+[2.9%] US x Iran permanent peace deal by May 8, 2026?
+[2.8%] Iran closes its airspace by May 8?
+[20.5%] Will the U.S. invade Iran before 2027?
 
 --- SCIENCE (Top 5 Active) ---
-[57.5%] Will PSG win the 2025–26 Champions League?
-[0.2%] Will New Zealand win the 2026 FIFA World Cup?
-[35.5%] Strait of Hormuz traffic returns to normal by end of May?
-[100.0%] Internazionali BNL d'Italia: Noemi Basiletti vs Ajla Tomljanovic
-[9.3%] Hantavirus pandemic in 2026?
+[64.5%] Spurs vs. Timberwolves
+[5.5%] US obtains Iranian enriched uranium by May 31?
+[0.1%] Internazionali BNL d'Italia: Nuno Borges vs Rafael Jodar
+[0.1%] LoL: Ultra Prime vs LNG Esports (BO3) - LPL Group Nirvana
+[0.1%] Internazionali BNL d'Italia: Alex de Minaur vs Matteo Arnaldi
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live updates: US awaits Iran’s response to latest proposal to end war - CNN
-• Court releases purported suicide note from Jeffrey Epstein - The Washington Post
-• Campaign staffers tell NPR they make 'thousands' betting on their own candidates - NPR
-• Russia doesn’t have much to celebrate on Victory Day, as Ukraine brings the war home to Putin - The Conversation
-• China asks banks to pause new loans to US-sanctioned refiners, Bloomberg News reports - Reuters
-• Rubio’s Rome challenge: Managing an ally, appealing to a pope - politico.eu
-• Live Updates: Trump says Iran war will "be over quickly" as Tehran seeks to lay claim to Strait of Hormuz - CBS News
-• Tornado Cluster in Mississippi Damages More Than 1,000 Buildings - The New York Times
+• Trump says ceasefire still intact after burst of violence with Iran - The Washington Post
+• Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) - U.S. Department of War (.gov)
+• Six key things we learned about Pope Leo in his first year - CNN
+• Donald Trump’s 10% global tariff ruled illegal by US court - Financial Times
+• Trump Reversed Hormuz Plan After Saudis Denied Airspace Access - The New York Times
+• Russia in No Mood for Celebration on Kremlin’s Biggest Day of the Year - The New York Times
+• Ex-deputy found guilty of reckless homicide in shooting of Black man entering grandmother's home - AP News
+• Iowa Is Ruby Red. A Democrat There Is Worrying Republicans Anyway. - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• YouTube removing the Trending page in favor of Charts, recommendations
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
-• Google reveals the top trending searches of 2025
-• Google’s Year in Search 2025: These trending topics spiked big
+• Instagram to Sell Reels Ads for Viral TV and Movies Content, ‘Cultural Moments’ Like NFL Games and Black Friday
 
 ========================================
 END TRANSMISSION
