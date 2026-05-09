@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-05-08
+INTELLIGENCE SNAPSHOT // 2026-05-09
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,337
-DOW J: 49,597
-NASDAQ: 25,806
+S&P 500: 7,399
+DOW J: 49,609
+NASDAQ: 26,247
 VIX: 17
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 17
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[100.0%] Russia x Ukraine ceasefire by May 31, 2026?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[19.7%] US x Iran permanent peace deal by May 15, 2026?
-[33.5%] US x Iran permanent peace deal by May 31, 2026?
-[9.7%] Hantavirus pandemic in 2026?
-[48.5%] Knicks vs. 76ers
+[100.0%] Russia x Ukraine ceasefire by June 30, 2026?
+[32.5%] Will Liverpool FC win on 2026-05-09?
+[8.5%] Hantavirus pandemic in 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will the next Prime Minister of Hungary be István Kapitány?
+[0.1%] LoL: Nongshim Red Force vs HANJIN BRION - Game 2 Winner
+[0.1%] Internazionali BNL d'Italia: Corentin Moutet vs Pablo Llamas Ruiz
+[24.5%] US x Iran permanent peace deal by May 31, 2026?
+[17.5%] Will the US confirm that aliens exist before 2027?
 [18.5%] UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)
-[52.5%] US x Iran permanent peace deal by June 30, 2026?
-[1.1%] Will Switzerland win the 2026 FIFA World Cup?
-[0.7%] Will Jasmine Crockett win the 2028 Democratic presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[27.5%] Strait of Hormuz traffic returns to normal by end of May?
-[3.4%] Strait of Hormuz traffic returns to normal by May 15?
-[2.9%] US x Iran permanent peace deal by May 8, 2026?
-[2.8%] Iran closes its airspace by May 8?
-[20.5%] Will the U.S. invade Iran before 2027?
+[12.3%] US x Iran permanent peace deal by May 15, 2026?
+[0.1%] LoL: KT Rolster vs BNK FEARX (BO3) - LCK Rounds 1-2
+[2.6%] Will the US confirm that aliens exist by May 31?
+[0.1%] LoL: KT Rolster vs BNK FEARX - Game 2 Winner
+[38.5%] Pistons vs. Cavaliers
 
 --- SCIENCE (Top 5 Active) ---
-[64.5%] Spurs vs. Timberwolves
-[5.5%] US obtains Iranian enriched uranium by May 31?
-[0.1%] Internazionali BNL d'Italia: Nuno Borges vs Rafael Jodar
-[0.1%] LoL: Ultra Prime vs LNG Esports (BO3) - LPL Group Nirvana
-[0.1%] Internazionali BNL d'Italia: Alex de Minaur vs Matteo Arnaldi
+[0.1%] LoL: Nongshim Red Force vs HANJIN BRION (BO3) - LCK Rounds 1-2
+[0.9%] Epstein suicide note released by May 8?
+[19.5%] Strait of Hormuz traffic returns to normal by end of May?
+[1.8%] Strait of Hormuz traffic returns to normal by May 15?
+[45.5%] Will Manchester United FC win on 2026-05-09?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump says ceasefire still intact after burst of violence with Iran - The Washington Post
-• Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) - U.S. Department of War (.gov)
-• Six key things we learned about Pope Leo in his first year - CNN
-• Donald Trump’s 10% global tariff ruled illegal by US court - Financial Times
-• Trump Reversed Hormuz Plan After Saudis Denied Airspace Access - The New York Times
-• Russia in No Mood for Celebration on Kremlin’s Biggest Day of the Year - The New York Times
-• Ex-deputy found guilty of reckless homicide in shooting of Black man entering grandmother's home - AP News
-• Iowa Is Ruby Red. A Democrat There Is Worrying Republicans Anyway. - The New York Times
+• With GOP wins on election maps, Democrats have a steeper climb to victory - The Washington Post
+• ABC argues Trump administration is trying to chill free speech - NPR
+• Small Georgia town rehires local police after mayor fired entire department - The Guardian
+• Pentagon begins releasing new files on UFOs and says people can 'make up their own minds' - PBS
+• Trump says there will be 3-day ceasefire in Russia-Ukraine war - Politico
+• Trump Plans to Fire F.D.A. Commissioner Marty Makary - The New York Times
+• US awaiting response from Iran over proposals for ceasefire deal, says Rubio - The Guardian
+• Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia - NPR
 
 ----------------------------------------
 
