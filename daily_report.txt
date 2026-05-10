@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-05-09
+INTELLIGENCE SNAPSHOT // 2026-05-10
 ========================================
 
 MARKET CLOSE
@@ -12,49 +12,58 @@ VIX: 17
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Russia x Ukraine ceasefire by May 31, 2026?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[100.0%] Russia x Ukraine ceasefire by June 30, 2026?
-[32.5%] Will Liverpool FC win on 2026-05-09?
-[8.5%] Hantavirus pandemic in 2026?
+[63.5%] Will Arsenal FC win on 2026-05-10?
+[45.5%] Will Newcastle United FC win on 2026-05-10?
+[48.5%] Will ACF Fiorentina win on 2026-05-10?
+[0.5%] Will Austria win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] LoL: Nongshim Red Force vs HANJIN BRION - Game 2 Winner
-[0.1%] Internazionali BNL d'Italia: Corentin Moutet vs Pablo Llamas Ruiz
-[24.5%] US x Iran permanent peace deal by May 31, 2026?
-[17.5%] Will the US confirm that aliens exist before 2027?
-[18.5%] UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)
+[15.6%] US x Iran permanent peace deal by May 15, 2026?
+[26.5%] Will Nottingham Forest FC win on 2026-05-10?
+[6.9%] Hantavirus pandemic in 2026?
+[4.8%] US x Iran permanent peace deal by May 11, 2026?
+[96.5%] Indian Premier League: Chennai Super Kings vs Lucknow Super Giants
 
 --- TECH & AI (Top 5 Active) ---
-[12.3%] US x Iran permanent peace deal by May 15, 2026?
-[0.1%] LoL: KT Rolster vs BNK FEARX (BO3) - LCK Rounds 1-2
-[2.6%] Will the US confirm that aliens exist by May 31?
-[0.1%] LoL: KT Rolster vs BNK FEARX - Game 2 Winner
-[38.5%] Pistons vs. Cavaliers
+[0.1%] LoL: Kiwoom DRX vs Hanwha Life Esports (BO3) - LCK Rounds 1-2
+[100.0%] LoL: T1 vs Dplus KIA - Game 2 Winner
+[100.0%] LoL: Weibo Gaming vs Ninjas in Pyjamas - Game 2 Winner
+[52.5%] Knicks vs. 76ers
+[64.5%] Will Aston Villa FC win on 2026-05-10?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] LoL: Nongshim Red Force vs HANJIN BRION (BO3) - LCK Rounds 1-2
-[0.9%] Epstein suicide note released by May 8?
-[19.5%] Strait of Hormuz traffic returns to normal by end of May?
-[1.8%] Strait of Hormuz traffic returns to normal by May 15?
-[45.5%] Will Manchester United FC win on 2026-05-09?
+[1.2%] Strait of Hormuz traffic returns to normal by May 15?
+[0.1%] Internazionali BNL d'Italia: Liudmila Samsonova vs Anastasia Potapova
+[30.5%] US x Iran permanent peace deal by May 31, 2026?
+[0.1%] Will Judy Shelton be confirmed as Fed Chair?
+[26.5%] Will Villarreal CF win on 2026-05-10?
 
 ----------------------------------------
 
 TOP HEADLINES
-• With GOP wins on election maps, Democrats have a steeper climb to victory - The Washington Post
-• ABC argues Trump administration is trying to chill free speech - NPR
-• Small Georgia town rehires local police after mayor fired entire department - The Guardian
-• Pentagon begins releasing new files on UFOs and says people can 'make up their own minds' - PBS
-• Trump says there will be 3-day ceasefire in Russia-Ukraine war - Politico
-• Trump Plans to Fire F.D.A. Commissioner Marty Makary - The New York Times
-• US awaiting response from Iran over proposals for ceasefire deal, says Rubio - The Guardian
-• Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia - NPR
+• Iran ceasefire tested as cargo ship catches fire after being hit off Qatar's coast - NPR
+• Venice Biennale opens without a jury amid strife over Russian and Israeli participation - AP News
+• May 8, 2026 - Letters from an American | Heather Cox Richardson | Substack
+• Passengers Begin Disembarking From Cruise Ship Tied to Hantavirus Outbreak - The New York Times
+• For a Moment, It Looked as if Trump’s Efforts to Rig the Midterms Had Failed. Then Three Things Happened. - Slate
+• Kristin Smart’s body not found, search ends at home tied to killer despite signs of remains - Los Angeles Times
+• A wealthy Beverly Hills widow winds up dead below a staircase in her mansion. Was it murder? - CBS News
+• Spencer Pratt talks Los Angeles mayoral campaign, debate performance: Watch the full interview - CBS News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Instagram to Sell Reels Ads for Viral TV and Movies Content, ‘Cultural Moments’ Like NFL Games and Black Friday
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube is killing its Trending page a decade after its debut
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube removing the Trending page in favor of Charts, recommendations
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
+• Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
 END TRANSMISSION
