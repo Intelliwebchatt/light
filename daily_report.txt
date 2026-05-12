@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-05-11
+INTELLIGENCE SNAPSHOT // 2026-05-12
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,409
-DOW J: 49,703
-NASDAQ: 26,209
-VIX: 18
+S&P 500: 7,371
+DOW J: 49,388
+NASDAQ: 26,049
+VIX: 19
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[0.1%] Epstein suicide note released by May 8?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
+[99.4%] Will Trump visit China by May 15?
 [0.1%] Will Michelle Bowman be confirmed as Fed Chair?
-[99.0%] Will Trump visit China by May 15?
-[3.2%] US x Iran permanent peace deal by May 15, 2026?
-[0.4%] US x Iran permanent peace deal by May 11, 2026?
+[12.9%] Starmer out by May 15, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[17.5%] US x Iran permanent peace deal by May 31, 2026?
-[100.0%] Internazionali BNL d'Italia: Coco Gauff vs Iva Jovic
-[9.3%] Hantavirus pandemic in 2026?
-[1.6%] Epstein suicide note released by May 8?
-[99.2%] Will Trump visit China by May 31?
+[8.8%] Hantavirus pandemic in 2026?
+[0.1%] LoL: Hanwha Life Esports vs Dplus KIA (BO3) - Esports World Cup Korea Qualifier Playoffs
+[1.8%] US x Iran permanent peace deal by May 15, 2026?
+[0.5%] Will Sweden win the 2026 FIFA World Cup?
+[0.1%] Will Judy Shelton be confirmed as Fed Chair?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Curaçao win the 2026 FIFA World Cup?
-[0.1%] Counter-Strike: MOUZ vs 9z (BO3) - PGL Astana Group Stage
-[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
-[0.8%] Strait of Hormuz traffic returns to normal by May 15?
-[13.5%] Strait of Hormuz traffic returns to normal by end of May?
+[15.0%] Will Hezbollah disarm by December 31?
+[55.5%] Counter-Strike: PARIVISION vs G2 (BO3) - PGL Astana Group Stage
+[0.2%] Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?
+[16.5%] US x Iran permanent peace deal by May 31, 2026?
+[1.7%] Will the Iranian regime fall by May 31?
 
 --- SCIENCE (Top 5 Active) ---
-[40.5%] US x Iran permanent peace deal by June 30, 2026?
-[0.1%] Internazionali BNL d'Italia: Frances Tiafoe vs Andrea Pellegrino
-[0.2%] Will the Los Angeles Lakers win the NBA Western Conference Finals?
-[0.1%] Will Saudi Arabia win the 2026 FIFA World Cup?
-[40.5%] Pistons vs. Cavaliers
+[100.0%] LoL: Invictus Gaming vs Bilibili Gaming - Game 1 Winner
+[100.0%] Internazionali BNL d'Italia: Rafael Jodar vs Learner Tien
+[22.5%] Timberwolves vs. Spurs
+[1.0%] Will Elon Musk post 40-59 tweets from May 8 to May 15, 2026?
+[1.1%] Will Uruguay win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live Updates: Iran vows to fight on, oil prices surge as Trump rejects peace proposal as "unacceptable" - CBS News
-• Confident in China’s power, Xi is ready to host an unpredictable Trump - The Washington Post
-• The families going hungry because of Trump’s food stamp cuts - NBC News
-• Hegseth calls for Sen. Mark Kelly to be investigated by Pentagon for second time - CNN
-• US and French nationals test positive for hantavirus after leaving ship - BBC
-• Britain’s Starmer fights for his job as calls for his ouster grow after local election losses - AP News
-• Press dinner gunman pleads not guilty to attempting to assassinate Trump - CNN
-• 6 bodies found in Union Pacific boxcar in Laredo, Texas, near Mexico, police say - CBS News
+• Inflation jumps to its highest level since 2023. Here are 3 things costing a lot more - NPR
+• Trump and Xi appear intent on keeping deep differences over Iran war from overshadowing China summit - AP News
+• Southern California mayor resigns, will plead guilty to acting as agent for Chinese government - CNN
+• Trump’s gas tax holiday pitch faces early Capitol Hill headwinds - Politico
+• UK Prime Minister Keir Starmer Says He Will Not Resign: Live Updates - The New York Times
+• Group sues to block Trump's blue resurfacing of Reflecting Pool at Lincoln Memorial - CBS News
+• Iran War Live Updates: Trump Calls Iran's Peace Proposal 'Garbage' as Cease-Fire Hangs in the Balance - The New York Times
+• As Republicans carve up Black districts, Democrats pivot to a new midterm message - Politico
 
 ----------------------------------------
 
@@ -63,7 +63,6 @@ TRENDING TOPICS
 • Google reveals the top trending searches of 2025
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Gemini was Google’s top trending search term in 2025
-• Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
 END TRANSMISSION
