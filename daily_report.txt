@@ -1,68 +1,69 @@
-INTELLIGENCE SNAPSHOT // 2026-05-12
+INTELLIGENCE SNAPSHOT // 2026-05-13
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,371
-DOW J: 49,388
-NASDAQ: 26,049
-VIX: 19
+S&P 500: 7,393
+DOW J: 49,619
+NASDAQ: 26,085
+VIX: 18
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Epstein suicide note released by May 8?
+[100.0%] Will Trump visit China by May 15?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[99.4%] Will Trump visit China by May 15?
-[0.1%] Will Michelle Bowman be confirmed as Fed Chair?
-[12.9%] Starmer out by May 15, 2026?
+[0.1%] Will Judy Shelton be confirmed as Fed Chair?
+[100.0%] Will Trump visit China by May 31?
+[7.5%] Jeffrey Epstein foul play confirmed by December 31, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[8.8%] Hantavirus pandemic in 2026?
-[0.1%] LoL: Hanwha Life Esports vs Dplus KIA (BO3) - Esports World Cup Korea Qualifier Playoffs
-[1.8%] US x Iran permanent peace deal by May 15, 2026?
-[0.5%] Will Sweden win the 2026 FIFA World Cup?
-[0.1%] Will Judy Shelton be confirmed as Fed Chair?
+[8.5%] Hantavirus pandemic in 2026?
+[0.2%] Strait of Hormuz traffic returns to normal by May 15?
+[6.6%] Starmer out by May 15, 2026?
+[0.1%] Will Michelle Bowman be confirmed as Fed Chair?
+[0.1%] Counter-Strike: TheMongolz vs Aurora Gaming (BO3) - PGL Astana Group Stage
 
 --- TECH & AI (Top 5 Active) ---
-[15.0%] Will Hezbollah disarm by December 31?
-[55.5%] Counter-Strike: PARIVISION vs G2 (BO3) - PGL Astana Group Stage
-[0.2%] Will Carlos Roberto Massa Júnior win the 2026 Brazilian presidential election?
-[16.5%] US x Iran permanent peace deal by May 31, 2026?
-[1.7%] Will the Iranian regime fall by May 31?
+[0.1%] LoL: Oh My God vs EDward Gaming (BO3) - LPL Group Nirvana
+[64.5%] Spurs vs. Timberwolves
+[0.1%] Epstein suicide note released by May 8?
+[37.0%] US strike on Cuba by December 31?
+[0.4%] Will Poland win Eurovision 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] LoL: Invictus Gaming vs Bilibili Gaming - Game 1 Winner
-[100.0%] Internazionali BNL d'Italia: Rafael Jodar vs Learner Tien
-[22.5%] Timberwolves vs. Spurs
-[1.0%] Will Elon Musk post 40-59 tweets from May 8 to May 15, 2026?
-[1.1%] Will Uruguay win the 2026 FIFA World Cup?
+[1.2%] US x Iran permanent peace deal by May 15, 2026?
+[12.5%] US x Iran permanent peace deal by May 31, 2026?
+[90.5%] Internazionali BNL d'Italia: Casper Ruud vs Karen Khachanov
+[1.1%] Will Croatia win the 2026 FIFA World Cup?
+[7.0%] Strait of Hormuz traffic returns to normal by end of May?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Inflation jumps to its highest level since 2023. Here are 3 things costing a lot more - NPR
-• Trump and Xi appear intent on keeping deep differences over Iran war from overshadowing China summit - AP News
-• Southern California mayor resigns, will plead guilty to acting as agent for Chinese government - CNN
-• Trump’s gas tax holiday pitch faces early Capitol Hill headwinds - Politico
-• UK Prime Minister Keir Starmer Says He Will Not Resign: Live Updates - The New York Times
-• Group sues to block Trump's blue resurfacing of Reflecting Pool at Lincoln Memorial - CBS News
-• Iran War Live Updates: Trump Calls Iran's Peace Proposal 'Garbage' as Cease-Fire Hangs in the Balance - The New York Times
-• As Republicans carve up Black districts, Democrats pivot to a new midterm message - Politico
+• Donald Trump lands in China for high-stakes meeting with Xi Jinping - BBC
+• Trump faces barrage of Democratic counter-proposals on gas tax - Axios
+• ‘Irresponsible’: backlash as Utah approves datacenter twice the size of Manhattan - The Guardian
+• Is the U.S. slipping into 'Competitive Authoritarianism?' - NPR
+• How the Trump administration has undermined the fight against public corruption - NPR
+• 4 Takeaways From Tuesday’s Primaries in Nebraska and West Virginia - The New York Times
+• U.S. students' "reading recession" continuing but some places bucking the trend, report shows - CBS News
+• 10,000 rulings: The courts’ overwhelming rebuke of Trump’s ICE policies - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
 • YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube’s ‘Trending’ section is about to disappear
 • YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Google reveals the top trending searches of 2025
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Gemini was Google’s top trending search term in 2025
+• Google reveals the top trending searches of 2025
 
 ========================================
 END TRANSMISSION
