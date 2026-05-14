@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-05-13
+INTELLIGENCE SNAPSHOT // 2026-05-14
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,393
-DOW J: 49,619
-NASDAQ: 26,085
+S&P 500: 7,475
+DOW J: 49,932
+NASDAQ: 26,516
 VIX: 18
 
 ----------------------------------------
@@ -12,56 +12,56 @@ VIX: 18
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Will Trump visit China by May 15?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[0.1%] Will Judy Shelton be confirmed as Fed Chair?
-[100.0%] Will Trump visit China by May 31?
-[7.5%] Jeffrey Epstein foul play confirmed by December 31, 2026?
+[0.4%] Will Trump and Xi kiss at their summit?
+[0.1%] LoL: Kiwoom DRX vs KT Rolster (BO3) - LCK Rounds 1-2
+[6.6%] Jeffrey Epstein foul play confirmed by December 31, 2026?
+[0.7%] Will Tarcisio de Freitas win the 2026 Brazilian presidential election?
 
 --- US POLITICS (Top 5 Active) ---
-[8.5%] Hantavirus pandemic in 2026?
-[0.2%] Strait of Hormuz traffic returns to normal by May 15?
-[6.6%] Starmer out by May 15, 2026?
-[0.1%] Will Michelle Bowman be confirmed as Fed Chair?
-[0.1%] Counter-Strike: TheMongolz vs Aurora Gaming (BO3) - PGL Astana Group Stage
+[28.0%] LoL: Weibo Gaming vs JD Gaming (BO3) - LPL Group Ascend
+[7.4%] Hantavirus pandemic in 2026?
+[0.1%] Will Eduardo Leite win the 2026 Brazilian presidential election?
+[4.8%] Starmer out by May 15, 2026?
+[0.8%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] LoL: Oh My God vs EDward Gaming (BO3) - LPL Group Nirvana
-[64.5%] Spurs vs. Timberwolves
-[0.1%] Epstein suicide note released by May 8?
-[37.0%] US strike on Cuba by December 31?
-[0.4%] Will Poland win Eurovision 2026?
+[0.8%] Will Hillary Clinton win the 2028 Democratic presidential nomination?
+[0.4%] Will Bitcoin reach $150,000 in May?
+[0.7%] US x Iran permanent peace deal by May 15, 2026?
+[100.0%] Internazionali BNL d'Italia: Jannik Sinner vs Andrey Rublev
+[18.1%] Will France win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[1.2%] US x Iran permanent peace deal by May 15, 2026?
-[12.5%] US x Iran permanent peace deal by May 31, 2026?
-[90.5%] Internazionali BNL d'Italia: Casper Ruud vs Karen Khachanov
-[1.1%] Will Croatia win the 2026 FIFA World Cup?
-[7.0%] Strait of Hormuz traffic returns to normal by end of May?
+[99.5%] Paris: Alina Charaeva vs Tamara Korpatsch
+[100.0%] Dota 2: PARIVISION vs BetBoom Team (BO3) - DreamLeague Group B
+[11.5%] US x Iran permanent peace deal by May 31, 2026?
+[100.0%] LoL: Weibo Gaming vs JD Gaming - Game 1 Winner
+[6.5%] US obtains Iranian enriched uranium by May 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Donald Trump lands in China for high-stakes meeting with Xi Jinping - BBC
-• Trump faces barrage of Democratic counter-proposals on gas tax - Axios
-• ‘Irresponsible’: backlash as Utah approves datacenter twice the size of Manhattan - The Guardian
-• Is the U.S. slipping into 'Competitive Authoritarianism?' - NPR
-• How the Trump administration has undermined the fight against public corruption - NPR
-• 4 Takeaways From Tuesday’s Primaries in Nebraska and West Virginia - The New York Times
-• U.S. students' "reading recession" continuing but some places bucking the trend, report shows - CBS News
-• 10,000 rulings: The courts’ overwhelming rebuke of Trump’s ICE policies - Politico
+• Xi-Trump summit live: Trump invites Xi to visit White House on September 24 - South China Morning Post
+• Wes Streeting resigns as health secretary - his letter in full - BBC
+• China gains major edge on U.S. amid Iran war, intelligence report finds - The Washington Post
+• The MAHA movement is coming to school cafeterias. Here's what that means for kids - NPR
+• Trump's killer quote exposes his bind on Iran and inflation - Axios
+• Russia hits Kyiv with drones and ballistic missiles, killing 1 and injuring 31 - NPR
+• Prospect of Alex Murdaugh Retrial Puts Rural South Carolina Back in Spotlight - The New York Times
+• In a reversal, SC lawmakers now anticipate special session to redraw congressional district lines - Post and Courier
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube’s ‘Trending’ section is about to disappear
+• YouTube is killing its Trending page a decade after its debut
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube’s ‘Trending’ section is about to disappear
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• YouTube removing the Trending page in favor of Charts, recommendations
 • Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
 
