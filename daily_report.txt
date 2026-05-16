@@ -1,11 +1,11 @@
-INTELLIGENCE SNAPSHOT // 2026-05-15
+INTELLIGENCE SNAPSHOT // 2026-05-16
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,402
-DOW J: 49,549
-NASDAQ: 26,138
-VIX: 19
+S&P 500: 7,408
+DOW J: 49,526
+NASDAQ: 26,225
+VIX: 18
 
 ----------------------------------------
 
@@ -13,57 +13,57 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[0.1%] Xi meets with Iranian officials by May 15?
-[0.2%] US x Iran permanent peace deal by May 15, 2026?
-[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
-[0.1%] Will Eduardo Leite win the 2026 Brazilian presidential election?
+[4.8%] Will Trump say "Iran" during events with Xi Jinping?
+[92.2%] Internazionali BNL d'Italia: Jannik Sinner vs Daniil Medvedev
+[9.5%] Israel x Syria security agreement by June 30?
+[0.1%] LoL: Gen.G vs T1 (BO3) - LCK Rounds 1-2
 
 --- US POLITICS (Top 5 Active) ---
+[4.0%] Will Trump say "Strait" or "Hormuz" during events with Xi Jinping?
+[0.1%] Will Trump and Putin meet next in Australia?
+[4.6%] Will Trump say "Nuclear" during events with Xi Jinping?
 [0.1%] Strait of Hormuz traffic returns to normal by May 15?
-[71.5%] Counter-Strike: 9z vs magic (BO3) - PGL Astana Playoffs
-[64.6%] Will Trump say "Iran" during events with Xi Jinping?
-[9.5%] US x Iran permanent peace deal by May 31, 2026?
-[48.5%] Counter-Strike: FURIA vs Team Falcons (BO3) - PGL Astana Playoffs
+[0.7%] Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will the next diplomatic US-Iran meeting be in Iran?
-[0.1%] Will the next diplomatic US-Iran meeting be in Iraq?
-[100.0%] Dota 2: Aurora vs ex-HEROIC - Game 2 Winner
-[29.5%] Strait of Hormuz traffic returns to normal by end of June?
-[7.1%] Hantavirus pandemic in 2026?
+[100.0%] LoL: ThunderTalk Gaming vs EDward Gaming (BO3) - LPL Group Nirvana
+[0.1%] Counter-Strike: MOUZ vs Spirit (BO3) - PGL Astana Playoffs
+[7.8%] Will Bulgaria win Eurovision 2026?
+[9.5%] Will Donald Trump win the Nobel Peace Prize in 2026?
+[10.5%] US x Iran permanent peace deal by May 31, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Norway win Eurovision 2026?
-[0.4%] Starmer out by May 15, 2026?
-[0.2%] Will Cyprus win Eurovision 2026?
-[100.0%] LoL: HANJIN BRION vs DN SOOPers - Game 2 Winner
-[0.1%] Will Poland win Eurovision 2026?
+[77.5%] Dota 2: Tundra Esports vs BetBoom Team (BO3) - DreamLeague Group B
+[1.1%] Will the Iranian regime fall by May 31?
+[100.0%] Parma: Dayana Yastremska vs Jessica Bouzas Maneiro
+[5.5%] Will the Iranian regime fall by June 30?
+[0.8%] Will Ecuador win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump China visit live: US president says a lot of problems ‘settled’, as he meets with Xi on final day of summit - The Guardian
-• 5 Key Moments During the California Governor Debate - The New York Times
-• After redistricting, what does representation mean to Tennessee voters? - NPR
-• China and US ‘feel very similar about Iran’, Donald Trump says - Financial Times
-• US seeks indictment of former Cuban leader Raul Castro - Al Jazeera
-• South Carolina redistricting: Governor forces lawmakers back to session to eliminate lone majority-Black district - Democracy Docket
-• Even Alex Murdaugh Didn’t Think His Convictions Would Be Overturned - The New York Times
-• How a year of gerrymandering has further slashed competitive House seats - Politico
+• This Republican voted to convict Trump. Now he's up for reelection. Can he survive? - NPR
+• Trump talks up trade deals with China, but experts see no big wins for U.S. - CBS News
+• Trump says Islamic State group leader was killed in a joint US-Nigerian mission - AP News
+• 2020 election denier Tina Peters granted clemency by Democratic governor - The Washington Post
+• Supreme Court rejects Virginia’s bid to restore congressional map favoring Democrats - WTOP
+• IDF confirms death of Hamas military chief following Gaza strike - The Jerusalem Post
+• Texas children’s hospital to create first detransition clinic in win for Trump - The Guardian
+• Tennessee’s sole congressional Democrat won’t run again after redistricting - The Washington Post
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube is killing its Trending page a decade after its debut
-• YouTube’s ‘Trending’ section is about to disappear
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Top trending searches of 2025 revealed by Google. See what made the list.
 • Google reveals the top trending searches of 2025
 • YouTube removing the Trending page in favor of Charts, recommendations
 • Gemini was Google’s top trending search term in 2025
 • Bluesky is testing a trending topics feature
+• Bluesky adds Trending topics to its arsenal
 
 ========================================
 END TRANSMISSION
