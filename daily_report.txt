@@ -1,11 +1,11 @@
-INTELLIGENCE SNAPSHOT // 2026-05-18
+INTELLIGENCE SNAPSHOT // 2026-05-19
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,401
-DOW J: 49,671
-NASDAQ: 26,099
-VIX: 19
+S&P 500: 7,347
+DOW J: 49,557
+NASDAQ: 25,777
+VIX: 18
 
 ----------------------------------------
 
@@ -13,56 +13,56 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[100.0%] Will Trump say "Dumbocrat" during Bret Baier interview?
-[0.7%] Will Eric Trump win the 2028 US Presidential Election?
-[2.0%] Will Trump say "Iran" during events with Xi Jinping?
-[6.6%] Will Reza Pahlavi lead Iran in 2026?
+[60.5%] Will Manchester City FC win on 2026-05-19?
+[1.4%] Will Trump say "Iran" during events with Xi Jinping?
+[30.5%] Cavaliers vs. Knicks
+[10.5%] US x Iran permanent peace deal by May 31, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[6.0%] Israel x Syria security agreement by June 30?
-[0.8%] Will Elise Stefanik win the 2028 Republican presidential nomination?
-[0.8%] Will Byron Donalds win the 2028 Republican presidential nomination?
+[0.1%] LoL: BNK FEARX vs Nongshim Red Force (BO3) - Esports World Cup Korea Qualifier Playoffs
+[100.0%] Dota 2: Team Falcons vs Tundra Esports - Game 2 Winner
 [32.5%] Spurs vs. Thunder
-[1.8%] Will Trump say "Nuclear" during events with Xi Jinping?
+[0.9%] Will the Iranian regime fall by May 31?
+[0.9%] Will Roy Cooper win the 2028 Democratic presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[1.1%] Will Switzerland win the 2026 FIFA World Cup?
-[100.0%] Trump declassifies new UFO files by May 15?
-[11.5%] US x Iran permanent peace deal by May 31, 2026?
-[0.8%] Iran closes its airspace by May 18?
-[0.8%] Will Eric Trump win the 2028 Republican presidential nomination?
+[1.6%] Will Morocco win the 2026 FIFA World Cup?
+[4.5%] US obtains Iranian enriched uranium by May 31?
+[93.5%] Will Neymar play in the 2026 FIFA World Cup?
+[1.8%] Will Japan win the 2026 FIFA World Cup?
+[8.5%] Will Argentina win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[0.8%] Will Erika Kirk win the 2028 Republican presidential nomination?
-[0.1%] Dota 2: Xtreme Gaming vs Tundra Esports (BO1) - DreamLeague Group B
-[1.1%] Will the Iranian regime fall by May 31?
-[51.5%] Spread: Arsenal FC (-2.5)
-[0.9%] Will Croatia win the 2026 FIFA World Cup?
+[1.2%] Will Trump say "Strait" or "Hormuz" during events with Xi Jinping?
+[0.1%] Will Elon Musk post 280-299 tweets from May 12 to May 19, 2026?
+[1.2%] Will Trump say "Nuclear" during events with Xi Jinping?
+[18.1%] Will France win the 2026 FIFA World Cup?
+[0.8%] Will Ecuador win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump drops $10 billion lawsuit against IRS - CNBC
-• Luigi Mangione prosecutors can use gun and notebook as evidence, judge rules - NBC News
-• Washington prayer rally draws thousands to the National Mall, in photos - AP News
-• Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects - The New York Times
-• Why the Supreme Court's voting rights ruling could play a big role at the local level - NPR
-• Intense Storms Could Rattle the U.S. Midwest, Monday’s Forecast Shows - The New York Times
-• Fighter jets crash in midair during air show at Idaho Air Force base, crew eject safely: "A lot of luck involved" - CBS News
-• Redistricting debate shifts to South Carolina as Republicans seek clean sweep of US House seats - AP News
+• Mother’s call to police sparked urgent search before San Diego mosque shooting - The Washington Post
+• Trump halts 'major attack' on Iran, but ready to strike if Tehran won't give up nuclear weapon plans - Fox News
+• Justices Hint at Strains as Supreme Court Comes Under Scrutiny - The New York Times
+• Capitol agenda: Trump turns to Massie after Cassidy revenge - Politico
+• What to know about today's primaries in Georgia, Kentucky, Pennsylvania and more - CBS News
+• Iran's new offer is insufficient, risks war resumption: senior U.S. official - Axios
+• Sandy Fire in Simi Valley: More than 1,300 acres scorched, evacuations expanded - ABC7 Los Angeles
+• ‘We are facing an existential crisis’: Redistricting rocks the race for the nation’s bluest House seat - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube’s ‘Trending’ section is about to disappear
-• YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube is killing its Trending page a decade after its debut
+• Trending is out—YouTube is now all about your interests
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• Gemini was Google’s top trending search term in 2025
-• YouTube removing the Trending page in favor of Charts, recommendations
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Google reveals the top trending searches of 2025
+• YouTube removing the Trending page in favor of Charts, recommendations
+• Gemini was Google’s top trending search term in 2025
 • Bluesky adds Trending topics to its arsenal
 
 ========================================
