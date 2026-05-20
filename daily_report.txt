@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-05-19
+INTELLIGENCE SNAPSHOT // 2026-05-20
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,347
-DOW J: 49,557
-NASDAQ: 25,777
+S&P 500: 7,399
+DOW J: 49,640
+NASDAQ: 26,103
 VIX: 18
 
 ----------------------------------------
@@ -13,43 +13,43 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[60.5%] Will Manchester City FC win on 2026-05-19?
-[1.4%] Will Trump say "Iran" during events with Xi Jinping?
-[30.5%] Cavaliers vs. Knicks
-[10.5%] US x Iran permanent peace deal by May 31, 2026?
+[0.5%] Will Trump say "Iran" during events with Xi Jinping?
+[0.1%] LoL: Nongshim Red Force vs KT Rolster (BO3) - LCK Rounds 1-2
+[0.2%] Will Ghana win the 2026 FIFA World Cup?
+[0.5%] Will Austria win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] LoL: BNK FEARX vs Nongshim Red Force (BO3) - Esports World Cup Korea Qualifier Playoffs
-[100.0%] Dota 2: Team Falcons vs Tundra Esports - Game 2 Winner
+[0.4%] Will Scotland win the 2026 FIFA World Cup?
 [32.5%] Spurs vs. Thunder
-[0.9%] Will the Iranian regime fall by May 31?
-[0.9%] Will Roy Cooper win the 2028 Democratic presidential nomination?
+[0.4%] Will Canada win the 2026 FIFA World Cup?
+[0.5%] Will Sweden win the 2026 FIFA World Cup?
+[0.4%] Will Paraguay win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[1.6%] Will Morocco win the 2026 FIFA World Cup?
-[4.5%] US obtains Iranian enriched uranium by May 31?
-[93.5%] Will Neymar play in the 2026 FIFA World Cup?
-[1.8%] Will Japan win the 2026 FIFA World Cup?
-[8.5%] Will Argentina win the 2026 FIFA World Cup?
+[0.4%] Will Egypt win the 2026 FIFA World Cup?
+[0.2%] Will Algeria win the 2026 FIFA World Cup?
+[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
+[5.5%] Iran closes its airspace by May 21?
+[17.5%] US x Iran permanent peace deal by May 31, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[1.2%] Will Trump say "Strait" or "Hormuz" during events with Xi Jinping?
-[0.1%] Will Elon Musk post 280-299 tweets from May 12 to May 19, 2026?
-[1.2%] Will Trump say "Nuclear" during events with Xi Jinping?
-[18.1%] Will France win the 2026 FIFA World Cup?
-[0.8%] Will Ecuador win the 2026 FIFA World Cup?
+[0.9%] Will the Iranian regime fall by May 31?
+[0.5%] Will Trump say "Strait" or "Hormuz" during events with Xi Jinping?
+[100.0%] Hamburg European Open: Tommy Paul vs Tomas Etcheverry
+[0.4%] Will South Korea win the 2026 FIFA World Cup?
+[0.1%] LoL: Nongshim Red Force vs KT Rolster - Game 2 Winner
 
 ----------------------------------------
 
 TOP HEADLINES
-• Mother’s call to police sparked urgent search before San Diego mosque shooting - The Washington Post
-• Trump halts 'major attack' on Iran, but ready to strike if Tehran won't give up nuclear weapon plans - Fox News
-• Justices Hint at Strains as Supreme Court Comes Under Scrutiny - The New York Times
-• Capitol agenda: Trump turns to Massie after Cassidy revenge - Politico
-• What to know about today's primaries in Georgia, Kentucky, Pennsylvania and more - CBS News
-• Iran's new offer is insufficient, risks war resumption: senior U.S. official - Axios
-• Sandy Fire in Simi Valley: More than 1,300 acres scorched, evacuations expanded - ABC7 Los Angeles
-• ‘We are facing an existential crisis’: Redistricting rocks the race for the nation’s bluest House seat - Politico
+• Former Rep. Barney Frank, champion of Wall Street reform and LGBTQ trailblazer, dies at 86 - NBC News
+• Trump tightens grip on GOP after Massie’s defeat in Kentucky primary – US politics live - The Guardian
+• I.R.S. to Drop Audits of Trump and Family - The New York Times
+• Iran threatens to extend conflict ‘beyond the region’ if U.S. and Israel resume attacks - CNBC
+• China’s Xi gives Putin a red-carpet welcome – and makes a veiled jab at the US - CNN
+• Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals – and sometimes ‘fees’ - Reuters
+• Trump completed his revenge tour. Allies wonder what it cost. - Politico
+• Big wins, surprises and signals from Georgia’s primary night - AJC.com
 
 ----------------------------------------
 
