@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-05-22
+INTELLIGENCE SNAPSHOT // 2026-05-23
 ========================================
 
 MARKET CLOSE
 S&P 500: 7,473
-DOW J: 50,573
-NASDAQ: 26,358
+DOW J: 50,580
+NASDAQ: 26,344
 VIX: 17
 
 ----------------------------------------
@@ -12,56 +12,56 @@ VIX: 17
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Trump say "Iran" during events with Xi Jinping?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[4.7%] Will Reza Pahlavi lead Iran in 2026?
-[0.1%] Will Trump say "Nuclear" during events with Xi Jinping?
-[25.5%] US x Iran permanent peace deal by May 31, 2026?
+[30.3%] Iran closes its airspace by May 24?
+[13.5%] US x Iran permanent peace deal by May 31, 2026?
+[0.1%] Will Uzbekistan win the 2026 FIFA World Cup?
+[99.7%] Will the Iran ceasefire continue through May 22?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Trump say "Strait" or "Hormuz" during events with Xi Jinping?
-[5.7%] US x Iran permanent peace deal by May 22, 2026?
-[100.0%] Trump kiss by May 31?
-[8.0%] Strait of Hormuz traffic returns to normal by end of May?
-[0.1%] Will Uzbekistan win the 2026 FIFA World Cup?
+[0.1%] Will Panama win the 2026 FIFA World Cup?
+[0.1%] Will Qatar win the 2026 FIFA World Cup?
+[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
+[0.1%] Will Jordan win the 2026 FIFA World Cup?
+[1.1%] Will USA win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[1.1%] Will Mexico win the 2026 FIFA World Cup?
-[1.1%] Will Uruguay win the 2026 FIFA World Cup?
-[100.0%] LoL: JD Gaming vs Weibo Gaming (BO5) - Esports World Cup China Qualifier Phase 2
-[0.1%] LoL: KT Rolster vs Gen.G (BO3) - LCK Rounds 1-2
-[17.2%] Will Spain win the 2026 FIFA World Cup?
+[0.1%] Will Congo DR win the 2026 FIFA World Cup?
+[0.1%] Will Saudi Arabia win the 2026 FIFA World Cup?
+[0.1%] Will New Zealand win the 2026 FIFA World Cup?
+[0.1%] Will Iraq win the 2026 FIFA World Cup?
+[0.1%] Will Curaçao win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[0.5%] Will the Iranian regime fall by May 31?
-[0.1%] Geneva Open: Casper Ruud vs Mariano Navone
-[0.1%] Will Haiti win the 2026 FIFA World Cup?
-[0.1%] Will Elon Musk post 260-279 tweets from May 15 to May 22, 2026?
-[1.8%] Will Japan win the 2026 FIFA World Cup?
+[0.1%] Will South Africa win the 2026 FIFA World Cup?
+[0.1%] Will Tunisia win the 2026 FIFA World Cup?
+[1.7%] Will Colombia win the 2026 FIFA World Cup?
+[0.1%] Will Iran win the 2026 FIFA World Cup?
+[7.5%] US x Iran permanent peace deal by May 26, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Republicans call off vote on Iran war resolution that was on the verge of passing - NPR
-• Audit Immunity for Trump Family Puts I.R.S. in a Bind - The New York Times
-• Senate GOP, frustrated with Trump’s $1.8B payout fund, delays vote on ICE money - The Washington Post
-• Trump's revenge politics comes back to haunt him - Axios
-• Several people watched San Diego attack live on video calls, recordings show - CBS News
-• NATO allies bewildered by Trump’s about-face on US troop moves in Europe - AP News
-• Charges dropped against activists in Chicago immigration crackdown amid grand jury misconduct claims - CNN
-• US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says - Al Jazeera
+• Trump administration to force foreigners in the U.S. to apply for a green card abroad - NPR
+• A tough week for Trump on Capitol Hill, as Republicans deal him setbacks - The Washington Post
+• Evacuation orders issued in California city over chemical tank: 'It fails or it blows up' - ABC News - Breaking News, Latest News and Videos
+• Trump critics Comey and Cohen float applying for the Anti-Weaponisation Fund - BBC
+• Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia - The New York Times
+• Tulsi Gabbard resigns as director of national intelligence - Axios
+• Police ordered guns to be removed from mosque shooter’s home in 2025 - The Washington Post
+• Trump met top advisers on Iran as he weighs return to war - Axios
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube is killing its Trending page a decade after its debut
 • Trending is out—YouTube is now all about your interests
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube’s ‘Trending’ section is about to disappear
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• Google reveals the top trending searches of 2025
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube removing the Trending page in favor of Charts, recommendations
+• Google reveals the top trending searches of 2025
 • Gemini was Google’s top trending search term in 2025
 • Bluesky adds Trending topics to its arsenal
 
