@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-05-23
+INTELLIGENCE SNAPSHOT // 2026-05-24
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,37 @@ VIX: 17
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[35.0%] US x Iran permanent peace deal by May 26, 2026?
+[46.0%] US x Iran permanent peace deal by May 31, 2026?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[30.3%] Iran closes its airspace by May 24?
-[13.5%] US x Iran permanent peace deal by May 31, 2026?
-[0.1%] Will Uzbekistan win the 2026 FIFA World Cup?
-[99.7%] Will the Iran ceasefire continue through May 22?
+[9.2%] Strait of Hormuz traffic returns to normal by end of May?
+[0.1%] Counter-Strike: Team Falcons vs Legacy (BO5) - CS Asia Championships Playoffs
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Panama win the 2026 FIFA World Cup?
-[0.1%] Will Qatar win the 2026 FIFA World Cup?
-[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
-[0.1%] Will Jordan win the 2026 FIFA World Cup?
-[1.1%] Will USA win the 2026 FIFA World Cup?
+[100.0%] Will the Iran ceasefire continue through May 23?
+[0.4%] Will the Iranian regime fall by May 31?
+[58.5%] Will West Ham United FC win on 2026-05-24?
+[0.1%] LoL: Ninjas in Pyjamas vs EDward Gaming (BO5) - LPL Play-In
+[15.5%] Indian Premier League: Mumbai Indians vs Rajasthan Royals
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Congo DR win the 2026 FIFA World Cup?
-[0.1%] Will Saudi Arabia win the 2026 FIFA World Cup?
-[0.1%] Will New Zealand win the 2026 FIFA World Cup?
-[0.1%] Will Iraq win the 2026 FIFA World Cup?
-[0.1%] Will Curaçao win the 2026 FIFA World Cup?
+[97.5%] Will the Iran ceasefire continue through May 24?
+[56.5%] US x Iran permanent peace deal by June 30, 2026?
+[2.4%] Will the Iranian regime fall by June 30?
+[1.8%] US obtains Iranian enriched uranium by May 31?
+[1.1%] Will USA win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will South Africa win the 2026 FIFA World Cup?
-[0.1%] Will Tunisia win the 2026 FIFA World Cup?
-[1.7%] Will Colombia win the 2026 FIFA World Cup?
-[0.1%] Will Iran win the 2026 FIFA World Cup?
-[7.5%] US x Iran permanent peace deal by May 26, 2026?
+[61.5%] Strait of Hormuz traffic returns to normal by end of June?
+[6.7%] Iran closes its airspace by May 24?
+[13.7%] Iran agrees to surrender enriched uranium stockpile by May 31, 2026?
+[79.5%] US x Iran permanent peace deal by December 31, 2026?
+[18.0%] Will the U.S. invade Iran before 2027?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump administration to force foreigners in the U.S. to apply for a green card abroad - NPR
-• A tough week for Trump on Capitol Hill, as Republicans deal him setbacks - The Washington Post
-• Evacuation orders issued in California city over chemical tank: 'It fails or it blows up' - ABC News - Breaking News, Latest News and Videos
-• Trump critics Comey and Cohen float applying for the Anti-Weaponisation Fund - BBC
-• Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia - The New York Times
-• Tulsi Gabbard resigns as director of national intelligence - Axios
-• Police ordered guns to be removed from mosque shooter’s home in 2025 - The Washington Post
-• Trump met top advisers on Iran as he weighs return to war - Axios
+• (Feed unavailable)
 
 ----------------------------------------
 
@@ -57,13 +50,13 @@ TRENDING TOPICS
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube is killing its Trending page a decade after its debut
 • Trending is out—YouTube is now all about your interests
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube is ditching Trending to get niche with Charts
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube removing the Trending page in favor of Charts, recommendations
 • Google reveals the top trending searches of 2025
 • Gemini was Google’s top trending search term in 2025
-• Bluesky adds Trending topics to its arsenal
 
 ========================================
 END TRANSMISSION
