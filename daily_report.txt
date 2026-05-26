@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-05-25
+INTELLIGENCE SNAPSHOT // 2026-05-26
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,473
-DOW J: 50,580
-NASDAQ: 26,344
+S&P 500: 7,538
+DOW J: 50,577
+NASDAQ: 26,706
 VIX: 17
 
 ----------------------------------------
@@ -13,57 +13,57 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[13.5%] US x Iran permanent peace deal by May 26, 2026?
-[31.5%] US x Iran permanent peace deal by May 31, 2026?
-[0.1%] Will Congo DR win the 2026 FIFA World Cup?
-[100.0%] Will the Iran ceasefire continue through May 24?
+[97.4%] Will the Iran ceasefire continue through May 24?
+[3.5%] US x Iran permanent peace deal by May 26, 2026?
+[0.8%] Iran closes its airspace by May 24?
+[23.5%] US x Iran permanent peace deal by May 31, 2026?
 
 --- US POLITICS (Top 5 Active) ---
+[39.5%] Spurs vs. Thunder
+[2.6%] Strait of Hormuz traffic returns to normal by end of May?
 [0.2%] Will Ivory Coast win the 2026 FIFA World Cup?
-[1.1%] Will Mexico win the 2026 FIFA World Cup?
-[0.7%] Will Eric Trump win the 2028 US Presidential Election?
-[1.4%] Iran closes its airspace by May 24?
-[0.1%] LoL: Dplus KIA vs T1 (BO5) - Esports World Cup Korea Qualifier Playoffs
+[0.4%] Will the Iranian regime fall by May 31?
+[0.2%] Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[0.2%] Will Egypt win the 2026 FIFA World Cup?
-[0.2%] Will Paraguay win the 2026 FIFA World Cup?
-[0.4%] Will Canada win the 2026 FIFA World Cup?
-[3.2%] Strait of Hormuz traffic returns to normal by end of May?
-[0.1%] Will Iran win the 2026 FIFA World Cup?
+[2.5%] Will Norway win the 2026 FIFA World Cup?
+[0.8%] Will Ecuador win the 2026 FIFA World Cup?
+[0.1%] Will Tunisia win the 2026 FIFA World Cup?
+[0.9%] US obtains Iranian enriched uranium by May 31?
+[0.2%] Will Oliver Bearman be the 2026 F1 Drivers' Champion?
 
 --- SCIENCE (Top 5 Active) ---
-[1.8%] Will Colombia win the 2026 FIFA World Cup?
-[0.2%] Will Ghana win the 2026 FIFA World Cup?
-[100.0%] Roland Garros WTA: Elina Svitolina vs Anna Bondar
 [1.5%] Will Morocco win the 2026 FIFA World Cup?
-[0.2%] Will the Iranian regime fall by May 31?
+[6.5%] Roland Garros ATP: Cristian Garin vs Learner Tien
+[0.2%] Will Pierre Gasly be the 2026 F1 Drivers' Champion?
+[0.1%] Will the price of Bitcoin be above $80,000 on May 26?
+[5.5%] US announces new Iran agreement/ceasefire extension by May 26?
 
 ----------------------------------------
 
 TOP HEADLINES
-• U.S. and Iran work toward deal to extend ceasefire and reopen Strait of Hormuz - The Washington Post
-• Governor Newsom submits request to President Trump for emergency declaration to support response efforts in Orange County - California State Portal | CA.gov
-• Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical - The New York Times
-• Trump faces health questions ahead of another Walter Reed trip - The Washington Post
-• Marco Rubio Brutally Undercuts Nonsensical Trump Boast - The Daily Beast
-• Trump blasts critics as UK readies Hormuz mine-clearing mission amid Iran deal talks - Fox News
-• Trump’s emerging plan to end Iran war draws criticism from hard-line Republicans - PBS
-• For a group of Vietnam vets, opposing Trump's arch is about being "loyal to the country" - CBS News
+• Live Updates: Iran accuses U.S. of "grave violation" of ceasefire as Trump seeks "good deal or no deal" - CBS News
+• Threat of Explosion From Toxic Chemical Tank Lessened, Officials Say - The New York Times
+• A runoff in Texas primary will test Trump’s grip on GOP - The Washington Post
+• Trump to undergo annual physical after year of public attention to health issues - The Guardian
+• Court Rejects Alabama House Map, Calling It Unfair to Black Voters - The New York Times
+• Supreme Court tosses Florida lawsuit against states for drivers' licenses issued to undocumented immigrants - NBC News
+• Iran’s Khamenei Says No Going Back For Middle East Rocked by War - Bloomberg.com
+• Texas’ raucous primary runoffs end today. Here’s what to watch. - The Texas Tribune
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Trending News
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• Facebook Is Killing Trending Topics
 • YouTube is killing its Trending page a decade after its debut
 • Trending is out—YouTube is now all about your interests
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 • Top trending searches of 2025 revealed by Google. See what made the list.
-• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube is ditching Trending to get niche with Charts
-• Google reveals the top trending searches of 2025
 • Bluesky adds Trending topics to its arsenal
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Bluesky is testing a trending topics feature
 
 ========================================
 END TRANSMISSION
