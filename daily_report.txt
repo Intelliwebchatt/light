@@ -1,68 +1,69 @@
-INTELLIGENCE SNAPSHOT // 2026-05-27
+INTELLIGENCE SNAPSHOT // 2026-05-28
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,514
-DOW J: 50,746
-NASDAQ: 26,588
-VIX: 17
+S&P 500: 7,557
+DOW J: 50,640
+NASDAQ: 26,846
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[12.5%] US x Iran permanent peace deal by May 31, 2026?
 [1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[20.5%] US x Iran permanent peace deal by May 31, 2026?
-[99.4%] Will the Iran ceasefire continue through May 24?
-[0.2%] Will the Iranian regime fall by May 31?
-[2.5%] Will Norway win the 2026 FIFA World Cup?
+[0.1%] Roland Garros ATP: Jannik Sinner vs Juan Manuel Cerundolo
+[99.8%] Will the Iran ceasefire continue through May 24?
+[2.4%] Will the US officially declare war on Venezuela by June 30, 2026?
 
 --- US POLITICS (Top 5 Active) ---
 [0.2%] Will Scotland win the 2026 FIFA World Cup?
-[6.3%] Will Reza Pahlavi lead Iran in 2026?
-[0.7%] Will Senegal win the 2026 FIFA World Cup?
-[100.0%] LoL: BNK FEARX vs Kiwoom DRX (BO3) - LCK Rounds 1-2
-[3.9%] Will Netherlands win the 2026 FIFA World Cup?
+[0.2%] Will South Korea win the 2026 FIFA World Cup?
+[0.4%] Strait of Hormuz traffic returns to normal by end of May?
+[0.9%] Will Croatia win the 2026 FIFA World Cup?
+[10.3%] US-Iran nuclear deal by May 31?
 
 --- TECH & AI (Top 5 Active) ---
-[1.2%] Strait of Hormuz traffic returns to normal by end of May?
-[0.7%] Will Barack Obama win the 2028 Democratic presidential nomination?
-[51.5%] Roland Garros ATP: Mariano Navone vs Jakub Mensik
-[45.5%] Roland Garros ATP: Ugo Humbert vs Quentin Halys
-[1.8%] Will Belgium win the 2026 FIFA World Cup?
+[0.1%] Will the Iranian regime fall by May 31?
+[53.5%] Roland Garros ATP: Hubert Hurkacz vs Frances Tiafoe
+[0.1%] Roland Garros ATP: Adolfo Vallejo vs Moise Kouame
+[0.1%] Will Donald Trump dance on May 25, 2026?
+[0.1%] Dota 2: Team Yandex vs Aurora (BO1) - BLAST Slam Group Stage
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] Dota 2: OG vs Tundra Esports (BO1) - BLAST Slam Group Stage
-[6.5%] US announces new Iran agreement/ceasefire extension by May 27?
-[0.8%] Will Gina Raimondo win the 2028 Democratic presidential nomination?
-[0.8%] Will Oprah Winfrey win the 2028 Democratic presidential nomination?
-[0.9%] Will Croatia win the 2026 FIFA World Cup?
+[0.9%] Will Tom Brady win the 2028 Republican presidential nomination?
+[0.8%] Will Turkiye win the 2026 FIFA World Cup?
+[24.0%] US x Iran permanent peace deal by June 7, 2026?
+[32.0%] US announces new Iran agreement/ceasefire extension by May 31?
+[0.9%] Will Ecuador win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P. - The New York Times
-• Corrosive chemicals hamper recovery efforts at Longview industrial site; 9 still unaccounted for after tank rupture - Oregon Public Broadcasting - OPB
-• Texas general election matchups are finally set. Here's what you need to know - NPR
-• Iran state TV says draft deal with US would reopen Hormuz shipping, end naval blockade - Reuters
-• Biden files lawsuit in bid to block DOJ audio interview release - Axios
-• Evacuation Orders Lifted as Southern California Chemical Tank Cools - The New York Times
-• Minneapolis Police Chief Brian O'Hara resigns after internal probe into his conduct, mayor says - CBS News
-• Christian Menefee defeats longtime Houston Rep. Al Green in Texas’ new 18th Congressional District - The Texas Tribune
+• U.S. and Iran trade strikes as Trump says he feels no pressure for peace deal - The Washington Post
+• A federal judge in D.C. declines to block Trump's executive order on voting by mail - NPR
+• US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say - BBC
+• Trump wants a gas tax holiday. There’s a much bigger problem looming - NPR
+• Xavier Becerra and Steve Hilton lead the pack in the race for California governor, new poll shows - ABC7 Los Angeles
+• Feds seize $40M in gold bars from ex-CIA agent's house in Virginia - USA Today
+• Paxton win sparks GOP money panic - Politico
+• Deadly paper mill implosion illustrates industry’s risks - The Seattle Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube’s ‘Trending’ section is about to disappear
+• YouTube is killing its Trending page a decade after its debut
 • Trending is out—YouTube is now all about your interests
-• YouTube is ditching Trending to get niche with Charts
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• Bluesky adds Trending topics to its arsenal
-• Bluesky is testing a trending topics feature
+• YouTube is ditching Trending to get niche with Charts
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Gemini was Google’s top trending search term in 2025
+• Google reveals the top trending searches of 2025
 
 ========================================
 END TRANSMISSION
