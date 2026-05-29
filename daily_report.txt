@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-05-28
+INTELLIGENCE SNAPSHOT // 2026-05-29
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,557
-DOW J: 50,640
-NASDAQ: 26,846
+S&P 500: 7,569
+DOW J: 50,883
+NASDAQ: 26,891
 VIX: 16
 
 ----------------------------------------
@@ -12,58 +12,58 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[12.5%] US x Iran permanent peace deal by May 31, 2026?
-[1.4%] Will Bitcoin hit $150k by June 30, 2026?
-[0.1%] Roland Garros ATP: Jannik Sinner vs Juan Manuel Cerundolo
-[99.8%] Will the Iran ceasefire continue through May 24?
-[2.4%] Will the US officially declare war on Venezuela by June 30, 2026?
+[6.5%] US x Iran permanent peace deal by May 31, 2026?
+[99.9%] Will the Iran ceasefire continue through May 24?
+[14.5%] Roland Garros ATP: Joao Fonseca vs Novak Djokovic
+[0.2%] Will Scotland win the 2026 FIFA World Cup?
+[0.9%] Will Croatia win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will Scotland win the 2026 FIFA World Cup?
-[0.2%] Will South Korea win the 2026 FIFA World Cup?
-[0.4%] Strait of Hormuz traffic returns to normal by end of May?
-[0.9%] Will Croatia win the 2026 FIFA World Cup?
-[10.3%] US-Iran nuclear deal by May 31?
+[20.5%] US x Iran permanent peace deal by June 7, 2026?
+[0.9%] Strait of Hormuz traffic returns to normal by end of May?
+[0.8%] Will Turkiye win the 2026 FIFA World Cup?
+[0.4%] Will the US confirm that aliens exist by May 31?
+[0.1%] Roland Garros ATP: Thiago Agustin Tirante vs Pablo Carreno Busta
 
 --- TECH & AI (Top 5 Active) ---
+[0.7%] Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting?
 [0.1%] Will the Iranian regime fall by May 31?
-[53.5%] Roland Garros ATP: Hubert Hurkacz vs Frances Tiafoe
-[0.1%] Roland Garros ATP: Adolfo Vallejo vs Moise Kouame
-[0.1%] Will Donald Trump dance on May 25, 2026?
-[0.1%] Dota 2: Team Yandex vs Aurora (BO1) - BLAST Slam Group Stage
+[0.1%] Iran closes its airspace by May 27?
+[42.5%] Spurs vs. Thunder
+[23.5%] US announces new Iran agreement/ceasefire extension by May 31?
 
 --- SCIENCE (Top 5 Active) ---
-[0.9%] Will Tom Brady win the 2028 Republican presidential nomination?
-[0.8%] Will Turkiye win the 2026 FIFA World Cup?
-[24.0%] US x Iran permanent peace deal by June 7, 2026?
-[32.0%] US announces new Iran agreement/ceasefire extension by May 31?
-[0.9%] Will Ecuador win the 2026 FIFA World Cup?
+[1.2%] Will Switzerland win the 2026 FIFA World Cup?
+[10.8%] US-Iran nuclear deal by May 31?
+[29.5%] Roland Garros ATP: Alex Michelsen vs Rafael Jodar
+[10.3%] Will Portugal win the 2026 FIFA World Cup?
+[0.1%] Counter-Strike: 9z vs FaZe (BO3) - Stake Ranked Episode 2 Playoffs
 
 ----------------------------------------
 
 TOP HEADLINES
-• U.S. and Iran trade strikes as Trump says he feels no pressure for peace deal - The Washington Post
-• A federal judge in D.C. declines to block Trump's executive order on voting by mail - NPR
-• US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say - BBC
-• Trump wants a gas tax holiday. There’s a much bigger problem looming - NPR
-• Xavier Becerra and Steve Hilton lead the pack in the race for California governor, new poll shows - ABC7 Los Angeles
-• Feds seize $40M in gold bars from ex-CIA agent's house in Virginia - USA Today
-• Paxton win sparks GOP money panic - Politico
-• Deadly paper mill implosion illustrates industry’s risks - The Seattle Times
+• Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor files suit - NBC News
+• U.S., Iran nearing deal to end war and reopen Strait of Hormuz - The Washington Post
+• Russian drone launched against Ukraine crashes in Romania, injuring 2 - NPR
+• DOJ probe targets Reid Hoffman nonprofit tied to E. Jean Carroll case - Axios
+• Former AG Pam Bondi to testify before Congress over handling of the Epstein files - NPR
+• Becerra leads governor's race, with Hilton and Steyer in tight contest for second spot, poll finds - Los Angeles Times
+• Bus hits cars in Virginia, killing 5 people and injuring 34, state police say - AP News
+• 'This was enormous': At least 3 dead in Dallas apartment fire as search continues - Dallas News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
+• Yahoo 100
 • Trending is out—YouTube is now all about your interests
+• YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube is ditching Trending to get niche with Charts
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube is ditching Trending to get niche with Charts
 • YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Gemini was Google’s top trending search term in 2025
 • Google reveals the top trending searches of 2025
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 
 ========================================
 END TRANSMISSION
