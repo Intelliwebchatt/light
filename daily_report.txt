@@ -1,69 +1,66 @@
-INTELLIGENCE SNAPSHOT // 2026-05-29
+INTELLIGENCE SNAPSHOT // 2026-05-30
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,569
-DOW J: 50,883
-NASDAQ: 26,891
-VIX: 16
+S&P 500: 7,580
+DOW J: 51,032
+NASDAQ: 26,973
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[6.5%] US x Iran permanent peace deal by May 31, 2026?
-[99.9%] Will the Iran ceasefire continue through May 24?
-[14.5%] Roland Garros ATP: Joao Fonseca vs Novak Djokovic
-[0.2%] Will Scotland win the 2026 FIFA World Cup?
-[0.9%] Will Croatia win the 2026 FIFA World Cup?
+[3.1%] US x Iran permanent peace deal by May 31, 2026?
+[38.5%] Will Paris Saint-Germain FC win on 2026-05-30?
+[44.5%] Will Arsenal win the 2025–26 Champions League?
+[100.0%] Will the Iran ceasefire continue through May 24?
+[0.1%] Will Congo DR win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[20.5%] US x Iran permanent peace deal by June 7, 2026?
-[0.9%] Strait of Hormuz traffic returns to normal by end of May?
-[0.8%] Will Turkiye win the 2026 FIFA World Cup?
-[0.4%] Will the US confirm that aliens exist by May 31?
-[0.1%] Roland Garros ATP: Thiago Agustin Tirante vs Pablo Carreno Busta
+[0.1%] Will WTI Crude Oil (WTI) hit (LOW) $85 in May?
+[0.1%] Roland Garros ATP: Francisco Cerundolo vs Zachary Svajda
+[12.5%] Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?
+[0.1%] Will Uzbekistan win the 2026 FIFA World Cup?
+[0.1%] Will South Africa win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[0.7%] Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting?
-[0.1%] Will the Iranian regime fall by May 31?
-[0.1%] Iran closes its airspace by May 27?
-[42.5%] Spurs vs. Thunder
-[23.5%] US announces new Iran agreement/ceasefire extension by May 31?
+[54.5%] Will PSG win the 2025–26 Champions League?
+[79.5%] Roland Garros ATP: Matteo Berrettini vs Francisco Comesana
+[61.0%] Roland Garros ATP: Juan Manuel Cerundolo vs Martin Landaluce
+[12.5%] US announces new Iran agreement/ceasefire extension by May 31?
+[0.1%] Roland Garros WTA: Iva Jovic vs Naomi Osaka
 
 --- SCIENCE (Top 5 Active) ---
-[1.2%] Will Switzerland win the 2026 FIFA World Cup?
-[10.8%] US-Iran nuclear deal by May 31?
-[29.5%] Roland Garros ATP: Alex Michelsen vs Rafael Jodar
-[10.3%] Will Portugal win the 2026 FIFA World Cup?
-[0.1%] Counter-Strike: 9z vs FaZe (BO3) - Stake Ranked Episode 2 Playoffs
+[3.9%] Will Netherlands win the 2026 FIFA World Cup?
+[0.1%] LoL: BNK FEARX vs T1 - Game 1 Winner
+[0.1%] LoL: Bilibili Gaming vs Team WE - Game 3 Winner
+[0.4%] Strait of Hormuz traffic returns to normal by end of May?
+[4.2%] US-Iran nuclear deal by May 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor files suit - NBC News
-• U.S., Iran nearing deal to end war and reopen Strait of Hormuz - The Washington Post
-• Russian drone launched against Ukraine crashes in Romania, injuring 2 - NPR
-• DOJ probe targets Reid Hoffman nonprofit tied to E. Jean Carroll case - Axios
-• Former AG Pam Bondi to testify before Congress over handling of the Epstein files - NPR
-• Becerra leads governor's race, with Hilton and Steyer in tight contest for second spot, poll finds - Los Angeles Times
-• Bus hits cars in Virginia, killing 5 people and injuring 34, state police say - AP News
-• 'This was enormous': At least 3 dead in Dallas apartment fire as search continues - Dallas News
+• Trump's name must be removed from Kennedy Center, judge orders - Axios
+• Live Updates: Trump holds key White House meeting on Iran deal to reopen Strait of Hormuz, destroy uranium - CBS News
+• Trump in excellent health after annual checkup, his doctor says - BBC
+• Exclusive | Trump’s $1.8 Billion Settlement Fund Sparks Alarm Inside White House - WSJ
+• Pete Hegseth says US-China ties are ‘better than in years’ - Financial Times
+• New poll in California governor's race shows a top three - but only two candidates will move on - ABC7 Los Angeles
+• Fears of travel chaos flare as Mullin weighs pulling customs officers from Newark airport - Politico
+• Pentagon chief says U.S. ready to restart strikes on Iran if no deal - Reuters
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
-• Trending is out—YouTube is now all about your interests
+• Trending News
 • YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube removing the Trending page in favor of Charts, recommendations
 • Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube is ditching Trending to get niche with Charts
-• YouTube removing the Trending page in favor of Charts, recommendations
-• Google reveals the top trending searches of 2025
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 
 ========================================
 END TRANSMISSION
