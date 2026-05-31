@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-05-30
+INTELLIGENCE SNAPSHOT // 2026-05-31
 ========================================
 
 MARKET CLOSE
@@ -12,55 +12,58 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[3.1%] US x Iran permanent peace deal by May 31, 2026?
-[38.5%] Will Paris Saint-Germain FC win on 2026-05-30?
-[44.5%] Will Arsenal win the 2025–26 Champions League?
+[1.4%] US x Iran permanent peace deal by May 31, 2026?
+[100.0%] Roland Garros WTA: Marta Kostyuk vs Iga Swiatek
+[0.2%] Will Ivory Coast win the 2026 FIFA World Cup?
+[0.8%] Will Turkiye win the 2026 FIFA World Cup?
 [100.0%] Will the Iran ceasefire continue through May 24?
-[0.1%] Will Congo DR win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will WTI Crude Oil (WTI) hit (LOW) $85 in May?
-[0.1%] Roland Garros ATP: Francisco Cerundolo vs Zachary Svajda
-[12.5%] Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?
-[0.1%] Will Uzbekistan win the 2026 FIFA World Cup?
-[0.1%] Will South Africa win the 2026 FIFA World Cup?
+[0.1%] Will Congo DR win the 2026 FIFA World Cup?
+[28.5%] Roland Garros ATP: Rafael Jodar vs Pablo Carreno Busta
+[0.1%] Will Australia win the 2026 FIFA World Cup?
+[63.7%] Will the San Antonio Spurs win the 2026 NBA Finals?
+[0.1%] Strait of Hormuz traffic returns to normal by end of May?
 
 --- TECH & AI (Top 5 Active) ---
-[54.5%] Will PSG win the 2025–26 Champions League?
-[79.5%] Roland Garros ATP: Matteo Berrettini vs Francisco Comesana
-[61.0%] Roland Garros ATP: Juan Manuel Cerundolo vs Martin Landaluce
-[12.5%] US announces new Iran agreement/ceasefire extension by May 31?
-[0.1%] Roland Garros WTA: Iva Jovic vs Naomi Osaka
+[36.0%] Will the New York Knicks win the 2026 NBA Finals?
+[99.5%] Roland Garros WTA: Elina Svitolina vs Belinda Bencic
+[0.1%] LoL: JD Gaming vs Top Esports - Game 2 Winner
+[1.5%] Will Morocco win the 2026 FIFA World Cup?
+[0.1%] LoL: JD Gaming vs Top Esports (BO5) - LPL Playoffs
 
 --- SCIENCE (Top 5 Active) ---
-[3.9%] Will Netherlands win the 2026 FIFA World Cup?
-[0.1%] LoL: BNK FEARX vs T1 - Game 1 Winner
-[0.1%] LoL: Bilibili Gaming vs Team WE - Game 3 Winner
-[0.4%] Strait of Hormuz traffic returns to normal by end of May?
-[4.2%] US-Iran nuclear deal by May 31?
+[90.5%] Roland Garros WTA: Mirra Andreeva vs Jil Teichmann
+[0.8%] Will Barack Obama win the 2028 Democratic presidential nomination?
+[0.8%] Will Nikki Haley win the 2028 US Presidential Election?
+[17.1%] Will France win the 2026 FIFA World Cup?
+[0.1%] LoL: Nongshim Red Force vs Dplus KIA (BO3) - LCK Rounds 1-2
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump's name must be removed from Kennedy Center, judge orders - Axios
-• Live Updates: Trump holds key White House meeting on Iran deal to reopen Strait of Hormuz, destroy uranium - CBS News
-• Trump in excellent health after annual checkup, his doctor says - BBC
-• Exclusive | Trump’s $1.8 Billion Settlement Fund Sparks Alarm Inside White House - WSJ
-• Pete Hegseth says US-China ties are ‘better than in years’ - Financial Times
-• New poll in California governor's race shows a top three - but only two candidates will move on - ABC7 Los Angeles
-• Fears of travel chaos flare as Mullin weighs pulling customs officers from Newark airport - Politico
-• Pentagon chief says U.S. ready to restart strikes on Iran if no deal - Reuters
+• Eleven confirmed dead in Washington state chemical accident, all bodies recovered - Reuters
+• Graham Platner’s wife says she’s ‘deeply hurt’ by public revelations of her husband’s extramarital sexts - CNN
+• Trump vents about judge who blocked Kennedy Center changes - Politico
+• Inside Trump’s Deal With the I.R.S. to Drop His $10 Billion Lawsuit - The New York Times
+• Israel seizes castle in Lebanon as it expands ground offensive - BBC
+• Japan seeks candid dialog, defense minister says, rejecting 'neo-militarism' claims - CNBC
+• Becerra gains support in latest poll with Steyer and Hilton not far behind - Los Angeles Times
+• Trump news at a glance: president in ‘excellent health’, his doctor says after routine medical check - The Guardian
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Trending News
 • YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube removing the Trending page in favor of Charts, recommendations
-• Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube is ditching Trending to get niche with Charts
+• YouTube’s ‘Trending’ section is about to disappear
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube removing the Trending page in favor of Charts, recommendations
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Google reveals the top trending searches of 2025
 
 ========================================
 END TRANSMISSION
