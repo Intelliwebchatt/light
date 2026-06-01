@@ -1,66 +1,66 @@
-INTELLIGENCE SNAPSHOT // 2026-05-31
+INTELLIGENCE SNAPSHOT // 2026-06-01
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,580
-DOW J: 51,032
-NASDAQ: 26,973
-VIX: 15
+S&P 500: 7,590
+DOW J: 50,893
+NASDAQ: 27,060
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[1.4%] US x Iran permanent peace deal by May 31, 2026?
-[100.0%] Roland Garros WTA: Marta Kostyuk vs Iga Swiatek
+[0.1%] MicroStrategy sells any Bitcoin by May 31, 2026?
+[1.1%] Will Uruguay win the 2026 FIFA World Cup?
+[0.5%] Roland Garros ATP: Juan Manuel Cerundolo vs Matteo Berrettini
+[1.1%] Will Mexico win the 2026 FIFA World Cup?
 [0.2%] Will Ivory Coast win the 2026 FIFA World Cup?
-[0.8%] Will Turkiye win the 2026 FIFA World Cup?
-[100.0%] Will the Iran ceasefire continue through May 24?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Congo DR win the 2026 FIFA World Cup?
-[28.5%] Roland Garros ATP: Rafael Jodar vs Pablo Carreno Busta
-[0.1%] Will Australia win the 2026 FIFA World Cup?
-[63.7%] Will the San Antonio Spurs win the 2026 NBA Finals?
-[0.1%] Strait of Hormuz traffic returns to normal by end of May?
+[5.5%] US x Iran permanent peace deal by June 7, 2026?
+[100.0%] Will the Iran ceasefire continue through May 24?
+[48.5%] Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi
+[1.9%] Will Belgium win the 2026 FIFA World Cup?
+[5.5%] Will Germany win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[36.0%] Will the New York Knicks win the 2026 NBA Finals?
-[99.5%] Roland Garros WTA: Elina Svitolina vs Belinda Bencic
-[0.1%] LoL: JD Gaming vs Top Esports - Game 2 Winner
-[1.5%] Will Morocco win the 2026 FIFA World Cup?
-[0.1%] LoL: JD Gaming vs Top Esports (BO5) - LPL Playoffs
+[0.8%] Will Turkiye win the 2026 FIFA World Cup?
+[100.0%] US x Cuba diplomatic meeting by May 31?
+[0.5%] Will Sweden win the 2026 FIFA World Cup?
+[100.0%] Roland Garros WTA: Maja Chwalinska vs Diane Parry
+[0.1%] Roland Garros WTA: Madison Keys vs Diana Shnaider
 
 --- SCIENCE (Top 5 Active) ---
-[90.5%] Roland Garros WTA: Mirra Andreeva vs Jil Teichmann
-[0.8%] Will Barack Obama win the 2028 Democratic presidential nomination?
-[0.8%] Will Nikki Haley win the 2028 US Presidential Election?
-[17.1%] Will France win the 2026 FIFA World Cup?
-[0.1%] LoL: Nongshim Red Force vs Dplus KIA (BO3) - LCK Rounds 1-2
+[0.2%] Will Paraguay win the 2026 FIFA World Cup?
+[1.1%] Will USA win the 2026 FIFA World Cup?
+[99.6%] Roland Garros ATP: Felix Auger-Aliassime vs Alejandro Tabilo
+[99.2%] Will Abelardo de la Espriella win the 1st round of the 2026 Colombian presidential election?
+[1.6%] Will Morocco win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Eleven confirmed dead in Washington state chemical accident, all bodies recovered - Reuters
-• Graham Platner’s wife says she’s ‘deeply hurt’ by public revelations of her husband’s extramarital sexts - CNN
-• Trump vents about judge who blocked Kennedy Center changes - Politico
-• Inside Trump’s Deal With the I.R.S. to Drop His $10 Billion Lawsuit - The New York Times
-• Israel seizes castle in Lebanon as it expands ground offensive - BBC
-• Japan seeks candid dialog, defense minister says, rejecting 'neo-militarism' claims - CNBC
-• Becerra gains support in latest poll with Steyer and Hilton not far behind - Los Angeles Times
-• Trump news at a glance: president in ‘excellent health’, his doctor says after routine medical check - The Guardian
+• Live Updates: Iran state media say talks with U.S. halted, attacks on another key waterway coming - CBS News
+• Graham Platner tests Democrats' tolerance for scandal - Axios
+• U.S. intercepted Iranian missiles targeting American forces in Kuwait, Central Command says - CNBC
+• Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates - BBC
+• The mystery behind Becerra leapfrogging over his rivals in California’s governor’s race - Los Angeles Times
+• Tensions linger between Republicans and White House over the ‘anti-weaponization’ fund - AP News
+• A Democrat in Iowa tests whether attacking Schumer pays off - The Washington Post
+• Middle East: US hits Iran radar sites, Kuwait under fire - DW.com
 
 ----------------------------------------
 
 TRENDING TOPICS
 • YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube is ditching Trending to get niche with Charts
 • YouTube’s ‘Trending’ section is about to disappear
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube removing the Trending page in favor of Charts, recommendations
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google reveals the top trending searches of 2025
