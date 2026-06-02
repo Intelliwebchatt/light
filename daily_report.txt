@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-06-01
+INTELLIGENCE SNAPSHOT // 2026-06-02
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,590
-DOW J: 50,893
-NASDAQ: 27,060
+S&P 500: 7,612
+DOW J: 51,183
+NASDAQ: 27,128
 VIX: 16
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] MicroStrategy sells any Bitcoin by May 31, 2026?
-[1.1%] Will Uruguay win the 2026 FIFA World Cup?
-[0.5%] Roland Garros ATP: Juan Manuel Cerundolo vs Matteo Berrettini
-[1.1%] Will Mexico win the 2026 FIFA World Cup?
-[0.2%] Will Ivory Coast win the 2026 FIFA World Cup?
+[0.7%] MicroStrategy sells any Bitcoin by May 31, 2026?
+[0.1%] Roland Garros ATP: Rafael Jodar vs Alexander Zverev
+[5.5%] US x Iran permanent peace deal by June 7, 2026?
+[0.1%] LoL: ThunderTalk Gaming vs LGD Gaming (BO5) - LPL Playoffs
+[13.5%] US x Iran permanent peace deal by June 15, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[5.5%] US x Iran permanent peace deal by June 7, 2026?
-[100.0%] Will the Iran ceasefire continue through May 24?
-[48.5%] Roland Garros ATP: Frances Tiafoe vs Matteo Arnaldi
-[1.9%] Will Belgium win the 2026 FIFA World Cup?
-[5.5%] Will Germany win the 2026 FIFA World Cup?
+[0.9%] Will Turkiye win the 2026 FIFA World Cup?
+[1.6%] Will Morocco win the 2026 FIFA World Cup?
+[0.2%] Will Ivory Coast win the 2026 FIFA World Cup?
+[1.1%] Will Mexico win the 2026 FIFA World Cup?
+[0.1%] Counter-Strike: BIG vs Liquid (BO1) - IEM Cologne Major Stage 1
 
 --- TECH & AI (Top 5 Active) ---
-[0.8%] Will Turkiye win the 2026 FIFA World Cup?
-[100.0%] US x Cuba diplomatic meeting by May 31?
-[0.5%] Will Sweden win the 2026 FIFA World Cup?
-[100.0%] Roland Garros WTA: Maja Chwalinska vs Diane Parry
-[0.1%] Roland Garros WTA: Madison Keys vs Diana Shnaider
+[100.0%] Counter-Strike: GamerLegion vs NRG (BO1) - IEM Cologne Major Stage 1
+[2.8%] Will Norway win the 2026 FIFA World Cup?
+[9.6%] Will Portugal win the 2026 FIFA World Cup?
+[8.3%] Will Brazil win the 2026 FIFA World Cup?
+[0.9%] Will Croatia win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Will Paraguay win the 2026 FIFA World Cup?
-[1.1%] Will USA win the 2026 FIFA World Cup?
-[99.6%] Roland Garros ATP: Felix Auger-Aliassime vs Alejandro Tabilo
-[99.2%] Will Abelardo de la Espriella win the 1st round of the 2026 Colombian presidential election?
-[1.6%] Will Morocco win the 2026 FIFA World Cup?
+[2.6%] Will the Iranian regime fall by June 30?
+[4.0%] Will Netherlands win the 2026 FIFA World Cup?
+[0.2%] Will Egypt win the 2026 FIFA World Cup?
+[0.2%] Will Scotland win the 2026 FIFA World Cup?
+[0.2%] Will South Korea win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live Updates: Iran state media say talks with U.S. halted, attacks on another key waterway coming - CBS News
-• Graham Platner tests Democrats' tolerance for scandal - Axios
-• U.S. intercepted Iranian missiles targeting American forces in Kuwait, Central Command says - CNBC
-• Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates - BBC
-• The mystery behind Becerra leapfrogging over his rivals in California’s governor’s race - Los Angeles Times
-• Tensions linger between Republicans and White House over the ‘anti-weaponization’ fund - AP News
-• A Democrat in Iowa tests whether attacking Schumer pays off - The Washington Post
-• Middle East: US hits Iran radar sites, Kuwait under fire - DW.com
+• Trump names Bill Pulte acting director of national intelligence to replace Tulsi Gabbard - NBC News
+• Tuesday is a big primary day. Here are key races to watch - NPR
+• Massive Russian air attack on Ukraine kills at least 12 people - politico.eu
+• Live updates: Strikes continue in southern Lebanon after Trump has heated call with Netanyahu - CNN
+• Rubio meets with Congress as Iran ceasefire falters - The Washington Post
+• California votes in primary to pick new governor, and maybe tip balance in Congress - Reuters
+• Voters cast ballots in several states as California governor primary goes down to the wire – live - The Guardian
+• Police in Iowa say they think man shot and killed 6 relatives, then himself - CBS News
 
 ----------------------------------------
 
@@ -57,13 +57,13 @@ TRENDING TOPICS
 • YouTube is killing its Trending page a decade after its debut
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube is ditching Trending to get niche with Charts
-• YouTube’s ‘Trending’ section is about to disappear
-• Top trending searches of 2025 revealed by Google. See what made the list.
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• Top trending searches of 2025 revealed by Google. See what made the list.
 • YouTube removing the Trending page in favor of Charts, recommendations
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
 
 ========================================
 END TRANSMISSION
