@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-06-03
+INTELLIGENCE SNAPSHOT // 2026-06-04
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,564
-DOW J: 50,887
-NASDAQ: 26,844
+S&P 500: 7,552
+DOW J: 51,373
+NASDAQ: 26,681
 VIX: 16
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.4%] MicroStrategy sells any Bitcoin by May 31, 2026?
-[0.1%] Will Australia win the 2026 FIFA World Cup?
-[48.5%] Roland Garros ATP: Felix Auger-Aliassime vs Flavio Cobolli
-[1.1%] Will Turkiye win the 2026 FIFA World Cup?
-[0.9%] Will Ecuador win the 2026 FIFA World Cup?
+[0.1%] Will Congo DR win the 2026 FIFA World Cup?
+[0.9%] Will Croatia win the 2026 FIFA World Cup?
+[0.5%] Roland Garros WTA: Marta Kostyuk vs Mirra Andreeva
+[0.2%] Will Ghana win the 2026 FIFA World Cup?
+[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.9%] Will Croatia win the 2026 FIFA World Cup?
-[0.2%] Will Ivory Coast win the 2026 FIFA World Cup?
-[36.5%] Knicks vs. Spurs
-[1.1%] Will Mexico win the 2026 FIFA World Cup?
-[1.8%] Will Colombia win the 2026 FIFA World Cup?
+[99.9%] Israel announces Lebanon ceasefire extension by June 7?
+[0.1%] Will Algeria win the 2026 FIFA World Cup?
+[72.0%] Counter-Strike: TYLOO vs Sharks (BO3) - IEM Cologne Major Stage 1
+[53.4%] Will the New York Knicks win the 2026 NBA Finals?
+[4.5%] US x Iran permanent peace deal by June 7, 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.2%] Will South Korea win the 2026 FIFA World Cup?
-[11.5%] US x Iran permanent peace deal by June 15, 2026?
-[3.5%] US x Iran permanent peace deal by June 7, 2026?
-[11.5%] Will England win the 2026 FIFA World Cup?
-[0.1%] Counter-Strike: Liquid vs MIBR (BO1) - IEM Cologne Major Stage 1
+[34.5%] Knicks vs. Spurs
+[2.5%] Will Norway win the 2026 FIFA World Cup?
+[1.8%] Will Colombia win the 2026 FIFA World Cup?
+[1.4%] Will Turkiye win the 2026 FIFA World Cup?
+[14.5%] US x Iran permanent peace deal by June 15, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Counter-Strike: THUNDER dOWNUNDER vs BIG (BO1) - IEM Cologne Major Stage 1
-[100.0%] Will the price of Bitcoin be above $66,000 on June 3?
-[2.7%] Will Oh Se-hoon win the 2026 Seoul Mayoral Election
-[1.1%] Will USA win the 2026 FIFA World Cup?
-[1.1%] Will Uruguay win the 2026 FIFA World Cup?
+[16.9%] Will France win the 2026 FIFA World Cup?
+[0.1%] Counter-Strike: THUNDER dOWNUNDER vs FlyQuest (BO3) - IEM Cologne Major Stage 1
+[94.4%] Will the price of Bitcoin be above $62,000 on June 4?
+[0.7%] Will Senegal win the 2026 FIFA World Cup?
+[1.1%] Will Mexico win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Five things to know about California’s election, from Congress to the governor’s race - CalMatters
-• Live Updates: Iran launches deadly attack on Kuwait airport after U.S. strikes, as Trump says talks ongoing - CBS News
-• The end of Trump's 'weaponisation' fund is another sign Republicans are fighting back - BBC
-• EU slams Trump’s forced labor tariff as ‘unjustified’ - politico.eu
-• He’s a Reality TV Villain and a Conservative Candidate in a Blue City. His Success Is a Warning to Democrats Everywhere. - Slate Magazine
-• Suspect dead, hostages rescued after standoff inside California Chase Bank building: Sources - ABC7 Los Angeles
-• President Trump seeks control of science funding - NPR
-• Big Tech's big flop on primary night - Politico
+• Trump pans ‘bad Republicans’ who voted to end the Iran war - Politico
+• In photos: a preview of the Obama Presidential Center : The Picture Show - NPR
+• Trump to nominate Todd Blanche to be attorney general - NBC News
+• Hezbollah rejects peace of Israel-Lebanon ceasefire after House votes to curb Trump war powers - Fox News
+• Pulte pick sparks a Senate GOP rebellion - Axios
+• Video shows Pentagon counterterrorism hire clambering into Capitol on Jan. 6 - The Washington Post
+• Senate advances funding bill after Republicans cut $1bn for White House ballroom - BBC
+• The Democratic Party’s future is on the ballot in June - Politico
 
 ----------------------------------------
 
@@ -57,13 +57,13 @@ TRENDING TOPICS
 • YouTube is killing its Trending page a decade after its debut
 • YouTube is ditching Trending to get niche with Charts
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube's 'Trending' Page is Shutting Down After a Decade
+• Gemini was Google’s top trending search term in 2025
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google reveals the top trending searches of 2025
-• Gemini was Google’s top trending search term in 2025
+• Bluesky is testing a trending topics feature
 
 ========================================
 END TRANSMISSION
