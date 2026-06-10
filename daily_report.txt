@@ -1,66 +1,65 @@
-INTELLIGENCE SNAPSHOT // 2026-06-09
+INTELLIGENCE SNAPSHOT // 2026-06-10
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,423
-DOW J: 51,046
-NASDAQ: 25,917
-VIX: 18
+S&P 500: 7,353
+DOW J: 50,434
+NASDAQ: 25,523
+VIX: 21
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[5.1%] Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?
-[93.5%] Will Keiko Fujimori win the 2026 Peruvian presidential election?
-[0.1%] Will Algeria win the 2026 FIFA World Cup?
-[0.1%] Will Tunisia win the 2026 FIFA World Cup?
-[0.1%] Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
+[0.2%] Will Egypt win the 2026 FIFA World Cup?
+[0.2%] Will Czechia win the 2026 FIFA World Cup?
+[1.5%] Will Russia test a nuclear weapon by June 30 2026?
+[0.7%] Will Senegal win the 2026 FIFA World Cup?
+[0.4%] Will Canada win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will Sweden win the 2026 FIFA World Cup?
-[0.1%] Will Carlos Álvarez win the 2026 Peruvian presidential election?
-[0.4%] Will Canada win the 2026 FIFA World Cup?
+[1.1%] Will USA win the 2026 FIFA World Cup?
+[5.2%] Will Germany win the 2026 FIFA World Cup?
+[5.5%] Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?
 [0.4%] Will Austria win the 2026 FIFA World Cup?
-[1.1%] Will Turkiye win the 2026 FIFA World Cup?
+[1.1%] Will Uruguay win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[68.5%] US x Iran permanent peace deal by December 31, 2026?
+[0.1%] Will Algeria win the 2026 FIFA World Cup?
+[0.2%] Will South Korea win the 2026 FIFA World Cup?
 [0.9%] Will Ecuador win the 2026 FIFA World Cup?
-[8.8%] Will Argentina win the 2026 FIFA World Cup?
-[1.1%] Will Uruguay win the 2026 FIFA World Cup?
-[1.1%] Will USA win the 2026 FIFA World Cup?
+[4.8%] US x Iran permanent peace deal by June 15, 2026?
+[0.2%] Will Paraguay win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will South Africa win the 2026 FIFA World Cup?
-[2.2%] Will Belgium win the 2026 FIFA World Cup?
-[11.3%] Will Portugal win the 2026 FIFA World Cup?
-[100.0%] Iran closes its airspace by June 8?
-[7.5%] US x Iran permanent peace deal by June 15, 2026?
+[16.4%] Will Spain win the 2026 FIFA World Cup?
+[0.1%] Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
+[0.1%] Will Iran win the 2026 FIFA World Cup?
+[2.1%] Will Belgium win the 2026 FIFA World Cup?
+[0.4%] Will Sweden win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Crashed US army helicopter pilots rescued by sea drone near Strait of Hormuz - BBC
-• Progressive Nithya Raman advances to November runoff against Los Angeles Mayor Karen Bass - AP News
-• Trump’s grip on the GOP leaves Netanyahu with few places to turn - The Washington Post
-• Maine's Senate race and much more. Here are the primary contests to watch today - NPR
-• Conflicts are on the rise globally, at the highest level since WWII, data shows - NPR
-• Late Night Roasts Trump for Walking Out on ‘Meet the Press’ - The New York Times
-• Maine Votes as Graham Platner’s Past Poses New Conundrums - The New York Times
-• Trump Live Updates: House to Vote on Republicans’ $70 Billion Immigration Bill - The New York Times
+• Trump and Iran trade new threats after strikes exchanged - BBC
+• Five takeaways from the primaries in Maine and South Carolina - The Washington Post
+• Do not use our tragedy to fuel violence, family of Belfast attack victim say - The Guardian
+• Karmelo Anthony Sentenced to 35 Years for Murder of Teen at Texas Track Meet - The New York Times
+• Graham Platner wins Maine primary election: Results and key takeaways - Al Jazeera
+• Bugs and black mold: What some mobile home park residents see after investors buy in - NBC News
+• Trump-backed candidate Steve Hilton advances in California governor's race - BBC
+• Nevada Attorney General Wins Democratic Nomination for Governor - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube is killing its Trending page a decade after its debut
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• Find Out What's Trending Online Right Now
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube removing the Trending page in favor of Charts, recommendations
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google reveals the top trending searches of 2025
 • Google’s Year in Search 2025: These trending topics spiked big
 
