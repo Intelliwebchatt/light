@@ -1,66 +1,66 @@
-INTELLIGENCE SNAPSHOT // 2026-06-11
+INTELLIGENCE SNAPSHOT // 2026-06-12
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,298
-DOW J: 50,262
-NASDAQ: 25,326
-VIX: 22
+S&P 500: 7,417
+DOW J: 51,102
+NASDAQ: 25,840
+VIX: 19
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Paraguay win the 2026 FIFA World Cup?
 [0.1%] Will Czechia win the 2026 FIFA World Cup?
-[1.8%] Will Colombia win the 2026 FIFA World Cup?
-[3.5%] US x Iran permanent peace deal by June 15, 2026?
-[0.2%] Will Scotland win the 2026 FIFA World Cup?
+[0.4%] Will South Korea win the 2026 FIFA World Cup?
+[10.7%] US x Iran permanent peace deal by June 15, 2026?
+[0.1%] Will Paraguay win the 2026 FIFA World Cup?
+[1.5%] Will Mexico win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[1.2%] Will Switzerland win the 2026 FIFA World Cup?
-[8.9%] Will Argentina win the 2026 FIFA World Cup?
-[2.8%] Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?
-[0.1%] Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
-[10.9%] Will Portugal win the 2026 FIFA World Cup?
+[0.9%] Will Uruguay win the 2026 FIFA World Cup?
+[46.5%] Will United States win on 2026-06-12?
+[2.5%] Will Norway win the 2026 FIFA World Cup?
+[2.1%] Will Japan win the 2026 FIFA World Cup?
+[0.4%] Will Sweden win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[1.1%] Will Turkiye win the 2026 FIFA World Cup?
-[4.5%] Will Netherlands win the 2026 FIFA World Cup?
-[1.6%] Will Morocco win the 2026 FIFA World Cup?
-[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
-[1.4%] Will Mexico win the 2026 FIFA World Cup?
+[0.9%] Will Ecuador win the 2026 FIFA World Cup?
+[0.1%] Will Iran win the 2026 FIFA World Cup?
+[2.1%] Will Belgium win the 2026 FIFA World Cup?
+[0.9%] Will Croatia win the 2026 FIFA World Cup?
+[1.8%] Will Colombia win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[8.6%] Will Brazil win the 2026 FIFA World Cup?
-[2.1%] Will Belgium win the 2026 FIFA World Cup?
-[0.9%] Will Uruguay win the 2026 FIFA World Cup?
-[1.1%] Will USA win the 2026 FIFA World Cup?
-[0.1%] Will Algeria win the 2026 FIFA World Cup?
+[100.0%] Will Trump restart Project Freedom by June 30?
+[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
+[1.4%] Will Switzerland win the 2026 FIFA World Cup?
+[0.4%] Will Austria win the 2026 FIFA World Cup?
+[5.1%] Will Germany win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump threatens to take Iran oil infrastructure, hit country ‘VERY HARD TONIGHT’ - Politico
-• America's spy powers are in deep trouble - Axios
-• El Niño forms in Pacific as experts say it will likely turbocharge extreme weather - The Guardian
-• Three Indian sailors killed in US strike on oil tanker - BBC
-• Austin Metcalf's father speaks out after Karmelo Anthony verdict: "Forgiveness was for me" - CBS News
-• How to prevent and treat your pet from screwworm - The Texas Tribune
-• Human remains found in sleeping bag in national park identified after 26 years - CBS News
-• Veterans and relatives see no place for Trump's arch near Arlington National Cemetery - NPR
+• Iran War Live Updates: Tense Calm Grips Mideast as Trump Again Claims Deal Is Close - The New York Times
+• Chicago, Illinois weather: Tornadoes leave damage across area in Streator, NW Indiana - ABC7 Chicago
+• Austin Metcalf's family faces death threats after Karmelo Anthony's murder conviction and more top headlines - Fox News
+• U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe - The New York Times
+• Federal authorities investigate giant ‘8647’ markings on National Mall - NBC News
+• Prosecutors ‘on pins and needles’ awaiting Jay Clayton’s replacement - Politico
+• US Supreme Court denies Alabama's request to carry out nitrogen gas execution - BBC
+• A key US government surveillance program is set to expire. A look at what that means - AP News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube is killing its Trending page a decade after its debut
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube is killing its Trending page a decade after its debut
 • YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube removing the Trending page in favor of Charts, recommendations
-• Google reveals the top trending searches of 2025
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Google reveals the top trending searches of 2025
 • Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
