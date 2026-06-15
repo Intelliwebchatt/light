@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-06-14
+INTELLIGENCE SNAPSHOT // 2026-06-15
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,431
-DOW J: 51,202
-NASDAQ: 25,889
-VIX: 18
+S&P 500: 7,570
+DOW J: 51,898
+NASDAQ: 26,649
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.4%] Will Australia win the 2026 FIFA World Cup?
-[0.2%] Will Scotland win the 2026 FIFA World Cup?
-[0.5%] Will Turkiye win the 2026 FIFA World Cup?
-[11.8%] US x Iran permanent peace deal by June 15, 2026?
-[0.5%] Will Berhanu Nega be the next Prime Minister of Ethiopia?
+[95.0%] US x Iran permanent peace deal by June 15, 2026?
+[21.5%] Spread: Spain (-2.5)
+[78.5%] Will Spain win on 2026-06-15?
+[1.4%] Will Mexico win the 2026 FIFA World Cup?
+[97.8%] US x Iran permanent peace deal by June 30, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will Austria win the 2026 FIFA World Cup?
-[2.1%] Will Curaçao win on 2026-06-14?
-[0.4%] Will Sweden win the 2026 FIFA World Cup?
-[100.0%] LoL: T1 vs Gen.G (BO5) - LCK Road to MSI
-[2.2%] Will Morocco win the 2026 FIFA World Cup?
+[14.5%] Spain vs. Cabo Verde: O/U 3.5
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting?
+[4.8%] Will Cabo Verde win on 2026-06-15?
+[6.2%] Will Germany win the 2026 FIFA World Cup?
+[61.5%] Will Belgium win on 2026-06-15?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Algeria win the 2026 FIFA World Cup?
-[0.1%] Will Czechia win the 2026 FIFA World Cup?
-[0.9%] Will Switzerland win the 2026 FIFA World Cup?
-[2.1%] Will USA win the 2026 FIFA World Cup?
-[1.6%] Will Japan win the 2026 FIFA World Cup?
+[0.5%] Will Ivory Coast win the 2026 FIFA World Cup?
+[0.2%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
+[0.5%] Will Sweden win the 2026 FIFA World Cup?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?
+[1.8%] Will Japan win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[6.5%] US announces new Iran agreement/ceasefire extension by June 13?
-[0.8%] Will Ecuador win the 2026 FIFA World Cup?
-[0.1%] Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
-[0.9%] Will Uruguay win the 2026 FIFA World Cup?
-[1.2%] Will Mexico win the 2026 FIFA World Cup?
+[24.5%] Strait of Hormuz traffic returns to normal by end of June?
+[99.5%] Will there be no change in Fed interest rates after the June 2026 meeting?
+[0.1%] Will the Fed increase interest rates by 25 bps after the June 2026 meeting?
+[1.9%] Will Belgium win the 2026 FIFA World Cup?
+[16.4%] Will France win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing - BBC
-• Swiss vote against proposal to cap population at 10 million by cutting migration, projections say - BBC
-• British forces intercept Russian shadow fleet tanker in the Channel - Reuters
-• Trump at 80: A President ‘Really Uncomfortable’ With Aging - The New York Times
-• "If there was a shred of innocence…I would say so" - Stephen A. Smith delivers a blunt verdict on the Karmelo Anthony case - Yahoo Sports
-• Trump endorses Mike Collins in Georgia Senate runoff - Politico
-• Fighter jet crashes in Washington state, sparking wildfire - CBS News
-• Texas GOP leaders professed unity at convention. Will it hold? - The Texas Tribune
+• Iran deal already signed, Vance says, promises full text this week - Politico
+• At G-7, allies plan for a world less reliant on the U.S. - The Washington Post
+• El Niño has arrived: 5 ways California could get pummeled - Los Angeles Times
+• U.S.-Iran deal updates: Israel says no Lebanon withdrawal, Iran says funds expected before final talks - CBS News
+• Under-16s to be banned from social media by next spring, Starmer says - BBC
+• As Luigi Mangione's lawyers head to court, support grows for the accused 'vigilante' - NPR
+• US: Skydiving plane crash leaves 12 people dead in Missouri - dw.com
+• Vance denies that Iran will receive "billions of dollars of assets" in deal - CBS News
 
 ----------------------------------------
 
@@ -60,8 +60,8 @@ TRENDING TOPICS
 • Gemini was Google’s top trending search term in 2025
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube removing the Trending page in favor of Charts, recommendations
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google reveals the top trending searches of 2025
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Bluesky is testing a trending topics feature
 • Google’s Year in Search 2025: These trending topics spiked big
 
