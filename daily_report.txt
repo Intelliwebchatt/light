@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-06-15
+INTELLIGENCE SNAPSHOT // 2026-06-16
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,570
-DOW J: 51,898
-NASDAQ: 26,649
+S&P 500: 7,545
+DOW J: 52,161
+NASDAQ: 26,588
 VIX: 16
 
 ----------------------------------------
@@ -12,57 +12,57 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[95.0%] US x Iran permanent peace deal by June 15, 2026?
-[21.5%] Spread: Spain (-2.5)
-[78.5%] Will Spain win on 2026-06-15?
-[1.4%] Will Mexico win the 2026 FIFA World Cup?
-[97.8%] US x Iran permanent peace deal by June 30, 2026?
+[99.2%] US x Iran permanent peace deal by June 15, 2026?
+[9.7%] Will Argentina win the 2026 FIFA World Cup?
+[0.4%] Will Australia win the 2026 FIFA World Cup?
+[0.4%] Will South Korea win the 2026 FIFA World Cup?
+[99.9%] US and Iran sign an agreement by June 15, 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[14.5%] Spain vs. Cabo Verde: O/U 3.5
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting?
-[4.8%] Will Cabo Verde win on 2026-06-15?
-[6.2%] Will Germany win the 2026 FIFA World Cup?
-[61.5%] Will Belgium win on 2026-06-15?
+[0.2%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
+[67.5%] Will France win on 2026-06-16?
+[0.7%] Will Uruguay win the 2026 FIFA World Cup?
+[1.5%] Will Mexico win the 2026 FIFA World Cup?
+[0.2%] Will Egypt win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[0.5%] Will Ivory Coast win the 2026 FIFA World Cup?
-[0.2%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
-[0.5%] Will Sweden win the 2026 FIFA World Cup?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?
-[1.8%] Will Japan win the 2026 FIFA World Cup?
+[0.1%] Will Saudi Arabia win the 2026 FIFA World Cup?
+[13.9%] Will Spain win the 2026 FIFA World Cup?
+[99.6%] Will there be no change in Fed interest rates after the June 2026 meeting?
+[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
+[1.8%] Will Belgium win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[24.5%] Strait of Hormuz traffic returns to normal by end of June?
-[99.5%] Will there be no change in Fed interest rates after the June 2026 meeting?
 [0.1%] Will the Fed increase interest rates by 25 bps after the June 2026 meeting?
-[1.9%] Will Belgium win the 2026 FIFA World Cup?
-[16.4%] Will France win the 2026 FIFA World Cup?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?
+[17.6%] Will France win the 2026 FIFA World Cup?
+[0.5%] Will Ivory Coast win the 2026 FIFA World Cup?
+[1.8%] Will Japan win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iran deal already signed, Vance says, promises full text this week - Politico
-• At G-7, allies plan for a world less reliant on the U.S. - The Washington Post
-• El Niño has arrived: 5 ways California could get pummeled - Los Angeles Times
-• U.S.-Iran deal updates: Israel says no Lebanon withdrawal, Iran says funds expected before final talks - CBS News
-• Under-16s to be banned from social media by next spring, Starmer says - BBC
-• As Luigi Mangione's lawyers head to court, support grows for the accused 'vigilante' - NPR
-• US: Skydiving plane crash leaves 12 people dead in Missouri - dw.com
-• Vance denies that Iran will receive "billions of dollars of assets" in deal - CBS News
+• Trump signals he could send details of Iran deal to Congress - CNBC
+• FBI thwarted plot targeting White House UFC event, Patel says - BBC
+• Trump is turning his attention back to Ukraine — and Kyiv’s allies are worried - politico.eu
+• Exclusive: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf - Reuters
+• Algae thwarts Trump’s $14.2m attempt to turn reflecting pool ‘American flag blue’ - The Guardian
+• Records reveal $600M estimate for Trump’s ballroom project, with half from taxpayers - The Washington Post
+• Georgia and Alabama GOP runoffs and more primaries to watch today - CBS News
+• 8 people died in B-52 bomber crash at Edwards Air Force Base in Southern California, officials say - KCRA
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • YouTube is killing its Trending page a decade after its debut
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• Gemini was Google’s top trending search term in 2025
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Google reveals the top trending searches of 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Gemini was Google’s top trending search term in 2025
+• YouTube removing the Trending page in favor of Charts, recommendations
 • Bluesky is testing a trending topics feature
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
