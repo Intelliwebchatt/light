@@ -1,68 +1,65 @@
-INTELLIGENCE SNAPSHOT // 2026-06-16
+INTELLIGENCE SNAPSHOT // 2026-06-17
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,545
-DOW J: 52,161
-NASDAQ: 26,588
-VIX: 16
+S&P 500: 7,512
+DOW J: 52,182
+NASDAQ: 26,347
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.2%] US x Iran permanent peace deal by June 15, 2026?
-[9.7%] Will Argentina win the 2026 FIFA World Cup?
-[0.4%] Will Australia win the 2026 FIFA World Cup?
-[0.4%] Will South Korea win the 2026 FIFA World Cup?
-[99.9%] US and Iran sign an agreement by June 15, 2026?
+[99.9%] US x Iran permanent peace deal by June 15, 2026?
+[99.8%] Will there be no change in Fed interest rates after the June 2026 meeting?
+[99.9%] US x Iran permanent peace deal by June 30, 2026?
+[0.1%] Will the Fed increase interest rates by 25 bps after the June 2026 meeting?
+[0.2%] Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
-[67.5%] Will France win on 2026-06-16?
-[0.7%] Will Uruguay win the 2026 FIFA World Cup?
-[1.5%] Will Mexico win the 2026 FIFA World Cup?
-[0.2%] Will Egypt win the 2026 FIFA World Cup?
+[11.6%] Will Argentina win the 2026 FIFA World Cup?
+[0.7%] Will Senegal win the 2026 FIFA World Cup?
+[99.9%] US and Iran sign an agreement by June 15, 2026?
+[0.1%] Will Algeria win the 2026 FIFA World Cup?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Saudi Arabia win the 2026 FIFA World Cup?
-[13.9%] Will Spain win the 2026 FIFA World Cup?
-[99.6%] Will there be no change in Fed interest rates after the June 2026 meeting?
-[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
-[1.8%] Will Belgium win the 2026 FIFA World Cup?
+[2.5%] Will Norway win the 2026 FIFA World Cup?
+[0.5%] Will Ivory Coast win the 2026 FIFA World Cup?
+[0.4%] Will South Korea win the 2026 FIFA World Cup?
+[0.8%] Will Croatia win the 2026 FIFA World Cup?
+[2.2%] Will USA win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will the Fed increase interest rates by 25 bps after the June 2026 meeting?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?
-[17.6%] Will France win the 2026 FIFA World Cup?
-[0.5%] Will Ivory Coast win the 2026 FIFA World Cup?
-[1.8%] Will Japan win the 2026 FIFA World Cup?
+[18.4%] Will France win the 2026 FIFA World Cup?
+[53.5%] Spread: Portugal (-1.5)
+[1.5%] Will Mexico win the 2026 FIFA World Cup?
+[0.1%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
+[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump signals he could send details of Iran deal to Congress - CNBC
-• FBI thwarted plot targeting White House UFC event, Patel says - BBC
-• Trump is turning his attention back to Ukraine — and Kyiv’s allies are worried - politico.eu
-• Exclusive: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf - Reuters
-• Algae thwarts Trump’s $14.2m attempt to turn reflecting pool ‘American flag blue’ - The Guardian
-• Records reveal $600M estimate for Trump’s ballroom project, with half from taxpayers - The Washington Post
-• Georgia and Alabama GOP runoffs and more primaries to watch today - CBS News
-• 8 people died in B-52 bomber crash at Edwards Air Force Base in Southern California, officials say - KCRA
+• Read the 14-Point Draft Memorandum Between the US and Iran - Bloomberg
+• June 16, 2026 — Mike Collins will win Georgia Senate primary; Rick Jackson will win governor runoff - CNN
+• Live Updates: Trump Delays Jay Clayton's Nomination to Pressure Congress on Voting Restrictions Bill - The New York Times
+• 'I'm the boss', Trump says at G7, as he warms to Ukraine's war aims - Reuters
+• US primaries in Oklahoma, Georgia, others: Key takeaways from the results - Al Jazeera
+• Rick Jackson’s Georgia win is an embarrassing blemish on Trump’s record - Politico
+• US Attorney for Minnesota charges 15 anti-ICE protesters, alleging ties to antifa groups - 5 EYEWITNESS NEWS
+• B-52 was in the air a very short time before crashing and killing all 8 on board - AP News
 
 ----------------------------------------
 
 TRENDING TOPICS
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube is killing its Trending page a decade after its debut
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Google reveals the top trending searches of 2025
+• YouTube is killing its Trending page a decade after its debut
 • Gemini was Google’s top trending search term in 2025
-• YouTube removing the Trending page in favor of Charts, recommendations
+• Google reveals the top trending searches of 2025
 • Bluesky is testing a trending topics feature
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
