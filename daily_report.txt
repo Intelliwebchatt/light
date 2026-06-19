@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-06-18
+INTELLIGENCE SNAPSHOT // 2026-06-19
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,502
-DOW J: 51,809
-NASDAQ: 26,394
+S&P 500: 7,501
+DOW J: 51,565
+NASDAQ: 26,518
 VIX: 17
 
 ----------------------------------------
@@ -12,58 +12,58 @@ VIX: 17
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Congo DR win the 2026 FIFA World Cup?
-[52.5%] Will Czechia win on 2026-06-18?
-[1.7%] Will Colombia win the 2026 FIFA World Cup?
-[0.1%] Will Ghana win the 2026 FIFA World Cup?
-[0.1%] Will Belete Molla be the next Prime Minister of Ethiopia?
+[0.9%] Will Switzerland win the 2026 FIFA World Cup?
+[0.4%] Will Canada win the 2026 FIFA World Cup?
+[1.6%] Will Mexico win the 2026 FIFA World Cup?
+[0.4%] Will South Korea win the 2026 FIFA World Cup?
+[0.5%] Will Berhanu Nega be the next Prime Minister of Ethiopia?
 
 --- US POLITICS (Top 5 Active) ---
-[8.1%] Will Portugal win the 2026 FIFA World Cup?
-[0.7%] Will Croatia win the 2026 FIFA World Cup?
-[0.4%] Will the Iranian regime fall by June 30?
-[12.8%] Will England win the 2026 FIFA World Cup?
-[1.4%] Will Mexico win the 2026 FIFA World Cup?
+[0.1%] Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
+[0.1%] Will the text of the US-Iran agreement be released by June 16? 
+[2.4%] Will USA win the 2026 FIFA World Cup?
+[0.1%] Will Czechia win the 2026 FIFA World Cup?
+[60.5%] Will United States win on 2026-06-19?
 
 --- TECH & AI (Top 5 Active) ---
-[0.2%] Will Scotland win the 2026 FIFA World Cup?
-[11.8%] Will Argentina win the 2026 FIFA World Cup?
-[0.1%] Will Algeria win the 2026 FIFA World Cup?
-[0.4%] Will Austria win the 2026 FIFA World Cup?
-[0.4%] Will South Korea win the 2026 FIFA World Cup?
+[18.4%] Will France win the 2026 FIFA World Cup?
+[5.8%] Will Germany win the 2026 FIFA World Cup?
+[18.5%] Will Australia win on 2026-06-19?
+[43.5%]  Iran agrees to end enrichment of uranium by June 30?
+[1.6%] Will Belgium win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[4.0%] Will Netherlands win the 2026 FIFA World Cup?
-[0.5%] Will Sweden win the 2026 FIFA World Cup?
-[2.6%] Will Norway win the 2026 FIFA World Cup?
-[0.5%] Will Berhanu Nega be the next Prime Minister of Ethiopia?
-[5.7%] Will Germany win the 2026 FIFA World Cup?
+[100.0%] Will Trump agree to withdraw troops from the Iranian region by June 30?
+[2.1%] Will Graham Platner win the 2028 Democratic presidential nomination?
+[2.6%] Will Morocco win the 2026 FIFA World Cup?
+[54.5%] Counter-Strike: Spirit vs G2 (BO3) - IEM Cologne Major Playoffs
+[0.1%] Will Ghana win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz - Al Jazeera
-• Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital - AP News
-• Hegseth announces review of US troops in Europe, scorns some allies - Reuters
-• Supreme Court rules for marijuana user charged under the same gun law as Hunter Biden - NBC News
-• The Obama Presidential Center will be dedicated Thursday. Here's what to expect - NPR
-• Senate GOP frustrations grow as Trump blocks Republican victories - The Hill
-• Republicans fear Trump is hurting their chances. He can’t understand why. - Politico
-• Billionaire Tax Officially Has Enough Signatures for California Ballot - The New York Times
+• U.S.-Iran talks postponed as Vance cancels trip and Israel intensifies strikes in southern Lebanon - NBC News
+• Senate Republicans in somber, pessimistic mood over Trump deal with Iran - The Hill
+• Gov Sanders reveals 'major breakthrough' on education as red state positions itself as 'blueprint' for nation - Fox News
+• How Pulte’s new role is a win for CIA’s John Ratcliffe - Politico
+• Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7 - BBC
+• Andy Burnham wins U.K. Parliament seat, key step in bid to oust prime minister - The Washington Post
+• Matt Dunlap Wins Democratic House Primary in Maine’s Swing District - The New York Times
+• Murdoch Paper Humiliates Trump With Scathing Weakness Verdict - The Daily Beast
 
 ----------------------------------------
 
 TRENDING TOPICS
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube is killing its Trending page a decade after its debut
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube kills the Trending page after a decade of existence
-• YouTube removing the Trending page in favor of Charts, recommendations
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Gemini was Google’s top trending search term in 2025
-• Bluesky is testing a trending topics feature
+• YouTube removing the Trending page in favor of Charts, recommendations
 • Google reveals the top trending searches of 2025
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Bluesky is testing a trending topics feature
 
 ========================================
 END TRANSMISSION
