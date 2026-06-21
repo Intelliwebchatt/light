@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-06-20
+INTELLIGENCE SNAPSHOT // 2026-06-21
 ========================================
 
 MARKET CLOSE
@@ -12,57 +12,57 @@ VIX: 17
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[3.2%] Will USA win the 2026 FIFA World Cup?
-[0.2%] Will Egypt win the 2026 FIFA World Cup?
-[5.0%]  Iran agrees to end enrichment of uranium by June 30?
-[0.1%] Will Paraguay win the 2026 FIFA World Cup?
-[1.4%] Will Japan win the 2026 FIFA World Cup?
+[2.4%] Will Japan win the 2026 FIFA World Cup?
+[0.5%] Will Ivory Coast win the 2026 FIFA World Cup?
+[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[0.1%] Will Ecuador win the 2026 FIFA World Cup?
+[0.2%] Will Sweden win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[1.2%] Will Mexico win the 2026 FIFA World Cup?
-[5.9%] Will Brazil win the 2026 FIFA World Cup?
-[0.4%] Will Canada win the 2026 FIFA World Cup?
-[1.6%] Will Colombia win the 2026 FIFA World Cup?
-[0.1%] Will Scotland win the 2026 FIFA World Cup?
+[5.7%] Will Netherlands win the 2026 FIFA World Cup?
+[0.1%] Will Algeria win the 2026 FIFA World Cup?
+[5.8%] Will Germany win the 2026 FIFA World Cup?
+[4.0%] Will USA win the 2026 FIFA World Cup?
+[12.6%] Will England win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[56.5%] Will Netherlands win on 2026-06-20?
-[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
-[0.5%] Will Uruguay win the 2026 FIFA World Cup?
-[2.6%] Will Morocco win the 2026 FIFA World Cup?
-[65.5%] Will Germany win on 2026-06-20?
+[0.8%] Will Switzerland win the 2026 FIFA World Cup?
+[0.1%] Will Ghana win the 2026 FIFA World Cup?
+[1.4%] Will Mexico win the 2026 FIFA World Cup?
+[3.6%] Will Saudi Arabia win on 2026-06-21?
+[2.4%] Will Morocco win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[19.8%] Will France win the 2026 FIFA World Cup?
-[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
-[0.7%] Will Croatia win the 2026 FIFA World Cup?
+[6.5%] Strait of Hormuz traffic returns to normal by end of June?
+[0.1%] Will Paraguay win the 2026 FIFA World Cup?
 [1.6%] Will Belgium win the 2026 FIFA World Cup?
-[7.1%] Will Portugal win the 2026 FIFA World Cup?
+[100.0%] Will Trump agree to withdraw troops from the Iranian region by June 30?
+[0.4%] Will Austria win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iran Latest: Lebanese state media reports attacks by Israel despite announced ceasefire - CBS News
-• Trump says vandals used chemicals to damage newly renovated reflecting pool near Lincoln Memorial - Fox News
-• US envoy headed for Switzerland, Israeli strikes on Lebanon threaten talks - Al Jazeera
-• A New Air Force One, via Qatar, Nears Its First Presidential Flight - The New York Times
-• The U.S.-Iran negotiations have been chaotic. But the confusion has only grown since the MOU was signed. - NBC News
-• Shot by ICE and still in pain. LA detainee highlights gaps in DHS oversight - NPR
-• Kennedy Center says it isn't required to reschedule shows after judge blocks 2-year closure - CNBC
-• Trump hits back at Meloni after she said he 'completely made up' claim she 'begged' him for picture - Sky News
+• Vance and Iranian officials arrive in Switzerland to launch talks on Tehran’s nuclear program - AP News
+• Davey Hearn: Former Olympian denies vandalising Washington Reflecting Pool after arrest - BBC
+• MMA fighter helps nab Florida university student leader in suspected child predator sting - Fox News
+• France bans some outdoor drinking as heat wave threatens Europe - CBS News
+• Report says UK PM Starmer ready to quit, but source says he is still focused on the job - CNBC
+• Freed from Cambodia's scam compounds, trafficking victims face a new crisis - NPR
+• Wildfire in Central Utah Prompts Evacuation Order for Hundreds of People - The New York Times
+• A Diocese Tries to Protect Its 29-Foot Jesus From Trump’s Border Wall - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• Trending is out—YouTube is now all about your interests
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube is killing its Trending page a decade after its debut
 • YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube kills the Trending page after a decade of existence
-• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube is killing its Trending page a decade after its debut
 • Gemini was Google’s top trending search term in 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• YouTube removing the Trending page in favor of Charts, recommendations
 • Google reveals the top trending searches of 2025
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
