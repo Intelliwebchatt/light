@@ -1,67 +1,67 @@
-INTELLIGENCE SNAPSHOT // 2026-06-22
+INTELLIGENCE SNAPSHOT // 2026-06-23
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,472
-DOW J: 51,737
-NASDAQ: 26,181
-VIX: 17
+S&P 500: 7,418
+DOW J: 51,785
+NASDAQ: 25,862
+VIX: 19
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
-[67.5%] Will Argentina win on 2026-06-22?
-[1.1%] Will Belgium win the 2026 FIFA World Cup?
-[0.1%] Will Uruguay win the 2026 FIFA World Cup?
-[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[3.0%] Will Norway win the 2026 FIFA World Cup?
+[0.2%] Will Senegal win the 2026 FIFA World Cup?
+[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
+[0.2%] Will Belete Molla be the next Prime Minister of Ethiopia?
+[1.6%] Will Colombia win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[1.6%] Will Colombia win the 2026 FIFA World Cup?
-[0.5%] Will Croatia win the 2026 FIFA World Cup?
-[2.2%] Will Norway win the 2026 FIFA World Cup?
-[0.2%] Will South Korea win the 2026 FIFA World Cup?
-[0.2%] Will Egypt win the 2026 FIFA World Cup?
+[0.4%] Will Croatia win the 2026 FIFA World Cup?
+[0.1%] Will Algeria win the 2026 FIFA World Cup?
+[85.5%] Will Portugal win on 2026-06-23?
+[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
+[3.5%] Will USA win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[22.5%] Will Argentina vs. Austria end in a draw?
-[49.5%] Argentina vs. Austria: O/U 2.5
-[0.2%] Will Alesa Mengesha be the next Prime Minister of Ethiopia?
-[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
-[2.1%] Will Japan win the 2026 FIFA World Cup?
+[14.9%] Will Argentina win the 2026 FIFA World Cup?
+[12.3%] Will England win the 2026 FIFA World Cup?
+[1.1%] Will Belgium win the 2026 FIFA World Cup?
+[0.2%] Will Austria win the 2026 FIFA World Cup?
+[0.1%] Will Uruguay win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[40.5%] Spread: Argentina (-1.5)
+[7.2%] Will Portugal win the 2026 FIFA World Cup?
+[1.9%] Will Japan win the 2026 FIFA World Cup?
 [13.9%] Will Spain win the 2026 FIFA World Cup?
-[3.5%] Will USA win the 2026 FIFA World Cup?
-[13.2%] Will Argentina win the 2026 FIFA World Cup?
-[5.5%] Will Netherlands win the 2026 FIFA World Cup?
+[4.5%] Will Brazil win the 2026 FIFA World Cup?
+[5.1%] Will Netherlands win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Starmer says he’ll resign as UK prime minister, roiling British politics yet again - AP News
-• Iran-US peace talks show ‘encouraging progress,’ say mediators - politico.eu
-• U.S.-Iran Updates: Vance says Iran to let international nuclear inspections resume after "good day" of talks - CBS News
-• Supreme Court Restores Conviction in 1979 Murder of Etan Patz - The New York Times
-• At least five people arrested in alleged tampering of Reflecting Pool, official says - NBC News
-• Heat wave grips Europe, triggering alerts and disruptions - dw.com
-• Boyle Heights fire expected to keep burning for days amid air quality warnings, schools relocating activities - Los Angeles Times
-• A rising populist tide is threatening New York’s powerful incumbents - Politico
+• Savannah Guthrie pleads for tips as ransom note claims mom is dead: 'Somebody knows something' - Fox News
+• Live Updates: Trump says Iran "completely agreed" to nuclear inspections, but Tehran denies any such plans - CBS News
+• France records hottest-ever night as 40 drown trying to escape heatwave - Al Jazeera
+• Democrats' Jeffries and Mamdani wings face off in New York - Axios
+• It’s not easy being green: Trump’s botched reflecting pool becomes 2,028ft metaphor - The Guardian
+• New photos show first look at Kennedy Center facade without Trump’s name - The Washington Post
+• What to know about a cold storage warehouse fire in Los Angeles - NPR
+• Charlie Kirk murder suspect's ex-roommate can't testify at hearing, judge rules - CBS News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
 • Trending is out—YouTube is now all about your interests
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube is killing its Trending page a decade after its debut
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube removing the Trending page in favor of Charts, recommendations
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google reveals the top trending searches of 2025
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Gemini was Google’s top trending search term in 2025
 • Google’s Year in Search 2025: These trending topics spiked big
 
