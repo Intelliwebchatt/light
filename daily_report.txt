@@ -1,69 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-06-29
+INTELLIGENCE SNAPSHOT // 2026-06-30
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,407
-DOW J: 52,113
-NASDAQ: 25,629
-VIX: 18
+S&P 500: 7,466
+DOW J: 52,264
+NASDAQ: 26,001
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.2%] Will Canada win the 2026 FIFA World Cup?
-[0.2%] Will Shimelis Abdisa be the next Prime Minister of Ethiopia?
-[0.3%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
-[55.5%] Will Brazil win on 2026-06-29?
-[4.3%] Will Germany win the 2026 FIFA World Cup?
+[3.8%] Will Morocco win the 2026 FIFA World Cup?
+[0.2%] Will Paraguay win the 2026 FIFA World Cup?
+[0.1%] Will Egypt win the 2026 FIFA World Cup?
+[1.7%] Will Mexico win the 2026 FIFA World Cup?
+[0.4%] Will Croatia win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[1.1%] Will Japan win the 2026 FIFA World Cup?
-[1.1%] Will Mexico win the 2026 FIFA World Cup?
-[0.1%] Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
-[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
-[2.4%] Will USA win the 2026 FIFA World Cup?
+[0.1%] Will Sweden win the 2026 FIFA World Cup?
+[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
+[0.4%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
+[0.2%] Will Shimelis Abdisa be the next Prime Minister of Ethiopia?
+[5.8%] Will Portugal win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[11.2%] Will Spain win the 2026 FIFA World Cup?
-[5.9%] Will Brazil win the 2026 FIFA World Cup?
-[18.5%] Will Japan win on 2026-06-29?
-[1.4%] Will Belgium win the 2026 FIFA World Cup?
-[5.9%] Will Portugal win the 2026 FIFA World Cup?
+[7.0%] Will Brazil win the 2026 FIFA World Cup?
+[0.1%] Will Ghana win the 2026 FIFA World Cup?
+[1.9%] Will Norway win the 2026 FIFA World Cup?
+[19.4%] Will Argentina win the 2026 FIFA World Cup?
+[28.1%] Will France win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[43.5%] Brazil vs. Japan: O/U 2.5
-[0.2%] Will Laura Siegemund be the 2026 Women’s Wimbledon Winner?
-[0.1%] Will Austria win the 2026 FIFA World Cup?
-[5.1%] Will Netherlands win the 2026 FIFA World Cup?
-[1.8%] Will Norway win the 2026 FIFA World Cup?
+[10.0%] Will England win the 2026 FIFA World Cup?
+[45.5%] Will Norway win on 2026-06-30?
+[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
+[2.8%] Will USA win the 2026 FIFA World Cup?
+[0.4%] Will Senegal win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Supreme Court Lets $5 Million Sex Abuse Verdict Against Trump Stand - The New York Times
-• Supreme Court rules Trump cannot fire Fed member Lisa Cook; grants him more power over other independent agencies - NBC News
-• The Supreme Court upholds grace periods for mail-in ballots, siding against the GOP - NPR
-• Iran Latest: U.S. and Iranian officials to resume talks, Trump says, after clashes test ceasefire - CBS News
-• Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’ - The Guardian
-• Graham Platner and Susan Collins are neck and neck, Times/Press Herald/Siena poll shows - The Portland Press Herald
-• After 40 years in Congress, Nancy Pelosi to help create institute to train leaders of the future - CNN
-• Trump says Reflecting Pool 'in full use,' confirms DC golf course work - USA Today
+• SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low - NPR
+• Mideast Live Updates: U.S. and Iran Gear Up for Meetings in Qatar - The New York Times
+• Monaco explosion injures 3 including Ukrainian tycoon as suspect flees to France - AP News
+• Live updates: Venezuela earthquake aftershocks reignite fears as survivors seek answers - CNN
+• Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones - The New York Times
+• Venezuelans deported from the U.S. were killed hours later in powerful quakes - NPR
+• Stifling heat and humidity to overtake the region this week. Here’s when the dangerous weather peaks. - The Boston Globe
+• Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud - Al Jazeera
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• Trending is out—YouTube is now all about your interests
-• Trending Markets Explained: Key Concepts for Traders
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube is killing its Trending page a decade after its debut
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• Google reveals the top trending searches of 2025
-• YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube kills the Trending page after a decade of existence
-• Google’s Year in Search 2025: These trending topics spiked big
+• Fox Chicago's top trending stories of 2025
+• The headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
