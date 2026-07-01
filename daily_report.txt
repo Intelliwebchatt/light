@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-06-30
+INTELLIGENCE SNAPSHOT // 2026-07-01
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,466
-DOW J: 52,264
-NASDAQ: 26,001
+S&P 500: 7,494
+DOW J: 52,401
+NASDAQ: 26,132
 VIX: 17
 
 ----------------------------------------
@@ -12,50 +12,58 @@ VIX: 17
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[3.8%] Will Morocco win the 2026 FIFA World Cup?
-[0.2%] Will Paraguay win the 2026 FIFA World Cup?
-[0.1%] Will Egypt win the 2026 FIFA World Cup?
-[1.7%] Will Mexico win the 2026 FIFA World Cup?
-[0.4%] Will Croatia win the 2026 FIFA World Cup?
+[2.4%] Will Morocco win the 2026 FIFA World Cup?
+[0.2%] Will Shimelis Abdisa be the next Prime Minister of Ethiopia?
+[2.8%] Will Mexico win the 2026 FIFA World Cup?
+[0.5%] Will Senegal win the 2026 FIFA World Cup?
+[1.7%] Will Norway win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Sweden win the 2026 FIFA World Cup?
-[0.4%] Will Ivory Coast win the 2026 FIFA World Cup?
-[0.4%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
-[0.2%] Will Shimelis Abdisa be the next Prime Minister of Ethiopia?
-[5.8%] Will Portugal win the 2026 FIFA World Cup?
+[0.1%] Will Luiz Inácio Lula da Silva be the next leader out before 2027?
+[0.2%] Will Canada win the 2026 FIFA World Cup?
+[1.1%] Will Belgium win the 2026 FIFA World Cup?
+[0.1%] Will Algeria win the 2026 FIFA World Cup?
+[2.9%] Will USA win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[7.0%] Will Brazil win the 2026 FIFA World Cup?
-[0.1%] Will Ghana win the 2026 FIFA World Cup?
-[1.9%] Will Norway win the 2026 FIFA World Cup?
-[19.4%] Will Argentina win the 2026 FIFA World Cup?
-[28.1%] Will France win the 2026 FIFA World Cup?
+[2.8%] Will Colombia win the 2026 FIFA World Cup?
+[0.1%] Will Paraguay win the 2026 FIFA World Cup?
+[32.6%] Will France win the 2026 FIFA World Cup?
+[5.8%] Will Portugal win the 2026 FIFA World Cup?
+[100.0%] Aleksandar Vučić out as Serbian President by June 30, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[10.0%] Will England win the 2026 FIFA World Cup?
-[45.5%] Will Norway win on 2026-06-30?
+[0.4%] Will Croatia win the 2026 FIFA World Cup?
+[19.4%] Will Argentina win the 2026 FIFA World Cup?
 [0.1%] Will Cape Verde win the 2026 FIFA World Cup?
-[2.8%] Will USA win the 2026 FIFA World Cup?
-[0.4%] Will Senegal win the 2026 FIFA World Cup?
+[0.1%] Will Ghana win the 2026 FIFA World Cup?
+[0.2%] Will Xinyu Wang be the 2026 Women’s Wimbledon Winner?
 
 ----------------------------------------
 
 TOP HEADLINES
-• SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low - NPR
-• Mideast Live Updates: U.S. and Iran Gear Up for Meetings in Qatar - The New York Times
-• Monaco explosion injures 3 including Ukrainian tycoon as suspect flees to France - AP News
-• Live updates: Venezuela earthquake aftershocks reignite fears as survivors seek answers - CNN
-• Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones - The New York Times
-• Venezuelans deported from the U.S. were killed hours later in powerful quakes - NPR
-• Stifling heat and humidity to overtake the region this week. Here’s when the dangerous weather peaks. - The Boston Globe
-• Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud - Al Jazeera
+• Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress - NPR
+• The Birthright Decision Was Surprisingly Close, Some Legal Scholars Say - The New York Times
+• GOP rebellion over Trump’s elections overhaul leads House to recess for July Fourth early - The Washington Post
+• Crowd size gripes, state fair troubles: The problems of an America 250 celebration tied to Trump - CNN
+• Another New York resident says he was warned by officers after criticizing ICE - AP News
+• Venezuela: Three-year-old rescued and taken to hospital six days after quake - BBC
+• Trump Takes Maiden Flight on Qatari-Gifted Air Force One - WSJ
+• Dangerous heatwave to hit US ahead of holiday weekend - BBC
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Fox Chicago's top trending stories of 2025
-• The headlines: Top stories of the day
+• YouTube kills the Trending page after a decade of existence
+• Trending is out—YouTube is now all about your interests
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube is killing its Trending page a decade after its debut
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube’s ‘Trending’ section is about to disappear
+• YouTube removing the Trending page in favor of Charts, recommendations
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
 END TRANSMISSION
