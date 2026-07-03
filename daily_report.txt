@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-07-02
+INTELLIGENCE SNAPSHOT // 2026-07-03
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,519
-DOW J: 52,622
-NASDAQ: 26,115
+S&P 500: 7,483
+DOW J: 52,900
+NASDAQ: 25,833
 VIX: 16
 
 ----------------------------------------
@@ -12,58 +12,53 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[1.6%] Will Belgium win the 2026 FIFA World Cup?
-[0.1%] Will Ghana win the 2026 FIFA World Cup?
-[1.9%] Will Norway win the 2026 FIFA World Cup?
-[3.5%] Will Mexico win the 2026 FIFA World Cup?
+[0.9%] Will Switzerland win the 2026 FIFA World Cup?
+[0.1%] Will Paraguay win the 2026 FIFA World Cup?
 [0.2%] Will Shimelis Abdisa be the next Prime Minister of Ethiopia?
+[0.3%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
+[6.0%] Will Portugal win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[2.6%] Will USA win the 2026 FIFA World Cup?
-[8.2%] Will England win the 2026 FIFA World Cup?
-[2.5%] Will Morocco win the 2026 FIFA World Cup?
-[35.0%] Will France win the 2026 FIFA World Cup?
-[0.4%] Will Croatia win the 2026 FIFA World Cup?
+[13.1%] Will Spain win the 2026 FIFA World Cup?
+[3.1%] Will Mexico win the 2026 FIFA World Cup?
+[85.5%] Will Argentina win on 2026-07-03?
+[0.2%] Will Alesa Mengesha be the next Prime Minister of Ethiopia?
+[2.5%] Will USA win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Australia win the 2026 FIFA World Cup?
+[7.1%] Will England win the 2026 FIFA World Cup?
 [0.1%] Will Cape Verde win the 2026 FIFA World Cup?
-[6.0%] Will Portugal win the 2026 FIFA World Cup?
-[6.5%] Will Brazil win the 2026 FIFA World Cup?
-[0.1%] Will Algeria win the 2026 FIFA World Cup?
+[19.4%] Will Argentina win the 2026 FIFA World Cup?
+[0.2%] Will Volodymyr Zelenskyy be the next leader out before 2027?
+[2.5%] Will Colombia win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[0.8%] Will Switzerland win the 2026 FIFA World Cup?
-[10.1%] Will Spain win the 2026 FIFA World Cup?
-[52.9%] Spread: Spain (-1.5)
-[18.4%] Will Argentina win the 2026 FIFA World Cup?
-[0.1%] Will Paraguay win the 2026 FIFA World Cup?
+[0.1%] Will Ghana win the 2026 FIFA World Cup?
+[2.5%] Will Morocco win the 2026 FIFA World Cup?
+[33.2%] Will France win the 2026 FIFA World Cup?
+[1.8%] Will Norway win the 2026 FIFA World Cup?
+[93.5%] Argentina vs. Cabo Verde: Team to Advance
 
 ----------------------------------------
 
 TOP HEADLINES
-• Russian attacks kills at least 20, injures scores in Kyiv after Zelenskyy warned of ‘massive strike’ - NBC News
-• Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling - The Guardian
-• Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group - NPR
-• Survivor buried by Venezuela quakes eight days ago is cheering rescuers on - BBC
-• NCAA leader says no plan to change rules on transgender athletes after Supreme Court ruling - CBS News
-• Daredevil couple ID'd after being arrested for brazen climb to top of Empire State Building - ABC7 Los Angeles
-• FBI says it’s still investigating some notes in Nancy Guthrie case as legitimate - NBC News
-• 'The old politics are gone': Steve Bannon on the democratic socialist wave - Politico
+• For some federal employees, America’s extravagant 250th birthday parties arrive amid anger, uncertainty and fatigue - CNN
+• U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused - CBS News
+• Appeals court blocks Trump admin from holding migrants without bond for over 90 days - Fox News
+• Trump heads to Mount Rushmore, where efforts to impose his likeness have stalled - CNN
+• Ukrainian woman disguised as a man is main suspect in Monaco attack - CNN
+• Venezuelan security guard pulled alive from earthquake basement rubble after 8 days - PBS
+• Trump administration indicts Olympic athlete for Reflecting Pool vandalism - Al Jazeera
+• How extreme heat is changing DC’s July Fourth weekend event plans - The Hill
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube kills the Trending page after a decade of existence
-• Trending is out—YouTube is now all about your interests
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube is killing its Trending page a decade after its debut
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• Trending Markets Explained: Key Concepts for Traders
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube removing the Trending page in favor of Charts, recommendations
-• Google reveals the top trending searches of 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Yahoo 100
+• The headlines: Top stories of the day
+• Fox Chicago's top trending stories of 2025
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
