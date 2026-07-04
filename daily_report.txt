@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-07-03
+INTELLIGENCE SNAPSHOT // 2026-07-04
 ========================================
 
 MARKET CLOSE
@@ -12,53 +12,58 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.9%] Will Switzerland win the 2026 FIFA World Cup?
-[0.1%] Will Paraguay win the 2026 FIFA World Cup?
-[0.2%] Will Shimelis Abdisa be the next Prime Minister of Ethiopia?
-[0.3%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
-[6.0%] Will Portugal win the 2026 FIFA World Cup?
+[0.2%] Will Egypt win the 2026 FIFA World Cup?
+[100.0%] LoL: Bilibili Gaming vs T1 (BO5) - Mid-Season Invitational Playoffs
+[17.1%] Will Argentina win the 2026 FIFA World Cup?
+[55.5%] Will Morocco win on 2026-07-04?
+[1.1%] Will Belgium win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[13.1%] Will Spain win the 2026 FIFA World Cup?
-[3.1%] Will Mexico win the 2026 FIFA World Cup?
-[85.5%] Will Argentina win on 2026-07-03?
+[0.1%] Will Javier Milei be the next leader out before 2027?
+[3.0%] Will Colombia win the 2026 FIFA World Cup?
+[3.4%] Will Mexico win the 2026 FIFA World Cup?
 [0.2%] Will Alesa Mengesha be the next Prime Minister of Ethiopia?
-[2.5%] Will USA win the 2026 FIFA World Cup?
+[0.9%] Will Switzerland win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[7.1%] Will England win the 2026 FIFA World Cup?
-[0.1%] Will Cape Verde win the 2026 FIFA World Cup?
-[19.4%] Will Argentina win the 2026 FIFA World Cup?
-[0.2%] Will Volodymyr Zelenskyy be the next leader out before 2027?
-[2.5%] Will Colombia win the 2026 FIFA World Cup?
+[0.2%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
+[6.2%] Will Portugal win the 2026 FIFA World Cup?
+[12.2%] Will Spain win the 2026 FIFA World Cup?
+[35.1%] Will France win the 2026 FIFA World Cup?
+[0.4%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Ghana win the 2026 FIFA World Cup?
-[2.5%] Will Morocco win the 2026 FIFA World Cup?
-[33.2%] Will France win the 2026 FIFA World Cup?
-[1.8%] Will Norway win the 2026 FIFA World Cup?
-[93.5%] Argentina vs. Cabo Verde: Team to Advance
+[0.2%] Will Benjamin Netanyahu be the next leader out before 2027?
+[6.2%] Will Brazil win the 2026 FIFA World Cup?
+[27.5%] Canada vs. Morocco: Team to Advance
+[2.5%] Will USA win the 2026 FIFA World Cup?
+[7.2%] Will England win the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• For some federal employees, America’s extravagant 250th birthday parties arrive amid anger, uncertainty and fatigue - CNN
-• U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused - CBS News
-• Appeals court blocks Trump admin from holding migrants without bond for over 90 days - Fox News
-• Trump heads to Mount Rushmore, where efforts to impose his likeness have stalled - CNN
-• Ukrainian woman disguised as a man is main suspect in Monaco attack - CNN
-• Venezuelan security guard pulled alive from earthquake basement rubble after 8 days - PBS
-• Trump administration indicts Olympic athlete for Reflecting Pool vandalism - Al Jazeera
-• How extreme heat is changing DC’s July Fourth weekend event plans - The Hill
+• At Mount Rushmore, Trump Veers From Patriotism to ‘Communism’ - The New York Times
+• Large crowds gather in Tehran for Ayatollah Khamenei's funeral - BBC
+• July 4th live updates as celebrations across the USA mark America's 250th birthday - CBS News
+• America250: How the US heatwave will affect Fourth of July celebrations - Al Jazeera
+• 'Cautiously optimistic': Swing voters describe their view of America at 250 - NPR
+• Democrats plot subpoena storm over Trump's $2 billion gold rush - Axios
+• As the Nation Turns 250, a Texas Town Grieves Instead - The New York Times
+• ‘All men are created equal’: America has lost its values. It’s time to go back to the founding text - The Guardian
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Yahoo 100
-• The headlines: Top stories of the day
-• Fox Chicago's top trending stories of 2025
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
-• The Headlines: Top stories of the day
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube is killing its Trending page a decade after its debut
+• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube’s ‘Trending’ section is about to disappear
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
+• Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
 END TRANSMISSION
