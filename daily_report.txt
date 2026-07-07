@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-07-06
+INTELLIGENCE SNAPSHOT // 2026-07-07
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,527
-DOW J: 52,887
-NASDAQ: 26,112
+S&P 500: 7,508
+DOW J: 53,037
+NASDAQ: 25,848
 VIX: 16
 
 ----------------------------------------
@@ -12,57 +12,53 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[4.7%] Will Norway win the 2026 FIFA World Cup?
-[2.5%] Will Morocco win the 2026 FIFA World Cup?
-[3.2%] Will USA win the 2026 FIFA World Cup?
-[14.4%] Will England win the 2026 FIFA World Cup?
 [0.2%] Will Egypt win the 2026 FIFA World Cup?
+[2.2%] Will Belgium win the 2026 FIFA World Cup?
+[5.8%] Will Norway win the 2026 FIFA World Cup?
+[18.5%] Will Ronaldo Cry at the World Cup?
+[18.9%] Will Spain win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[5.9%] Will Portugal win the 2026 FIFA World Cup?
-[33.5%] Portugal vs. Spain: Team to Advance
-[1.4%] Will Belgium win the 2026 FIFA World Cup?
-[0.9%] Will Switzerland win the 2026 FIFA World Cup?
-[53.5%] United States vs. Belgium: Team to Advance
+[2.9%] Will Morocco win the 2026 FIFA World Cup?
+[85.5%] Argentina vs. Egypt: Team to Advance
+[0.3%] Will Mahmoud Abbas be the next leader out before 2027?
+[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[24.5%] Wimbledon WTA: Jessica Pegula vs Coco Gauff
 
 --- TECH & AI (Top 5 Active) ---
-[0.2%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
-[51.5%] Will Spain win on 2026-07-06?
-[0.1%] Wimbledon ATP: Alex de Minaur vs Flavio Cobolli
-[12.4%] Will Spain win the 2026 FIFA World Cup?
-[100.0%] Wimbledon WTA: Jasmine Paolini vs Alexandra Eala
+[0.9%] Will Switzerland win the 2026 FIFA World Cup?
+[17.8%] Will Argentina win the 2026 FIFA World Cup?
+[73.5%] Will Argentina win on 2026-07-07?
+[0.4%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[33.0%] Will France win the 2026 FIFA World Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[3.0%] Will Colombia win the 2026 FIFA World Cup?
-[16.7%] Will Argentina win the 2026 FIFA World Cup?
-[38.5%] Will United States win on 2026-07-06?
-[32.8%] Will France win the 2026 FIFA World Cup?
-[1.8%] Exact Score: Portugal 3 - 3 Spain?
+[3.4%] Will Colombia win the 2026 FIFA World Cup?
+[0.4%] Will Graham Platner win the 2028 Democratic presidential nomination?
+[14.8%] Will England win the 2026 FIFA World Cup?
+[7.5%] Will Egypt win on 2026-07-07?
+[48.5%] Argentina vs. Egypt: O/U 2.5
 
 ----------------------------------------
 
 TOP HEADLINES
-• Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei - AP News
-• Erdogan-Trump Friendship Can Help NATO, Turkey’s Foreign Minister Says - The New York Times
-• Facing Threats, NATO Finds New Value in Turkey - The New York Times
-• Zelenskyy demands Western support after Russian strikes kill 12 in Kyiv - politico.eu
-• Accused Charlie Kirk assassin Tyler Robinson fights back as prosecutors' sprawling case comes into focus - Fox News
-• How Trump Put Himself in the Middle of America’s 250th - The New York Times
-• How President Trump got FIFA to rescind Folarin Balogin’s red card, while Belgium seethes - OregonLive.com
-• Michigan Democratic Senate primary narrows to one-on-one matchup - The Hill
+• Top Democrats call on Graham Platner to drop out as sexual assault allegation emerges - CBS News
+• Live Updates: Trump Renews Criticism of Allies Before NATO Summit in Turkey - The New York Times
+• Marine Le Pen to learn if she can run for 2027 French presidency as appeal judges rule on conviction - BBC
+• Charlie Kirk’s family leaves courtroom before testimony about shooting video and the sound of the fatal shot - The Salt Lake Tribune
+• Oil prices edge higher after report of Iranian attack on commercial ships in Strait of Hormuz - CNBC
+• Nigel Farage making statement 'on future in public life' after row over financial support - BBC
+• ‘Justice is served’: Donald Trump mocked after United States loss - Yahoo Sports
+• McConnell’s health emergency sparks questions on whether he will return to Senate - The Hill
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube is killing its Trending page a decade after its debut
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube’s ‘Trending’ section is about to disappear
+• Trending is out—YouTube is now all about your interests
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Google reveals the top trending searches of 2025
-• YouTube removing the Trending page in favor of Charts, recommendations
 • Gemini was Google’s top trending search term in 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
