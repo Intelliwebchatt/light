@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-07-08
+INTELLIGENCE SNAPSHOT // 2026-07-09
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,467
-DOW J: 52,446
-NASDAQ: 25,760
+S&P 500: 7,503
+DOW J: 52,424
+NASDAQ: 25,937
 VIX: 17
 
 ----------------------------------------
@@ -13,57 +13,53 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [100.0%] Will Ronaldo Cry at the World Cup?
-[2.1%] Will Switzerland win the 2026 FIFA World Cup?
-[18.8%] Will Argentina win the 2026 FIFA World Cup?
-[5.9%] Will Norway win the 2026 FIFA World Cup?
-[98.5%] Wimbledon WTA: Marta Kostyuk vs Jasmine Paolini
+[3.0%] Will Morocco win the 2026 FIFA World Cup?
+[0.2%] Will Shimelis Abdisa be the next Prime Minister of Ethiopia?
+[44.5%] Wimbledon WTA: Karolina Muchova vs Coco Gauff
+[20.1%] Will Argentina win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.3%] Will Mahmoud Abbas be the next leader out before 2027?
-[3.0%] Will Morocco win the 2026 FIFA World Cup?
-[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
-[15.8%] Will England win the 2026 FIFA World Cup?
-[2.5%] Will Belgium win the 2026 FIFA World Cup?
+[61.4%] Will France win on 2026-07-09?
+[32.1%] Will France win the 2026 FIFA World Cup?
+[2.1%] Will Switzerland win the 2026 FIFA World Cup?
+[77.4%] France vs. Morocco: Team to Advance
+[6.0%] Will Norway win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[32.6%] Will France win the 2026 FIFA World Cup?
-[18.8%] Will Spain win the 2026 FIFA World Cup?
-[61.5%] Will France win on 2026-07-09?
-[2.4%] Will Pete Buttigieg win the 2028 US Presidential Election?
-[78.5%] France vs. Morocco: Team to Advance
+[19.2%] Will Spain win the 2026 FIFA World Cup?
+[16.1%] Will England win the 2026 FIFA World Cup?
+[47.4%] France vs. Morocco: O/U 2.5
+[0.9%] Exact Score: France 3 - 3 Morocco?
+[0.2%] Will Seyed Hossein Mousavian be head of state in Iran end of 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[2.1%] Will Tucker Carlson win the 2028 US Presidential Election?
-[77.5%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[90.5%] Wimbledon WTA: Linda Noskova vs Elise Mertens
-[47.5%] France vs. Morocco: O/U 2.5
-[34.5%] Norway vs. England: Team to Advance
+[2.5%] Will Belgium win the 2026 FIFA World Cup?
+[2.9%] Exact Score: France 3 - 2 Morocco?
+[13.9%] Will Morocco win on 2026-07-09?
+[0.2%] Will Sébastien Lecornu be the next leader out before 2027?
+[10.5%] Exact Score: France 2 - 1 Morocco?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live updates: Trump says ceasefire ‘over’ after US and Iran trade strikes - CNN
-• Capitol agenda: Dems want Schumer silent on Maine - Politico
-• Trump orders a halt to US trade with Spain - politico.eu
-• As health rumors swirl, GOP leaders say they’ve spoken with McConnell - The Washington Post
-• Manhattan high-rise deemed stable after columns buckled, and some evacuations are lifted - AP News
-• Cargo plane with 5 aboard goes missing off Pakistan’s coast - AP News
-• Live updates: Defense disputes DNA evidence in Charlie Kirk assassination hearing - AP News
-• ICE officer fatally shoots Mexican man in Houston during traffic stop - The Washington Post
+• Iran War Live Updates: U.S. and Iran Trade Fresh Strikes - The New York Times
+• Inside the tense final hours of Graham Platner’s campaign - Politico
+• Ukrainian drones batter Russian oil facilities and set more oil tankers ablaze - AP News
+• Tehran launches more strikes after explosions reported in southern Iran - BBC
+• Trump Switches Back To Qatari Plane After Leaving Turkey On Old Air Force One - Forbes
+• Florida's West Palm Beach airport is now named after Trump, but flyers will still see the PBI airport code – for now - CBS News
+• What to know about Houston ICE shooting and other migrant deaths in Texas - The Texas Tribune
+• Former Olympian pleads not guilty in Reflecting Pool damage case after Trump alleged vandalism - AP News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• Trending Stocks gainers
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube is killing its Trending page a decade after its debut
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube’s ‘Trending’ section is about to disappear
 • Google reveals the top trending searches of 2025
-• YouTube removing the Trending page in favor of Charts, recommendations
 • Gemini was Google’s top trending search term in 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Top trending searches of 2025 revealed by Google. See what made the list.
+• Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
 END TRANSMISSION
