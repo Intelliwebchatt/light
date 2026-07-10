@@ -1,64 +1,67 @@
-INTELLIGENCE SNAPSHOT // 2026-07-09
+INTELLIGENCE SNAPSHOT // 2026-07-10
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,503
-DOW J: 52,424
-NASDAQ: 25,937
-VIX: 17
+S&P 500: 7,559
+DOW J: 52,547
+NASDAQ: 26,224
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Will Ronaldo Cry at the World Cup?
-[3.0%] Will Morocco win the 2026 FIFA World Cup?
-[0.2%] Will Shimelis Abdisa be the next Prime Minister of Ethiopia?
-[44.5%] Wimbledon WTA: Karolina Muchova vs Coco Gauff
-[20.1%] Will Argentina win the 2026 FIFA World Cup?
+[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[38.6%] Will France win the 2026 FIFA World Cup?
+[1.6%] Wimbledon ATP: Arthur Fery vs Alexander Zverev
+[5.9%] Will Norway win the 2026 FIFA World Cup?
+[2.1%] Will Belgium win the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[61.4%] Will France win on 2026-07-09?
-[32.1%] Will France win the 2026 FIFA World Cup?
-[2.1%] Will Switzerland win the 2026 FIFA World Cup?
-[77.4%] France vs. Morocco: Team to Advance
-[6.0%] Will Norway win the 2026 FIFA World Cup?
+[16.4%] Will Spain win the 2026 FIFA World Cup?
+[60.4%] Will Spain win on 2026-07-10?
+[1.8%] Will Switzerland win the 2026 FIFA World Cup?
+[0.1%] Will no listed leader be out before 2027?
+[74.9%] Spain vs. Belgium: Team to Advance
 
 --- TECH & AI (Top 5 Active) ---
-[19.2%] Will Spain win the 2026 FIFA World Cup?
-[16.1%] Will England win the 2026 FIFA World Cup?
-[47.4%] France vs. Morocco: O/U 2.5
-[0.9%] Exact Score: France 3 - 3 Morocco?
-[0.2%] Will Seyed Hossein Mousavian be head of state in Iran end of 2026?
+[17.9%] Will Argentina win the 2026 FIFA World Cup?
+[0.1%] Will Seyed Hossein Mousavian be head of state in Iran end of 2026?
+[67.5%] UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)
+[15.4%] Will England win the 2026 FIFA World Cup?
+[16.1%] Will Belgium win on 2026-07-10?
 
 --- SCIENCE (Top 5 Active) ---
-[2.5%] Will Belgium win the 2026 FIFA World Cup?
-[2.9%] Exact Score: France 3 - 2 Morocco?
-[13.9%] Will Morocco win on 2026-07-09?
-[0.2%] Will Sébastien Lecornu be the next leader out before 2027?
-[10.5%] Exact Score: France 2 - 1 Morocco?
+[0.2%] Will Shimelis Abdisa be the next Prime Minister of Ethiopia?
+[0.2%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
+[0.1%] Will Sergio Pérez be the 2026 F1 Drivers' Champion?
+[35.4%] Norway vs. England: Team to Advance
+[54.1%] Spain vs. Belgium: O/U 2.5
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iran War Live Updates: U.S. and Iran Trade Fresh Strikes - The New York Times
-• Inside the tense final hours of Graham Platner’s campaign - Politico
-• Ukrainian drones batter Russian oil facilities and set more oil tankers ablaze - AP News
-• Tehran launches more strikes after explosions reported in southern Iran - BBC
-• Trump Switches Back To Qatari Plane After Leaving Turkey On Old Air Force One - Forbes
-• Florida's West Palm Beach airport is now named after Trump, but flyers will still see the PBI airport code – for now - CBS News
-• What to know about Houston ICE shooting and other migrant deaths in Texas - The Texas Tribune
-• Former Olympian pleads not guilty in Reflecting Pool damage case after Trump alleged vandalism - AP News
+• US-Iran war: Will peace talks resume, and when? - Al Jazeera
+• Man fatally shot by ICE in Houston was not intended target, DHS says - BBC
+• Ronny Chieng Tackles Trump’s Two Air Force Ones - The New York Times
+• Trump denies this Congress what could be its last major bill signing ceremony - The Washington Post
+• Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms - ProPublica
+• China successfully tests sea-based rocket booster recovery system - Reuters
+• It’s not me, it’s them: Platner goes down snarling with graceless exit video - The Guardian
+• McConnell was loaded into ambulance on a stretcher, according to eyewitness and new video - CNN
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Trending Stocks gainers
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• Trending is out—YouTube is now all about your interests
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube is killing its Trending page a decade after its debut
 • Google reveals the top trending searches of 2025
+• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
 • Gemini was Google’s top trending search term in 2025
-• Top trending searches of 2025 revealed by Google. See what made the list.
 • Google’s Year in Search 2025: These trending topics spiked big
 
 ========================================
