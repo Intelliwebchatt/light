@@ -1,69 +1,65 @@
-INTELLIGENCE SNAPSHOT // 2026-07-12
+INTELLIGENCE SNAPSHOT // 2026-07-13
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,575
-DOW J: 52,637
-NASDAQ: 26,282
-VIX: 15
+S&P 500: 7,554
+DOW J: 52,673
+NASDAQ: 26,039
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs
-[18.9%] Will Argentina win the 2026 FIFA World Cup?
-[82.5%] Wimbledon ATP: Jannik Sinner vs Alexander Zverev
-[21.6%] Will England win the 2026 FIFA World Cup?
+[59.6%] France vs. Spain: Team to Advance
+[20.8%] Will Spain win the 2026 FIFA World Cup?
 [38.9%] Will France win the 2026 FIFA World Cup?
+[29.1%] Will Spain win on 2026-07-14?
+[41.1%] Will France win on 2026-07-14?
 
 --- US POLITICS (Top 5 Active) ---
-[20.1%] Will Spain win the 2026 FIFA World Cup?
-[59.5%] France vs. Spain: Team to Advance
-[0.1%] LoL: Bilibili Gaming vs Hanwha Life Esports - Game 4 Winner
-[41.5%] Will France win on 2026-07-14?
-[0.1%] Will Mostafa Pourmohammadi be head of state in Iran end of 2026?
+[17.3%] Will Argentina win the 2026 FIFA World Cup?
+[21.6%] Will England win the 2026 FIFA World Cup?
+[0.4%] Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?
+[29.9%] Will France vs. Spain end in a draw?
+[50.6%] France vs. Spain: O/U 2.5
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs
-[4.5%] Strait of Hormuz traffic returns to normal by July 31?
-[0.4%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
-[0.1%] Will Mohammad Khatami be head of state in Iran end of 2026?
-[100.0%] Dota 2: PARIVISION vs Team Spirit - Game 2 Winner
+[0.2%] Will Allen Graves win the 2026-27 NBA Rookie of the Year?
+[0.7%] Will John Fetterman win the 2028 Democratic presidential nomination?
+[0.2%] Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?
+[0.4%] Strait of Hormuz traffic returns to normal by July 15?
+[0.1%] Will the price of Bitcoin be above $66,000 on July 13?
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Will Ali Motahari be head of state in Iran end of 2026?
-[51.5%] France vs. Spain: O/U 2.5
-[0.4%] Strait of Hormuz traffic returns to normal by July 15?
-[0.1%] Dota 2: 1win vs Team Yandex - Game 1 Winner
-[2.5%] Will Pete Buttigieg win the 2028 US Presidential Election?
+[10.5%] Exact Score: France 2 - 1 Spain?
+[3.5%] Strait of Hormuz traffic returns to normal by July 31?
+[15.9%] Spread: England (-1.5)
+[36.4%] Will England win on 2026-07-15?
+[19.4%] Spread: France (-1.5)
 
 ----------------------------------------
 
 TOP HEADLINES
-• Lindsey Graham, longtime senator from South Carolina, dies at 71 - The Washington Post
-• Iran closes Strait of Hormuz, US launches fresh strikes - DW.com
-• US attacks Iran over ship being hit in Strait of Hormuz; Tehran responds by hitting Arab states - AP News
-• Tall ships in Boston Harbor causing delays at Logan Airport - CBS News
-• At least two killed in Toronto street festival shooting - BBC
-• Survivors of Iranian attack that killed 6 U.S. troops say generals ignored warnings - The Washington Post
-• Mexico-US relations are already strained, but experts say they’re about to get worse - CNN
-• New Medicaid work requirements prompt ‘extreme mass confusion’ in Nebraska - NBC News
+• Who could replace Lindsey Graham? South Carolina’s next steps after senator’s death - AP News
+• Trump: U.S. should be reimbursed for guarding Strait of Hormuz - CNBC
+• U.S.-Iran airstrikes intensify as Tehran says deal is in ‘crisis phase’ - The Washington Post
+• McConnell says a fall led to his hospitalization, breaking weeks of silence - NPR
+• One person killed in an ICE-involved shooting in Maine, state official says - CNN
+• Trump moves to tighten federal control of elections ahead of midterms - USA Today
+• Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race - The New York Times
+• What Really Happened in the Last Known Video of Nolan Wells: ‘It’s Me Yelling’ - Rolling Stone
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• Trending is out—YouTube is now all about your interests
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube removing the Trending page in favor of Charts, recommendations
-• YouTube is killing its Trending page a decade after its debut
 • YouTube’s ‘Trending’ section is about to disappear
-• Google reveals the top trending searches of 2025
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
+• Google reveals the top trending searches of 2025
+• Gemini was Google’s top trending search term in 2025
+• Google’s Year in Search 2025: These trending topics spiked big
+• Top trending searches of 2025 revealed by Google. See what made the list.
 
 ========================================
 END TRANSMISSION
