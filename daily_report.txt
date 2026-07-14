@@ -1,65 +1,69 @@
-INTELLIGENCE SNAPSHOT // 2026-07-13
+INTELLIGENCE SNAPSHOT // 2026-07-14
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,554
-DOW J: 52,673
-NASDAQ: 26,039
-VIX: 16
+S&P 500: 7,515
+DOW J: 52,499
+NASDAQ: 25,873
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[59.6%] France vs. Spain: Team to Advance
-[20.8%] Will Spain win the 2026 FIFA World Cup?
-[38.9%] Will France win the 2026 FIFA World Cup?
-[29.1%] Will Spain win on 2026-07-14?
-[41.1%] Will France win on 2026-07-14?
+[59.4%] France vs. Spain: Team to Advance
+[93.5%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[40.6%] Will France win on 2026-07-14?
+[0.9%] Will Oscar Piastri be the 2026 F1 Drivers' Champion?
+[2.4%] Will Lando Norris be the 2026 F1 Drivers' Champion?
 
 --- US POLITICS (Top 5 Active) ---
-[17.3%] Will Argentina win the 2026 FIFA World Cup?
-[21.6%] Will England win the 2026 FIFA World Cup?
-[0.4%] Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?
-[29.9%] Will France vs. Spain end in a draw?
-[50.6%] France vs. Spain: O/U 2.5
+[29.9%] Will Spain win on 2026-07-14?
+[21.4%] Will Spain win the 2026 FIFA World Cup?
+[0.2%] Will Ebuka Okorie win the 2026-27 NBA Rookie of the Year?
+[39.1%] Will France win the 2026 FIFA World Cup?
+[0.3%] Will Tarris Reed Jr. win the 2026-27 NBA Rookie of the Year?
 
 --- TECH & AI (Top 5 Active) ---
-[0.2%] Will Allen Graves win the 2026-27 NBA Rookie of the Year?
-[0.7%] Will John Fetterman win the 2028 Democratic presidential nomination?
-[0.2%] Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?
-[0.4%] Strait of Hormuz traffic returns to normal by July 15?
-[0.1%] Will the price of Bitcoin be above $66,000 on July 13?
+[21.6%] Will England win the 2026 FIFA World Cup?
+[49.4%] France vs. Spain: O/U 2.5
+[17.3%] Will Argentina win the 2026 FIFA World Cup?
+[0.2%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[1.9%] Will Max Verstappen be the 2026 F1 Drivers' Champion?
 
 --- SCIENCE (Top 5 Active) ---
-[10.5%] Exact Score: France 2 - 1 Spain?
-[3.5%] Strait of Hormuz traffic returns to normal by July 31?
-[15.9%] Spread: England (-1.5)
-[36.4%] Will England win on 2026-07-15?
-[19.4%] Spread: France (-1.5)
+[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[6.2%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
+[1.5%] Exact Score: France 3 - 3 Spain?
+[59.5%] France vs. Spain: Both Teams to Score
+[0.1%] Dota 2: Team Liquid vs Xtreme Gaming - Game 1 Winner
 
 ----------------------------------------
 
 TOP HEADLINES
-• Who could replace Lindsey Graham? South Carolina’s next steps after senator’s death - AP News
-• Trump: U.S. should be reimbursed for guarding Strait of Hormuz - CNBC
-• U.S.-Iran airstrikes intensify as Tehran says deal is in ‘crisis phase’ - The Washington Post
-• McConnell says a fall led to his hospitalization, breaking weeks of silence - NPR
-• One person killed in an ICE-involved shooting in Maine, state official says - CNN
-• Trump moves to tighten federal control of elections ahead of midterms - USA Today
-• Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race - The New York Times
-• What Really Happened in the Last Known Video of Nolan Wells: ‘It’s Me Yelling’ - Rolling Stone
+• U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran strikes as Trump vows to "keep" Strait of Hormuz - CBS News
+• Notable figures who died from the same heart condition linked to Lindsey Graham's death - Fox News
+• Darline Graham Nordone's path from disabilities worker to US senator - USA Today
+• ICE kills 26-year-old in Maine: What happened, and who else has ICE killed? - Al Jazeera
+• Trump cuts nearly 3M acres from 2 Utah national monuments - Axios
+• Jon Stewart Mocks Mitch McConnell’s Recovery Photo - The New York Times
+• New York to impose the country’s first statewide moratorium on data centers - AP News
+• Capitol agenda: Johnson moves to thaw House floor - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube’s ‘Trending’ section is about to disappear
+• YouTube Is Shutting Down Its General ‘Trending’ Video Page
+• YouTube's 'Trending' Page is Shutting Down After a Decade
+• YouTube is killing its Trending page a decade after its debut
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
+• YouTube removing the Trending page in favor of Charts, recommendations
+• YouTube’s ‘Trending’ section is about to disappear
 • Google reveals the top trending searches of 2025
 • Gemini was Google’s top trending search term in 2025
+• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
 • Google’s Year in Search 2025: These trending topics spiked big
-• Top trending searches of 2025 revealed by Google. See what made the list.
 
 ========================================
 END TRANSMISSION
