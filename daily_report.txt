@@ -1,69 +1,69 @@
-INTELLIGENCE SNAPSHOT // 2026-07-14
+INTELLIGENCE SNAPSHOT // 2026-07-15
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,515
-DOW J: 52,499
-NASDAQ: 25,873
-VIX: 17
+S&P 500: 7,544
+DOW J: 52,508
+NASDAQ: 26,107
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[59.4%] France vs. Spain: Team to Advance
-[93.5%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[40.6%] Will France win on 2026-07-14?
-[0.9%] Will Oscar Piastri be the 2026 F1 Drivers' Champion?
-[2.4%] Will Lando Norris be the 2026 F1 Drivers' Champion?
+[58.1%] Will Spain win the 2026 FIFA World Cup?
+[19.8%] Will Argentina win the 2026 FIFA World Cup?
+[53.9%] England vs. Argentina: Team to Advance
+[22.7%] Will England win the 2026 FIFA World Cup?
+[35.6%] Will England win on 2026-07-15?
 
 --- US POLITICS (Top 5 Active) ---
-[29.9%] Will Spain win on 2026-07-14?
-[21.4%] Will Spain win the 2026 FIFA World Cup?
-[0.2%] Will Ebuka Okorie win the 2026-27 NBA Rookie of the Year?
-[39.1%] Will France win the 2026 FIFA World Cup?
-[0.3%] Will Tarris Reed Jr. win the 2026-27 NBA Rookie of the Year?
+[0.2%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
+[51.5%] England vs. Argentina: Both Teams to Score
+[39.4%] England vs. Argentina: O/U 2.5
+[31.6%] Will Argentina win on 2026-07-15?
+[1.1%] Exact Score: England 3 - 3 Argentina?
 
 --- TECH & AI (Top 5 Active) ---
-[21.6%] Will England win the 2026 FIFA World Cup?
-[49.4%] France vs. Spain: O/U 2.5
-[17.3%] Will Argentina win the 2026 FIFA World Cup?
-[0.2%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
-[1.9%] Will Max Verstappen be the 2026 F1 Drivers' Champion?
+[2.2%] Exact Score: England 3 - 2 Argentina?
+[95.5%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[2.1%] Exact Score: England 2 - 3 Argentina?
+[100.0%] LoL: AG.AL vs Dplus KIA (BO1) - Esports World Cup Group A
+[100.0%] LoL: Bilibili Gaming vs Movistar KOI (BO1) - Esports World Cup Group C
 
 --- SCIENCE (Top 5 Active) ---
-[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
-[6.2%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
-[1.5%] Exact Score: France 3 - 3 Spain?
-[59.5%] France vs. Spain: Both Teams to Score
-[0.1%] Dota 2: Team Liquid vs Xtreme Gaming - Game 1 Winner
+[100.0%] LoL: T1 vs GAM Esports (BO1) - Esports World Cup Group C
+[49.5%] Dota 2: Vici Gaming vs PlayTime (BO3) - Esports World Cup Survival
+[36.5%] Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?
+[0.2%] Iasi Open: Ilinca Amariei vs Elsa Jacquemot
+[0.4%] Will Mikel Oyarzabal be the top goalscorer at the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• U.S.-Iran Latest: U.S. wraps up 3rd straight night of Iran strikes as Trump vows to "keep" Strait of Hormuz - CBS News
-• Notable figures who died from the same heart condition linked to Lindsey Graham's death - Fox News
-• Darline Graham Nordone's path from disabilities worker to US senator - USA Today
-• ICE kills 26-year-old in Maine: What happened, and who else has ICE killed? - Al Jazeera
-• Trump cuts nearly 3M acres from 2 Utah national monuments - Axios
-• Jon Stewart Mocks Mitch McConnell’s Recovery Photo - The New York Times
-• New York to impose the country’s first statewide moratorium on data centers - AP News
-• Capitol agenda: Johnson moves to thaw House floor - Politico
+• Trump says ICE should resume traffic stops after his own administration suspended them - CNN
+• Live updates: US launches new attacks on Iran as battle for control over Hormuz intensifies - CNN
+• What's in store for Todd Blanche’s confirmation hearing - Politico
+• Wildfire smoke from Canada will soon spread across the Midwest and East - The Washington Post
+• Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor - NPR
+• Alcatraz boat rescue: 1 killed, 3 missing after boat carrying mostly family members sinks in San Francisco Bay - ABC7 Bay Area
+• House GOP's reconciliation 3.0 push hits early road bumps - Axios
+• Should Epstein’s Friends Be Punished? An Elite Harvard Club Is Torn. - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
 • YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube is killing its Trending page a decade after its debut
+• YouTube's 'Trending' Page is Shutting Down After a Decade
 • YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube removing the Trending page in favor of Charts, recommendations
 • YouTube’s ‘Trending’ section is about to disappear
+• YouTube removing the Trending page in favor of Charts, recommendations
 • Google reveals the top trending searches of 2025
 • Gemini was Google’s top trending search term in 2025
 • End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
-• Google’s Year in Search 2025: These trending topics spiked big
+• Top trending searches of 2025 revealed by Google. See what made the list.
 
 ========================================
 END TRANSMISSION
