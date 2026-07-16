@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-07-15
+INTELLIGENCE SNAPSHOT // 2026-07-16
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,544
-DOW J: 52,508
-NASDAQ: 26,107
+S&P 500: 7,572
+DOW J: 52,659
+NASDAQ: 26,269
 VIX: 16
 
 ----------------------------------------
@@ -12,58 +12,50 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[58.1%] Will Spain win the 2026 FIFA World Cup?
-[19.8%] Will Argentina win the 2026 FIFA World Cup?
-[53.9%] England vs. Argentina: Team to Advance
-[22.7%] Will England win the 2026 FIFA World Cup?
-[35.6%] Will England win on 2026-07-15?
+[41.6%] Will Argentina win the 2026 FIFA World Cup?
+[0.2%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
+[58.0%] Will Spain win the 2026 FIFA World Cup?
+[0.1%] LoL: G2 Esports vs AG.AL (BO1) - Esports World Cup Group A
+[63.1%] Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
-[51.5%] England vs. Argentina: Both Teams to Score
-[39.4%] England vs. Argentina: O/U 2.5
-[31.6%] Will Argentina win on 2026-07-15?
-[1.1%] Exact Score: England 3 - 3 Argentina?
+[100.0%] Dota 2: Team Yandex vs Team Spirit - Game 1 Winner
+[23.5%] Will the U.S. invade Iran before 2027?
+[0.1%] Will Mohammad Khatami be head of state in Iran end of 2026?
+[0.1%] LoL: GAM Esports vs T1 - Game 2 Winner
+[71.5%] Dota 2: Team Yandex vs Team Spirit - Game 2 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[2.2%] Exact Score: England 3 - 2 Argentina?
-[95.5%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[2.1%] Exact Score: England 2 - 3 Argentina?
-[100.0%] LoL: AG.AL vs Dplus KIA (BO1) - Esports World Cup Group A
-[100.0%] LoL: Bilibili Gaming vs Movistar KOI (BO1) - Esports World Cup Group C
+[0.2%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[2.2%] Exact Score: Spain 2 - 3 Argentina?
+[100.0%] LoL: Karmine Corp vs Sentinels - Game 1 Winner
+[95.9%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[100.0%] LoL: Karmine Corp vs Sentinels (BO3) - Esports World Cup Group B
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] LoL: T1 vs GAM Esports (BO1) - Esports World Cup Group C
-[49.5%] Dota 2: Vici Gaming vs PlayTime (BO3) - Esports World Cup Survival
+[0.4%] Will John Fetterman win the 2028 Democratic presidential nomination?
+[0.2%] Will Belete Molla be the next Prime Minister of Ethiopia?
+[0.1%] LoL: GAM Esports vs T1 - Game 1 Winner
+[6.5%] Swiss Open: Jaime Faria vs Casper Ruud
 [36.5%] Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?
-[0.2%] Iasi Open: Ilinca Amariei vs Elsa Jacquemot
-[0.4%] Will Mikel Oyarzabal be the top goalscorer at the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump says ICE should resume traffic stops after his own administration suspended them - CNN
-• Live updates: US launches new attacks on Iran as battle for control over Hormuz intensifies - CNN
-• What's in store for Todd Blanche’s confirmation hearing - Politico
-• Wildfire smoke from Canada will soon spread across the Midwest and East - The Washington Post
-• Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor - NPR
-• Alcatraz boat rescue: 1 killed, 3 missing after boat carrying mostly family members sinks in San Francisco Bay - ABC7 Bay Area
-• House GOP's reconciliation 3.0 push hits early road bumps - Axios
-• Should Epstein’s Friends Be Punished? An Elite Harvard Club Is Torn. - The New York Times
+• Thousands of Ukrainians protest against Zelenskyy’s firing of popular defence minister - Financial Times
+• US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest - Al Jazeera
+• Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post
+• Strait of Hormuz: US fires at tanker as new Iran blockade begins - BBC
+• ‘Scared s–tless’: Republicans brace for Trump’s primetime speech - Politico
+• The use of force has become a 'default tool' for ICE officers, a new report finds - NPR
+• Todd Blanche defends Trump relationship and new audio in Nolan Wells case: Morning Rundown - NBC News
+• Deadly boat capsize on San Francisco Bay: Search efforts end for 3 missing boaters - San Francisco Chronicle
 
 ----------------------------------------
 
 TRENDING TOPICS
-• YouTube Is Shutting Down Its General ‘Trending’ Video Page
-• YouTube is killing its Trending page a decade after its debut
-• YouTube's 'Trending' Page is Shutting Down After a Decade
-• YouTube Will Get Rid of Its Main Trending List As Viewing Habits Shift
-• YouTube’s ‘Trending’ section is about to disappear
-• YouTube removing the Trending page in favor of Charts, recommendations
-• Google reveals the top trending searches of 2025
-• Gemini was Google’s top trending search term in 2025
-• End of YouTube Trending: New Charts for Music, Podcasts, Trailers are Here
-• Top trending searches of 2025 revealed by Google. See what made the list.
+• Fox Chicago's top trending stories of 2025
+• The headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
