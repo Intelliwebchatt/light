@@ -1,60 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2026-07-16
+INTELLIGENCE SNAPSHOT // 2026-07-17
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,572
-DOW J: 52,659
-NASDAQ: 26,269
-VIX: 16
+S&P 500: 7,534
+DOW J: 52,553
+NASDAQ: 25,882
+VIX: 19
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[41.6%] Will Argentina win the 2026 FIFA World Cup?
-[0.2%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
-[58.0%] Will Spain win the 2026 FIFA World Cup?
-[0.1%] LoL: G2 Esports vs AG.AL (BO1) - Esports World Cup Group A
-[63.1%] Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?
+[0.3%] Will Belete Molla be the next Prime Minister of Ethiopia?
+[0.8%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
+[41.1%] Will Argentina win the 2026 FIFA World Cup?
+[3.5%] Exact Score: Spain 2 - 3 Argentina?
+[0.1%] LoL: Hanwha Life Esports vs T1 (BO3) - Esports World Cup Playoffs
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] Dota 2: Team Yandex vs Team Spirit - Game 1 Winner
-[23.5%] Will the U.S. invade Iran before 2027?
+[0.4%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[0.2%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
 [0.1%] Will Mohammad Khatami be head of state in Iran end of 2026?
-[0.1%] LoL: GAM Esports vs T1 - Game 2 Winner
-[71.5%] Dota 2: Team Yandex vs Team Spirit - Game 2 Winner
+[0.1%] Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner
+[58.6%] Will Spain win the 2026 FIFA World Cup?
 
 --- TECH & AI (Top 5 Active) ---
-[0.2%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
-[2.2%] Exact Score: Spain 2 - 3 Argentina?
-[100.0%] LoL: Karmine Corp vs Sentinels - Game 1 Winner
-[95.9%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[100.0%] LoL: Karmine Corp vs Sentinels (BO3) - Esports World Cup Group B
+[0.1%] LoL: Hanwha Life Esports vs T1 - Game 1 Winner
+[36.5%] Iasi Open: Yulia Putintseva vs Mayar Sherif
+[0.1%] LoL: Hanwha Life Esports vs T1 - Game 2 Winner
+[100.0%] LoL: Gen.G vs JD Gaming - Game 2 Winner
+[100.0%] LoL: Gen.G vs JD Gaming (BO3) - Esports World Cup Playoffs
 
 --- SCIENCE (Top 5 Active) ---
-[0.4%] Will John Fetterman win the 2028 Democratic presidential nomination?
-[0.2%] Will Belete Molla be the next Prime Minister of Ethiopia?
-[0.1%] LoL: GAM Esports vs T1 - Game 1 Winner
-[6.5%] Swiss Open: Jaime Faria vs Casper Ruud
-[36.5%] Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?
+[58.5%] Spain vs. Argentina: Team to Advance
+[64.5%] France vs. England: Team to Win
+[71.0%] Dota 2: Team Falcons vs Vici Gaming - Game 2 Winner
+[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[0.5%] Swedish Open: Nuno Borges vs Luciano Darderi
 
 ----------------------------------------
 
 TOP HEADLINES
-• Thousands of Ukrainians protest against Zelenskyy’s firing of popular defence minister - Financial Times
-• US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest - Al Jazeera
-• Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post
-• Strait of Hormuz: US fires at tanker as new Iran blockade begins - BBC
-• ‘Scared s–tless’: Republicans brace for Trump’s primetime speech - Politico
-• The use of force has become a 'default tool' for ICE officers, a new report finds - NPR
-• Todd Blanche defends Trump relationship and new audio in Nolan Wells case: Morning Rundown - NBC News
-• Deadly boat capsize on San Francisco Bay: Search efforts end for 3 missing boaters - San Francisco Chronicle
+• Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding - NPR
+• Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain - CNBC
+• Chicago Air Quality Alert in effect with index at hazardous levels from Canadian wildfire smoke - ABC7 Chicago
+• Andy Burnham Becomes Labour Leader and Is Set to Be UK Prime Minister: Live Updates - The New York Times
+• Pete Hegseth's new testosterone testing policy for US troops - BBC
+• Republican campaigns see immigration as a winning issue for midterms - NPR
+• At least 2 dead in Texas floods as hundreds rescued in same region as Camp Mystic disaster - CNN
+• In Houston, a Different Kind of Mourning After Fatal ICE Shooting - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Fox Chicago's top trending stories of 2025
+• Yahoo 100
 • The headlines: Top stories of the day
 
 ========================================
