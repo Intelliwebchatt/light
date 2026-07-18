@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-07-17
+INTELLIGENCE SNAPSHOT // 2026-07-18
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,534
-DOW J: 52,553
-NASDAQ: 25,882
+S&P 500: 7,458
+DOW J: 52,146
+NASDAQ: 25,520
 VIX: 19
 
 ----------------------------------------
@@ -13,49 +13,53 @@ PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
 [0.3%] Will Belete Molla be the next Prime Minister of Ethiopia?
-[0.8%] Will Gedion Timothewos be the next Prime Minister of Ethiopia?
-[41.1%] Will Argentina win the 2026 FIFA World Cup?
-[3.5%] Exact Score: Spain 2 - 3 Argentina?
-[0.1%] LoL: Hanwha Life Esports vs T1 (BO3) - Esports World Cup Playoffs
+[0.2%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
+[40.2%] Will Argentina win the 2026 FIFA World Cup?
+[66.5%] France vs. England: Team to Win
+[100.0%] LoL: T1 vs Karmine Corp - Game 1 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
-[0.2%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
-[0.1%] Will Mohammad Khatami be head of state in Iran end of 2026?
-[0.1%] Dota 2: Team Falcons vs Vici Gaming - Game 1 Winner
-[58.6%] Will Spain win the 2026 FIFA World Cup?
+[51.5%] Will France win on 2026-07-18?
+[2.9%] Exact Score: Spain 2 - 3 Argentina?
+[0.1%] LoL: T1 vs Karmine Corp - Game 2 Winner
+[71.5%] LoL: T1 vs Karmine Corp (BO3) - Esports World Cup Playoffs
+[0.1%] Will Hassan Shariatmadari be head of state in Iran end of 2026?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] LoL: Hanwha Life Esports vs T1 - Game 1 Winner
-[36.5%] Iasi Open: Yulia Putintseva vs Mayar Sherif
-[0.1%] LoL: Hanwha Life Esports vs T1 - Game 2 Winner
-[100.0%] LoL: Gen.G vs JD Gaming - Game 2 Winner
-[100.0%] LoL: Gen.G vs JD Gaming (BO3) - Esports World Cup Playoffs
+[59.2%] Will Spain win the 2026 FIFA World Cup?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[59.5%] Spain vs. Argentina: Team to Advance
+[51.0%] Dota 2: BetBoom Team vs Vici Gaming - Game 2 Winner
+[41.5%] Spain vs. Argentina: O/U 2.5
 
 --- SCIENCE (Top 5 Active) ---
-[58.5%] Spain vs. Argentina: Team to Advance
-[64.5%] France vs. England: Team to Win
-[71.0%] Dota 2: Team Falcons vs Vici Gaming - Game 2 Winner
-[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
-[0.5%] Swedish Open: Nuno Borges vs Luciano Darderi
+[0.4%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[0.8%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
+[28.5%] Will the U.S. invade Iran before 2027?
+[100.0%] Dota 2: BetBoom Team vs Vici Gaming - Game 1 Winner
+[24.5%] Will France vs. England end in a draw?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding - NPR
-• Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain - CNBC
-• Chicago Air Quality Alert in effect with index at hazardous levels from Canadian wildfire smoke - ABC7 Chicago
-• Andy Burnham Becomes Labour Leader and Is Set to Be UK Prime Minister: Live Updates - The New York Times
-• Pete Hegseth's new testosterone testing policy for US troops - BBC
-• Republican campaigns see immigration as a winning issue for midterms - NPR
-• At least 2 dead in Texas floods as hundreds rescued in same region as Camp Mystic disaster - CNN
-• In Houston, a Different Kind of Mourning After Fatal ICE Shooting - The New York Times
+• Wildfire smoke will linger and spread this weekend. See which cities are most affected. - The Washington Post
+• Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News
+• ‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico
+• Ukrainian Drones Strike Oil Depot in Moscow Region and Logistics Hubs - Kyiv Post
+• Fact-checking the Trump administration’s count of 250,000 noncitizens on the voter rolls - PolitiFact
+• They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling. - The New York Times
+• David Crowley set to rejoin Wisconsin governor’s race after lieutenant governor exit - The Hill
+• Sacramento County woman identified as 2nd of 4 victims in deadly boat incident in San Francisco Bay - KCRA
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Yahoo 100
 • The headlines: Top stories of the day
+• Fox Chicago's top trending stories of 2025
+• Trending stories on The Hill - 06/24/26
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
