@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-07-18
+INTELLIGENCE SNAPSHOT // 2026-07-19
 ========================================
 
 MARKET CLOSE
@@ -12,54 +12,50 @@ VIX: 19
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[59.1%] Spain vs. Argentina: Team to Advance
+[3.2%] Exact Score: Spain 2 - 3 Argentina?
+[0.1%] LoL: T1 vs Gen.G (BO3) - Esports World Cup Playoffs
 [0.3%] Will Belete Molla be the next Prime Minister of Ethiopia?
-[0.2%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
-[40.2%] Will Argentina win the 2026 FIFA World Cup?
-[66.5%] France vs. England: Team to Win
-[100.0%] LoL: T1 vs Karmine Corp - Game 1 Winner
+[26.6%] Will Argentina win on 2026-07-19?
 
 --- US POLITICS (Top 5 Active) ---
-[51.5%] Will France win on 2026-07-18?
-[2.9%] Exact Score: Spain 2 - 3 Argentina?
-[0.1%] LoL: T1 vs Karmine Corp - Game 2 Winner
-[71.5%] LoL: T1 vs Karmine Corp (BO3) - Esports World Cup Playoffs
-[0.1%] Will Hassan Shariatmadari be head of state in Iran end of 2026?
+[1.5%] Exact Score: Spain 3 - 3 Argentina?
+[40.8%] Will Argentina win the 2026 FIFA World Cup?
+[59.1%] Will Spain win the 2026 FIFA World Cup?
+[7.6%] Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?
+[100.0%] LoL: T1 vs Gen.G - Game 2 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[59.2%] Will Spain win the 2026 FIFA World Cup?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
-[59.5%] Spain vs. Argentina: Team to Advance
-[51.0%] Dota 2: BetBoom Team vs Vici Gaming - Game 2 Winner
-[41.5%] Spain vs. Argentina: O/U 2.5
+[42.4%] Will Spain win on 2026-07-19?
+[0.1%] LoL: T1 vs Gen.G - Game 1 Winner
+[2.8%] Exact Score: Spain 3 - 2 Argentina?
+[20.4%] Spread: Spain (-1.5)
+[53.5%] Spain vs. Argentina: Both Teams to Score
 
 --- SCIENCE (Top 5 Active) ---
-[0.4%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
-[0.8%] Will Bernie Sanders win the 2028 Democratic presidential nomination?
-[28.5%] Will the U.S. invade Iran before 2027?
-[100.0%] Dota 2: BetBoom Team vs Vici Gaming - Game 1 Winner
-[24.5%] Will France vs. England end in a draw?
+[92.5%] Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?
+[5.5%] Exact Score: Spain 2 - 2 Argentina?
+[7.5%] Exact Score: Spain 1 - 2 Argentina?
+[9.5%] Exact Score: Spain 2 - 1 Argentina?
+[1.1%] Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Wildfire smoke will linger and spread this weekend. See which cities are most affected. - The Washington Post
-• Iran War Updates: U.S. finishes 7th straight night of strikes as traffic freezes up in Strait of Hormuz - CBS News
-• ‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech - Politico
-• Ukrainian Drones Strike Oil Depot in Moscow Region and Logistics Hubs - Kyiv Post
-• Fact-checking the Trump administration’s count of 250,000 noncitizens on the voter rolls - PolitiFact
-• They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling. - The New York Times
-• David Crowley set to rejoin Wisconsin governor’s race after lieutenant governor exit - The Hill
-• Sacramento County woman identified as 2nd of 4 victims in deadly boat incident in San Francisco Bay - KCRA
+• Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News
+• ICE officer’s troubled past renews questions about vetting - The Washington Post
+• Tate brothers arrested in US as further UK charges take total to 59 - BBC
+• Trump is invoking foreign election interference to justify his own | Jamil Smith - The Guardian
+• Storm cleanup expected after flash flooding batters NYC, Tri-State area | Live updates - ABC7 New York
+• Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias - The New York Times
+• D.H.S. Won’t Name Agents Who Kill. Local Police Agencies Are More Open. - The New York Times
+• Key differences spared Texas lives in second straight July flood - The Texas Tribune
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
-• The headlines: Top stories of the day
 • Fox Chicago's top trending stories of 2025
-• Trending stories on The Hill - 06/24/26
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
-• The Headlines: Top stories of the day
+• The headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
