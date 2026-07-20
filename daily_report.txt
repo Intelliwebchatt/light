@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-07-19
+INTELLIGENCE SNAPSHOT // 2026-07-20
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,458
-DOW J: 52,146
-NASDAQ: 25,520
-VIX: 19
+S&P 500: 7,502
+DOW J: 52,208
+NASDAQ: 25,767
+VIX: 18
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[59.1%] Spain vs. Argentina: Team to Advance
-[3.2%] Exact Score: Spain 2 - 3 Argentina?
-[0.1%] LoL: T1 vs Gen.G (BO3) - Esports World Cup Playoffs
+[0.4%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
+[99.4%] Will Trump be in the WC Champions Photo?
 [0.3%] Will Belete Molla be the next Prime Minister of Ethiopia?
-[26.6%] Will Argentina win on 2026-07-19?
+[0.1%] LoL: Kiwoom DRX vs BNK FEARX (BO1) - KeSPA Cup Group Stage
+[1.8%] Strait of Hormuz traffic returns to normal by July 31?
 
 --- US POLITICS (Top 5 Active) ---
-[1.5%] Exact Score: Spain 3 - 3 Argentina?
-[40.8%] Will Argentina win the 2026 FIFA World Cup?
-[59.1%] Will Spain win the 2026 FIFA World Cup?
-[7.6%] Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?
-[100.0%] LoL: T1 vs Gen.G - Game 2 Winner
+[0.9%] Will St. Louis Cardinals win the 2026 NL Central title?
+[0.1%] LoL: DN SOOPers vs KT Rolster (BO1) - KeSPA Cup Group Stage
+[93.2%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[0.1%] Will Tim Walz win the 2028 US Presidential Election?
+[100.0%] LoL: Kiwoom DRX vs HANJIN BRION (BO1) - KeSPA Cup Group Stage
 
 --- TECH & AI (Top 5 Active) ---
-[42.4%] Will Spain win on 2026-07-19?
-[0.1%] LoL: T1 vs Gen.G - Game 1 Winner
-[2.8%] Exact Score: Spain 3 - 2 Argentina?
-[20.4%] Spread: Spain (-1.5)
-[53.5%] Spain vs. Argentina: Both Teams to Score
+[24.5%] Will the U.S. invade Iran before 2027?
+[100.0%] LoL: Nongshim Red Force vs BNK FEARX (BO1) - KeSPA Cup Group Stage
+[6.5%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[47.5%] Estoril Open: Titouan Droguet vs Camilo Ugo Carabelli
 
 --- SCIENCE (Top 5 Active) ---
-[92.5%] Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?
-[5.5%] Exact Score: Spain 2 - 2 Argentina?
-[7.5%] Exact Score: Spain 1 - 2 Argentina?
-[9.5%] Exact Score: Spain 2 - 1 Argentina?
-[1.1%] Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?
+[5.8%] Will Lionel Messi win the 2026 Ballon d'Or?
+[40.5%] LoL: Kiwoom DRX vs KT Rolster (BO1) - KeSPA Cup Group Stage
+[37.9%] Will Harry Kane win the 2026 Ballon d'Or?
+[0.4%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[37.2%] Will Lamine Yamal win the 2026 Ballon d'Or?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Two U.S. service members killed in Jordan and another is missing after Iranian strikes, military says - NBC News
-• ICE officer’s troubled past renews questions about vetting - The Washington Post
-• Tate brothers arrested in US as further UK charges take total to 59 - BBC
-• Trump is invoking foreign election interference to justify his own | Jamil Smith - The Guardian
-• Storm cleanup expected after flash flooding batters NYC, Tri-State area | Live updates - ABC7 New York
-• Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias - The New York Times
-• D.H.S. Won’t Name Agents Who Kill. Local Police Agencies Are More Open. - The New York Times
-• Key differences spared Texas lives in second straight July flood - The Texas Tribune
+• US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live - The Guardian
+• Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade - CBS News
+• Tropical depression forms in Gulf, National Hurricane Center says - USA Today
+• Republicans don’t want to go there again on Trump’s 2020 election fraud claims - The Washington Post
+• A woman is on trial for the murder of her 3 children. Her defense argues she may not be ‘criminally responsible’ - CNN
+• Yemen's Houthis say they will impose naval blockade against Saudi Arabia - Reuters
+• Fire captain, wife, 3 sons found dead after flash flood in Utah canyon; daughter is family's sole survivor - CBS News
+• NORAD F-16s intercept multiple aircraft violating temporary flight restrictions over New Jersey - Fox News
 
 ----------------------------------------
 
