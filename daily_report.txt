@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-07-20
+INTELLIGENCE SNAPSHOT // 2026-07-21
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,502
-DOW J: 52,208
-NASDAQ: 25,767
+S&P 500: 7,443
+DOW J: 51,839
+NASDAQ: 25,508
 VIX: 18
 
 ----------------------------------------
@@ -12,49 +12,49 @@ VIX: 18
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.4%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
-[99.4%] Will Trump be in the WC Champions Photo?
-[0.3%] Will Belete Molla be the next Prime Minister of Ethiopia?
-[0.1%] LoL: Kiwoom DRX vs BNK FEARX (BO1) - KeSPA Cup Group Stage
-[1.8%] Strait of Hormuz traffic returns to normal by July 31?
+[99.8%] Will Trump be in the WC Champions Photo?
+[0.6%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
+[1.1%] Will Gretchen Whitmer win the 2028 US Presidential Election?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[100.0%] LoL: T1 vs Kiwoom DRX (BO1) - KeSPA Cup Group Stage
 
 --- US POLITICS (Top 5 Active) ---
-[0.9%] Will St. Louis Cardinals win the 2026 NL Central title?
-[0.1%] LoL: DN SOOPers vs KT Rolster (BO1) - KeSPA Cup Group Stage
-[93.2%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[0.1%] Will Tim Walz win the 2028 US Presidential Election?
-[100.0%] LoL: Kiwoom DRX vs HANJIN BRION (BO1) - KeSPA Cup Group Stage
+[0.1%] Counter-Strike: M80 vs NIP (BO3) - BLAST Bounty Qualifier
+[100.0%] LoL: Hanwha Life Esports vs Nongshim Red Force (BO1) - KeSPA Cup Group Stage
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
+[0.1%] LoL: Hanwha Life Esports vs DN SOOPers (BO1) - KeSPA Cup Group Stage
+[100.0%] LoL: HANJIN BRION vs Gen.G (BO1) - KeSPA Cup Group Stage
 
 --- TECH & AI (Top 5 Active) ---
-[24.5%] Will the U.S. invade Iran before 2027?
-[100.0%] LoL: Nongshim Red Force vs BNK FEARX (BO1) - KeSPA Cup Group Stage
-[6.5%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
-[47.5%] Estoril Open: Titouan Droguet vs Camilo Ugo Carabelli
+[1.7%] Will Gretchen Whitmer win the 2028 Democratic presidential nomination?
+[100.0%] LoL: KT Rolster vs Dplus KIA (BO1) - KeSPA Cup Group Stage
+[93.0%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[6.8%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
+[100.0%] Generali Open: Sebastian Baez vs Miomir Kecmanovic
 
 --- SCIENCE (Top 5 Active) ---
-[5.8%] Will Lionel Messi win the 2026 Ballon d'Or?
-[40.5%] LoL: Kiwoom DRX vs KT Rolster (BO1) - KeSPA Cup Group Stage
-[37.9%] Will Harry Kane win the 2026 Ballon d'Or?
-[0.4%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
-[37.2%] Will Lamine Yamal win the 2026 Ballon d'Or?
+[26.5%] Will the U.S. invade Iran before 2027?
+[0.1%] Will Ulsan HD FC win on 2026-07-21?
+[5.5%] Generali Open: Laslo Djere vs Quentin Halys
+[0.1%] Will Jeonbuk Hyundai Motors FC win on 2026-07-21?
+[12.5%] Will Rodri win the 2026 Ballon d'Or?
 
 ----------------------------------------
 
 TOP HEADLINES
-• US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live - The Guardian
-• Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade - CBS News
-• Tropical depression forms in Gulf, National Hurricane Center says - USA Today
-• Republicans don’t want to go there again on Trump’s 2020 election fraud claims - The Washington Post
-• A woman is on trial for the murder of her 3 children. Her defense argues she may not be ‘criminally responsible’ - CNN
-• Yemen's Houthis say they will impose naval blockade against Saudi Arabia - Reuters
-• Fire captain, wife, 3 sons found dead after flash flood in Utah canyon; daughter is family's sole survivor - CBS News
-• NORAD F-16s intercept multiple aircraft violating temporary flight restrictions over New Jersey - Fox News
+• Iran War Updates: U.S. carries out 10th night of strikes after 3 U.S. troops killed, nearly 100 injured in recent weeks - CBS News
+• Tropical Storm Bertha churns off Florida coast, prompting storm alerts - ABC News - Breaking News, Latest News and Videos
+• Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies - The Guardian
+• The primaries to watch today in Arizona - Politico
+• Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks - BBC
+• Democrat set to replace Platner in Maine led state Senate with a temper - The Washington Post
+• Trump vows revenge on Iran and what to watch in Arizona’s primaries: Morning Rundown - NBC News
+• 'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials - BBC
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Fox Chicago's top trending stories of 2025
+• Yahoo 100
 • The headlines: Top stories of the day
 
 ========================================
