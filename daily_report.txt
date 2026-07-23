@@ -1,61 +1,63 @@
-INTELLIGENCE SNAPSHOT // 2026-07-22
+INTELLIGENCE SNAPSHOT // 2026-07-23
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,509
-DOW J: 52,225
-NASDAQ: 25,837
-VIX: 17
+S&P 500: 7,499
+DOW J: 52,219
+NASDAQ: 25,691
+VIX: 19
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[99.9%] Will Trump be in the WC Champions Photo?
-[83.9%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[100.0%] LoL: LGD Gaming vs EDward Gaming - Game 1 Winner
-[0.7%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
-[100.0%] LoL: Top Esports vs Team WE - Game 1 Winner
+[100.0%] Will Trump be in the WC Champions Photo?
+[0.3%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
+[0.1%] LoL: JD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend
+[73.6%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[0.1%] Counter-Strike: Aurora Gaming vs FOKUS (BO3) - BLAST Bounty Qualifier
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] LoL: LGD Gaming vs EDward Gaming - Game 2 Winner
-[16.0%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
-[50.3%] Will LeBron James play for the Miami Heat in 2026-27?
-[100.0%] LoL: Top Esports vs Team WE - Game 2 Winner
-[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[0.8%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[96.5%] Hamburg European Open: Oleksandra Oliynykova vs Leyre Romero Gormaz
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
+[26.1%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
+[100.0%] LoL: Bilibili Gaming vs ThunderTalk Gaming - Game 1 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[42.5%] Baltimore Orioles vs. Boston Red Sox
-[100.0%] LoL: LGD Gaming vs EDward Gaming (BO3) - LPL Group Ascend
-[0.1%] Counter-Strike: EYEBALLERS vs FaZe (BO3) - BLAST Bounty Qualifier
-[100.0%] LoL: Top Esports vs Team WE (BO3) - LPL Group Ascend
-[100.0%] Will FC Seoul win on 2026-07-22?
+[100.0%] Counter-Strike: Aurora Gaming vs FOKUS - Map 2 Winner
+[100.0%] Estoril Open: Luca Van Assche vs Pablo Carreno Busta
+[99.5%] Israel x Iran ceasefire continues through July 22?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[0.1%] Will the price of Bitcoin be above $68,000 on July 23?
 
 --- SCIENCE (Top 5 Active) ---
-[0.4%] Will Vivek Ramaswamy win the 2028 US Presidential Election?
-[39.5%] Counter-Strike: Nemiga vs G2 (BO3) - BLAST Bounty Qualifier
-[26.7%] Will LeBron James play for the Cleveland Cavaliers in 2026-27?
+[47.1%] Will LeBron James play for the Miami Heat in 2026-27?
 [1.1%] Strait of Hormuz traffic returns to normal by July 31?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[0.1%] ODI Series Sri Lanka vs Pakistan, Women: Sri Lanka vs Pakistan
+[0.2%] Trump out as President by July 31?
+[99.8%] Will the price of Bitcoin be above $62,000 on July 23?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Hegseth turns tables on Dems as sparks fly during hearing clash: 'I put this on you' - Fox News
-• US and Iran attacks rage as officials question whether diplomacy can stop march toward war resuming - AP News
-• Trump-backed candidates, 2020 election deniers, win Arizona primaries - NPR
-• Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel - The New York Times
-• US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says - Al Jazeera
-• Tropical Storm Bertha moves along the Gulf Coast but damage is expected to be limited - NPR
-• Who is Darline Graham? Her colleagues say they are still learning. - Politico
-• Bay Area Wildfire Prompts Evacuation Orders for Thousands of Residents - The New York Times
+• Trump's nuclear deal with Saudis jettisons longstanding US demands - BBC
+• Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian
+• Amid a big hiring push, police experts question ICE officer vetting - NPR
+• Wisconsin police officer shoots, kills man on city street near state Capitol in Madison - AP News
+• Voter registration mistake chills relationship between Mikie Sherrill and Democratic predecessor - Politico
+• Tropical Storm Bertha makes its first landfall in southeastern Louisiana - Yale Climate Connections
+• ‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and U.S. allies alike - Politico
+• DHS chief’s early missteps and an AI-generated version of ‘The Odyssey’: Morning Rundown - NBC News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Fox Chicago's top trending stories of 2025
+• Yahoo 100
 • The headlines: Top stories of the day
+• Fox Chicago's top trending stories of 2025
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 
 ========================================
 END TRANSMISSION
