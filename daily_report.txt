@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-07-23
+INTELLIGENCE SNAPSHOT // 2026-07-24
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,499
-DOW J: 52,219
-NASDAQ: 25,691
+S&P 500: 7,408
+DOW J: 51,712
+NASDAQ: 25,138
 VIX: 19
 
 ----------------------------------------
@@ -12,52 +12,51 @@ VIX: 19
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Will Trump be in the WC Champions Photo?
-[0.3%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
-[0.1%] LoL: JD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend
-[73.6%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[0.1%] Counter-Strike: Aurora Gaming vs FOKUS (BO3) - BLAST Bounty Qualifier
+[100.0%] LoL: Team WE vs JD Gaming (BO3) - LPL Group Ascend
+[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[74.5%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[100.0%] LoL: EDward Gaming vs Bilibili Gaming - Game 1 Winner
+[0.1%] LoL: Team WE vs JD Gaming - Game 2 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[0.8%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
-[96.5%] Hamburg European Open: Oleksandra Oliynykova vs Leyre Romero Gormaz
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
-[26.1%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
-[100.0%] LoL: Bilibili Gaming vs ThunderTalk Gaming - Game 1 Winner
+[1.1%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
+[48.0%] Hamburg European Open: Mayar Sherif vs Paula Badosa
+[0.1%] Counter-Strike: magic vs 3DMAX (BO3) - BLAST Bounty Qualifier
+[56.5%] Livesport Prague Open: Marie Bouzkova vs Tereza Valentova
+[14.5%] Counter-Strike: Liquid vs Vitality (BO3) - BLAST Bounty Qualifier
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Counter-Strike: Aurora Gaming vs FOKUS - Map 2 Winner
-[100.0%] Estoril Open: Luca Van Assche vs Pablo Carreno Busta
-[99.5%] Israel x Iran ceasefire continues through July 22?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
-[0.1%] Will the price of Bitcoin be above $68,000 on July 23?
+[0.7%] Strait of Hormuz traffic returns to normal by July 31?
+[44.5%] LoL: EDward Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend
+[75.5%] Counter-Strike: Heroic vs TheMongolz (BO3) - BLAST Bounty Qualifier
+[100.0%] Will U.S. viewership of the 2026 FIFA World Cup Final be between 46 million and 50 million?
+[0.5%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[47.1%] Will LeBron James play for the Miami Heat in 2026-27?
-[1.1%] Strait of Hormuz traffic returns to normal by July 31?
-[0.1%] ODI Series Sri Lanka vs Pakistan, Women: Sri Lanka vs Pakistan
-[0.2%] Trump out as President by July 31?
-[99.8%] Will the price of Bitcoin be above $62,000 on July 23?
+[77.5%] Israel x Iran ceasefire continues through July 25?
+[0.1%] Estoril Open: Tiago Torres vs Hugo Gaston
+[46.2%] Will LeBron James play for the Miami Heat in 2026-27?
+[23.5%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
+[29.5%] Will the U.S. invade Iran before 2027?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump's nuclear deal with Saudis jettisons longstanding US demands - BBC
-• Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live - The Guardian
-• Amid a big hiring push, police experts question ICE officer vetting - NPR
-• Wisconsin police officer shoots, kills man on city street near state Capitol in Madison - AP News
-• Voter registration mistake chills relationship between Mikie Sherrill and Democratic predecessor - Politico
-• Tropical Storm Bertha makes its first landfall in southeastern Louisiana - Yale Climate Connections
-• ‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and U.S. allies alike - Politico
-• DHS chief’s early missteps and an AI-generated version of ‘The Odyssey’: Morning Rundown - NBC News
+• US allies hit with new tariffs object to Trump’s forced labor claims - NPR
+• U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News
+• Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel
+• As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home - The New York Times
+• Melania Trump Raises Eyebrows With New Major Snub - The Daily Beast
+• Explosions reported across Iran as US military completes strikes - The Jerusalem Post
+• Wisconsin protester brands Madison as 'corrupt city' during anti-police tirade following deadly shooting - Fox News
+• DOJ drops New York Times subpoenas over Air Force 1 reports - Axios
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Yahoo 100
-• The headlines: Top stories of the day
 • Fox Chicago's top trending stories of 2025
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• Trending stories on The Hill - 07.08.26
 
 ========================================
 END TRANSMISSION
