@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-07-24
+INTELLIGENCE SNAPSHOT // 2026-07-25
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,408
-DOW J: 51,712
-NASDAQ: 25,138
+S&P 500: 7,412
+DOW J: 51,947
+NASDAQ: 24,976
 VIX: 19
 
 ----------------------------------------
@@ -12,51 +12,51 @@ VIX: 19
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] LoL: Team WE vs JD Gaming (BO3) - LPL Group Ascend
 [0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
-[74.5%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[100.0%] LoL: EDward Gaming vs Bilibili Gaming - Game 1 Winner
-[0.1%] LoL: Team WE vs JD Gaming - Game 2 Winner
+[100.0%] LoL: Invictus Gaming vs Weibo Gaming (BO3) - LPL Group Nirvana
+[100.0%] LoL: Top Esports vs ThunderTalk Gaming - Game 1 Winner
+[100.0%] LoL: Invictus Gaming vs Weibo Gaming - Game 2 Winner
+[0.1%] Generali Open: Alexander Bublik vs Quentin Halys
 
 --- US POLITICS (Top 5 Active) ---
-[1.1%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
-[48.0%] Hamburg European Open: Mayar Sherif vs Paula Badosa
-[0.1%] Counter-Strike: magic vs 3DMAX (BO3) - BLAST Bounty Qualifier
-[56.5%] Livesport Prague Open: Marie Bouzkova vs Tereza Valentova
-[14.5%] Counter-Strike: Liquid vs Vitality (BO3) - BLAST Bounty Qualifier
+[0.1%] LoL: Invictus Gaming vs Weibo Gaming - Game 1 Winner
+[99.6%] Will LeBron James play for the Philadelphia 76ers in 2026-27?
+[97.2%] Israel x Iran ceasefire continues through July 25?
+[74.9%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[100.0%] Will U.S. viewership of the 2026 FIFA World Cup Final be between 46 million and 50 million?
 
 --- TECH & AI (Top 5 Active) ---
-[0.7%] Strait of Hormuz traffic returns to normal by July 31?
-[44.5%] LoL: EDward Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend
-[75.5%] Counter-Strike: Heroic vs TheMongolz (BO3) - BLAST Bounty Qualifier
-[100.0%] Will U.S. viewership of the 2026 FIFA World Cup Final be between 46 million and 50 million?
-[0.5%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[0.1%] Counter-Strike: DENDELE CS vs FaZe (BO3) - BLAST Bounty Qualifier
+[28.5%] Will the U.S. invade Iran before 2027?
+[0.1%] Will LeBron James play for the Miami Heat in 2026-27?
+[0.2%] Will LeBron James play for the Golden State Warriors in 2026-27?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[77.5%] Israel x Iran ceasefire continues through July 25?
-[0.1%] Estoril Open: Tiago Torres vs Hugo Gaston
-[46.2%] Will LeBron James play for the Miami Heat in 2026-27?
-[23.5%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
-[29.5%] Will the U.S. invade Iran before 2027?
+[0.8%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
+[48.5%] UFC Fight Night: Wellington Turman vs. Islam Dulatov (Welterweight, Main Card)
+[53.5%] Counter-Strike: Liquid vs G2 (BO3) - BLAST Bounty Qualifier
+[99.8%] Israel x Iran ceasefire continues through July 24?
 
 ----------------------------------------
 
 TOP HEADLINES
-• US allies hit with new tariffs object to Trump’s forced labor claims - NPR
-• U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war - NBC News
-• Attacker shouting ‘allahu akbar’ stabs Jewish man with a screwdriver in NYC - The Times of Israel
-• As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home - The New York Times
-• Melania Trump Raises Eyebrows With New Major Snub - The Daily Beast
-• Explosions reported across Iran as US military completes strikes - The Jerusalem Post
-• Wisconsin protester brands Madison as 'corrupt city' during anti-police tirade following deadly shooting - Fox News
-• DOJ drops New York Times subpoenas over Air Force 1 reports - Axios
+• Trump’s insult-laden speech to press dinner draws mostly stunned silence - The Washington Post
+• Firefighters battle to contain France and Spain wildfires as thousands more evacuated near Bordeaux - BBC
+• Trump is hellbent on tariffs. Here are 5 implications - NPR
+• Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens - The Guardian
+• Democrats in Maine gather to replace Graham Platner in the race against Susan Collins - NPR
+• In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process - The New York Times
+• Wisconsin officials open investigation into police killing of Corey Ruiz - BBC
+• Cajun Navy leader warns Nolan Wells' search area has deadly 'washing machine' currents: 'Lots of drownings' - Fox News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
 • Fox Chicago's top trending stories of 2025
 • Trending stories on The Hill - 07.08.26
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 
 ========================================
 END TRANSMISSION
