@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-07-25
+INTELLIGENCE SNAPSHOT // 2026-07-26
 ========================================
 
 MARKET CLOSE
@@ -12,51 +12,52 @@ VIX: 19
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
+[100.0%] LoL: ThunderTalk Gaming vs EDward Gaming - Game 2 Winner
+[0.1%] LoL: Anyone's Legend vs Bilibili Gaming - Game 1 Winner
 [0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
-[100.0%] LoL: Invictus Gaming vs Weibo Gaming (BO3) - LPL Group Nirvana
-[100.0%] LoL: Top Esports vs ThunderTalk Gaming - Game 1 Winner
-[100.0%] LoL: Invictus Gaming vs Weibo Gaming - Game 2 Winner
-[0.1%] Generali Open: Alexander Bublik vs Quentin Halys
+[19.5%] Will the U.S. invade Iran before 2027?
+[100.0%] LoL: ThunderTalk Gaming vs EDward Gaming - Game 1 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] LoL: Invictus Gaming vs Weibo Gaming - Game 1 Winner
-[99.6%] Will LeBron James play for the Philadelphia 76ers in 2026-27?
-[97.2%] Israel x Iran ceasefire continues through July 25?
-[74.9%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[100.0%] Will U.S. viewership of the 2026 FIFA World Cup Final be between 46 million and 50 million?
+[84.5%] LoL: Anyone's Legend vs Bilibili Gaming - Game 2 Winner
+[100.0%] LoL: ThunderTalk Gaming vs EDward Gaming (BO3) - LPL Group Ascend
+[41.0%] LoL: Anyone's Legend vs Bilibili Gaming (BO3) - LPL Group Ascend
+[99.9%] Israel x Iran ceasefire continues through July 25?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Counter-Strike: DENDELE CS vs FaZe (BO3) - BLAST Bounty Qualifier
-[28.5%] Will the U.S. invade Iran before 2027?
-[0.1%] Will LeBron James play for the Miami Heat in 2026-27?
-[0.2%] Will LeBron James play for the Golden State Warriors in 2026-27?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[0.1%] Counter-Strike: NIP vs paiN - Map 2 Winner
+[16.5%] Strait of Hormuz traffic returns to normal by August 31?
+[0.7%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[0.7%] Strait of Hormuz traffic returns to normal by July 31?
+[99.2%] Israel x Iran ceasefire continues through July 26?
 
 --- SCIENCE (Top 5 Active) ---
-[0.8%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
-[48.5%] UFC Fight Night: Wellington Turman vs. Islam Dulatov (Welterweight, Main Card)
-[53.5%] Counter-Strike: Liquid vs G2 (BO3) - BLAST Bounty Qualifier
-[99.8%] Israel x Iran ceasefire continues through July 24?
+[0.1%] Counter-Strike: NIP vs paiN (BO3) - BLAST Bounty Qualifier
+[42.1%] US x Iran Effective Ceasefire by July 24?
+[81.8%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[35.5%] Counter-Strike: 3DMAX vs FUT Esports (BO3) - BLAST Bounty Qualifier
+[87.5%] Israel x Iran ceasefire continues through July 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump’s insult-laden speech to press dinner draws mostly stunned silence - The Washington Post
-• Firefighters battle to contain France and Spain wildfires as thousands more evacuated near Bordeaux - BBC
-• Trump is hellbent on tariffs. Here are 5 implications - NPR
-• Iran-backed Houthis claim missile attack on Saudi Arabia as Middle East war widens - The Guardian
-• Democrats in Maine gather to replace Graham Platner in the race against Susan Collins - NPR
-• In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process - The New York Times
-• Wisconsin officials open investigation into police killing of Corey Ruiz - BBC
-• Cajun Navy leader warns Nolan Wells' search area has deadly 'washing machine' currents: 'Lots of drownings' - Fox News
+• Manhunt underway for suspect with ‘Islamist’ ties after deadly Berlin Pride attack - NBC News
+• US pauses attacks on Iran for a second day as peace talks continue - The Guardian
+• Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux - AP News
+• Rage-giving, innovation and cuts: How public media has survived without federal funds - NPR
+• Exclusive | Unreleased Documentary Footage Captures Graham’s Obsessive Push for Iran War - WSJ
+• A forced-labor crackdown or an end-run around Congress? Dissecting Trump’s new tariffs - AP News
+• Influencer killed by husband after she accused him of pedophilia on TikTok - NBC News
+• Troy Jackson, unlike Graham Platner, is staying laser-focused on Susan Collins - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Yahoo 100
 • Fox Chicago's top trending stories of 2025
 • Trending stories on The Hill - 07.08.26
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• HT Trending Desk
 
 ========================================
 END TRANSMISSION
