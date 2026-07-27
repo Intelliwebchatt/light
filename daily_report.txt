@@ -1,63 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-07-26
+INTELLIGENCE SNAPSHOT // 2026-07-27
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,412
-DOW J: 51,947
-NASDAQ: 24,976
-VIX: 19
+S&P 500: 7,431
+DOW J: 52,358
+NASDAQ: 25,019
+VIX: 18
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] LoL: ThunderTalk Gaming vs EDward Gaming - Game 2 Winner
-[0.1%] LoL: Anyone's Legend vs Bilibili Gaming - Game 1 Winner
-[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
-[19.5%] Will the U.S. invade Iran before 2027?
-[100.0%] LoL: ThunderTalk Gaming vs EDward Gaming - Game 1 Winner
+[100.0%] LoL: T1 vs DN SOOPers (BO1) - KeSPA Cup Group Stage
+[0.3%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[75.3%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
+[0.5%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[84.5%] LoL: Anyone's Legend vs Bilibili Gaming - Game 2 Winner
-[100.0%] LoL: ThunderTalk Gaming vs EDward Gaming (BO3) - LPL Group Ascend
-[41.0%] LoL: Anyone's Legend vs Bilibili Gaming (BO3) - LPL Group Ascend
-[99.9%] Israel x Iran ceasefire continues through July 25?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
+[100.0%] LoL: HANJIN BRION vs Dplus KIA (BO1) - KeSPA Cup Group Stage
+[23.2%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[0.1%] Will Tom Cotton win the 2028 Republican presidential nomination?
+[0.1%] LoL: Gen.G Global Academy vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Counter-Strike: NIP vs paiN - Map 2 Winner
-[16.5%] Strait of Hormuz traffic returns to normal by August 31?
-[0.7%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
-[0.7%] Strait of Hormuz traffic returns to normal by July 31?
-[99.2%] Israel x Iran ceasefire continues through July 26?
+[100.0%] Will the price of Bitcoin be above $62,000 on July 27?
+[0.4%] Strait of Hormuz traffic returns to normal by July 31?
+[87.5%] Israel x Iran ceasefire continues through July 31?
+[50.4%] US x Iran Effective Ceasefire by July 24?
+[100.0%] Samsun: Radu Albot vs Benjamin Hassan
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Counter-Strike: NIP vs paiN (BO3) - BLAST Bounty Qualifier
-[42.1%] US x Iran Effective Ceasefire by July 24?
-[81.8%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[35.5%] Counter-Strike: 3DMAX vs FUT Esports (BO3) - BLAST Bounty Qualifier
-[87.5%] Israel x Iran ceasefire continues through July 31?
+[13.5%] Strait of Hormuz traffic returns to normal by August 31?
+[50.5%] San Marino: Daniel Rincon vs Juan Carlos Prado
+[0.1%] Will the price of Bitcoin be above $68,000 on July 27?
+[0.6%] Kharg Island no longer under Iranian control by July 31?
+[0.2%] Will Yariv Levin be the next Prime Minister of Israel?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Manhunt underway for suspect with ‘Islamist’ ties after deadly Berlin Pride attack - NBC News
-• US pauses attacks on Iran for a second day as peace talks continue - The Guardian
-• Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux - AP News
-• Rage-giving, innovation and cuts: How public media has survived without federal funds - NPR
-• Exclusive | Unreleased Documentary Footage Captures Graham’s Obsessive Push for Iran War - WSJ
-• A forced-labor crackdown or an end-run around Congress? Dissecting Trump’s new tariffs - AP News
-• Influencer killed by husband after she accused him of pedophilia on TikTok - NBC News
-• Troy Jackson, unlike Graham Platner, is staying laser-focused on Susan Collins - Politico
+• Shootout at Seattle food festival kills 3; police arrest suspect and search for another - NBC News
+• France continues to fight devastating wildfires, while progress is made in Spain - NPR
+• Live Updates: U.S.-Iran war appears to pause as Trump gives space for talks to end Strait of Hormuz standoff - CBS News
+• Source of false Buttigieg allegation appeared ‘mentally unstable,’ records show - The Washington Post
+• In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown - NPR
+• How the Houthis Cornered Saudi Arabia Into a New Battle - The New York Times
+• Search intensifies for North Carolina physical therapist who vanished during Caribbean getaway - Fox News
+• Poll: Even Trump voters aren’t very impressed by the GOP’s tax overhaul - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Yahoo 100
-• Fox Chicago's top trending stories of 2025
-• Trending stories on The Hill - 07.08.26
-• HT Trending Desk
+• The headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
