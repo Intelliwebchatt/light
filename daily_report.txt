@@ -1,61 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-07-27
+INTELLIGENCE SNAPSHOT // 2026-07-28
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,431
-DOW J: 52,358
-NASDAQ: 25,019
-VIX: 18
+S&P 500: 7,392
+DOW J: 52,479
+NASDAQ: 24,665
+VIX: 19
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] LoL: T1 vs DN SOOPers (BO1) - KeSPA Cup Group Stage
-[0.3%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
-[75.3%] Will there be no change in Fed interest rates after the July 2026 meeting?
 [0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
-[0.5%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[100.0%] US announces halt in Iran offensive operations by July 31?
+[23.2%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
+[75.9%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[0.1%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] LoL: HANJIN BRION vs Dplus KIA (BO1) - KeSPA Cup Group Stage
-[23.2%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
-[0.1%] Will Tom Cotton win the 2028 Republican presidential nomination?
-[0.1%] LoL: Gen.G Global Academy vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group
+[0.5%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[100.0%] LoL: DN SOOPers vs HANJIN BRION (BO3) - KeSPA Cup Last Chance Qualifier
+[0.1%] LoL: DN SOOPers vs HANJIN BRION - Game 1 Winner
+[100.0%] Bonn: Olle Wallin vs Lorenzo Giustino
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Will the price of Bitcoin be above $62,000 on July 27?
-[0.4%] Strait of Hormuz traffic returns to normal by July 31?
-[87.5%] Israel x Iran ceasefire continues through July 31?
-[50.4%] US x Iran Effective Ceasefire by July 24?
-[100.0%] Samsun: Radu Albot vs Benjamin Hassan
+[0.1%] LoL: KT Rolster Challengers vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group
+[100.0%] LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner
+[100.0%] LoL: Kiwoom DRX vs KT Rolster - Game 2 Winner
+[100.0%] LoL: Kiwoom DRX vs KT Rolster (BO3) - KeSPA Cup Last Chance Qualifier
+[100.0%] LoL: KT Rolster Challengers vs Dplus KIA Challengers - Game 2 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[13.5%] Strait of Hormuz traffic returns to normal by August 31?
-[50.5%] San Marino: Daniel Rincon vs Juan Carlos Prado
-[0.1%] Will the price of Bitcoin be above $68,000 on July 27?
-[0.6%] Kharg Island no longer under Iranian control by July 31?
-[0.2%] Will Yariv Levin be the next Prime Minister of Israel?
+[100.0%] US announces halt in Iran offensive operations by August 31?
+[0.4%] Strait of Hormuz traffic returns to normal by July 31?
+[0.1%] LoL: KT Rolster Challengers vs Dplus KIA Challengers - Game 1 Winner
+[41.5%] Cleveland Guardians vs. Cincinnati Reds
+[0.1%] Will the price of Bitcoin be above $66,000 on July 28?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Shootout at Seattle food festival kills 3; police arrest suspect and search for another - NBC News
-• France continues to fight devastating wildfires, while progress is made in Spain - NPR
-• Live Updates: U.S.-Iran war appears to pause as Trump gives space for talks to end Strait of Hormuz standoff - CBS News
-• Source of false Buttigieg allegation appeared ‘mentally unstable,’ records show - The Washington Post
-• In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown - NPR
-• How the Houthis Cornered Saudi Arabia Into a New Battle - The New York Times
-• Search intensifies for North Carolina physical therapist who vanished during Caribbean getaway - Fox News
-• Poll: Even Trump voters aren’t very impressed by the GOP’s tax overhaul - Politico
+• A magnitude 7.1 earthquake shakes part of southern Japan but no tsunami detected - AP News
+• Iran War Updates: Trump to meet Israel's Netanyahu as his threat to resume bombing Iran looms over diplomacy - CBS News
+• Trump, Congress and world leaders to honor the late Sen. Lindsey Graham in Washington - NBC News
+• Fauci, in Private Diary, Reflected on Covid’s Origins and His Own Fame - The New York Times
+• Why Iran Is in No Rush to Return to Talks With United States - The New York Times
+• Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide - CNBC
+• Seattle pays tribute to festival shooting victims - BBC
+• Bryan Kohberger wants out of his plea deal. Here’s what experts say about his chances - CNN
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
-• The headlines: Top stories of the day
+• Fox Chicago's top trending stories of 2025
+• News Spark, LLC Introduces a Social-Driven, AI-Powered News Brand Covering Trending Moments and Heartwarming Stories for the Mobile Generation
 
 ========================================
 END TRANSMISSION
