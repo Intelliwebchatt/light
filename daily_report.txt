@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-07-28
+INTELLIGENCE SNAPSHOT // 2026-07-29
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,392
-DOW J: 52,479
-NASDAQ: 24,665
+S&P 500: 7,416
+DOW J: 52,298
+NASDAQ: 24,806
 VIX: 19
 
 ----------------------------------------
@@ -12,50 +12,52 @@ VIX: 19
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
-[100.0%] US announces halt in Iran offensive operations by July 31?
-[23.2%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
-[75.9%] Will there be no change in Fed interest rates after the July 2026 meeting?
 [0.1%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[0.4%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[0.4%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
+[75.3%] Will there be no change in Fed interest rates after the July 2026 meeting?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.5%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
-[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
-[100.0%] LoL: DN SOOPers vs HANJIN BRION (BO3) - KeSPA Cup Last Chance Qualifier
-[0.1%] LoL: DN SOOPers vs HANJIN BRION - Game 1 Winner
-[100.0%] Bonn: Olle Wallin vs Lorenzo Giustino
+[24.9%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
+[90.0%] LoL: Bilibili Gaming vs LGD Gaming (BO3) - LPL Group Ascend
+[0.1%] LoL: T1 vs KT Rolster - Game 2 Winner
+[0.1%] LoL: T1 vs KT Rolster (BO3) - LCK Round 3-4 Legend Group
+[0.3%] Will Berhanu Nega be the next Prime Minister of Ethiopia?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] LoL: KT Rolster Challengers vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group
-[100.0%] LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner
-[100.0%] LoL: Kiwoom DRX vs KT Rolster - Game 2 Winner
-[100.0%] LoL: Kiwoom DRX vs KT Rolster (BO3) - KeSPA Cup Last Chance Qualifier
-[100.0%] LoL: KT Rolster Challengers vs Dplus KIA Challengers - Game 2 Winner
+[0.1%] LoL: T1 vs KT Rolster - Game 1 Winner
+[0.1%] LoL: Bilibili Gaming vs LGD Gaming - Game 2 Winner
+[0.4%] Will Tulsi Gabbard win the 2028 US Presidential Election?
+[0.1%] LoL: Top Esports vs Anyone's Legend (BO3) - LPL Group Ascend
+[0.1%] LoL: Top Esports vs Anyone's Legend - Game 1 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] US announces halt in Iran offensive operations by August 31?
+[11.3%] US x Iran Effective Ceasefire by July 24?
+[0.1%] LoL: Top Esports vs Anyone's Legend - Game 2 Winner
+[100.0%] LoL: Bilibili Gaming vs LGD Gaming - Game 1 Winner
 [0.4%] Strait of Hormuz traffic returns to normal by July 31?
-[0.1%] LoL: KT Rolster Challengers vs Dplus KIA Challengers - Game 1 Winner
-[41.5%] Cleveland Guardians vs. Cincinnati Reds
-[0.1%] Will the price of Bitcoin be above $66,000 on July 28?
+[100.0%] US announces halt in Iran offensive operations by July 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• A magnitude 7.1 earthquake shakes part of southern Japan but no tsunami detected - AP News
-• Iran War Updates: Trump to meet Israel's Netanyahu as his threat to resume bombing Iran looms over diplomacy - CBS News
-• Trump, Congress and world leaders to honor the late Sen. Lindsey Graham in Washington - NBC News
-• Fauci, in Private Diary, Reflected on Covid’s Origins and His Own Fame - The New York Times
-• Why Iran Is in No Rush to Return to Talks With United States - The New York Times
-• Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide - CNBC
-• Seattle pays tribute to festival shooting victims - BBC
-• Bryan Kohberger wants out of his plea deal. Here’s what experts say about his chances - CNN
+• Anthony Fauci invokes 5th Amendment right not to testify at Covid hearing, calls Sen. Rand Paul ‘unhinged’ - NBC News
+• Saudi Arabia joins U.S. military strikes on Iranian proxies - The Washington Post
+• McConnell Should Call In For TV Interview Or Go On Camera, Kentucky Gov. Says - Forbes
+• Iran attacks US bases in Middle East as Trump meets Netanyahu - Al Jazeera
+• Wisconsin Democratic primary debate for governor - WISN
+• Israeli PM Benjamin Netanyahu vows to visit New York despite Mamdani's repeated calls for his arrest - Fox News
+• Flood warnings issued for eastern New York as life-threatening flash flood threat shifts toward New England - CNN
+• Florida executes 2 men Tuesday, a 1st in modern death penalty history - Tampa Bay Times
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Yahoo 100
+• The headlines: Top stories of the day
 • Fox Chicago's top trending stories of 2025
-• News Spark, LLC Introduces a Social-Driven, AI-Powered News Brand Covering Trending Moments and Heartwarming Stories for the Mobile Generation
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 
 ========================================
 END TRANSMISSION
