@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-07-29
+INTELLIGENCE SNAPSHOT // 2026-07-30
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,416
-DOW J: 52,298
-NASDAQ: 24,806
+S&P 500: 7,316
+DOW J: 51,594
+NASDAQ: 24,443
 VIX: 19
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 19
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?
+[0.6%] Will Berhanu Nega be the next Prime Minister of Ethiopia?
 [0.4%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
-[0.4%] Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?
-[75.3%] Will there be no change in Fed interest rates after the July 2026 meeting?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?
+[0.1%] LoL: Hanwha Life Esports vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group
+[100.0%] LoL: Hanwha Life Esports vs Dplus KIA - Game 2 Winner
+[25.5%] Will the U.S. invade Iran before 2027?
 
 --- US POLITICS (Top 5 Active) ---
-[24.9%] Will the Fed increase interest rates by 25 bps after the July 2026 meeting?
-[90.0%] LoL: Bilibili Gaming vs LGD Gaming (BO3) - LPL Group Ascend
-[0.1%] LoL: T1 vs KT Rolster - Game 2 Winner
-[0.1%] LoL: T1 vs KT Rolster (BO3) - LCK Round 3-4 Legend Group
-[0.3%] Will Berhanu Nega be the next Prime Minister of Ethiopia?
+[0.1%] Will Hassan Shariatmadari be head of state in Iran end of 2026?
+[42.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.1%] LoL: EDward Gaming vs Team WE - Game 1 Winner
+[0.1%] LoL: Hanwha Life Esports vs Dplus KIA - Game 1 Winner
+[100.0%] LoL: ThunderTalk Gaming vs JD Gaming - Game 1 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] LoL: T1 vs KT Rolster - Game 1 Winner
-[0.1%] LoL: Bilibili Gaming vs LGD Gaming - Game 2 Winner
-[0.4%] Will Tulsi Gabbard win the 2028 US Presidential Election?
-[0.1%] LoL: Top Esports vs Anyone's Legend (BO3) - LPL Group Ascend
-[0.1%] LoL: Top Esports vs Anyone's Legend - Game 1 Winner
+[0.1%] LoL: EDward Gaming vs Team WE (BO3) - LPL Group Ascend
+[66.5%] Fed rate hike in 2026?
+[0.1%] Strait of Hormuz traffic returns to normal by July 31?
+[0.1%] LoL: EDward Gaming vs Team WE - Game 2 Winner
+[100.0%] LoL: Ninjas in Pyjamas vs Weibo Gaming - Game 1 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[11.3%] US x Iran Effective Ceasefire by July 24?
-[0.1%] LoL: Top Esports vs Anyone's Legend - Game 2 Winner
-[100.0%] LoL: Bilibili Gaming vs LGD Gaming - Game 1 Winner
-[0.4%] Strait of Hormuz traffic returns to normal by July 31?
-[100.0%] US announces halt in Iran offensive operations by July 31?
+[100.0%] LoL: Ninjas in Pyjamas vs Weibo Gaming (BO3) - LPL Group Nirvana
+[74.0%] U.S. anti-cartel operation outside of the U.S. by July 31?
+[100.0%] LoL: Ninjas in Pyjamas vs Weibo Gaming - Game 2 Winner
+[15.0%] Counter-Strike: Liquid vs Spirit (BO3) - BLAST Bounty Playoffs
+[21.5%] LoL: ThunderTalk Gaming vs JD Gaming (BO3) - LPL Group Ascend
 
 ----------------------------------------
 
 TOP HEADLINES
-• Anthony Fauci invokes 5th Amendment right not to testify at Covid hearing, calls Sen. Rand Paul ‘unhinged’ - NBC News
-• Saudi Arabia joins U.S. military strikes on Iranian proxies - The Washington Post
-• McConnell Should Call In For TV Interview Or Go On Camera, Kentucky Gov. Says - Forbes
-• Iran attacks US bases in Middle East as Trump meets Netanyahu - Al Jazeera
-• Wisconsin Democratic primary debate for governor - WISN
-• Israeli PM Benjamin Netanyahu vows to visit New York despite Mamdani's repeated calls for his arrest - Fox News
-• Flood warnings issued for eastern New York as life-threatening flash flood threat shifts toward New England - CNN
-• Florida executes 2 men Tuesday, a 1st in modern death penalty history - Tampa Bay Times
+• US launches ‘heavy wave’ of new strikes on Iran - Al Jazeera
+• Ted Cruz demands Fauci face jail time, labels him as America's 'most damaging bureaucrat' - foxnews.com
+• The Trump administration has undercut the U.S. asylum program. These 3 charts show how - NPR
+• Drone attack caused fire on gas ships at Mediterranean port, Egypt says - BBC
+• Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology - The Guardian
+• Mamdani’s pied-à-terre tax was designed to hit the wealthy, but it’s sending most New Yorkers to their estate lawyers - Yahoo Finance
+• Scorned senators force retreat on Blanche confirmation vote - thehill.com
+• Trump’s Iran war frustration and on the frontline of France’s wildfire: Morning Rundown - NBC News
 
 ----------------------------------------
 
@@ -58,6 +58,7 @@ TRENDING TOPICS
 • The headlines: Top stories of the day
 • Fox Chicago's top trending stories of 2025
 • Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
