@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-08-01
+INTELLIGENCE SNAPSHOT // 2026-08-02
 ========================================
 
 MARKET CLOSE
@@ -12,53 +12,50 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group
-[0.1%] LoL: Gen.G vs Dplus KIA - Game 1 Winner
-[0.1%] LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner
-[0.1%] LoL: LGD Gaming vs Top Esports (BO3) - LPL Group Ascend
-[0.1%] U.S. anti-cartel operation outside of the U.S. by July 31?
+[19.5%] Will the U.S. invade Iran before 2027?
+[0.1%] LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend
+[100.0%] LoL: DN SOOPers vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group
+[33.5%] Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs
+[99.1%] Israel x Iran ceasefire continues through August 2?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] LoL: LGD Gaming vs Top Esports - Game 2 Winner
-[100.0%] LoL: LGD Gaming vs Top Esports - Game 1 Winner
-[0.1%] LoL: JD Gaming vs Bilibili Gaming - Game 1 Winner
-[41.5%] Counter-Strike: FaZe vs Spirit (BO3) - BLAST Bounty Playoffs
-[0.1%] LoL: Gen.G vs Dplus KIA - Game 2 Winner
+[100.0%] LoL: KT Rolster vs Hanwha Life Esports - Game 1 Winner
+[52.0%] US x Iran Effective Ceasefire by July 31?
+[0.1%] LoL: ThunderTalk Gaming vs Team WE - Game 2 Winner
+[0.1%] Counter-Strike: Spirit vs MOUZ - Map 1 Winner
+[0.1%] LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[78.5%] Israel x Iran ceasefire continues through August 2?
-[99.9%] Israel x Iran ceasefire continues through July 31?
-[100.0%] Counter-Strike: FaZe vs Spirit - Map 2 Winner
-[24.5%] Will the U.S. invade Iran before 2027?
-[9.5%] US x Iran Effective Ceasefire by July 31?
+[99.9%] Israel x Iran ceasefire continues through August 1?
+[10.5%] Strait of Hormuz traffic returns to normal by August 31?
+[0.1%] LoL: LNG Esports vs Invictus Gaming - Game 1 Winner
+[0.1%] Counter-Strike: Spirit vs MOUZ - Map 2 Winner
+[34.5%] LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group
 
 --- SCIENCE (Top 5 Active) ---
-[68.5%] Will Hamas agree to disarm by December 31?
-[0.1%] Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?
-[12.5%] LoL: JD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend
-[50.5%] Counter-Strike: Liquid vs Atputies (BO3) - Stake Pulse Beat I Group B
-[0.1%] Dota 2: 1win vs OG - Game 1 Winner
+[0.1%] Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026?
+[0.1%] LoL: LNG Esports vs Invictus Gaming - Game 2 Winner
+[97.2%] Israel x Iran ceasefire continues through August 3?
+[100.0%] LoL: Top Esports vs JD Gaming - Game 1 Winner
+[100.0%] Will Donald Trump publicly insult Tucker Carlson by July 31, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• DOJ drops Reflecting Pool charge, citing ‘botched’ work and contradicting Trump - The Washington Post
-• Pedro Sánchez hits out at EU leaders over criticism of Spain’s migrant crisis - ft.com
-• Trump brokers Hamas disarmament deal as Saudi Arabia plans Houthi offensive - Fox News
-• Nancy Guthrie Ransom Notes Released by Sheriff: 'She Perished Shortly After She Was Taken' - Rolling Stone
-• Trump says anti-weaponization fund in IRS settlement is ‘dead’ even as he defends it - AP News
-• Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest - NPR
-• U.S., Israel preparing to bombard energy-related targets in Iran, sources say - cbsnews.com
-• Walz blasts unfounded Trump claim on cyberattacks - MPR News
+• Live updates: US-Iran war news; Trump calls off Iran strikes subject to deal being ‘rapidly’ reached - cnn.com
+• Several people killed in shooting at In-N-Out restaurant in Twin Falls, Idaho, officials say - CBS News
+• Washington state wildfires spark evacuations - BBC
+• ‘How Can Someone Vanish Without a Trace?’ - WSJ
+• Louisiana becomes latest state to launch Fauci investigation following explosive Senate hearing - Fox News
+• Democrats slam Trump admin after DOJ drops Reflecting Pool vandalism case - The Hill
+• Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane - Los Angeles Times
+• Family to sue after woman released from ICE custody froze to death - The Guardian
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
 • Fox Chicago's top trending stories of 2025
 • The headlines: Top stories of the day
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
-• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
