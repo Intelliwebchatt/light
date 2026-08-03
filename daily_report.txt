@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-08-02
+INTELLIGENCE SNAPSHOT // 2026-08-03
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,490
-DOW J: 52,485
-NASDAQ: 25,374
+S&P 500: 7,568
+DOW J: 53,184
+NASDAQ: 25,724
 VIX: 16
 
 ----------------------------------------
@@ -12,50 +12,49 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[19.5%] Will the U.S. invade Iran before 2027?
-[0.1%] LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend
-[100.0%] LoL: DN SOOPers vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group
-[33.5%] Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs
-[99.1%] Israel x Iran ceasefire continues through August 2?
+[100.0%] LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier
+[80.5%] Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala
+[20.5%] Will the U.S. invade Iran before 2027?
+[0.1%] Dota 2: Xtreme Gaming vs Team Resilience (BO3) - Games of the Future Playoffs
+[12.5%] Strait of Hormuz traffic returns to normal by August 31?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] LoL: KT Rolster vs Hanwha Life Esports - Game 1 Winner
-[52.0%] US x Iran Effective Ceasefire by July 31?
-[0.1%] LoL: ThunderTalk Gaming vs Team WE - Game 2 Winner
-[0.1%] Counter-Strike: Spirit vs MOUZ - Map 1 Winner
-[0.1%] LoL: DN SOOPers vs HANJIN BRION - Game 2 Winner
+[25.5%] Canadian Open: Aleksandar Kovacevic vs Nuno Borges
+[100.0%] LoL: Nongshim Red Force vs T1 - Game 2 Winner
+[0.1%] LoL: Nongshim Red Force vs T1 - Game 1 Winner
+[0.8%] Will Trump speak to Emmanuel Macron in July?
+[55.5%] National Bank Open: Michael Zheng vs Miomir Kecmanovic
 
 --- TECH & AI (Top 5 Active) ---
-[99.9%] Israel x Iran ceasefire continues through August 1?
-[10.5%] Strait of Hormuz traffic returns to normal by August 31?
-[0.1%] LoL: LNG Esports vs Invictus Gaming - Game 1 Winner
-[0.1%] Counter-Strike: Spirit vs MOUZ - Map 2 Winner
-[34.5%] LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group
+[0.1%] LoL: HANJIN BRION Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group
+[100.0%] Dota 2: OG vs GamerLegion - Game 2 Winner
+[61.5%] Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar
+[100.0%] Dota 2: OG vs GamerLegion - Game 1 Winner
+[1.7%] Strait of Hormuz traffic returns to normal by August 15?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Donald Trump publicly insult Emmanuel Macron by July 31, 2026?
-[0.1%] LoL: LNG Esports vs Invictus Gaming - Game 2 Winner
-[97.2%] Israel x Iran ceasefire continues through August 3?
-[100.0%] LoL: Top Esports vs JD Gaming - Game 1 Winner
-[100.0%] Will Donald Trump publicly insult Tucker Carlson by July 31, 2026?
+[58.5%] US x Iran Effective Ceasefire by July 31?
+[56.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[1.6%] Will Wes Moore win the 2028 Democratic presidential nomination?
+[100.0%] Philadelphia Phillies vs. Baltimore Orioles
+[100.0%] Israel x Iran ceasefire continues through August 2?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live updates: US-Iran war news; Trump calls off Iran strikes subject to deal being ‘rapidly’ reached - cnn.com
-• Several people killed in shooting at In-N-Out restaurant in Twin Falls, Idaho, officials say - CBS News
-• Washington state wildfires spark evacuations - BBC
-• ‘How Can Someone Vanish Without a Trace?’ - WSJ
-• Louisiana becomes latest state to launch Fauci investigation following explosive Senate hearing - Fox News
-• Democrats slam Trump admin after DOJ drops Reflecting Pool vandalism case - The Hill
-• Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane - Los Angeles Times
-• Family to sue after woman released from ICE custody froze to death - The Guardian
+• Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization fund" - CBS News
+• More than 600 structures lost as tens of thousands evacuate in Washington state wildfires - NBC News
+• Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter? - Al Jazeera
+• Trump says talks on Iran war will begin on Monday after he holds off on ‘massive’ strikes - AP News
+• RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling - USA Today
+• Senate GOP rushes to pass budget bill, avoid shutdown ahead of midterms - The Washington Post
+• Iran signals no immediate U.S. talks after Trump says negotiations to resume - politico.eu
+• Michigan’s GOP governor primary is getting weird - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Fox Chicago's top trending stories of 2025
-• The headlines: Top stories of the day
+• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
