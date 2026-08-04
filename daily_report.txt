@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-08-03
+INTELLIGENCE SNAPSHOT // 2026-08-04
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,568
-DOW J: 53,184
-NASDAQ: 25,724
+S&P 500: 7,650
+DOW J: 53,718
+NASDAQ: 26,230
 VIX: 16
 
 ----------------------------------------
@@ -12,49 +12,49 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier
-[80.5%] Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala
-[20.5%] Will the U.S. invade Iran before 2027?
-[0.1%] Dota 2: Xtreme Gaming vs Team Resilience (BO3) - Games of the Future Playoffs
-[12.5%] Strait of Hormuz traffic returns to normal by August 31?
+[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[5.3%] Strait of Hormuz traffic returns to normal by August 15?
+[100.0%] Dota 2: BetBoom Team vs OG (BO3) - 1win Essence Playoffs
+[68.5%] US x Iran Effective Ceasefire by July 31?
+[17.5%] Strait of Hormuz traffic returns to normal by August 31?
 
 --- US POLITICS (Top 5 Active) ---
-[25.5%] Canadian Open: Aleksandar Kovacevic vs Nuno Borges
-[100.0%] LoL: Nongshim Red Force vs T1 - Game 2 Winner
-[0.1%] LoL: Nongshim Red Force vs T1 - Game 1 Winner
-[0.8%] Will Trump speak to Emmanuel Macron in July?
-[55.5%] National Bank Open: Michael Zheng vs Miomir Kecmanovic
+[0.1%] LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier
+[1.5%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[0.1%] Dota 2: BetBoom Team vs OG - Game 2 Winner
+[100.0%] LoL: Gen.G vs DN SOOPers - Game 1 Winner
+[100.0%] Dota 2: PlayTime vs Team Resilience - Game 1 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] LoL: HANJIN BRION Challengers vs BNK FearX Youth (BO3) - LCK Challengers League Rounds 3-4 Trial Group
-[100.0%] Dota 2: OG vs GamerLegion - Game 2 Winner
-[61.5%] Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar
-[100.0%] Dota 2: OG vs GamerLegion - Game 1 Winner
-[1.7%] Strait of Hormuz traffic returns to normal by August 15?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.1%] LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner
+[19.5%] Will the U.S. invade Iran before 2027?
+[100.0%] LoL: Gen.G vs DN SOOPers - Game 2 Winner
+[100.0%] LoL: HANJIN BRION vs Kiwoom DRX - Game 1 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[58.5%] US x Iran Effective Ceasefire by July 31?
-[56.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[1.6%] Will Wes Moore win the 2028 Democratic presidential nomination?
-[100.0%] Philadelphia Phillies vs. Baltimore Orioles
-[100.0%] Israel x Iran ceasefire continues through August 2?
+[53.7%] US announces end of Iranian blockade by August 7, 2026?
+[0.1%] Warsaw: Linda Klimovicova vs Elizara Yaneva
+[100.0%] Dota 2: PlayTime vs Team Resilience - Game 2 Winner
+[1.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[0.1%] LoL: Gen.G Global Academy vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group
 
 ----------------------------------------
 
 TOP HEADLINES
-• Acting Attorney General Todd Blanche issues order rescinding "anti-weaponization fund" - CBS News
-• More than 600 structures lost as tens of thousands evacuate in Washington state wildfires - NBC News
-• Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter? - Al Jazeera
-• Trump says talks on Iran war will begin on Monday after he holds off on ‘massive’ strikes - AP News
-• RFK Jr. pushes measles vaccine and blames Fauci's COVID-19 handling - USA Today
-• Senate GOP rushes to pass budget bill, avoid shutdown ahead of midterms - The Washington Post
-• Iran signals no immediate U.S. talks after Trump says negotiations to resume - politico.eu
-• Michigan’s GOP governor primary is getting weird - Politico
+• Man accused of arson in the biggest of 3 major fires in Spokane, Washington - NBC News
+• Prosecutors Drop Charges Against 3 Others In Reflecting Pool Case - Forbes
+• Blanche poised for confirmation vote after he kills Trump's fund - Axios
+• US primaries: What to watch in Kansas, Missouri, Virginia, Washington - Al Jazeera
+• Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement' - CNBC
+• Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim - KCRA
+• Michigan Democrats go to polls as Haley Stevens and Abdul El-Sayed duel in Senate primary - bbc.com
+• Bernie Sanders’ circle is pretty clear on who his successor will be - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
-• The Headlines: Top stories of the day
+• News Spark, LLC Introduces a Social-Driven, AI-Powered News Brand Covering Trending Moments and Heartwarming Stories for the Mobile Generation
 
 ========================================
 END TRANSMISSION
