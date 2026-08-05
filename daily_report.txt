@@ -1,60 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2026-08-04
+INTELLIGENCE SNAPSHOT // 2026-08-05
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,650
-DOW J: 53,718
-NASDAQ: 26,230
-VIX: 16
+S&P 500: 7,780
+DOW J: 54,554
+NASDAQ: 26,686
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.2%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
-[5.3%] Strait of Hormuz traffic returns to normal by August 15?
-[100.0%] Dota 2: BetBoom Team vs OG (BO3) - 1win Essence Playoffs
-[68.5%] US x Iran Effective Ceasefire by July 31?
-[17.5%] Strait of Hormuz traffic returns to normal by August 31?
+[100.0%] Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs
+[38.5%] LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group
+[0.1%] LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner
+[99.6%] Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?
+[100.0%] LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier
-[1.5%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[0.1%] Dota 2: BetBoom Team vs OG - Game 2 Winner
-[100.0%] LoL: Gen.G vs DN SOOPers - Game 1 Winner
-[100.0%] Dota 2: PlayTime vs Team Resilience - Game 1 Winner
+[100.0%] LoL: JD Gaming vs LGD Gaming (BO3) - LPL Group Ascend
+[100.0%] LoL: Hanwha Life Esports vs Gen.G - Game 2 Winner
+[15.5%] Will the U.S. invade Iran before 2027?
+[0.3%] Will Berhanu Nega be the next Prime Minister of Ethiopia?
+[28.5%] Will Manchester City win the 2026-27 English Premier League (EPL) Championship?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.1%] LoL: HANJIN BRION vs Kiwoom DRX - Game 2 Winner
-[19.5%] Will the U.S. invade Iran before 2027?
-[100.0%] LoL: Gen.G vs DN SOOPers - Game 2 Winner
-[100.0%] LoL: HANJIN BRION vs Kiwoom DRX - Game 1 Winner
+[14.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[0.4%] Will Haley Stevens win the 2026 Michigan Democratic Primary?
+[100.0%] Dota 2: PlayTime vs Yakult Brothers - Game 1 Winner
+[2.9%] Strait of Hormuz traffic returns to normal by August 15?
+[0.1%] LoL: JD Gaming vs LGD Gaming - Game 2 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[53.7%] US announces end of Iranian blockade by August 7, 2026?
-[0.1%] Warsaw: Linda Klimovicova vs Elizara Yaneva
-[100.0%] Dota 2: PlayTime vs Team Resilience - Game 2 Winner
-[1.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[0.1%] LoL: Gen.G Global Academy vs Hanwha Life Esports Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group
+[17.5%] Strait of Hormuz traffic returns to normal by August 31?
+[0.1%] LoL: EDward Gaming vs Top Esports - Game 1 Winner
+[97.9%] Will Donavan McKinney be the Democratic Nominee for MI-13?
+[2.1%] Will Shri Thanedar be the Democratic Nominee for MI-13?
+[35.9%] US announces end of Iranian blockade by August 7, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Man accused of arson in the biggest of 3 major fires in Spokane, Washington - NBC News
-• Prosecutors Drop Charges Against 3 Others In Reflecting Pool Case - Forbes
-• Blanche poised for confirmation vote after he kills Trump's fund - Axios
-• US primaries: What to watch in Kansas, Missouri, Virginia, Washington - Al Jazeera
-• Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement' - CNBC
-• Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim - KCRA
-• Michigan Democrats go to polls as Haley Stevens and Abdul El-Sayed duel in Senate primary - bbc.com
-• Bernie Sanders’ circle is pretty clear on who his successor will be - Politico
+• Michigan Election Results Live Updates: El-Sayed Holds Narrow Lead Over Stevens in Senate Primary - The New York Times
+• Rep. Chuck Edwards drops re-election bid after censure recommendation - Axios
+• Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - AP News
+• Progressive activist wins Democratic primary in one of the country’s biggest House races - NBC News
+• Court records detail troubled past of Spokane fire suspect - NBC News
+• Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses - cnbc.com
+• What did the Reflecting Pool grand jury hear? - The Hill
+• Mike Johnson breaks his silence on Max Miller, calls for ‘process to play out’ - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
-• News Spark, LLC Introduces a Social-Driven, AI-Powered News Brand Covering Trending Moments and Heartwarming Stories for the Mobile Generation
+• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
