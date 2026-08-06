@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-08-05
+INTELLIGENCE SNAPSHOT // 2026-08-06
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,780
-DOW J: 54,554
-NASDAQ: 26,686
-VIX: 17
+S&P 500: 7,730
+DOW J: 54,437
+NASDAQ: 26,351
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Dota 2: 1win vs BetBoom Team (BO3) - 1win Essence Playoffs
-[38.5%] LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group
-[0.1%] LoL: Hanwha Life Esports vs Gen.G - Game 1 Winner
-[99.6%] Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?
-[100.0%] LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group
+[0.1%] LoL: Invictus Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana
+[0.1%] LoL: Dplus KIA vs T1 - Game 2 Winner
+[0.1%] LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group
+[0.4%] Will Berhanu Nega be the next Prime Minister of Ethiopia?
+[0.1%] LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 2 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] LoL: JD Gaming vs LGD Gaming (BO3) - LPL Group Ascend
-[100.0%] LoL: Hanwha Life Esports vs Gen.G - Game 2 Winner
-[15.5%] Will the U.S. invade Iran before 2027?
-[0.3%] Will Berhanu Nega be the next Prime Minister of Ethiopia?
-[28.5%] Will Manchester City win the 2026-27 English Premier League (EPL) Championship?
+[100.0%] LoL: Invictus Gaming vs Ninjas in Pyjamas - Game 1 Winner
+[18.5%] Strait of Hormuz traffic returns to normal by August 31?
+[33.8%] US announces end of Iranian blockade by August 7, 2026?
+[100.0%] Warsaw: Carol Young Suh Lee vs Weronika Falkowska
+[50.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[14.5%] Clarity Act (H.R.3633) signed into law in 2026?
-[0.4%] Will Haley Stevens win the 2026 Michigan Democratic Primary?
-[100.0%] Dota 2: PlayTime vs Yakult Brothers - Game 1 Winner
-[2.9%] Strait of Hormuz traffic returns to normal by August 15?
-[0.1%] LoL: JD Gaming vs LGD Gaming - Game 2 Winner
+[0.4%] Will Elissa Slotkin win the 2028 Democratic presidential nomination?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[1.9%] Strait of Hormuz traffic returns to normal by August 15?
+[16.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[85.5%] US x Iran Effective Ceasefire by July 31?
 
 --- SCIENCE (Top 5 Active) ---
-[17.5%] Strait of Hormuz traffic returns to normal by August 31?
-[0.1%] LoL: EDward Gaming vs Top Esports - Game 1 Winner
-[97.9%] Will Donavan McKinney be the Democratic Nominee for MI-13?
-[2.1%] Will Shri Thanedar be the Democratic Nominee for MI-13?
-[35.9%] US announces end of Iranian blockade by August 7, 2026?
+[47.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[1.1%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[1.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[0.1%] Will the price of Bitcoin be above $68,000 on August 6?
+[26.5%] LoL: Team WE vs Anyone's Legend (BO3) - LPL Group Ascend
 
 ----------------------------------------
 
 TOP HEADLINES
-• Michigan Election Results Live Updates: El-Sayed Holds Narrow Lead Over Stevens in Senate Primary - The New York Times
-• Rep. Chuck Edwards drops re-election bid after censure recommendation - Axios
-• Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - AP News
-• Progressive activist wins Democratic primary in one of the country’s biggest House races - NBC News
-• Court records detail troubled past of Spokane fire suspect - NBC News
-• Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses - cnbc.com
-• What did the Reflecting Pool grand jury hear? - The Hill
-• Mike Johnson breaks his silence on Max Miller, calls for ‘process to play out’ - Politico
+• Live Updates: Iran, Oman deal on Strait of Hormuz getting close, Tehran says - CBS News
+• Abdul El-Sayed’s path to victory and FDA approves first mRNA flu shot: Morning Rundown - NBC News
+• Senate committee set to vote on whether to hold Fauci in contempt of Congress - NPR
+• Ukraine says two Russian oil refineries hit, as Moscow targets energy sites - BBC
+• More than 846 structures destroyed by Spokane wildfires - KXLY.com
+• Hospital staff said he was faking it and released him. He died from an overdose soon after - NPR
+• Capitol agenda: Summer exit eludes Senate - Politico
+• A Trans Woman Pulled a Gun and Started a ‘Stand Your Ground’ Debate - The New York Times
 
 ----------------------------------------
 
