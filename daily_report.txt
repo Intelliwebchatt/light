@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-08-08
+INTELLIGENCE SNAPSHOT // 2026-08-09
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,44 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group
-[0.1%] Will Tom Cotton win the 2028 US Presidential Election?
-[0.9%] Will Berhanu Nega be the next Prime Minister of Ethiopia?
-[0.1%] LoL: LGD Gaming vs Anyone's Legend - Game 1 Winner
-[0.4%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[100.0%] LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group
+[100.0%] LoL: JD Gaming vs Team WE - Game 1 Winner
+[0.3%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[6.5%] Strait of Hormuz traffic returns to normal by August 31?
+[100.0%] LoL: BNK FEARX vs Kiwoom DRX - Game 1 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] LoL: LGD Gaming vs Anyone's Legend - Game 2 Winner
-[10.5%] Strait of Hormuz traffic returns to normal by August 31?
-[54.5%] Fed rate hike in 2026?
-[0.1%] LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner
-[36.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-
---- TECH & AI (Top 5 Active) ---
-[57.0%] Counter-Strike: EYEBALLERS vs Phantom (BO3) - Esports World Cup Open Qualifier Group 10
-[62.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[100.0%] LoL: Weibo Gaming vs LNG Esports (BO3) - LPL Group Nirvana
-[0.3%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[0.1%] LoL: ThunderTalk Gaming vs Top Esports - Game 1 Winner
+[0.1%] LoL: ThunderTalk Gaming vs Top Esports - Game 2 Winner
+[81.5%] LoL: JD Gaming vs Team WE (BO3) - LPL Group Ascend
+[0.4%] Strait of Hormuz traffic returns to normal by August 15?
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
 
+--- TECH & AI (Top 5 Active) ---
+[98.6%] LoL: BNK FEARX vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group
+[0.1%] Counter-Strike: Sinners vs EYEBALLERS (BO3) - Esports World Cup Open Qualifier Play-Ins
+[1.8%] US announces end of Iranian blockade by August 9, 2026?
+[0.1%] LoL: ThunderTalk Gaming vs Top Esports (BO3) - LPL Group Ascend
+[100.0%] Counter-Strike: 1WIN vs Liquid (BO3) - Esports World Cup Open Qualifier Play-Ins
+
 --- SCIENCE (Top 5 Active) ---
-[28.5%] LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group
-[1.6%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[88.5%] US x Iran Effective Ceasefire by July 31?
-[1.6%] Will Yabloko gain the most seats in the next Russian parliamentary election?
-[99.5%] LoL: Bilibili Gaming vs EDward Gaming - Game 1 Winner
+[0.1%] Counter-Strike: Virtus.pro vs Sashi Esport (BO3) - Esports World Cup Open Qualifier Play-Ins
+[96.4%] LoL: BNK FEARX vs Kiwoom DRX - Game 2 Winner
+[1.7%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[87.5%] US x Iran Effective Ceasefire by July 31?
+[99.5%] Israel x Iran ceasefire continues through August 9?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Senate confirms Todd Blanche as attorney general after weeks of uncertainty - NBC News
-• Senate passes bill to fund government in bid to avert shutdown ahead of midterm elections - CNN
-• Iran Sees an Opening to Kick the U.S. Out of the Gulf - WSJ
-• White House revives unprecedented effort to remove Fed governor Lisa Cook - Axios
-• After Supreme Court Win, Trump Officials Under Pressure to Deport Haitians - The New York Times
-• What could the Mecca defence pact mean for the US role in the Middle East? - Al Jazeera
-• Appeals court rules Trump can’t build White House ballroom without congressional approval - AP News
-• Republicans face likely year-end test after punting Trump spending bill - Politico
+• Israel rejects Trump's 15-point plan for Gaza, Netanyahu says - BBC
+• Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters
+• Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation - The Hill
+• Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks - AP News
+• 'It's apocalyptic.' A look at the aftermath of catastrophic fires in Spokane - KUOW
+• Hunter Biden Says His Father’s Cancer Is Worsening - The New York Times
+• Woman and baby die after boat capsizes in New York Harbor - CNN
+• Rep. Ed Case Holds Onto His Congressional Seat In A Landslide - Honolulu Civil Beat
 
 ----------------------------------------
 
