@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-08-12
+INTELLIGENCE SNAPSHOT // 2026-08-13
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,728
-DOW J: 53,792
-NASDAQ: 26,445
+S&P 500: 7,748
+DOW J: 53,770
+NASDAQ: 26,588
 VIX: 15
 
 ----------------------------------------
@@ -12,54 +12,50 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group
-[0.1%] LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend
-[0.1%] Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?
-[100.0%] Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?
-[1.1%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[0.6%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[100.0%] LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner
+[100.0%] LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner
+[0.1%] LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group
+[100.0%] LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group
-[0.1%] LoL: KT Rolster vs Dplus KIA - Game 2 Winner
-[0.1%] LoL: KT Rolster vs Dplus KIA - Game 1 Winner
-[0.1%] LoL: EDward Gaming vs Anyone's Legend - Game 2 Winner
-[0.1%] Counter-Strike: magic vs TheMongolz (BO1) - Esports World Cup Group D
+[0.1%] LoL: Top Esports vs LGD Gaming - Game 1 Winner
+[100.0%] Dota 2: Nigma Galaxy vs OG - Game 2 Winner
+[0.1%] Dota 2: TEAM VISION vs Team Falcons - Game 1 Winner
+[0.1%] LoL: Top Esports vs LGD Gaming (BO3) - LPL Group Ascend
+[0.1%] LoL: Top Esports vs LGD Gaming - Game 2 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[98.8%] US x Iran Effective Ceasefire by July 31?
-[30.5%] Will Kai and Speed beat the Minecraft challenge by August 17?
-[0.5%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[0.1%] Counter-Strike: Spirit vs JiJieHao (BO1) - Esports World Cup Group A
-[65.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[99.5%] Dota 2: BoomBoys vs Iron Wing (BO3) - The International Group Stage
+[1.3%] Will Count Binface win the Clacton by-election?
+[0.4%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[70.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[2.5%] Strait of Hormuz traffic returns to normal by August 31?
 
 --- SCIENCE (Top 5 Active) ---
-[33.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[0.5%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[56.5%] Will Paris Saint-Germain win on 2026-08-12?
-[0.2%] Strait of Hormuz traffic returns to normal by August 15?
-[100.0%] Counter-Strike: FUT Esports vs TYLOO (BO1) - Esports World Cup Group C
+[61.5%] Dota 2: TEAM VISION vs Team Falcons (BO3) - The International Group Stage
+[59.5%] Dota 2: LGD Gaming vs Team Resilience (BO3) - The International Group Stage
+[27.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.1%] Dota 2: BoomBoys vs Iron Wing - Game 2 Winner
 
 ----------------------------------------
 
 TOP HEADLINES
-• Primary Elections Live Updates: Crowley, a Moderate Democrat, Defeats Hong in Wisconsin Primary for Governor - The New York Times
-• Close Trump aides — but no Cabinet officials — made secret catering truck move - The Washington Post
-• Iranian-backed Houthis kill 6 in attack on vessel, and other developments in the Mideast - apnews.com
-• Fact-checking Trump's claims as he rolls back some recommended vaccines - BBC
-• Mike Lindell Fails To Win Republican Nomination For Minnesota Governor - Forbes
-• Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97 - The New York Times
-• Progressive Democrats get another win in Minnesota US Senate primary - apnews.com
-• Rep. John Larson ouster makes 2026 a record year for Democratic primary losses - Axios
+• Karoline Leavitt stepping down as White House press secretary - Axios
+• Members of Trump's cabinet remained on decoy plane, after president's quiet exit - BBC
+• What the polls missed in Wisconsin’s primary and David Ellison threatens to uproot Paramount: Morning Rundown - NBC News
+• Homeland Security Paid $464 Million for Airplanes. Then It Parked Them. - The New York Times
+• MyPillow Founder Mike Lindell Won’t Concede Losing Minnesota Republican Gubernatorial Primary - Forbes
+• These swing voters in Nevada say they are not dismissing socialist candidates - npr.org
+• Two dead after military helicopter crashes in Texas - BBC
+• Police: 2 adults, 1 child dead in suspected murder-suicide at Hopkins daycare; case linked to Burnsville homicide - 5 EYEWITNESS NEWS
 
 ----------------------------------------
 
 TRENDING TOPICS
 • The Headlines: Top stories of the day
 • Fox Chicago's top trending stories of 2025
-• Trending stories on The Hill - 07.09.26
-• Trending stories on The Hill - 06/24/26
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
-• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
