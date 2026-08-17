@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-08-16
+INTELLIGENCE SNAPSHOT // 2026-08-17
 ========================================
 
 MARKET CLOSE
 S&P 500: 7,786
 DOW J: 53,732
 NASDAQ: 26,729
-VIX: 14
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Dota 2: LGD Gaming vs Team Yandex (BO3) - The International Elimination Round
-[0.1%] LoL: T1 vs Gen.G - Game 2 Winner
-[0.1%] LoL: T1 vs Gen.G - Game 1 Winner
-[0.1%] LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group
-[0.6%] Will Adanech Abiebie be the next Prime Minister of Ethiopia?
+[24.0%] LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs
+[100.0%] LoL: T1 vs DN SOOPers - Game 1 Winner
+[0.1%] LoL: T1 vs DN SOOPers - Game 2 Winner
+[0.7%] Will Pablo Marçal win the 2026 Brazilian presidential election?
+[0.4%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] LoL: Weibo Gaming vs Invictus Gaming - Game 1 Winner
-[100.0%] LoL: Weibo Gaming vs Invictus Gaming - Game 2 Winner
-[0.1%] LoL: Kiwoom DRX vs HANJIN BRION - Game 1 Winner
-[100.0%] Counter-Strike: TheMongolz vs paiN - Map 1 Winner
-[100.0%] LoL: Kiwoom DRX vs HANJIN BRION - Game 2 Winner
+[15.5%] LoL: T1 vs DN SOOPers - Game 3 Winner
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[7.5%] Putin out as President of Russia by December 31, 2026?
+[13.6%] US-Iran 60 day negotiation period extended?
+[90.0%] Bitcoin Up or Down on August 17?
 
 --- TECH & AI (Top 5 Active) ---
-[75.5%] LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana
-[79.5%] Counter-Strike: TheMongolz vs paiN (BO3) - Esports World Cup Group D
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.8%] Will James Fishback be the Republican nominee for Florida Governor?
+[22.5%] Will Bitcoin dip to $45,000 by December 31, 2026?
 [1.1%] Strait of Hormuz traffic returns to normal by August 31?
-[51.5%] LoL: Kiwoom DRX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group
+[100.0%] LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 2 Winner
+[0.4%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[98.6%] Counter-Strike: Vitality vs Lynn Vision (BO3) - Esports World Cup Group C
-[0.2%] Will Romeu Zema win the 2026 Brazilian presidential election?
-[0.1%] Will Kim Kardashian win the 2028 US Presidential Election?
-[50.5%] Arsenal FC vs. Manchester City: O/U 2.5
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[100.0%] LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 1 Winner
+[99.7%] Will the price of Bitcoin be above $62,000 on August 17?
+[10.5%] Strait of Hormuz traffic returns to normal by September 30?
+[6.5%] US announces end of Iranian blockade by August 22, 2026?
+[19.5%] Will Team Falcons Win the CS2 EWC 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• At least one killed as Hurricane Lala slams Hawaiian Islands with violent flash flooding, sweeping homes away - FOX Weather
-• Indonesia: Thousands displaced by deadly earthquake as rescue efforts continue - BBC
-• US top Middle East commander visits deployed aircraft carrier, and other Mideast news - apnews.com
-• Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv - Al Jazeera
-• JD Vance and the Trump team keep moving the goalposts on Iran - Yahoo News Singapore
-• Democrats finalize 2028 calendar that moves racially diverse states to the front - Politico
-• Live flood updates: President Trump approves emergency declaration - indystar.com
-• Trump’s legal team shrinks - Politico
+• Hayden Panettiere, who starred in ‘Heroes’ and ‘Nashville,’ dies at 36 - NPR
+• Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News
+• Power out for 178k HECO customers; company says ‘prepare for extended outages’ - Honolulu Star-Advertiser
+• Live Updates: U.S. and Iran locked in a stalemate as 60-day negotiation period ends - CBS News
+• Blanche refuses to pledge DOJ independence from White House - USA Today
+• Trump says White House needs ‘military complex’ as courts block his ballroom - The Washington Post
+• At least 7 people have died from days of heavy rain and record-setting flooding in Indiana - AP News
+• Is Congress up for an ethics overhaul? - Politico
 
 ----------------------------------------
 
