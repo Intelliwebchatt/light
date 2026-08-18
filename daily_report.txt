@@ -1,59 +1,64 @@
-INTELLIGENCE SNAPSHOT // 2026-08-17
+INTELLIGENCE SNAPSHOT // 2026-08-18
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,786
-DOW J: 53,732
-NASDAQ: 26,729
-VIX: 15
+S&P 500: 7,745
+DOW J: 53,460
+NASDAQ: 26,645
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[24.0%] LoL: T1 vs DN SOOPers (BO5) - KeSPA Cup Playoffs
-[100.0%] LoL: T1 vs DN SOOPers - Game 1 Winner
-[0.1%] LoL: T1 vs DN SOOPers - Game 2 Winner
-[0.7%] Will Pablo Marçal win the 2026 Brazilian presidential election?
-[0.4%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
+[100.0%] LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group
+[0.1%] LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs
+[0.1%] LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner
+[0.4%] Will Belete Molla be the next Prime Minister of Ethiopia?
+[0.1%] LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[15.5%] LoL: T1 vs DN SOOPers - Game 3 Winner
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[7.5%] Putin out as President of Russia by December 31, 2026?
-[13.6%] US-Iran 60 day negotiation period extended?
-[90.0%] Bitcoin Up or Down on August 17?
+[0.9%] Will Pablo Marçal win the 2026 Brazilian presidential election?
+[28.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[0.9%] Will James Fishback be the Republican nominee for Florida Governor?
+[0.1%] LoL: Nongshim Red Force vs DN SOOPers - Game 3 Winner
+[0.8%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[0.8%] Will James Fishback be the Republican nominee for Florida Governor?
-[22.5%] Will Bitcoin dip to $45,000 by December 31, 2026?
-[1.1%] Strait of Hormuz traffic returns to normal by August 31?
-[100.0%] LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 2 Winner
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[1.6%] Will Wes Moore win the 2028 Democratic presidential nomination?
+[21.5%] Will Bitcoin dip to $45,000 by December 31, 2026?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.1%] Prague 2: Gilles Arnaud Bailly vs Norbert Gombos
+[71.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] LoL: Kiwoom DRX Challengers vs Hanwha Life Esports Challengers - Game 1 Winner
-[99.7%] Will the price of Bitcoin be above $62,000 on August 17?
-[10.5%] Strait of Hormuz traffic returns to normal by September 30?
-[6.5%] US announces end of Iranian blockade by August 22, 2026?
-[19.5%] Will Team Falcons Win the CS2 EWC 2026?
+[8.5%] Strait of Hormuz traffic returns to normal by September 30?
+[0.1%] LoL: DN SOOPers Challengers vs Nongshim Esports Academy - Game 2 Winner
+[3.5%] Will the US confirm that aliens exist before 2027?
+[100.0%] LoL: DN SOOPers Challengers vs Nongshim Esports Academy - Game 1 Winner
+[0.4%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Hayden Panettiere, who starred in ‘Heroes’ and ‘Nashville,’ dies at 36 - NPR
-• Trump orders military to ‘substantially reduce’ joint exercises with South Korea - NBC News
-• Power out for 178k HECO customers; company says ‘prepare for extended outages’ - Honolulu Star-Advertiser
-• Live Updates: U.S. and Iran locked in a stalemate as 60-day negotiation period ends - CBS News
-• Blanche refuses to pledge DOJ independence from White House - USA Today
-• Trump says White House needs ‘military complex’ as courts block his ballroom - The Washington Post
-• At least 7 people have died from days of heavy rain and record-setting flooding in Indiana - AP News
-• Is Congress up for an ethics overhaul? - Politico
+• Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race - The New York Times
+• Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador - CNBC
+• Florida holds primaries for governor and Congress, testing Trump’s grip on adopted state - AP News
+• Trump’s approval rating sinks to new low at 33 percent - aljazeera.com
+• She told no one about her agony except ChatGPT. What her death reveals about AI risks - NPR
+• Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children - PBS
+• Judge delays Mangione’s state trial after lawyers sought dismissal - The Washington Post
+• Inside Ossoff’s meticulously viral campaign - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
+• The Headlines: Top stories of the day
+• Yahoo 100
+• Trending stories on The Hill - 07.09.26
+• Fox Chicago's top trending stories of 2025
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 • The Headlines: Top stories of the day
 
 ========================================
