@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-08-18
+INTELLIGENCE SNAPSHOT // 2026-08-19
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,745
-DOW J: 53,460
-NASDAQ: 26,645
+S&P 500: 7,692
+DOW J: 53,343
+NASDAQ: 26,290
 VIX: 16
 
 ----------------------------------------
@@ -12,53 +12,48 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group
-[0.1%] LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs
-[0.1%] LoL: Nongshim Red Force vs DN SOOPers - Game 2 Winner
-[0.4%] Will Belete Molla be the next Prime Minister of Ethiopia?
-[0.1%] LoL: Nongshim Red Force vs DN SOOPers - Game 1 Winner
+[100.0%] LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner
+[100.0%] LoL: LNG Esports vs Weibo Gaming - Game 2 Winner
+[100.0%] LoL: Anyone's Legend vs Top Esports - Game 2 Winner
+[0.1%] LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana
+[7.0%] Strait of Hormuz traffic returns to normal by September 30?
 
 --- US POLITICS (Top 5 Active) ---
-[0.9%] Will Pablo Marçal win the 2026 Brazilian presidential election?
-[28.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[0.9%] Will James Fishback be the Republican nominee for Florida Governor?
-[0.1%] LoL: Nongshim Red Force vs DN SOOPers - Game 3 Winner
-[0.8%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[0.7%] Strait of Hormuz traffic returns to normal by August 31?
+[100.0%] LoL: Gen.G vs KT Rolster - Game 1 Winner
+[79.5%] LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend
+[85.5%] LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group
+[100.0%] LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group
 
 --- TECH & AI (Top 5 Active) ---
-[1.6%] Will Wes Moore win the 2028 Democratic presidential nomination?
-[21.5%] Will Bitcoin dip to $45,000 by December 31, 2026?
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.1%] Prague 2: Gilles Arnaud Bailly vs Norbert Gombos
-[71.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[71.5%] Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs
+[99.8%] Will Russia capture Kostyantynivka by December 31, 2026?
+[0.4%] Will Belete Molla be the next Prime Minister of Ethiopia?
+[0.4%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[0.1%] Will Hakeem Jeffries win the 2028 Democratic presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
-[8.5%] Strait of Hormuz traffic returns to normal by September 30?
-[0.1%] LoL: DN SOOPers Challengers vs Nongshim Esports Academy - Game 2 Winner
-[3.5%] Will the US confirm that aliens exist before 2027?
-[100.0%] LoL: DN SOOPers Challengers vs Nongshim Esports Academy - Game 1 Winner
-[0.4%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[0.1%] Will Alex Padilla win the 2028 Democratic presidential nomination?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.1%] Will Alex Padilla win the 2028 US Presidential Election?
+[0.1%] Will Jalen Brunson win the 2028 US Presidential Election?
+[0.1%] Will the price of Bitcoin be above $68,000 on August 19?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race - The New York Times
-• Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador - CNBC
-• Florida holds primaries for governor and Congress, testing Trump’s grip on adopted state - AP News
-• Trump’s approval rating sinks to new low at 33 percent - aljazeera.com
-• She told no one about her agony except ChatGPT. What her death reveals about AI risks - NPR
-• Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children - PBS
-• Judge delays Mangione’s state trial after lawyers sought dismissal - The Washington Post
-• Inside Ossoff’s meticulously viral campaign - Politico
+• A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries - The New York Times
+• Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports - NPR
+• U.S. Senate race will have two Dan Sullivans and a Mary Peltola - Alaska Public Media
+• Rep. Cory Mills loses Florida primary amid Ethics probe - Axios
+• She Killed Her Three Children. Is She Guilty? - The Free Press
+• Eric Barlow Wins GOP Nomination For Governor Over Trump-Backed Candidate - Cowboy State Daily
+• Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post
+• US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• The Headlines: Top stories of the day
-• Yahoo 100
-• Trending stories on The Hill - 07.09.26
-• Fox Chicago's top trending stories of 2025
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 • The Headlines: Top stories of the day
 
 ========================================
