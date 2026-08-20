@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-08-19
+INTELLIGENCE SNAPSHOT // 2026-08-20
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,692
-DOW J: 53,343
-NASDAQ: 26,290
+S&P 500: 7,708
+DOW J: 53,463
+NASDAQ: 26,331
 VIX: 16
 
 ----------------------------------------
@@ -12,48 +12,52 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner
-[100.0%] LoL: LNG Esports vs Weibo Gaming - Game 2 Winner
-[100.0%] LoL: Anyone's Legend vs Top Esports - Game 2 Winner
-[0.1%] LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana
-[7.0%] Strait of Hormuz traffic returns to normal by September 30?
+[0.1%] Dota 2: Team Liquid vs Team Yandex - Game 1 Winner
+[100.0%] LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend
+[19.5%] Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs
+[33.5%] Dota 2: Team Liquid vs Team Yandex - Game 2 Winner
+[1.2%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.7%] Strait of Hormuz traffic returns to normal by August 31?
-[100.0%] LoL: Gen.G vs KT Rolster - Game 1 Winner
-[79.5%] LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend
-[85.5%] LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group
-[100.0%] LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group
+[0.4%] Will Belete Molla be the next Prime Minister of Ethiopia?
+[100.0%] LoL: Nongshim Red Force vs Kiwoom DRX - Game 2 Winner
+[17.5%] Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs
+[100.0%] LoL: Nongshim Red Force vs Kiwoom DRX - Game 1 Winner
+[96.5%] Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs
 
 --- TECH & AI (Top 5 Active) ---
-[71.5%] Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs
-[99.8%] Will Russia capture Kostyantynivka by December 31, 2026?
-[0.4%] Will Belete Molla be the next Prime Minister of Ethiopia?
-[0.4%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[0.1%] Will Hakeem Jeffries win the 2028 Democratic presidential nomination?
+[100.0%] LoL: JD Gaming vs ThunderTalk Gaming - Game 2 Winner
+[72.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[85.4%] Will Bitcoin reach $72,500 in August?
+[26.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[40.4%] Will the price of Bitcoin be above $72,000 on August 20?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Alex Padilla win the 2028 Democratic presidential nomination?
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.1%] Will Alex Padilla win the 2028 US Presidential Election?
-[0.1%] Will Jalen Brunson win the 2028 US Presidential Election?
-[0.1%] Will the price of Bitcoin be above $68,000 on August 19?
+[0.1%] LoL: JD Gaming vs ThunderTalk Gaming - Game 1 Winner
+[100.0%] LoL: Nongshim Red Force vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group
+[0.1%] Counter-Strike: Natus Vincere vs Legacy - Map 1 Winner
+[48.1%] Will Bitcoin reach $75,000 in August?
 
 ----------------------------------------
 
 TOP HEADLINES
-• A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries - The New York Times
-• Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports - NPR
-• U.S. Senate race will have two Dan Sullivans and a Mary Peltola - Alaska Public Media
-• Rep. Cory Mills loses Florida primary amid Ethics probe - Axios
-• She Killed Her Three Children. Is She Guilty? - The Free Press
-• Eric Barlow Wins GOP Nomination For Governor Over Trump-Backed Candidate - Cowboy State Daily
-• Alleged leader of Penn State frat cocaine ring arraigned, denied bail - The Washington Post
-• US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats - AP News
+• Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say - The New York Times
+• Missouri court allows new Trump-backed US House districts to be used in November election - AP News
+• A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region - AP News
+• Trump threatens ‘tremendous’ costs for countries trading with Iran - Al Jazeera
+• Lindsay Clancy Murder Trial Jury Suddenly Excused Due to "Unforeseen Circumstance" - E! News
+• Trump shows off White House renovations and ornate new helipad - The Guardian
+• US national debt hits $40 trillion, rising by $90K per second - WJLA
+• #Resistance Democrats are flopping in primaries - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Yahoo 100
+• The Headlines: Top stories of the day
+• Fox Chicago's top trending stories of 2025
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 • The Headlines: Top stories of the day
 
 ========================================
