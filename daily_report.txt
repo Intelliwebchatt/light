@@ -1,63 +1,59 @@
-INTELLIGENCE SNAPSHOT // 2026-08-20
+INTELLIGENCE SNAPSHOT // 2026-08-21
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,708
-DOW J: 53,463
-NASDAQ: 26,331
-VIX: 16
+S&P 500: 7,641
+DOW J: 52,759
+NASDAQ: 26,067
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Dota 2: Team Liquid vs Team Yandex - Game 1 Winner
-[100.0%] LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend
-[19.5%] Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs
-[33.5%] Dota 2: Team Liquid vs Team Yandex - Game 2 Winner
-[1.2%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[42.5%] Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs
+[0.1%] LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group
+[0.1%] LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend
+[1.1%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[100.0%] Dota 2: Team Spirit vs TEAM VISION - Game 2 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will Belete Molla be the next Prime Minister of Ethiopia?
-[100.0%] LoL: Nongshim Red Force vs Kiwoom DRX - Game 2 Winner
-[17.5%] Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs
-[100.0%] LoL: Nongshim Red Force vs Kiwoom DRX - Game 1 Winner
-[96.5%] Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs
+[100.0%] LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner
+[5.2%] NATO x Russia military clash by August 31, 2026?
+[100.0%] LoL: KT Rolster vs T1 - Game 1 Winner
+[0.1%] LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner
+[0.1%] LoL: Anyone's Legend vs Team WE - Game 2 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] LoL: JD Gaming vs ThunderTalk Gaming - Game 2 Winner
-[72.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[85.4%] Will Bitcoin reach $72,500 in August?
-[26.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[40.4%] Will the price of Bitcoin be above $72,000 on August 20?
+[100.0%] LoL: Anyone's Legend vs Team WE - Game 1 Winner
+[0.4%] Will Belete Molla be the next Prime Minister of Ethiopia?
+[70.5%] Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs
+[100.0%] Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner
+[60.5%] LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group
 
 --- SCIENCE (Top 5 Active) ---
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.1%] LoL: JD Gaming vs ThunderTalk Gaming - Game 1 Winner
-[100.0%] LoL: Nongshim Red Force vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group
-[0.1%] Counter-Strike: Natus Vincere vs Legacy - Map 1 Winner
-[48.1%] Will Bitcoin reach $75,000 in August?
+[0.4%] Will Brentford win the 2026-27 English Premier League (EPL) Championship?
+[57.0%] Will Bitcoin reach $80,000 in August?
+[27.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[0.1%] Will Ségolène Royal win the 2027 French presidential election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say - The New York Times
-• Missouri court allows new Trump-backed US House districts to be used in November election - AP News
-• A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region - AP News
-• Trump threatens ‘tremendous’ costs for countries trading with Iran - Al Jazeera
-• Lindsay Clancy Murder Trial Jury Suddenly Excused Due to "Unforeseen Circumstance" - E! News
-• Trump shows off White House renovations and ornate new helipad - The Guardian
-• US national debt hits $40 trillion, rising by $90K per second - WJLA
-• #Resistance Democrats are flopping in primaries - Politico
+• Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor - NBC News
+• Eight die in plane crash at remote Alaskan military site, air force says - BBC
+• As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR
+• Amid intense backlash, people are vandalizing Flock surveillance cameras - NPR
+• White House faces questions over security clearance for top Trump aide Natalie Harp - The Guardian
+• Trump’s Economic Threat Puts Focus on Iran’s Trading Partners - The New York Times
+• Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears - The New York Times
+• Trump is finally hitting the campaign trail. It’s not for a battleground member. - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
-• The Headlines: Top stories of the day
-• Fox Chicago's top trending stories of 2025
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 • The Headlines: Top stories of the day
 
 ========================================
