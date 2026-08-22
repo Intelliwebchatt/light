@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-08-21
+INTELLIGENCE SNAPSHOT // 2026-08-22
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,641
-DOW J: 52,759
-NASDAQ: 26,067
+S&P 500: 7,674
+DOW J: 53,277
+NASDAQ: 26,180
 VIX: 15
 
 ----------------------------------------
@@ -12,49 +12,50 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[42.5%] Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs
-[0.1%] LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group
-[0.1%] LoL: Anyone's Legend vs Team WE (BO3) - LPL Group Ascend
-[1.1%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[100.0%] Dota 2: Team Spirit vs TEAM VISION - Game 2 Winner
+[94.5%] Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs
+[100.0%] LoL: Dplus KIA vs Gen.G (BO3) - LCK Round 3-4 Legend Group
+[1.2%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[0.4%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[100.0%] LoL: Dplus KIA vs Gen.G - Game 2 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner
-[5.2%] NATO x Russia military clash by August 31, 2026?
-[100.0%] LoL: KT Rolster vs T1 - Game 1 Winner
-[0.1%] LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner
-[0.1%] LoL: Anyone's Legend vs Team WE - Game 2 Winner
+[100.0%] LoL: DN SOOPers vs Kiwoom DRX - Game 1 Winner
+[100.0%] LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner
+[100.0%] LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 2 Winner
+[15.5%] Will Manchester United FC win on 2026-08-22?
+[45.5%] Will Brentford FC win on 2026-08-22?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] LoL: Anyone's Legend vs Team WE - Game 1 Winner
-[0.4%] Will Belete Molla be the next Prime Minister of Ethiopia?
-[70.5%] Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs
-[100.0%] Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner
-[60.5%] LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group
+[68.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.1%] LoL: Dplus KIA vs Gen.G - Game 1 Winner
+[100.0%] LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana
+[30.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[0.1%] Will Abigail Spanberger win the 2028 Democratic presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
+[78.5%] LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.4%] Will Brentford win the 2026-27 English Premier League (EPL) Championship?
-[57.0%] Will Bitcoin reach $80,000 in August?
-[27.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[0.1%] Will Ségolène Royal win the 2027 French presidential election?
+[36.5%] Will Sunderland AFC win on 2026-08-22?
+[61.5%] Will Hull City AFC win on 2026-08-22?
+[4.5%] Spread: Manchester United FC (-1.5)
 
 ----------------------------------------
 
 TOP HEADLINES
-• Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor - NBC News
-• Eight die in plane crash at remote Alaskan military site, air force says - BBC
-• As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR
-• Amid intense backlash, people are vandalizing Flock surveillance cameras - NPR
-• White House faces questions over security clearance for top Trump aide Natalie Harp - The Guardian
-• Trump’s Economic Threat Puts Focus on Iran’s Trading Partners - The New York Times
-• Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears - The New York Times
-• Trump is finally hitting the campaign trail. It’s not for a battleground member. - Politico
+• No deal reached in U.S.-Canada trade talks as 50 percent tariffs take effect - The Washington Post
+• U.S.-Iran Live Updates: Iran declares it has won the war as U.S. turns to economic warfare - CBS News
+• With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot! - The New York Times
+• How the US and Middle East allies flipped the oil script on Iran - CNN
+• Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now - AP News
+• US imposes deep Colorado River water cuts to California, Nevada and Arizona - Reuters
+• Lindsay Clancy trial: everything that happened this week in court - The Guardian
+• Desperation Mounts as Thousands in Indiana Endure 10 Days Without Power - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
 • The Headlines: Top stories of the day
+• Fox Chicago's top trending stories of 2025
 
 ========================================
 END TRANSMISSION
