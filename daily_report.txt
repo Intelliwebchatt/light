@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-08-24
+INTELLIGENCE SNAPSHOT // 2026-08-25
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,674
-DOW J: 53,277
-NASDAQ: 26,180
+S&P 500: 7,653
+DOW J: 53,417
+NASDAQ: 25,980
 VIX: 16
 
 ----------------------------------------
@@ -12,48 +12,52 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[13.5%] Clarity Act (H.R.3633) signed into law in 2026?
-[50.5%] Will Chelsea FC win on 2026-08-24?
-[40.5%] Will Málaga CF win on 2026-08-24?
-[100.0%] LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Game 2 Winner
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[14.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[0.4%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[1.2%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[100.0%] LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In
+[65.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Game 3 Winner
-[100.0%] LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Game 1 Winner
-[67.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[1.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[100.0%] LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In
+[100.0%] LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 4 Winner
+[0.1%] Will John Thune win the 2028 Republican presidential nomination?
+[33.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[100.0%] LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 3 Winner
 
 --- TECH & AI (Top 5 Active) ---
-[5.5%] US announces end of Iranian blockade by August 31, 2026?
-[0.1%] Will Hull City win the 2026-27 English Premier League (EPL) Championship?
-[43.5%] LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season
-[4.5%] Will the chopsticks catch SpaceX Starship Flight Test 14 Starship?
-[100.0%] Will the price of Bitcoin be above $68,000 on August 24?
+[6.8%] Will Donald Trump publicly insult someone on August 23, 2026?
+[8.6%] US announces end of Iranian blockade by August 31, 2026?
+[0.1%] LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner
+[7.5%] Will the Iranian regime fall before 2027?
+[0.2%] Strait of Hormuz traffic returns to normal by August 31?
 
 --- SCIENCE (Top 5 Active) ---
-[3.4%] Will Renan Santos win the 2026 Brazilian presidential election?
-[8.0%] Roehampton 2: Radu Albot vs Leonardo Rossi
-[99.9%] Will the price of Bitcoin be above $72,000 on August 24?
-[0.1%] Will Bournemouth win the 2026-27 English Premier League (EPL) Championship?
-[51.5%] Will CA Osasuna win on 2026-08-24?
+[0.1%] Will Hull City win the 2026-27 English Premier League (EPL) Championship?
+[9.5%] Will Bitcoin dip to $45,000 by December 31, 2026?
+[0.1%] Roehampton 2: Fabrizio Andaloro vs Emile Hudd
+[45.9%] Will Bitcoin reach $82,500 in August?
+[93.0%] US ceasefire against Iran continues through August 31?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Canada Turned Down a US Tariff Deal. Now Comes the Economic Cost - Bloomberg
-• US-Iran war latest: Iran’s currency drops to record low against dollar as US set to unveil ‘economic D-Day’ - CNN
-• Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate - NBC News
-• Data centers’ ‘oh s--t’ moment - Politico
-• Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says - NPR
-• A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. - The New York Times
-• Social media goes into overdrive with Lindsay Clancy conspiracy theories - The Guardian
-• US military says strike on alleged drug-smuggling boat kills two - Al Jazeera
+• China warns US it could retaliate over Iran sanctions - Financial Times
+• How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War - The New York Times
+• What Trump’s Supreme Court win means for mail ballots - CNN
+• Trump’s endorsement faces major tests in Tuesday’s primary runoffs - NBC News
+• MAGA Inc. spends $827,000 to back Darline Graham on final day of South Carolina GOP Senate runoff - AP News
+• El-Sayed spars with Jesse Watters on Fox News on immigration, Iran war: ‘Let me just answer the question’ - The Hill
+• Firefighters make progress against a Nevada wildfire that’s destroyed more than 30 homes - AP News
+• Recap: Lindsay Clancy defense moves for mistrial as prosecution witness testifies - NBC Boston
 
 ----------------------------------------
 
 TRENDING TOPICS
+• The Headlines: Top stories of the day
+• Yahoo 100
+• Fox Chicago's top trending stories of 2025
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 • The Headlines: Top stories of the day
 
 ========================================
