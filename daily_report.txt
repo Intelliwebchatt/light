@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-08-25
+INTELLIGENCE SNAPSHOT // 2026-08-26
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,653
-DOW J: 53,417
-NASDAQ: 25,980
+S&P 500: 7,677
+DOW J: 53,577
+NASDAQ: 26,151
 VIX: 16
 
 ----------------------------------------
@@ -12,53 +12,50 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[14.5%] Clarity Act (H.R.3633) signed into law in 2026?
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[1.2%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[100.0%] LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In
-[65.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[81.5%] LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In
+[100.0%] LoL: KT Rolster vs HANJIN BRION - Game 4 Winner
+[0.1%] LoL: KT Rolster vs HANJIN BRION - Game 3 Winner
+[0.1%] Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A
+[10.5%] Strait of Hormuz traffic returns to normal by September 30?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 4 Winner
-[0.1%] Will John Thune win the 2028 Republican presidential nomination?
-[33.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[100.0%] LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 3 Winner
+[0.1%] Counter-Strike: Aurora Gaming vs G2 - Map 2 Winner
+[77.5%] Will Real Madrid CF win on 2026-08-26?
+[1.5%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[7.3%] US announces end of Iranian blockade by August 31, 2026?
+[67.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[6.8%] Will Donald Trump publicly insult someone on August 23, 2026?
-[8.6%] US announces end of Iranian blockade by August 31, 2026?
-[0.1%] LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner
-[7.5%] Will the Iranian regime fall before 2027?
-[0.2%] Strait of Hormuz traffic returns to normal by August 31?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[38.5%] Strait of Hormuz traffic returns to normal by December 31?
+[2.5%] Will Tucker Carlson win the 2028 Republican presidential nomination?
+[15.5%] Will the U.S. invade Iran before 2027?
+[29.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Hull City win the 2026-27 English Premier League (EPL) Championship?
-[9.5%] Will Bitcoin dip to $45,000 by December 31, 2026?
-[0.1%] Roehampton 2: Fabrizio Andaloro vs Emile Hudd
-[45.9%] Will Bitcoin reach $82,500 in August?
-[93.0%] US ceasefire against Iran continues through August 31?
+[100.0%] US ceasefire against Iran continues through August 25?
+[0.1%] Will Gentner Drummond win the 2026 Oklahoma Governor Republican primary election?
+[42.0%] US announces end of Iranian blockade by September 30, 2026?
+[0.3%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
+[14.5%] Clarity Act (H.R.3633) signed into law in 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• China warns US it could retaliate over Iran sanctions - Financial Times
-• How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War - The New York Times
-• What Trump’s Supreme Court win means for mail ballots - CNN
-• Trump’s endorsement faces major tests in Tuesday’s primary runoffs - NBC News
-• MAGA Inc. spends $827,000 to back Darline Graham on final day of South Carolina GOP Senate runoff - AP News
-• El-Sayed spars with Jesse Watters on Fox News on immigration, Iran war: ‘Let me just answer the question’ - The Hill
-• Firefighters make progress against a Nevada wildfire that’s destroyed more than 30 homes - AP News
-• Recap: Lindsay Clancy defense moves for mistrial as prosecution witness testifies - NBC Boston
+• Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian
+• Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff - The New York Times
+• Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News
+• Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC
+• Trump admin pauses visa appointments worldwide amid heightened screening for applicants - Fox News
+• Judge issues setback to Trump administration plans to restrict mail-in ballots - The Washington Post
+• Republican with same name as incumbent Dan Sullivan advances from Alaska US Senate primary - AP News
+• What happens to Lindsay Clancy after verdict in murder trial? Legal experts explain potential outcomes. - CBS News
 
 ----------------------------------------
 
 TRENDING TOPICS
-• The Headlines: Top stories of the day
-• Yahoo 100
 • Fox Chicago's top trending stories of 2025
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
-• The Headlines: Top stories of the day
+• The headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
