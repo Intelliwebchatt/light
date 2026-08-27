@@ -1,61 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2026-08-26
+INTELLIGENCE SNAPSHOT // 2026-08-27
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,677
-DOW J: 53,577
-NASDAQ: 26,151
-VIX: 16
+S&P 500: 7,731
+DOW J: 53,569
+NASDAQ: 26,541
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[81.5%] LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In
-[100.0%] LoL: KT Rolster vs HANJIN BRION - Game 4 Winner
-[0.1%] LoL: KT Rolster vs HANJIN BRION - Game 3 Winner
-[0.1%] Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A
-[10.5%] Strait of Hormuz traffic returns to normal by September 30?
+[100.0%] Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B
+[100.0%] Will FC Barcelona win on 2026-08-27?
+[47.5%] Los Angeles Dodgers vs. Atlanta Braves
+[12.5%] Will the U.S. invade Iran before 2027?
+[3.5%] Will Augusto Cury win the 2026 Brazilian presidential election?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Counter-Strike: Aurora Gaming vs G2 - Map 2 Winner
-[77.5%] Will Real Madrid CF win on 2026-08-26?
-[1.5%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[7.3%] US announces end of Iranian blockade by August 31, 2026?
-[67.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.1%] Will Trabzonspor win on 2026-08-27?
+[0.2%] Will Xavier Bertrand win the 2027 French presidential election?
+[1.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[99.5%] US Open, Qualification ATP: Toby Samuel vs Cristian Garin
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[38.5%] Strait of Hormuz traffic returns to normal by December 31?
-[2.5%] Will Tucker Carlson win the 2028 Republican presidential nomination?
-[15.5%] Will the U.S. invade Iran before 2027?
-[29.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[1.7%] Will Renan Santos win the 2026 Brazilian presidential election?
+[2.5%] US announces end of Iranian blockade by August 31, 2026?
+[0.1%] LoL: BIG vs G2 NORD (BO5) - Prime League 1st Division Playoffs
+[72.5%] US Open, Qualification ATP: Vilius Gaubas vs Harry Wendelken
+[100.0%] Spread: Brighton & Hove Albion FC (-2.5)
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] US ceasefire against Iran continues through August 25?
-[0.1%] Will Gentner Drummond win the 2026 Oklahoma Governor Republican primary election?
-[42.0%] US announces end of Iranian blockade by September 30, 2026?
+[0.1%] Will Luton Town FC win on 2026-08-27?
 [0.3%] Will Demeke Mekonnen be the next Prime Minister of Ethiopia?
-[14.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[0.1%] Will Pablo Marçal win the 2026 Brazilian presidential election?
+[70.5%] Winston-Salem Open: Juan Manuel Cerundolo vs Ignacio Buse
+[0.2%] Will Elon Musk post 140-159 tweets from August 21 to August 28, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Wiped out: US faces surging toilet paper prices amid trade war with Canada - The Guardian
-• Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff - The New York Times
-• Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News
-• Hundreds missing, including 291 foreign tourists, after flash flood on Nepal-Tibet border - BBC
-• Trump admin pauses visa appointments worldwide amid heightened screening for applicants - Fox News
-• Judge issues setback to Trump administration plans to restrict mail-in ballots - The Washington Post
-• Republican with same name as incumbent Dan Sullivan advances from Alaska US Senate primary - AP News
-• What happens to Lindsay Clancy after verdict in murder trial? Legal experts explain potential outcomes. - CBS News
+• Race to get aid into Nepal and Tibet amid warnings flood lake could burst - The Guardian
+• Trump signs order to rename Lake Ontario to Lake America - BBC
+• Controllers warned Trump copter pilots about radio failures 1 week before they came close to jet - AP News
+• A former Mike Collins staffer posted KKK and Nazi images. Some Republicans see a pattern. - The Washington Post
+• Opponents call Trump 'delusional' for threat to demolish Kennedy Center - USA Today
+• Democrats hand Trump one power they spent years fighting - Fox News
+• Lindsay Clancy trial in hands of jury after closing arguments conclude - BBC
+• Texas releases ICE agent charged in Minneapolis shooting - The Washington Post
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Fox Chicago's top trending stories of 2025
-• The headlines: Top stories of the day
+• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
