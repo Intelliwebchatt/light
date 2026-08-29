@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-08-28
+INTELLIGENCE SNAPSHOT // 2026-08-29
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,44 @@ VIX: 14
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Will Real Racing Club win on 2026-08-28?
-[48.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[50.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[0.7%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[76.5%] Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi
+[0.1%] LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs
+[0.1%] Will Pete Hegseth win the 2028 US Presidential Election?
+[75.5%] Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B
+[54.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.8%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[0.1%] Deportivo Alavés vs. Villarreal CF: O/U 5.5
-[100.0%] Will Deportivo Alavés win on 2026-08-28?
-[0.2%] Strait of Hormuz traffic returns to normal by August 31?
-[0.1%] Deportivo Alavés vs. Villarreal CF: O/U 1.5
+[43.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[0.5%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[0.1%] Strait of Hormuz traffic returns to normal by August 31?
+[0.1%] Will Coventry City FC win on 2026-08-29?
+[0.1%] Will AFC Bournemouth win on 2026-08-29?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Cincinnati Reds vs. Chicago Cubs
-[0.1%] Will Deportivo Alavés vs. Villarreal CF end in a draw?
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.1%] Will Villarreal CF win on 2026-08-28?
-[0.2%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[36.5%] Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B
+[39.5%] Will Real Betis Balompié win on 2026-08-29?
+[43.5%] Will Tottenham Hotspur FC win on 2026-08-29?
+[100.0%] LoL: Karmine Corp vs SK Gaming - Game 1 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[37.5%] Pittsburgh Pirates vs. St. Louis Cardinals: O/U 8.5
-[3.4%] Will Augusto Cury win the 2026 Brazilian presidential election?
-[0.1%] Spread: FC Groningen (-1.5)
-[100.0%] Will Fortuna Sittard win on 2026-08-28?
-[0.1%] Will "Grand Theft Auto VI Extended Look" get between 30 and 35 million views on day 1?
+[0.2%] Will Pete Hegseth win the 2028 Republican presidential nomination?
+[100.0%] Coventry City FC vs. Hull City AFC: O/U 0.5
+[100.0%] Will AFC Bournemouth vs. Everton FC end in a draw?
+[0.1%] Map Handicap: FUT (-1.5) vs Lynn Vision (+1.5)
+[0.1%] Coventry City FC vs. Hull City AFC: O/U 2.5
 
 ----------------------------------------
 
 TOP HEADLINES
-• Nepal-China flooding latest: Rescue efforts resume after newly formed lake threatens fresh deluge - CNN
-• Lindsay Clancy jury sent home for weekend; Deliberations resume Monday - WCVB
-• Trump pledges to allow cattle ranchers to process own food amid beef imports backlash - The Guardian
-• Right-wing commentator Milo Yiannopoulos detained by ICE - BBC
-• Trump promised a short Iran war. Six months later, he has few good options. - The Washington Post
-• US judge repeats block on Trump’s bid to limit voting by mail - Al Jazeera
-• President Donald Trump signs order creating US Space Academy - Al Jazeera
-• Woman is indicted over World War II Memorial vandalism incident - The Washington Post
+• Live updates: China-Nepal flood death toll passes 600 - CNN
+• Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil - BBC
+• Untested in court, Trump’s new tariffs on Canada raise legal questions - AP News
+• Ukraine launches investigation after Russian strike on depot near homes triggers explosions, kills at least 37 - CBS News
+• Live Updates: Iran vows to resist U.S. sanctions as war passes 6-month mark - CBS News
+• After 6 months of war, Iran's battered regime remains entrenched - NPR
+• Judge throws out confession by alleged 9/11 mastermind Khalid Sheikh Mohammed - CBS News
+• Waiting for Jon Voight, Hollywood’s would-be savior - Politico
 
 ----------------------------------------
 
