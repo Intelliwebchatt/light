@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-08-29
+INTELLIGENCE SNAPSHOT // 2026-08-30
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,44 @@ VIX: 14
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs
-[0.1%] Will Pete Hegseth win the 2028 US Presidential Election?
-[75.5%] Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B
-[54.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[0.8%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[100.0%] Will Chelsea FC win on 2026-08-30?
+[100.0%] Will Sunderland AFC win on 2026-08-30?
+[99.8%] Will Real Madrid CF win on 2026-08-30?
+[82.5%] Will Stade Rennais FC 1901 win on 2026-08-30?
+[0.1%] Will Málaga CF win on 2026-08-30?
 
 --- US POLITICS (Top 5 Active) ---
-[43.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[0.5%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[0.1%] Strait of Hormuz traffic returns to normal by August 31?
-[0.1%] Will Coventry City FC win on 2026-08-29?
-[0.1%] Will AFC Bournemouth win on 2026-08-29?
+[51.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.8%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[16.5%] Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B
+[0.1%] Will Bitcoin reach $100,000 in August?
+[100.0%] Will Leeds United FC vs. Brentford FC end in a draw?
 
 --- TECH & AI (Top 5 Active) ---
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[36.5%] Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B
-[39.5%] Will Real Betis Balompié win on 2026-08-29?
-[43.5%] Will Tottenham Hotspur FC win on 2026-08-29?
-[100.0%] LoL: Karmine Corp vs SK Gaming - Game 1 Winner
+[0.1%] Counter-Strike: Inner Circle Esports vs FUT Esports - Map 1 Winner
+[0.9%] Will Ted Cruz win the 2028 Republican presidential nomination?
+[73.5%] Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B
+[1.4%] Will Augusto Cury win the 2026 Brazilian presidential election?
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Will Pete Hegseth win the 2028 Republican presidential nomination?
-[100.0%] Coventry City FC vs. Hull City AFC: O/U 0.5
-[100.0%] Will AFC Bournemouth vs. Everton FC end in a draw?
-[0.1%] Map Handicap: FUT (-1.5) vs Lynn Vision (+1.5)
-[0.1%] Coventry City FC vs. Hull City AFC: O/U 2.5
+[81.5%] Will AFC Ajax win on 2026-08-30?
+[100.0%] LoL: Movistar KOI vs Team Heretics - Game 2 Winner
+[100.0%] LoL: Movistar KOI vs Team Heretics - Game 1 Winner
+[46.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[100.0%] Will PSV win on 2026-08-30?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live updates: China-Nepal flood death toll passes 600 - CNN
-• Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil - BBC
-• Untested in court, Trump’s new tariffs on Canada raise legal questions - AP News
-• Ukraine launches investigation after Russian strike on depot near homes triggers explosions, kills at least 37 - CBS News
-• Live Updates: Iran vows to resist U.S. sanctions as war passes 6-month mark - CBS News
-• After 6 months of war, Iran's battered regime remains entrenched - NPR
-• Judge throws out confession by alleged 9/11 mastermind Khalid Sheikh Mohammed - CBS News
-• Waiting for Jon Voight, Hollywood’s would-be savior - Politico
+• Live updates: Rescuers search for missing workers as death toll rises from devastating China-Nepal floods - CNN
+• Iceland rejects EU accession talks in referendum - Al Jazeera
+• Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order - The New York Times
+• Controversial Venezuelan executive courts investors after Trump oil deal - Financial Times
+• Freedom Fuel owner didn't pay for nearly $4 million in gas, lawsuit claims - NBC10 Philadelphia
+• At least 1 killed and 5 injured in shooting at a rave in Switzerland - CBS News
+• ICE deports Afghans and others to Africa, expanding "third country" deportations - CBS News
+• Water cuts are coming for Arizona. Is your salad on the chopping block? - NBC News
 
 ----------------------------------------
 
