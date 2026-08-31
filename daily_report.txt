@@ -1,60 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2026-08-30
+INTELLIGENCE SNAPSHOT // 2026-08-31
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,712
-DOW J: 53,560
-NASDAQ: 26,402
-VIX: 14
+S&P 500: 7,681
+DOW J: 53,243
+NASDAQ: 26,301
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Will Chelsea FC win on 2026-08-30?
-[100.0%] Will Sunderland AFC win on 2026-08-30?
-[99.8%] Will Real Madrid CF win on 2026-08-30?
-[82.5%] Will Stade Rennais FC 1901 win on 2026-08-30?
-[0.1%] Will Málaga CF win on 2026-08-30?
+[64.5%] Will Arsenal FC win on 2026-08-31?
+[69.5%] Will CA Osasuna win on 2026-08-31?
+[0.5%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[42.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[40.5%] US Open ATP: Otto Virtanen vs Andrey Rublev
 
 --- US POLITICS (Top 5 Active) ---
-[51.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[0.8%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[16.5%] Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B
-[0.1%] Will Bitcoin reach $100,000 in August?
-[100.0%] Will Leeds United FC vs. Brentford FC end in a draw?
+[100.0%] Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B
+[56.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[100.0%] US Open ATP: Stefanos Tsitsipas vs Arthur Fils
+[15.5%] Will the U.S. invade Iran before 2027?
+[0.1%] Will Crystal Palace win the 2026-27 English Premier League (EPL) Championship?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.1%] Counter-Strike: Inner Circle Esports vs FUT Esports - Map 1 Winner
-[0.9%] Will Ted Cruz win the 2028 Republican presidential nomination?
-[73.5%] Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B
-[1.4%] Will Augusto Cury win the 2026 Brazilian presidential election?
+[31.5%] Counter-Strike: FUT Esports vs Vitality (BO3) - BLAST Open Porto Group B
+[47.5%] US Open ATP: Martin Landaluce vs Jacob Fearnley
+[11.5%] US Open ATP: Roman Safiullin vs Carlos Alcaraz
+[89.5%] Will FC Barcelona win on 2026-08-31?
+[100.0%] Will AS Roma win on 2026-08-31?
 
 --- SCIENCE (Top 5 Active) ---
-[81.5%] Will AFC Ajax win on 2026-08-30?
-[100.0%] LoL: Movistar KOI vs Team Heretics - Game 2 Winner
-[100.0%] LoL: Movistar KOI vs Team Heretics - Game 1 Winner
-[46.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[100.0%] Will PSV win on 2026-08-30?
+[0.5%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[13.5%] US Open ATP: Aleksandar Vukic vs Rei Sakamoto
+[38.5%] Spread: Arsenal FC (-1.5)
+[2.4%] Will Augusto Cury win the 2026 Brazilian presidential election?
+[68.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Live updates: Rescuers search for missing workers as death toll rises from devastating China-Nepal floods - CNN
-• Iceland rejects EU accession talks in referendum - Al Jazeera
-• Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order - The New York Times
-• Controversial Venezuelan executive courts investors after Trump oil deal - Financial Times
-• Freedom Fuel owner didn't pay for nearly $4 million in gas, lawsuit claims - NBC10 Philadelphia
-• At least 1 killed and 5 injured in shooting at a rave in Switzerland - CBS News
-• ICE deports Afghans and others to Africa, expanding "third country" deportations - CBS News
-• Water cuts are coming for Arizona. Is your salad on the chopping block? - NBC News
+• Retaliation on Kharg Island weighed as US-Iran hostilies reignite - Fox News
+• Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China - AP News
+• Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps - BBC
+• Experts, lawyers puzzled over US-Venezuela oil deal, call for contract transparency - Reuters
+• Lindsay Clancy's attorney says coverage made weekend 'horrific' - WCVB
+• Trump: Communities that reject data centers will end up ‘backwards and poor’ - Politico
+• More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing - AP News
+• Kalshi permanently bans former GOP Rep. George Santos over illegal trading - CNBC
 
 ----------------------------------------
 
 TRENDING TOPICS
-• The Headlines: Top stories of the day
+• Trending stories for July 7, 2026
 
 ========================================
 END TRANSMISSION
