@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-08-31
+INTELLIGENCE SNAPSHOT // 2026-09-01
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,681
-DOW J: 53,243
-NASDAQ: 26,301
+S&P 500: 7,662
+DOW J: 52,982
+NASDAQ: 26,239
 VIX: 15
 
 ----------------------------------------
@@ -12,49 +12,49 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[64.5%] Will Arsenal FC win on 2026-08-31?
-[69.5%] Will CA Osasuna win on 2026-08-31?
+[39.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[58.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
 [0.5%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[42.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[40.5%] US Open ATP: Otto Virtanen vs Andrey Rublev
-
---- US POLITICS (Top 5 Active) ---
-[100.0%] Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B
-[56.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[100.0%] US Open ATP: Stefanos Tsitsipas vs Arthur Fils
-[15.5%] Will the U.S. invade Iran before 2027?
 [0.1%] Will Crystal Palace win the 2026-27 English Premier League (EPL) Championship?
 
+--- US POLITICS (Top 5 Active) ---
+[0.7%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[33.5%] US Open ATP: Dane Sweeny vs Corentin Moutet
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[100.0%] Dota 2: Inner Circle vs Team Lynx - Game 2 Winner
+[26.0%] US Open ATP: Francisco Comesana vs Flavio Cobolli
+
 --- TECH & AI (Top 5 Active) ---
-[31.5%] Counter-Strike: FUT Esports vs Vitality (BO3) - BLAST Open Porto Group B
-[47.5%] US Open ATP: Martin Landaluce vs Jacob Fearnley
-[11.5%] US Open ATP: Roman Safiullin vs Carlos Alcaraz
-[89.5%] Will FC Barcelona win on 2026-08-31?
-[100.0%] Will AS Roma win on 2026-08-31?
+[0.1%] Will Coventry City win the 2026-27 English Premier League (EPL) Championship?
+[0.1%] Will Nottingham Forest win the 2026-27 English Premier League (EPL) Championship?
+[45.5%] Seattle Mariners vs. Boston Red Sox: O/U 7.5
+[0.1%] Will Sunderland win the 2026-27 English Premier League (EPL) Championship?
+[0.1%] Will Ipswich Town win the 2026-27 English Premier League (EPL) Championship?
 
 --- SCIENCE (Top 5 Active) ---
-[0.5%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[13.5%] US Open ATP: Aleksandar Vukic vs Rei Sakamoto
-[38.5%] Spread: Arsenal FC (-1.5)
-[2.4%] Will Augusto Cury win the 2026 Brazilian presidential election?
-[68.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
+[2.1%] Will Renan Santos win the 2026 Brazilian presidential election?
+[100.0%] Will the price of Bitcoin be above $74,000 on September 1?
+[100.0%] Will the price of Bitcoin be above $76,000 on September 1?
+[63.5%] Counter-Strike: HOTU vs Color (BO3) - Moscow Cyber Games European Qualifier Playoffs
+[35.5%] Seattle Mariners vs. Boston Red Sox: O/U 8.5
 
 ----------------------------------------
 
 TOP HEADLINES
-• Retaliation on Kharg Island weighed as US-Iran hostilies reignite - Fox News
-• Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China - AP News
-• Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps - BBC
-• Experts, lawyers puzzled over US-Venezuela oil deal, call for contract transparency - Reuters
-• Lindsay Clancy's attorney says coverage made weekend 'horrific' - WCVB
-• Trump: Communities that reject data centers will end up ‘backwards and poor’ - Politico
-• More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing - AP News
-• Kalshi permanently bans former GOP Rep. George Santos over illegal trading - CNBC
+• Jury in Lindsay Clancy trial is deadlocked, judge sends them back for more deliberations - NBC News
+• Whistleblower warns Postal Service's new mail ballot system has "potentially catastrophic problems" - CBS News
+• Mass burials in Nepal as death toll from flash floods exceeds 1,000 - AP News
+• How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump - The New York Times
+• Grand Canyon flash flood kills 2, with others missing. What to know - azcentral.com and The Arizona Republic
+• Iran urges US to comply with interim deal after Trump threatens further strikes - Reuters
+• MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order - The Guardian
+• "Long overdue" Trucking Association of New York weighs in on federal CDL crackdown - WRGB
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Trending stories for July 7, 2026
+• Fox Chicago's top trending stories of 2025
 
 ========================================
 END TRANSMISSION
