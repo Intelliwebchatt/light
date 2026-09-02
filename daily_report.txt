@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-09-01
+INTELLIGENCE SNAPSHOT // 2026-09-02
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,662
-DOW J: 52,982
-NASDAQ: 26,239
+S&P 500: 7,675
+DOW J: 53,048
+NASDAQ: 26,221
 VIX: 15
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[39.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[58.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[0.5%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[0.1%] Will Crystal Palace win the 2026-27 English Premier League (EPL) Championship?
+[38.5%] US Open ATP: Daniel Merida Aguilar vs Andrey Rublev
+[42.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.1%] Will John Fetterman win the 2028 Democratic presidential nomination?
+[56.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[0.1%] Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs
 
 --- US POLITICS (Top 5 Active) ---
+[15.5%] Will the U.S. invade Iran before 2027?
+[0.1%] Will Tulsi Gabbard win the 2028 US Presidential Election?
+[0.5%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
 [0.7%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[33.5%] US Open ATP: Dane Sweeny vs Corentin Moutet
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[100.0%] Dota 2: Inner Circle vs Team Lynx - Game 2 Winner
-[26.0%] US Open ATP: Francisco Comesana vs Flavio Cobolli
+[9.5%] US Open WTA: Daria Kasatkina vs Paula Badosa
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Coventry City win the 2026-27 English Premier League (EPL) Championship?
-[0.1%] Will Nottingham Forest win the 2026-27 English Premier League (EPL) Championship?
-[45.5%] Seattle Mariners vs. Boston Red Sox: O/U 7.5
-[0.1%] Will Sunderland win the 2026-27 English Premier League (EPL) Championship?
-[0.1%] Will Ipswich Town win the 2026-27 English Premier League (EPL) Championship?
+[0.1%] Counter-Strike: Color vs B8 (BO3) - IEM Beijing: Global Qualifier Playoffs
+[0.1%] Plovdiv 3: Pol Martin Tiffon vs Oleksandr Ovcharenko
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[57.5%] Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs
 
 --- SCIENCE (Top 5 Active) ---
-[2.1%] Will Renan Santos win the 2026 Brazilian presidential election?
-[100.0%] Will the price of Bitcoin be above $74,000 on September 1?
-[100.0%] Will the price of Bitcoin be above $76,000 on September 1?
-[63.5%] Counter-Strike: HOTU vs Color (BO3) - Moscow Cyber Games European Qualifier Playoffs
-[35.5%] Seattle Mariners vs. Boston Red Sox: O/U 8.5
+[0.1%] US Sassuolo Calcio vs. Frosinone Calcio: O/U 2.5
+[0.1%] Will George Clooney win the 2028 Democratic presidential nomination?
+[0.1%] Will Tropical Storm Saudel make landfall in Japan?
+[63.5%] US Open ATP: Brandon Nakashima vs Alex Michelsen
+[32.0%] US Open ATP: Jesper de Jong vs Francesco Passaro
 
 ----------------------------------------
 
 TOP HEADLINES
-• Jury in Lindsay Clancy trial is deadlocked, judge sends them back for more deliberations - NBC News
-• Whistleblower warns Postal Service's new mail ballot system has "potentially catastrophic problems" - CBS News
-• Mass burials in Nepal as death toll from flash floods exceeds 1,000 - AP News
-• How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump - The New York Times
-• Grand Canyon flash flood kills 2, with others missing. What to know - azcentral.com and The Arizona Republic
-• Iran urges US to comply with interim deal after Trump threatens further strikes - Reuters
-• MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order - The Guardian
-• "Long overdue" Trucking Association of New York weighs in on federal CDL crackdown - WRGB
+• U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break - The New York Times
+• U.S. strikes Iran tankers under new "tanker for tanker" policy - Axios
+• Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate - CBS News
+• Using legal loopholes and executive power, Trump is remaking Washington - The Washington Post
+• Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth - Financial Times
+• Chevron will expand Venezuela operations, more than doubling production through $7 billion investment - CNBC
+• Tiger Woods to change not guilty plea in DUI case, court records show - The New York Times
+• Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying - BBC
 
 ----------------------------------------
 
