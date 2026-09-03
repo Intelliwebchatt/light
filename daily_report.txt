@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-09-02
+INTELLIGENCE SNAPSHOT // 2026-09-03
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,675
-DOW J: 53,048
-NASDAQ: 26,221
+S&P 500: 7,746
+DOW J: 53,732
+NASDAQ: 26,578
 VIX: 15
 
 ----------------------------------------
@@ -12,49 +12,48 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[38.5%] US Open ATP: Daniel Merida Aguilar vs Andrey Rublev
-[42.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[0.1%] Will John Fetterman win the 2028 Democratic presidential nomination?
-[56.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[0.1%] Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs
+[57.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.1%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
+[0.1%] Will Elon Musk win the 2028 Republican presidential nomination?
+[41.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[0.1%] Will Nikki Haley win the 2028 US Presidential Election?
 
 --- US POLITICS (Top 5 Active) ---
-[15.5%] Will the U.S. invade Iran before 2027?
-[0.1%] Will Tulsi Gabbard win the 2028 US Presidential Election?
-[0.5%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[0.7%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[9.5%] US Open WTA: Daria Kasatkina vs Paula Badosa
-
---- TECH & AI (Top 5 Active) ---
-[0.1%] Counter-Strike: Color vs B8 (BO3) - IEM Beijing: Global Qualifier Playoffs
-[0.1%] Plovdiv 3: Pol Martin Tiffon vs Oleksandr Ovcharenko
+[0.5%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[0.1%] Will Elon Musk win the 2028 US Presidential Election?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
 [0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[57.5%] Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs
+
+--- TECH & AI (Top 5 Active) ---
+[97.5%] Will the price of Bitcoin be above $80,000 on September 3?
+[69.5%] US Open ATP: Luciano Darderi vs Dalibor Svrcina
+[16.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[0.2%] Will Michelle Obama win the 2028 US Presidential Election?
+[42.5%] Como: Jay Clarke vs Pedro Martinez
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] US Sassuolo Calcio vs. Frosinone Calcio: O/U 2.5
-[0.1%] Will George Clooney win the 2028 Democratic presidential nomination?
-[0.1%] Will Tropical Storm Saudel make landfall in Japan?
-[63.5%] US Open ATP: Brandon Nakashima vs Alex Michelsen
-[32.0%] US Open ATP: Jesper de Jong vs Francesco Passaro
+[44.5%] US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo
+[0.5%] Strait of Hormuz traffic returns to normal by September 15?
+[100.0%] Will the price of Bitcoin be above $76,000 on September 3?
+[17.3%] Manacor: Maks Kasnikowski vs Alejo Sanchez Quilez
+[14.5%] Will the U.S. invade Iran before 2027?
 
 ----------------------------------------
 
 TOP HEADLINES
-• U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break - The New York Times
-• U.S. strikes Iran tankers under new "tanker for tanker" policy - Axios
-• Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate - CBS News
-• Using legal loopholes and executive power, Trump is remaking Washington - The Washington Post
-• Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth - Financial Times
-• Chevron will expand Venezuela operations, more than doubling production through $7 billion investment - CNBC
-• Tiger Woods to change not guilty plea in DUI case, court records show - The New York Times
-• Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying - BBC
+• Gloria Steinem’s Glamour Was a Means to an End - The New York Times
+• Lindsay Clancy Trial Live Updates: Deadlocked Jury Tries Again to Reach a Verdict - The New York Times
+• USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC
+• Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - cnbc.com
+• Inside the failed mission to eliminate FEMA - NPR
+• Federal judge blocks Trump’s latest order limiting birthright citizenship - nbcnews.com
+• Live updates: Trump promises to campaign for Republicans despite sagging popularity - AP News
+• Trump administration aims to strip schools’ tax exemption if they consider race - The Washington Post
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Fox Chicago's top trending stories of 2025
 
 ========================================
 END TRANSMISSION
