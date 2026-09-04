@@ -1,59 +1,60 @@
-INTELLIGENCE SNAPSHOT // 2026-09-03
+INTELLIGENCE SNAPSHOT // 2026-09-04
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,746
-DOW J: 53,732
-NASDAQ: 26,578
-VIX: 15
+S&P 500: 7,710
+DOW J: 53,318
+NASDAQ: 26,468
+VIX: 14
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[57.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[0.1%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
-[0.1%] Will Elon Musk win the 2028 Republican presidential nomination?
-[41.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[0.1%] Will Nikki Haley win the 2028 US Presidential Election?
-
---- US POLITICS (Top 5 Active) ---
-[0.5%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[0.1%] Will Elon Musk win the 2028 US Presidential Election?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.7%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[13.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[47.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[90.5%] Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs
 [0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
 
+--- US POLITICS (Top 5 Active) ---
+[0.1%] Will John Thune win the 2028 Republican presidential nomination?
+[51.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[39.5%] US Open ATP: Alexander Bublik vs Tommy Paul
+[7.5%] US Open ATP: Yibing Wu vs Carlos Alcaraz
+[0.1%] Will Stephen A. Smith win the 2028 Democratic presidential nomination?
+
 --- TECH & AI (Top 5 Active) ---
-[97.5%] Will the price of Bitcoin be above $80,000 on September 3?
-[69.5%] US Open ATP: Luciano Darderi vs Dalibor Svrcina
-[16.5%] Clarity Act (H.R.3633) signed into law in 2026?
-[0.2%] Will Michelle Obama win the 2028 US Presidential Election?
-[42.5%] Como: Jay Clarke vs Pedro Martinez
+[0.8%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[67.5%] Will Real Madrid CF win on 2026-09-04?
+[85.5%] Counter-Strike: Team Falcons vs G2 - Map 2 Winner
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[44.5%] Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs
 
 --- SCIENCE (Top 5 Active) ---
-[44.5%] US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo
-[0.5%] Strait of Hormuz traffic returns to normal by September 15?
-[100.0%] Will the price of Bitcoin be above $76,000 on September 3?
-[17.3%] Manacor: Maks Kasnikowski vs Alejo Sanchez Quilez
-[14.5%] Will the U.S. invade Iran before 2027?
+[66.5%] Will VfB Stuttgart win on 2026-09-04?
+[13.5%] Will the U.S. invade Iran before 2027?
+[5.4%] Will the price of Bitcoin be above $80,000 on September 4?
+[84.0%] Map Handicap: FAL (-1.5) vs G2 (+1.5)
+[35.5%] Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs
 
 ----------------------------------------
 
 TOP HEADLINES
-• Gloria Steinem’s Glamour Was a Means to an End - The New York Times
-• Lindsay Clancy Trial Live Updates: Deadlocked Jury Tries Again to Reach a Verdict - The New York Times
-• USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC
-• Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - cnbc.com
-• Inside the failed mission to eliminate FEMA - NPR
-• Federal judge blocks Trump’s latest order limiting birthright citizenship - nbcnews.com
-• Live updates: Trump promises to campaign for Republicans despite sagging popularity - AP News
-• Trump administration aims to strip schools’ tax exemption if they consider race - The Washington Post
+• Lindsay Clancy Trial Live Updates: Judge Declines to Remove Holdout Juror - The New York Times
+• Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN
+• Trump again appeals to Supreme Court on mail voting restrictions as midterms loom - PBS
+• Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect - BBC
+• ‘Unimaginable grief’: Iranian town left devastated after US strike on wedding - The Guardian
+• Vance says Trump, US military have prevented ‘energy crisis’ during Iran war - Fox News
+• ICE officer charged with lying about shooting turns himself in: Reports - The Hill
+• First midterm ballots set to go in the mail amid uncertainty over Trump’s executive order - nbcnews.com
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Fox Chicago's top trending stories of 2025
 
 ========================================
 END TRANSMISSION
