@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-09-04
+INTELLIGENCE SNAPSHOT // 2026-09-05
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,710
-DOW J: 53,318
-NASDAQ: 26,468
-VIX: 14
+S&P 500: 7,719
+DOW J: 53,414
+NASDAQ: 26,507
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.7%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[13.5%] Clarity Act (H.R.3633) signed into law in 2026?
-[47.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[90.5%] Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs
+[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
 [0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[78.5%] Will Manchester City FC win on 2026-09-05?
+[55.0%] Spread: Manchester City FC (-1.5)
+[100.0%] LoL: Ninjas in Pyjamas vs JD Gaming - Game 3 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will John Thune win the 2028 Republican presidential nomination?
-[51.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[39.5%] US Open ATP: Alexander Bublik vs Tommy Paul
-[7.5%] US Open ATP: Yibing Wu vs Carlos Alcaraz
-[0.1%] Will Stephen A. Smith win the 2028 Democratic presidential nomination?
+[100.0%] LoL: Ninjas in Pyjamas vs JD Gaming - Game 1 Winner
+[100.0%] LoL: Ninjas in Pyjamas vs JD Gaming - Game 2 Winner
+[73.5%] Will ACF Fiorentina win on 2026-09-05?
+[14.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[100.0%] LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs
 
 --- TECH & AI (Top 5 Active) ---
-[0.8%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[67.5%] Will Real Madrid CF win on 2026-09-04?
-[85.5%] Counter-Strike: Team Falcons vs G2 - Map 2 Winner
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[44.5%] Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs
+[96.7%] Will Bayer 04 Leverkusen win on 2026-09-05?
+[39.0%] Will Brighton & Hove Albion FC win on 2026-09-05?
+[72.5%] Israel closes its airspace by September 30?
+[77.5%] Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs
+[50.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[66.5%] Will VfB Stuttgart win on 2026-09-04?
-[13.5%] Will the U.S. invade Iran before 2027?
-[5.4%] Will the price of Bitcoin be above $80,000 on September 4?
-[84.0%] Map Handicap: FAL (-1.5) vs G2 (+1.5)
-[35.5%] Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs
+[6.5%] Will Coventry City FC win on 2026-09-05?
+[31.5%] Spread: Manchester City FC (-2.5)
+[35.0%] Manchester City FC vs. Coventry City FC: O/U 3.5
+[92.0%] Plovdiv 3: Yanaki Milev vs Valerio Aboian
+[42.5%] Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5
 
 ----------------------------------------
 
 TOP HEADLINES
-• Lindsay Clancy Trial Live Updates: Judge Declines to Remove Holdout Juror - The New York Times
-• Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN
-• Trump again appeals to Supreme Court on mail voting restrictions as midterms loom - PBS
-• Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect - BBC
-• ‘Unimaginable grief’: Iranian town left devastated after US strike on wedding - The Guardian
-• Vance says Trump, US military have prevented ‘energy crisis’ during Iran war - Fox News
-• ICE officer charged with lying about shooting turns himself in: Reports - The Hill
-• First midterm ballots set to go in the mail amid uncertainty over Trump’s executive order - nbcnews.com
+• Lindsay Clancy murder case ends in mistrial after her attorney's last-ditch attempt to avoid jury deadlock - CBS News
+• Trump envoys arrive in Moscow ahead of Ukraine talks, reports say - BBC
+• ‘Small potatoes’: US President Trump downplays war on Iran - Al Jazeera
+• Voters are fed up with data centers. Both parties are trying to cash in for midterms - NPR
+• Explanation of Vote Before the Vote for UNGA 80 Adoption on the Resolution to “Correct the Map” - United States Mission to the United Nations (.gov)
+• In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members - The New York Times
+• In Red States, Law-and-Order Republicans Turn Against Flock Cameras - The New York Times
+• Ex-Fetterman staffers promise more damaging details after blistering report: ‘Tip of the iceberg’ - Fox News
 
 ----------------------------------------
 
