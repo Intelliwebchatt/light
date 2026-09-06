@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-09-05
+INTELLIGENCE SNAPSHOT // 2026-09-06
 ========================================
 
 MARKET CLOSE
@@ -12,49 +12,49 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[78.5%] Will Manchester City FC win on 2026-09-05?
-[55.0%] Spread: Manchester City FC (-1.5)
-[100.0%] LoL: Ninjas in Pyjamas vs JD Gaming - Game 3 Winner
+[79.5%] Will Manchester United FC win on 2026-09-06?
+[0.1%] LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs
+[68.0%] Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs
+[91.5%] Will FC Barcelona win on 2026-09-06?
+[0.1%] LoL: Ninjas in Pyjamas vs LGD Gaming - Game 3 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] LoL: Ninjas in Pyjamas vs JD Gaming - Game 1 Winner
-[100.0%] LoL: Ninjas in Pyjamas vs JD Gaming - Game 2 Winner
-[73.5%] Will ACF Fiorentina win on 2026-09-05?
-[14.5%] Clarity Act (H.R.3633) signed into law in 2026?
-[100.0%] LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs
+[100.0%] LoL: Ninjas in Pyjamas vs LGD Gaming - Game 4 Winner
+[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[99.6%] Istanbul 3: Samir Hamza Reguig vs Maxim Zhukov
+[19.5%] US Open ATP: Tommy Paul vs Carlos Alcaraz
+[2.5%] Will Everton FC win on 2026-09-06?
 
 --- TECH & AI (Top 5 Active) ---
-[96.7%] Will Bayer 04 Leverkusen win on 2026-09-05?
-[39.0%] Will Brighton & Hove Albion FC win on 2026-09-05?
-[72.5%] Israel closes its airspace by September 30?
-[77.5%] Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs
-[50.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[54.5%] Arsenal FC vs. Chelsea FC: O/U 2.5
+[67.5%] Counter-Strike: Spirit vs MOUZ - Map 1 Winner
+[51.5%] LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[18.5%] Will Chelsea FC win on 2026-09-06?
 
 --- SCIENCE (Top 5 Active) ---
-[6.5%] Will Coventry City FC win on 2026-09-05?
-[31.5%] Spread: Manchester City FC (-2.5)
-[35.0%] Manchester City FC vs. Coventry City FC: O/U 3.5
-[92.0%] Plovdiv 3: Yanaki Milev vs Valerio Aboian
-[42.5%] Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5
+[53.0%] Map Handicap: TS (-1.5) vs MOUZ (+1.5)
+[11.5%] Everton FC vs. Manchester United FC: O/U 2.5
+[56.5%] Will Arsenal FC win on 2026-09-06?
+[55.5%] Boston Red Sox vs. Baltimore Orioles
+[49.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Lindsay Clancy murder case ends in mistrial after her attorney's last-ditch attempt to avoid jury deadlock - CBS News
-• Trump envoys arrive in Moscow ahead of Ukraine talks, reports say - BBC
-• ‘Small potatoes’: US President Trump downplays war on Iran - Al Jazeera
-• Voters are fed up with data centers. Both parties are trying to cash in for midterms - NPR
-• Explanation of Vote Before the Vote for UNGA 80 Adoption on the Resolution to “Correct the Map” - United States Mission to the United Nations (.gov)
-• In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members - The New York Times
-• In Red States, Law-and-Order Republicans Turn Against Flock Cameras - The New York Times
-• Ex-Fetterman staffers promise more damaging details after blistering report: ‘Tip of the iceberg’ - Fox News
+• US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin - The Guardian
+• US, Iran engaged in tanker war: Where is the months-long conflict headed? - Al Jazeera
+• Trump’s War on Mail-In Ballots Has Voters Baffled. That May Be the Point. - The New York Times
+• Inside the Battle to Save One Pioneering General From Hegseth’s Purge - The New York Times
+• Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know - The New York Times
+• Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts - apnews.com
+• Lindsay Clancy’s fate unresolved as mistrial leaves her case in the court of public opinion – for now - CNN
+• Hurricane Lowell nears Hawaii. Latest forecast, storm impacts - USA Today
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Fox Chicago's top trending stories of 2025
+• The headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
