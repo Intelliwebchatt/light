@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-09-06
+INTELLIGENCE SNAPSHOT // 2026-09-07
 ========================================
 
 MARKET CLOSE
@@ -12,49 +12,49 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[79.5%] Will Manchester United FC win on 2026-09-06?
-[0.1%] LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs
-[68.0%] Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs
-[91.5%] Will FC Barcelona win on 2026-09-06?
-[0.1%] LoL: Ninjas in Pyjamas vs LGD Gaming - Game 3 Winner
+[43.5%] US Open WTA: Iga Swiatek vs Qinwen Zheng
+[70.5%] US Open WTA: Mirra Andreeva vs Anastasia Potapova
+[40.5%] Will Cagliari Calcio win on 2026-09-07?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[63.5%] LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] LoL: Ninjas in Pyjamas vs LGD Gaming - Game 4 Winner
-[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[99.6%] Istanbul 3: Samir Hamza Reguig vs Maxim Zhukov
-[19.5%] US Open ATP: Tommy Paul vs Carlos Alcaraz
-[2.5%] Will Everton FC win on 2026-09-06?
+[48.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[50.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[33.5%] Will Getafe CF win on 2026-09-07?
+[0.1%] Genoa: Marco Cecchinato vs Laslo Djere
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[54.5%] Arsenal FC vs. Chelsea FC: O/U 2.5
-[67.5%] Counter-Strike: Spirit vs MOUZ - Map 1 Winner
-[51.5%] LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[18.5%] Will Chelsea FC win on 2026-09-06?
+[53.5%] Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs
+[46.5%] Cleveland Guardians vs. Baltimore Orioles: O/U 7.5
+[40.5%] US Open ATP: Arthur Gea vs Botic van de Zandschulp
+[37.5%] Atlanta Braves vs. Philadelphia Phillies
 
 --- SCIENCE (Top 5 Active) ---
-[53.0%] Map Handicap: TS (-1.5) vs MOUZ (+1.5)
-[11.5%] Everton FC vs. Manchester United FC: O/U 2.5
-[56.5%] Will Arsenal FC win on 2026-09-06?
-[55.5%] Boston Red Sox vs. Baltimore Orioles
-[49.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[36.5%] US Open ATP: Karen Khachanov vs Learner Tien
+[49.5%] Los Angeles Angels vs. Boston Red Sox: O/U 8.5
+[34.5%] Will Udinese Calcio win on 2026-09-07?
+[75.0%] Israel closes its airspace by September 30?
+[37.5%] Cincinnati Reds vs. Los Angeles Dodgers
 
 ----------------------------------------
 
 TOP HEADLINES
-• US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin - The Guardian
-• US, Iran engaged in tanker war: Where is the months-long conflict headed? - Al Jazeera
-• Trump’s War on Mail-In Ballots Has Voters Baffled. That May Be the Point. - The New York Times
-• Inside the Battle to Save One Pioneering General From Hegseth’s Purge - The New York Times
-• Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know - The New York Times
-• Indonesia cancels flights at Jakarta airport and others as Anak Krakatau volcano erupts - apnews.com
-• Lindsay Clancy’s fate unresolved as mistrial leaves her case in the court of public opinion – for now - CNN
-• Hurricane Lowell nears Hawaii. Latest forecast, storm impacts - USA Today
+• Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC
+• Trump suggests renaming New Mexico amid torrent of online memes and taunts - The Washington Post
+• Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News
+• Armed man arrested after lunging at Ohio governor candidate Amy Acton - The Columbus Dispatch
+• War criminal Mladic is buried as a hero in Serbia despite EU warnings - AP News
+• Powerful Category 3 Hurricane Lowell barrels toward Hawaii, prompting Hurricane Warning for Kauaʻi - FOX Weather
+• Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News
+• With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• The headlines: Top stories of the day
+• Fox Chicago's top trending stories of 2025
 
 ========================================
 END TRANSMISSION
