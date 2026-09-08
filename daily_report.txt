@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-09-07
+INTELLIGENCE SNAPSHOT // 2026-09-08
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,719
-DOW J: 53,414
-NASDAQ: 26,507
+S&P 500: 7,695
+DOW J: 52,869
+NASDAQ: 26,504
 VIX: 15
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[43.5%] US Open WTA: Iga Swiatek vs Qinwen Zheng
-[70.5%] US Open WTA: Mirra Andreeva vs Anastasia Potapova
-[40.5%] Will Cagliari Calcio win on 2026-09-07?
+[56.6%] Genoa: Thiago Seyboth Wild vs Francesco Ferrari
+[0.1%] Counter-Strike: GamerLegion vs FURIA (BO3) - FISSURE PLAYGROUND Group B
 [0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[63.5%] LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs
+[65.5%] Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A
+[95.9%] Israel closes its airspace by September 30?
 
 --- US POLITICS (Top 5 Active) ---
-[48.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[50.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[33.5%] Will Getafe CF win on 2026-09-07?
-[0.1%] Genoa: Marco Cecchinato vs Laslo Djere
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[22.5%] US Open ATP: Ben Shelton vs Carlos Alcaraz
+[0.1%] Counter-Strike: G2 vs Astralis - Map 1 Winner
+[45.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.1%] Will Glenn Youngkin win the 2028 US Presidential Election?
+[53.5%] Will BV Borussia 09 Dortmund win on 2026-09-08?
 
 --- TECH & AI (Top 5 Active) ---
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[53.5%] Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs
-[46.5%] Cleveland Guardians vs. Baltimore Orioles: O/U 7.5
-[40.5%] US Open ATP: Arthur Gea vs Botic van de Zandschulp
-[37.5%] Atlanta Braves vs. Philadelphia Phillies
+[72.5%] US Open WTA: Aryna Sabalenka vs Linda Noskova
+[0.7%] Will RB Leipzig win the 2026-27 UEFA Champions League Championship?
+[0.3%] Map Handicap: G2 (-1.5) vs Astralis (+1.5)
+[61.5%] Will Real Madrid CF win on 2026-09-08?
 
 --- SCIENCE (Top 5 Active) ---
-[36.5%] US Open ATP: Karen Khachanov vs Learner Tien
-[49.5%] Los Angeles Angels vs. Boston Red Sox: O/U 8.5
-[34.5%] Will Udinese Calcio win on 2026-09-07?
-[75.0%] Israel closes its airspace by September 30?
-[37.5%] Cincinnati Reds vs. Los Angeles Dodgers
+[0.5%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[0.5%] Will Villarreal win the 2026-27 UEFA Champions League Championship?
+[100.0%] Dota 2: Team Synapse vs  Pipsqueak+4 - Game 2 Winner
+[100.0%] Genoa: Juan Pablo Varillas vs Federico Arnaboldi
+[0.1%] Will Eric Trump win the 2028 Republican presidential nomination?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC
-• Trump suggests renaming New Mexico amid torrent of online memes and taunts - The Washington Post
-• Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News
-• Armed man arrested after lunging at Ohio governor candidate Amy Acton - The Columbus Dispatch
-• War criminal Mladic is buried as a hero in Serbia despite EU warnings - AP News
-• Powerful Category 3 Hurricane Lowell barrels toward Hawaii, prompting Hurricane Warning for Kauaʻi - FOX Weather
-• Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News
-• With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control - The New York Times
+• Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens - CNBC
+• U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods - NPR
+• Iran-backed terrorists escalate war with Saudi Arabia as US trades strikes with Iran - Fox News
+• Capitol agenda: Republicans hope Trump won’t dominate Dallas - Politico
+• Small plane goes missing off Bahamas carrying 4 members of Florida family, authorities say - cbsnews.com
+• NYC releases 170,000 pages showing officials knew air quality after 9/11 was unsafe - CNN
+• Hurricane Lowell expected to pass near one Hawaiian island and cause major rains statewide - NBC News
+• A secretive computer algorithm is taking caregiving money away from disabled people - NBC News
 
 ----------------------------------------
 
