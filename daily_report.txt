@@ -1,60 +1,54 @@
-INTELLIGENCE SNAPSHOT // 2026-09-08
+INTELLIGENCE SNAPSHOT // 2026-09-09
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,695
-DOW J: 52,869
-NASDAQ: 26,504
-VIX: 15
+S&P 500: 7,636
+DOW J: 52,395
+NASDAQ: 26,239
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[56.6%] Genoa: Thiago Seyboth Wild vs Francesco Ferrari
-[0.1%] Counter-Strike: GamerLegion vs FURIA (BO3) - FISSURE PLAYGROUND Group B
-[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[65.5%] Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A
-[95.9%] Israel closes its airspace by September 30?
+[2.8%] Will Feyenoord Rotterdam win on 2026-09-09?
+[32.5%] LAPTOP FDV above $1B one day after launch?
+[45.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[57.5%] Will Sporting CP win on 2026-09-09?
+[53.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[22.5%] US Open ATP: Ben Shelton vs Carlos Alcaraz
-[0.1%] Counter-Strike: G2 vs Astralis - Map 1 Winner
-[45.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[0.1%] Will Glenn Youngkin win the 2028 US Presidential Election?
-[53.5%] Will BV Borussia 09 Dortmund win on 2026-09-08?
+[100.0%] Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru
+[91.5%] Will FC Barcelona win on 2026-09-09?
+[0.8%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[100.0%] Dota 2: MOUZ vs HULIGANI (BO3) - EPL Masters Playoffs
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[72.5%] US Open WTA: Aryna Sabalenka vs Linda Noskova
-[0.7%] Will RB Leipzig win the 2026-27 UEFA Champions League Championship?
-[0.3%] Map Handicap: G2 (-1.5) vs Astralis (+1.5)
-[61.5%] Will Real Madrid CF win on 2026-09-08?
+[67.0%] LAPTOP FDV above $500M one day after launch?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[0.1%] Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qualifier Playoffs
+[59.5%] Will Arsenal FC win on 2026-09-09?
+[25.5%] US Open WTA: Qinwen Zheng vs Elena Rybakina
 
 --- SCIENCE (Top 5 Active) ---
-[0.5%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[0.5%] Will Villarreal win the 2026-27 UEFA Champions League Championship?
-[100.0%] Dota 2: Team Synapse vs  Pipsqueak+4 - Game 2 Winner
-[100.0%] Genoa: Juan Pablo Varillas vs Federico Arnaboldi
-[0.1%] Will Eric Trump win the 2028 Republican presidential nomination?
+[45.5%] US x Iran Effective Ceasefire by September 4?
+[19.5%] Strait of Hormuz traffic returns to normal by December 31?
+[86.5%] LAPTOP FDV above $250M one day after launch?
+[0.1%] Will Casper Ruud win the 2026 Men's US Open?
+[37.5%] Will Ben Shelton win the 2026 Men's US Open?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens - CNBC
-• U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods - NPR
-• Iran-backed terrorists escalate war with Saudi Arabia as US trades strikes with Iran - Fox News
-• Capitol agenda: Republicans hope Trump won’t dominate Dallas - Politico
-• Small plane goes missing off Bahamas carrying 4 members of Florida family, authorities say - cbsnews.com
-• NYC releases 170,000 pages showing officials knew air quality after 9/11 was unsafe - CNN
-• Hurricane Lowell expected to pass near one Hawaiian island and cause major rains statewide - NBC News
-• A secretive computer algorithm is taking caregiving money away from disabled people - NBC News
+• (Feed unavailable)
 
 ----------------------------------------
 
 TRENDING TOPICS
 • Fox Chicago's top trending stories of 2025
+• The headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
