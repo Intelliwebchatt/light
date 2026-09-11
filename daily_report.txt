@@ -1,61 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-09-10
+INTELLIGENCE SNAPSHOT // 2026-09-11
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,607
-DOW J: 52,159
-NASDAQ: 26,141
-VIX: 17
+S&P 500: 7,672
+DOW J: 52,584
+NASDAQ: 26,417
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[37.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[62.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[72.5%] Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs
+[17.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[81.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
 [0.9%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[2.9%] Will FK Bodø/Glimt win on 2026-09-10?
+[0.1%] Will Abigail Spanberger win the 2028 Democratic presidential nomination?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[0.1%] Will Kristi Noem win the 2028 Republican presidential nomination?
+[11.0%] Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs
 [0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[5.3%] LAPTOP FDV above $1B one day after launch?
-[58.5%] US x Iran Effective Ceasefire by September 4?
-[71.0%] LAPTOP FDV above $500M one day after launch?
+[47.5%] Will Stade Rennais FC 1901 win on 2026-09-11?
+[0.1%] Will Stephen A. Smith win the 2028 Democratic presidential nomination?
 
 --- TECH & AI (Top 5 Active) ---
-[47.5%] Will AS Roma win on 2026-09-10?
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.1%] Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner
-[57.9%] Phan Thiet 3: Philip Sekulic vs Koki Matsuda
-[94.5%] Genoa: Enrico Dalla Valle vs Stefano Travaglia
+[0.5%] Will Elon Musk post 140-159 tweets from September 4 to September 11, 2026?
+[80.5%] US Open ATP: Alexander Zverev vs Karen Khachanov
+[0.1%] Tulln: Zdenek Kolar vs Alex Barrena
+[18.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[0.1%] Will Tom Cotton win the 2028 Republican presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
-[55.5%] Will Como 1907 win on 2026-09-10?
-[90.5%] Will FC Bayern München win on 2026-09-10?
-[16.0%] Strait of Hormuz traffic returns to normal by December 31?
-[100.0%] Counter-Strike: G2 vs 5star (BO3) - FISSURE PLAYGROUND Group A
-[44.5%] Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.1%] Will Marine Tondelier win the 2027 French presidential election?
+[15.5%] Will the U.S. invade Iran before 2027?
+[0.1%] Will Karim Bouamrane win the 2027 French presidential election?
+[0.1%] Will François Ruffin win the 2027 French presidential election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Supreme Court blocks Missouri’s attempt to use newly drawn Republican congressional map - NBC News
-• Vance appears to walk back Trump’s offer of $5,000 ‘dividend’ if Republicans win midterms – US politics live - The Guardian
-• Live Updates: Trump says war to end "immediately" after midterms as Iran damages U.S. jets in strikes - CBS News
-• One year after Charlie Kirk's death, Turning Point USA faces an uncertain future - NPR
-• Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say - The New York Times
-• ‘A communist caucus’: Trump gives Republicans their midterms enemy - Politico
-• Incumbent Rhode Island governor projected to lose Democratic primary to former CVS executive - CBS News
-• 9/11 Museum unveils exhibition for generation too young to remember the attacks: 'Called everybody to lead' - Fox News
+• On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve - NPR
+• Iran-backed Houthis reportedly reach strategic island in key global shipping route - BBC
+• Capitol agenda: Trump tells Republicans to vote or ‘go to hell’ - Politico
+• Vance: MAGA's millennial messenger for the midterms - Axios
+• FactChecking Trump’s Midterm Convention Speech - FactCheck.org
+• A Tireless Devotion to Flight 93 Heroes on Solemn Ground Near Shanksville - The New York Times
+• Gov. Kehoe backs Hoskins as Missouri map battle shifts to appeals court - KCTV
+• Rand Paul and his staff travel by private jet with taxpayer dollars while preaching fiscal restraint - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Fox Chicago's top trending stories of 2025
 • The headlines: Top stories of the day
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
