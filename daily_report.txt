@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-09-11
+INTELLIGENCE SNAPSHOT // 2026-09-12
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,672
-DOW J: 52,584
-NASDAQ: 26,417
+S&P 500: 7,657
+DOW J: 52,573
+NASDAQ: 26,333
 VIX: 16
 
 ----------------------------------------
@@ -12,51 +12,49 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[17.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[81.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[20.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[100.0%] LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs
+[78.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
 [0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[0.9%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[0.1%] Will Abigail Spanberger win the 2028 Democratic presidential nomination?
+[0.7%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Kristi Noem win the 2028 Republican presidential nomination?
-[11.0%] Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[47.5%] Will Stade Rennais FC 1901 win on 2026-09-11?
-[0.1%] Will Stephen A. Smith win the 2028 Democratic presidential nomination?
+[0.1%] Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs
+[53.5%] Will Liverpool FC win on 2026-09-12?
+[0.1%] LoL: Anyone's Legend vs Invictus Gaming - Game 4 Winner
+[47.5%] Will Chelsea FC win on 2026-09-12?
+[38.5%] Will Aston Villa FC win on 2026-09-12?
 
 --- TECH & AI (Top 5 Active) ---
-[0.5%] Will Elon Musk post 140-159 tweets from September 4 to September 11, 2026?
-[80.5%] US Open ATP: Alexander Zverev vs Karen Khachanov
-[0.1%] Tulln: Zdenek Kolar vs Alex Barrena
-[18.5%] Clarity Act (H.R.3633) signed into law in 2026?
-[0.1%] Will Tom Cotton win the 2028 Republican presidential nomination?
+[100.0%] Cassis: Titouan Droguet vs Nicolai Budkov Kjaer
+[45.5%] Will AC Milan win on 2026-09-12?
+[0.1%] Map Handicap: G2 (-1.5) vs BetBoom Team (+1.5)
+[0.7%] Bab el-Mandeb Strait effectively closed by September 15?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.1%] Will Marine Tondelier win the 2027 French presidential election?
-[15.5%] Will the U.S. invade Iran before 2027?
-[0.1%] Will Karim Bouamrane win the 2027 French presidential election?
-[0.1%] Will François Ruffin win the 2027 French presidential election?
+[0.1%] Will François Baroin win the 2027 French presidential election?
+[4.5%] Will 1. FSV Mainz 05 win on 2026-09-12?
+[84.5%] Will BV Borussia 09 Dortmund win on 2026-09-12?
+[58.2%] Will Alexander Zverev win the 2026 Men's US Open?
+[22.0%] Spread: Chelsea FC (-1.5)
 
 ----------------------------------------
 
 TOP HEADLINES
-• On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve - NPR
-• Iran-backed Houthis reportedly reach strategic island in key global shipping route - BBC
-• Capitol agenda: Trump tells Republicans to vote or ‘go to hell’ - Politico
-• Vance: MAGA's millennial messenger for the midterms - Axios
-• FactChecking Trump’s Midterm Convention Speech - FactCheck.org
-• A Tireless Devotion to Flight 93 Heroes on Solemn Ground Near Shanksville - The New York Times
-• Gov. Kehoe backs Hoskins as Missouri map battle shifts to appeals court - KCTV
-• Rand Paul and his staff travel by private jet with taxpayer dollars while preaching fiscal restraint - Politico
+• Saudi Arabia shuts critical oil pipeline after drone attack: What it means - aljazeera.com
+• Trump meets Ireland's leaders before heading to his golf club in Doonbeg - NPR
+• U.S.-Canada trade war set to hit hard in midterm battleground states - The Washington Post
+• Pennsylvania lawmaker suggests Trump should rename Lake Erie to 'Lake Pennsylvania' - Fox News
+• How Trump Is Wielding Power to Stifle Speech - The New York Times
+• ‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast - CNN
+• Republicans assess Trump’s convention with a shrug - Politico
+• Four Former Presidents Reunite in Downtown NYC to Attend 9/11 Memorial Ceremony - TODAY.com
 
 ----------------------------------------
 
 TRENDING TOPICS
 • The headlines: Top stories of the day
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
-• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
