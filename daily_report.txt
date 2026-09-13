@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-09-12
+INTELLIGENCE SNAPSHOT // 2026-09-13
 ========================================
 
 MARKET CLOSE
@@ -12,49 +12,52 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[20.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[100.0%] LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs
-[78.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[0.1%] LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs
 [0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[0.7%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[20.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[97.1%] Will FC Barcelona win on 2026-09-13?
+[78.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs
-[53.5%] Will Liverpool FC win on 2026-09-12?
-[0.1%] LoL: Anyone's Legend vs Invictus Gaming - Game 4 Winner
-[47.5%] Will Chelsea FC win on 2026-09-12?
-[38.5%] Will Aston Villa FC win on 2026-09-12?
+[43.5%] Will Manchester City FC win on 2026-09-13?
+[0.1%] Guangzhou: Maxim Zhukov vs Thijmen Loof
+[26.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[0.7%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Cassis: Titouan Droguet vs Nicolai Budkov Kjaer
-[45.5%] Will AC Milan win on 2026-09-12?
-[0.1%] Map Handicap: G2 (-1.5) vs BetBoom Team (+1.5)
-[0.7%] Bab el-Mandeb Strait effectively closed by September 15?
+[58.5%] US Open ATP: Alexander Zverev vs Ben Shelton
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[100.0%] Counter-Strike: Virtus.pro vs Heroic (BO3) - Thunderpick World Championship Closed Qualifier Playoffs
+[60.5%] Spread: FC Barcelona (-2.5)
+[0.1%] Will Abigail Spanberger win the 2028 US Presidential Election?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will François Baroin win the 2027 French presidential election?
-[4.5%] Will 1. FSV Mainz 05 win on 2026-09-12?
-[84.5%] Will BV Borussia 09 Dortmund win on 2026-09-12?
-[58.2%] Will Alexander Zverev win the 2026 Men's US Open?
-[22.0%] Spread: Chelsea FC (-1.5)
+[31.5%] Will Manchester United FC win on 2026-09-13?
+[5.5%] Putin out as President of Russia by December 31, 2026?
+[100.0%] Will Hertha BSC win on 2026-09-13?
+[82.5%] Will FC Bayern München win on 2026-09-13?
+[0.5%] Will Levante UD win on 2026-09-13?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Saudi Arabia shuts critical oil pipeline after drone attack: What it means - aljazeera.com
-• Trump meets Ireland's leaders before heading to his golf club in Doonbeg - NPR
-• U.S.-Canada trade war set to hit hard in midterm battleground states - The Washington Post
-• Pennsylvania lawmaker suggests Trump should rename Lake Erie to 'Lake Pennsylvania' - Fox News
-• How Trump Is Wielding Power to Stifle Speech - The New York Times
-• ‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast - CNN
-• Republicans assess Trump’s convention with a shrug - Politico
-• Four Former Presidents Reunite in Downtown NYC to Attend 9/11 Memorial Ceremony - TODAY.com
+• Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - AP News
+• Rep. Tom Tiffany says he sustained minor injuries in emergency plane landing on lake - NBC News
+• Indonesian passenger ship overturns, sparking search for about 130 missing - NPR
+• Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S. - The Washington Post
+• How a young woman became an ISIS bride — and then an informant, helping save others - NPR
+• Backlash grows over Trump's 'completely wrong' comments on Irish reunification - Sky News
+• Speaker Johnson says Congress would work to deliver $5,000 checks Trump promised to Americans - NBC News
+• L.A. County deputies respond to trespasser at Malibu home of Kamala Harris - CBS News
 
 ----------------------------------------
 
 TRENDING TOPICS
 • The headlines: Top stories of the day
+• Yahoo 100
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
