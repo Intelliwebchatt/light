@@ -1,62 +1,63 @@
-INTELLIGENCE SNAPSHOT // 2026-09-13
+INTELLIGENCE SNAPSHOT // 2026-09-14
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,657
-DOW J: 52,573
-NASDAQ: 26,333
-VIX: 16
+S&P 500: 7,634
+DOW J: 52,476
+NASDAQ: 26,286
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs
-[0.4%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[20.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[97.1%] Will FC Barcelona win on 2026-09-13?
-[78.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[15.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.2%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[84.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[81.5%] Will AS Roma win on 2026-09-14?
+[0.7%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[43.5%] Will Manchester City FC win on 2026-09-13?
-[0.1%] Guangzhou: Maxim Zhukov vs Thijmen Loof
-[26.5%] Clarity Act (H.R.3633) signed into law in 2026?
-[0.7%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[27.5%] Clarity Act (H.R.3633) signed into law in 2026?
 [0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
+[86.5%] Will Magdalena Andersson be the next Prime Minister of Sweden?
+[45.5%] Broncos vs. Chiefs
+[11.5%] Will Ulf Kristersson be the next Prime Minister of Sweden?
 
 --- TECH & AI (Top 5 Active) ---
-[58.5%] US Open ATP: Alexander Zverev vs Ben Shelton
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[100.0%] Counter-Strike: Virtus.pro vs Heroic (BO3) - Thunderpick World Championship Closed Qualifier Playoffs
-[60.5%] Spread: FC Barcelona (-2.5)
-[0.1%] Will Abigail Spanberger win the 2028 US Presidential Election?
+[47.5%] Broncos vs. Chiefs: O/U 43.5
+[89.5%] Will Como 1907 win on 2026-09-14?
+[3.6%] Will Torino FC win on 2026-09-14?
+[31.5%] Will Newcastle United FC win on 2026-09-14?
 
 --- SCIENCE (Top 5 Active) ---
-[31.5%] Will Manchester United FC win on 2026-09-13?
-[5.5%] Putin out as President of Russia by December 31, 2026?
-[100.0%] Will Hertha BSC win on 2026-09-13?
-[82.5%] Will FC Bayern München win on 2026-09-13?
-[0.5%] Will Levante UD win on 2026-09-13?
+[26.5%] Will Real Betis Balompié win on 2026-09-14?
+[97.8%] US x Iran Effective Ceasefire by September 4?
+[2.1%] Will Parma Calcio 1913 win on 2026-09-14?
+[64.5%] Will Fenerbahçe SK win on 2026-09-14?
+[0.1%] Will Elon Musk post 65-89 tweets from September 12 to September 14, 2026?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - AP News
-• Rep. Tom Tiffany says he sustained minor injuries in emergency plane landing on lake - NBC News
-• Indonesian passenger ship overturns, sparking search for about 130 missing - NPR
-• Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S. - The Washington Post
-• How a young woman became an ISIS bride — and then an informant, helping save others - NPR
-• Backlash grows over Trump's 'completely wrong' comments on Irish reunification - Sky News
-• Speaker Johnson says Congress would work to deliver $5,000 checks Trump promised to Americans - NBC News
-• L.A. County deputies respond to trespasser at Malibu home of Kamala Harris - CBS News
+• Trump says AI doesn’t need guardrails, only a ‘high IQ’ president - NBC News
+• E.P.A. Will Erase Limits on Climate Pollution From Power Plants - The New York Times
+• States sue to stop Trump rule that would make it harder for some immigrants to get green cards - CNN
+• US Kennedy Center faces bankruptcy, Washington Post reports - Al Jazeera
+• Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News
+• Capitol agenda: Congress isn’t rushing after AI alarms - Politico
+• ‘Alligator Alcatraz’ Used Small Cages to Confine Migrants, DHS Watchdog Report Says - The New York Times
+• Rainfall totals: Parts of Connecticut saw nearly 8 inches of rain Sunday - WTNH.com
 
 ----------------------------------------
 
 TRENDING TOPICS
 • The headlines: Top stories of the day
-• Yahoo 100
+• YouTube’s ‘Trending’ section is about to disappear
 • Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• Year in Review: A look back at News Channel 3's top stories of 2025
 • The Headlines: Top stories of the day
 
 ========================================
