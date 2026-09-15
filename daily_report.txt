@@ -1,64 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-09-14
+INTELLIGENCE SNAPSHOT // 2026-09-15
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,634
-DOW J: 52,476
-NASDAQ: 26,286
-VIX: 17
+S&P 500: 7,585
+DOW J: 51,953
+NASDAQ: 26,012
+VIX: 18
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[15.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[0.2%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[84.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[81.5%] Will AS Roma win on 2026-09-14?
-[0.7%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[12.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.1%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
+[0.9%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
+[87.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
+[59.5%] Will Deportivo Alavés win on 2026-09-15?
 
 --- US POLITICS (Top 5 Active) ---
-[27.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[12.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[80.5%] Will Real Madrid CF win on 2026-09-15?
 [0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[86.5%] Will Magdalena Andersson be the next Prime Minister of Sweden?
-[45.5%] Broncos vs. Chiefs
-[11.5%] Will Ulf Kristersson be the next Prime Minister of Sweden?
+[0.1%] Szczecin: Dusan Lajovic vs Diego Dedura-Palomero
+[0.4%] Will the US confirm that aliens exist by September 30?
 
 --- TECH & AI (Top 5 Active) ---
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[47.5%] Broncos vs. Chiefs: O/U 43.5
-[89.5%] Will Como 1907 win on 2026-09-14?
-[3.6%] Will Torino FC win on 2026-09-14?
-[31.5%] Will Newcastle United FC win on 2026-09-14?
+[98.2%] US x Iran Effective Ceasefire by September 4?
+[75.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
+[6.5%] Will Elche CF win on 2026-09-15?
+[100.0%] Will the price of Bitcoin be above $68,000 on September 15?
 
 --- SCIENCE (Top 5 Active) ---
-[26.5%] Will Real Betis Balompié win on 2026-09-14?
-[97.8%] US x Iran Effective Ceasefire by September 4?
-[2.1%] Will Parma Calcio 1913 win on 2026-09-14?
-[64.5%] Will Fenerbahçe SK win on 2026-09-14?
-[0.1%] Will Elon Musk post 65-89 tweets from September 12 to September 14, 2026?
+[100.0%] Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita
+[96.3%] Afghanistan Tour of India T20s: India vs Afghanistan
+[93.5%] Fed rate hike in 2026?
+[99.7%] Will the price of Bitcoin be above $76,000 on September 15?
+[40.5%] Guangzhou: Hayato Matsuoka vs Lloyd Harris
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump says AI doesn’t need guardrails, only a ‘high IQ’ president - NBC News
-• E.P.A. Will Erase Limits on Climate Pollution From Power Plants - The New York Times
-• States sue to stop Trump rule that would make it harder for some immigrants to get green cards - CNN
-• US Kennedy Center faces bankruptcy, Washington Post reports - Al Jazeera
-• Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News
-• Capitol agenda: Congress isn’t rushing after AI alarms - Politico
-• ‘Alligator Alcatraz’ Used Small Cages to Confine Migrants, DHS Watchdog Report Says - The New York Times
-• Rainfall totals: Parts of Connecticut saw nearly 8 inches of rain Sunday - WTNH.com
+• Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump - CBS News
+• Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says - The Washington Post
+• US confirms for first time it has deployed space weapons - BBC
+• Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI - NPR
+• Ukraine-Russia war latest: Denmark accuses Moscow warship of firing flares ‘within metres’ of military helicopter - The Independent
+• Election officials prepare for chaos as Trump seeks to tilt the midterms to Republicans - Reuters
+• Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - AP News
+• What Nvidia CEO Huang Told Trump About the AI Doom Debate - Barron's
 
 ----------------------------------------
 
 TRENDING TOPICS
 • The headlines: Top stories of the day
-• YouTube’s ‘Trending’ section is about to disappear
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
-• Year in Review: A look back at News Channel 3's top stories of 2025
-• The Headlines: Top stories of the day
+• HT Trending Desk
 
 ========================================
 END TRANSMISSION
