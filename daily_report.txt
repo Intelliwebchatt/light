@@ -1,61 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-09-15
+INTELLIGENCE SNAPSHOT // 2026-09-16
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,585
-DOW J: 51,953
-NASDAQ: 26,012
-VIX: 18
+S&P 500: 7,621
+DOW J: 52,122
+NASDAQ: 26,211
+VIX: 17
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[12.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[11.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
+[0.8%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
 [0.1%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[0.9%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
 [87.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[59.5%] Will Deportivo Alavés win on 2026-09-15?
+[7.0%] Clarity Act (H.R.3633) signed into law in 2026?
 
 --- US POLITICS (Top 5 Active) ---
-[12.5%] Clarity Act (H.R.3633) signed into law in 2026?
-[80.5%] Will Real Madrid CF win on 2026-09-15?
 [0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[0.1%] Szczecin: Dusan Lajovic vs Diego Dedura-Palomero
-[0.4%] Will the US confirm that aliens exist by September 30?
+[0.1%] Will Elon Musk win the 2028 Republican presidential nomination?
+[73.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
+[91.5%] Will FC Barcelona win on 2026-09-16?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[98.2%] US x Iran Effective Ceasefire by September 4?
-[75.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
-[6.5%] Will Elche CF win on 2026-09-15?
-[100.0%] Will the price of Bitcoin be above $68,000 on September 15?
+[39.5%] Sao Paulo Open: Xiaodi You vs Alina Charaeva
+[16.2%] Will Gavin Newsom win the 2028 Democratic presidential nomination?
+[7.5%] Will Bitcoin dip to $45,000 by December 31, 2026?
+[93.7%] Fed rate hike in 2026?
+[100.0%] US x Iran Effective Ceasefire by September 4?
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] Sao Paulo Open: Darja Semenistaja vs Hayu Kinoshita
-[96.3%] Afghanistan Tour of India T20s: India vs Afghanistan
-[93.5%] Fed rate hike in 2026?
-[99.7%] Will the price of Bitcoin be above $76,000 on September 15?
-[40.5%] Guangzhou: Hayato Matsuoka vs Lloyd Harris
+[0.2%] Will Ségolène Royal win the 2027 French presidential election?
+[35.5%] Valencia: Joelle Steur vs Francesca Curmi
+[69.5%] Sao Paulo Open: Suzan Lamens vs Carolina M. Alves
+[0.9%] Will the US confirm that aliens exist by September 30?
+[74.2%] Sao Paulo Open: Eva Lys vs Gabriela Ce
 
 ----------------------------------------
 
 TOP HEADLINES
-• Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump - CBS News
-• Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says - The Washington Post
-• US confirms for first time it has deployed space weapons - BBC
-• Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI - NPR
-• Ukraine-Russia war latest: Denmark accuses Moscow warship of firing flares ‘within metres’ of military helicopter - The Independent
-• Election officials prepare for chaos as Trump seeks to tilt the midterms to Republicans - Reuters
-• Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - AP News
-• What Nvidia CEO Huang Told Trump About the AI Doom Debate - Barron's
+• 3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News
+• EU's von der Leyen wants Canada to become bloc's first associate member - Reuters
+• Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes
+• Saudi Pipeline Attack Risks ‘Disastrous’ Loss of Millions of Barrels of Oil - The New York Times
+• Erika Kirk takes legal step to sue Utah over Charlie Kirk assassination - Deseret News
+• Why Trump is all-in on AI despite the warnings - BBC
+• Attack on University of Texas Students Tests Texas G.O.P. Unity - The New York Times
+• Fears of AI’s potential to destroy humanity spread from fringe to Washington - The Washington Post
 
 ----------------------------------------
 
 TRENDING TOPICS
-• The headlines: Top stories of the day
-• HT Trending Desk
+• The Headlines: Top stories of the day
+• How to Find What’s Trending on Bing?
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 
 ========================================
 END TRANSMISSION
