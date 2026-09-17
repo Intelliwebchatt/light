@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-09-16
+INTELLIGENCE SNAPSHOT // 2026-09-17
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,621
-DOW J: 52,122
-NASDAQ: 26,211
-VIX: 17
+S&P 500: 7,635
+DOW J: 51,798
+NASDAQ: 26,401
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[11.5%] Will there be no change in Fed interest rates after the September 2026 meeting?
-[0.8%] Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?
-[0.1%] Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?
-[87.5%] Will the Fed increase interest rates by 25 bps after the September 2026 meeting?
-[7.0%] Clarity Act (H.R.3633) signed into law in 2026?
+[52.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
+[88.5%] Will Manchester City FC win on 2026-09-17?
+[46.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
+[63.5%] Will Real Betis Balompié win on 2026-09-17?
+[75.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?
-[0.1%] Will Elon Musk win the 2028 Republican presidential nomination?
-[73.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
-[91.5%] Will FC Barcelona win on 2026-09-16?
+[32.0%] Caldas da Rainha: Francisca Jorge vs Victoria Jimenez Kasintseva
+[4.5%] Putin out as President of Russia by December 31, 2026?
+[32.5%] Counter-Strike: Natus Vincere vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[37.5%] Valencia: Guiomar Maristany vs Marina Bassols Ribera
 
 --- TECH & AI (Top 5 Active) ---
-[39.5%] Sao Paulo Open: Xiaodi You vs Alina Charaeva
-[16.2%] Will Gavin Newsom win the 2028 Democratic presidential nomination?
-[7.5%] Will Bitcoin dip to $45,000 by December 31, 2026?
-[93.7%] Fed rate hike in 2026?
-[100.0%] US x Iran Effective Ceasefire by September 4?
+[0.4%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
+[0.8%] Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?
+[19.5%] Szczecin: Filip Pieczonka vs Marco Trungelliti
+[0.7%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
+[12.5%] Will Getafe CF win on 2026-09-17?
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Will Ségolène Royal win the 2027 French presidential election?
-[35.5%] Valencia: Joelle Steur vs Francesca Curmi
-[69.5%] Sao Paulo Open: Suzan Lamens vs Carolina M. Alves
-[0.9%] Will the US confirm that aliens exist by September 30?
-[74.2%] Sao Paulo Open: Eva Lys vs Gabriela Ce
+[59.5%] Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A
+[51.5%] Counter-Strike: Luminosity vs M80 (BO1) - Logitech G Play Connect Group A
+[8.5%] Clarity Act (H.R.3633) signed into law in 2026?
+[0.1%] Will the price of Bitcoin be above $78,000 on September 17?
+[3.7%] Will Norwich City FC win on 2026-09-17?
 
 ----------------------------------------
 
 TOP HEADLINES
-• 3 dead after news helicopter reporting for NBC L.A. crashes while covering fatal bus collision - NBC News
-• EU's von der Leyen wants Canada to become bloc's first associate member - Reuters
-• Democrat Says Trump Threw ‘Tantrum’ During Kennedy Center Board Meeting After Court Ruling - Forbes
-• Saudi Pipeline Attack Risks ‘Disastrous’ Loss of Millions of Barrels of Oil - The New York Times
-• Erika Kirk takes legal step to sue Utah over Charlie Kirk assassination - Deseret News
-• Why Trump is all-in on AI despite the warnings - BBC
-• Attack on University of Texas Students Tests Texas G.O.P. Unity - The New York Times
-• Fears of AI’s potential to destroy humanity spread from fringe to Washington - The Washington Post
+• Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe - AP News
+• Trump photo seems to reference Kennedy Center demolition amid legal battle over closure - CNBC
+• People's houses are collapsing into the ocean. FEMA gives them no other option - NPR
+• Dramatic recording could help answer why NBC4 helicopter crashed - Los Angeles Times
+• Iran school bombing: grounds to believe US was behind atrocity, UN finds - The Guardian
+• India warns new US tariffs over Russian oil could impact ties - Al Jazeera
+• How China is driving the emerging partisan divide on AI safety - Politico
+• Pregnant woman’s death in Texas caused by state’s abortion ban, lawsuit says - NBC News
 
 ----------------------------------------
 
