@@ -1,62 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-09-17
+INTELLIGENCE SNAPSHOT // 2026-09-18
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,635
-DOW J: 51,798
-NASDAQ: 26,401
-VIX: 16
+S&P 500: 7,630
+DOW J: 51,591
+NASDAQ: 26,410
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[52.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
-[88.5%] Will Manchester City FC win on 2026-09-17?
-[46.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
-[63.5%] Will Real Betis Balompié win on 2026-09-17?
-[75.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
+[93.5%] Will FC Bayern München win on 2026-09-18?
+[16.5%] Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs
+[0.1%] Caldas da Rainha: Malaika Rapolu vs Gabriela Knutson
+[77.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
+[36.5%] LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs
 
 --- US POLITICS (Top 5 Active) ---
-[32.0%] Caldas da Rainha: Francisca Jorge vs Victoria Jimenez Kasintseva
-[4.5%] Putin out as President of Russia by December 31, 2026?
-[32.5%] Counter-Strike: Natus Vincere vs Aurora Gaming (BO3) - StarLadder StarSeries Playoffs
+[0.2%] Will François Ruffin win the 2027 French presidential election?
+[3.9%] Will China invade Taiwan by end of 2026?
+[0.1%] Szczecin: Tom Gentzsch vs Luka Mikrut
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[37.5%] Valencia: Guiomar Maristany vs Marina Bassols Ribera
+[55.5%] Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5
 
 --- TECH & AI (Top 5 Active) ---
-[0.4%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
-[0.8%] Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?
-[19.5%] Szczecin: Filip Pieczonka vs Marco Trungelliti
-[0.7%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
-[12.5%] Will Getafe CF win on 2026-09-17?
+[37.5%] Will Chelsea FC win on 2026-09-18?
+[0.1%] Will Elon Musk post 180-199 tweets from September 11 to September 18, 2026?
+[98.4%] Will the price of Bitcoin be above $80,000 on September 18?
+[0.1%] Will Leeds United win the 2026-27 English Premier League (EPL) Championship?
+[96.0%] Biella: Jay Clarke vs Felix Gill
 
 --- SCIENCE (Top 5 Active) ---
-[59.5%] Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A
-[51.5%] Counter-Strike: Luminosity vs M80 (BO1) - Logitech G Play Connect Group A
-[8.5%] Clarity Act (H.R.3633) signed into law in 2026?
-[0.1%] Will the price of Bitcoin be above $78,000 on September 17?
-[3.7%] Will Norwich City FC win on 2026-09-17?
+[4.5%] Will FC Bayern München vs. 1. FC Union Berlin end in a draw?
+[0.9%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
+[43.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
+[1.8%] Will 1. FC Union Berlin win on 2026-09-18?
+[100.0%] Will WTI Crude Oil (WTI) hit (LOW) $95 in September?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe - AP News
-• Trump photo seems to reference Kennedy Center demolition amid legal battle over closure - CNBC
-• People's houses are collapsing into the ocean. FEMA gives them no other option - NPR
-• Dramatic recording could help answer why NBC4 helicopter crashed - Los Angeles Times
-• Iran school bombing: grounds to believe US was behind atrocity, UN finds - The Guardian
-• India warns new US tariffs over Russian oil could impact ties - Al Jazeera
-• How China is driving the emerging partisan divide on AI safety - Politico
-• Pregnant woman’s death in Texas caused by state’s abortion ban, lawsuit says - NBC News
+• Iran War Updates: 2 ships attacked in Strait of Hormuz as Trump says next move could be to "annihilate" regime - CBS News
+• String of daring Russian plots is testing Washington’s restraint - The Washington Post
+• Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants - The New York Times
+• Lindsay Clancy holdout juror had no doubt she deliberately killed her children - BBC
+• Russian hybrid attacks against Europe intensifying, says Macron - BBC
+• Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation - npr.org
+• The driver who slammed into an LA bus before helicopter crash is charged with murder - npr.org
+• Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
-• The Headlines: Top stories of the day
-• How to Find What’s Trending on Bing?
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• The headlines: Top stories of the day
+• Trending: Hot tub intruder plays with rubber duck
 
 ========================================
 END TRANSMISSION
