@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-09-18
+INTELLIGENCE SNAPSHOT // 2026-09-19
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,630
-DOW J: 51,591
-NASDAQ: 26,410
+S&P 500: 7,650
+DOW J: 51,683
+NASDAQ: 26,523
 VIX: 15
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[93.5%] Will FC Bayern München win on 2026-09-18?
-[16.5%] Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs
-[0.1%] Caldas da Rainha: Malaika Rapolu vs Gabriela Knutson
-[77.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
-[36.5%] LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs
+[73.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
+[10.5%] Will Arsenal FC win on 2026-09-19?
+[3.5%] Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs
+[77.5%] Will FC Barcelona win on 2026-09-19?
+[93.5%] Will Newcastle United FC win on 2026-09-19?
 
 --- US POLITICS (Top 5 Active) ---
-[0.2%] Will François Ruffin win the 2027 French presidential election?
-[3.9%] Will China invade Taiwan by end of 2026?
-[0.1%] Szczecin: Tom Gentzsch vs Luka Mikrut
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[55.5%] Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5
+[100.0%] Dota 2: Conventus Stellarum vs PlayTime (BO3) - PGL Wallachia Group Stage
+[24.3%] Will New People (NL) gain the most seats in the next Russian parliamentary election?
+[7.2%] Clarity Act (H.R.3633) signed into law in 2026?
+[51.5%] Game Handicap: KC (-1.5) vs Movistar KOI (+1.5)
+[0.1%] Will Yabloko gain the most seats in the next Russian parliamentary election?
 
 --- TECH & AI (Top 5 Active) ---
-[37.5%] Will Chelsea FC win on 2026-09-18?
-[0.1%] Will Elon Musk post 180-199 tweets from September 11 to September 18, 2026?
-[98.4%] Will the price of Bitcoin be above $80,000 on September 18?
-[0.1%] Will Leeds United win the 2026-27 English Premier League (EPL) Championship?
-[96.0%] Biella: Jay Clarke vs Felix Gill
+[1.9%] Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election?
+[49.0%] Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs
+[0.1%] Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election?
+[0.4%] Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
 
 --- SCIENCE (Top 5 Active) ---
-[4.5%] Will FC Bayern München vs. 1. FC Union Berlin end in a draw?
-[0.9%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
-[43.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
-[1.8%] Will 1. FC Union Berlin win on 2026-09-18?
-[100.0%] Will WTI Crude Oil (WTI) hit (LOW) $95 in September?
+[1.4%] Iran leadership change by September 30?
+[50.5%] Spread: KC (-5.5)
+[100.0%] Caldas da Rainha: Lisa Pigato vs Jeline Vandromme
+[70.5%] Will Brighton & Hove Albion FC win on 2026-09-19?
+[0.7%] Will Ethereum reach $4,000 in September?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Iran War Updates: 2 ships attacked in Strait of Hormuz as Trump says next move could be to "annihilate" regime - CBS News
-• String of daring Russian plots is testing Washington’s restraint - The Washington Post
-• Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants - The New York Times
-• Lindsay Clancy holdout juror had no doubt she deliberately killed her children - BBC
-• Russian hybrid attacks against Europe intensifying, says Macron - BBC
-• Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation - npr.org
-• The driver who slammed into an LA bus before helicopter crash is charged with murder - npr.org
-• Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors - The New York Times
+• MS NOW says its journalists were denied access to White House after Trump announced ban - NBC News
+• Trump says US has ‘permanent control’ of Greenland security: Does it? - Al Jazeera
+• Trump famously demands loyalty. Vulnerable midterm Republicans are increasingly defying him in public - CNN
+• Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts - The New York Times
+• An Alaska storm scattered artifacts. Archaeologists are racing to save what’s left - NPR
+• Thousands rally outside shuttered Kennedy Center, chanting ‘Hands off!’ - The Washington Post
+• The clues in ICE’s mass detention court losses that point to a win at SCOTUS - Politico
+• Cuba blackout leaves millions without power again - bbc.com
 
 ----------------------------------------
 
