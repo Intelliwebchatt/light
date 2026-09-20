@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-09-19
+INTELLIGENCE SNAPSHOT // 2026-09-20
 ========================================
 
 MARKET CLOSE
@@ -12,50 +12,51 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[73.5%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
-[10.5%] Will Arsenal FC win on 2026-09-19?
-[3.5%] Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs
-[77.5%] Will FC Barcelona win on 2026-09-19?
-[93.5%] Will Newcastle United FC win on 2026-09-19?
+[100.0%] Will Manchester City FC win on 2026-09-20?
+[89.0%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
+[41.5%] Will Real Madrid CF win on 2026-09-20?
+[0.1%] Will Hakeem Jeffries win the 2028 Democratic presidential nomination?
+[48.5%] Spread: BAL (-8.5)
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] Dota 2: Conventus Stellarum vs PlayTime (BO3) - PGL Wallachia Group Stage
-[24.3%] Will New People (NL) gain the most seats in the next Russian parliamentary election?
-[7.2%] Clarity Act (H.R.3633) signed into law in 2026?
-[51.5%] Game Handicap: KC (-1.5) vs Movistar KOI (+1.5)
-[0.1%] Will Yabloko gain the most seats in the next Russian parliamentary election?
+[34.5%] Vikings vs. Bears
+[41.5%] Bengals vs. Texans
+[74.5%] Eagles vs. Titans
+[100.0%] Will Liverpool FC win on 2026-09-20?
+[32.5%] Steelers vs. Patriots
 
 --- TECH & AI (Top 5 Active) ---
-[1.9%] Will the Liberal Democratic Party of Russia (LDPR) gain the most seats in the next Russian parliamentary election?
-[49.0%] Counter-Strike: 3DMAX vs M80 (BO3) - Logitech G Play Connect Playoffs
-[0.1%] Will A Just Russia – For Truth (SRZP) gain the most seats in the next Russian parliamentary election?
-[0.4%] Will the Communist Party of the Russian Federation (KPRF) gain the most seats in the next Russian parliamentary election?
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.1%] Will Sunderland AFC win on 2026-09-20?
+[48.5%] Steelers vs. Patriots: O/U 41.5
+[0.1%] Will AFC Bournemouth vs. Liverpool FC end in a draw?
+[0.1%] Dota 2: Aurora vs Natus Vincere - Game 1 Winner
+[0.1%] Will Greg Abbott win the 2028 Republican presidential nomination?
 
 --- SCIENCE (Top 5 Active) ---
-[1.4%] Iran leadership change by September 30?
-[50.5%] Spread: KC (-5.5)
-[100.0%] Caldas da Rainha: Lisa Pigato vs Jeline Vandromme
-[70.5%] Will Brighton & Hove Albion FC win on 2026-09-19?
-[0.7%] Will Ethereum reach $4,000 in September?
+[10.4%] Will New People (NL) gain the most seats in the next Russian parliamentary election?
+[12.5%] Rennes: Harold Mayot vs Sascha Gueymard-Wayenburg
+[24.5%] Will Club Atlético de Madrid win on 2026-09-20?
+[52.5%] Spread: Broncos (-2.5)
+[25.5%] Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs
 
 ----------------------------------------
 
 TOP HEADLINES
-• MS NOW says its journalists were denied access to White House after Trump announced ban - NBC News
-• Trump says US has ‘permanent control’ of Greenland security: Does it? - Al Jazeera
-• Trump famously demands loyalty. Vulnerable midterm Republicans are increasingly defying him in public - CNN
-• Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts - The New York Times
-• An Alaska storm scattered artifacts. Archaeologists are racing to save what’s left - NPR
-• Thousands rally outside shuttered Kennedy Center, chanting ‘Hands off!’ - The Washington Post
-• The clues in ICE’s mass detention court losses that point to a win at SCOTUS - Politico
-• Cuba blackout leaves millions without power again - bbc.com
+• Trump claims triumphal arch will serve as a ‘top grade military complex’ to store weapons - The Guardian
+• How President Trump Broke the Kennedy Center - The New York Times
+• Trump Administration Updates: CNN, Politico and MS NOW Reporters Barred From White House - The New York Times
+• Ukraine hits Moscow with ‘largest ever’ drone attack - ft.com
+• Poll: Most voters say Trump has hurt the economy as competitive midterm election looms - NBC News
+• National Hurricane Center: Tropical Storm Fay forms in the northern Atlantic - AP News
+• Newsom signs bills to shield California elections from Trump interference, increase transparency - Los Angeles Times
+• Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate - CNBC
 
 ----------------------------------------
 
 TRENDING TOPICS
 • The headlines: Top stories of the day
-• Trending: Hot tub intruder plays with rubber duck
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• How to Find What’s Trending on Bing?
 
 ========================================
 END TRANSMISSION
