@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-09-20
+INTELLIGENCE SNAPSHOT // 2026-09-21
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,650
-DOW J: 51,683
-NASDAQ: 26,523
+S&P 500: 7,757
+DOW J: 52,013
+NASDAQ: 27,056
 VIX: 15
 
 ----------------------------------------
@@ -12,51 +12,49 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Will Manchester City FC win on 2026-09-20?
-[89.0%] Will United Russia (ER) gain the most seats in the next Russian parliamentary election?
-[41.5%] Will Real Madrid CF win on 2026-09-20?
-[0.1%] Will Hakeem Jeffries win the 2028 Democratic presidential nomination?
-[48.5%] Spread: BAL (-8.5)
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[92.5%] Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner
+[48.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
+[4.0%] Will the US confirm that aliens exist before 2027?
+[94.5%] Dota 2: Team Yandex vs Natus Vincere (BO3) - PGL Wallachia Group Stage
 
 --- US POLITICS (Top 5 Active) ---
-[34.5%] Vikings vs. Bears
-[41.5%] Bengals vs. Texans
-[74.5%] Eagles vs. Titans
-[100.0%] Will Liverpool FC win on 2026-09-20?
-[32.5%] Steelers vs. Patriots
+[18.5%] Friedrich Merz out as Chancellor of Germany before December 31, 2026?
+[0.5%] Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?
+[8.5%] 2026 Balance of Power: R Senate, R House
+[61.7%] Will Flávio Bolsonaro win the 2026 Brazilian presidential election?
+[0.1%] Counter-Strike: Leo Team vs G2 Ares (BO3) - NODWIN Clutch Series Group Stage
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Will Sunderland AFC win on 2026-09-20?
-[48.5%] Steelers vs. Patriots: O/U 41.5
-[0.1%] Will AFC Bournemouth vs. Liverpool FC end in a draw?
-[0.1%] Dota 2: Aurora vs Natus Vincere - Game 1 Winner
-[0.1%] Will Greg Abbott win the 2028 Republican presidential nomination?
+[98.0%] Russia Elections: United Russia Wins Every Region?
+[6.0%] Clarity Act (H.R.3633) signed into law in 2026?
+[0.4%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
+[26.5%] Giants vs. Rams
+[99.3%] Will Xi Jinping visit US by September 23?
 
 --- SCIENCE (Top 5 Active) ---
-[10.4%] Will New People (NL) gain the most seats in the next Russian parliamentary election?
-[12.5%] Rennes: Harold Mayot vs Sascha Gueymard-Wayenburg
-[24.5%] Will Club Atlético de Madrid win on 2026-09-20?
-[52.5%] Spread: Broncos (-2.5)
-[25.5%] Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs
+[99.7%] Will Xi Jinping visit US by September 30?
+[100.0%] LoL: Skillcamp Esport vs Arctic Pandas (BO3) - EMEA Masters Group A
+[16.5%] Will the U.S. invade Iran before 2027?
+[4.6%] Will United Russia win 355 or more seats in the next Russian State Duma election?
+[48.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump claims triumphal arch will serve as a ‘top grade military complex’ to store weapons - The Guardian
-• How President Trump Broke the Kennedy Center - The New York Times
-• Trump Administration Updates: CNN, Politico and MS NOW Reporters Barred From White House - The New York Times
-• Ukraine hits Moscow with ‘largest ever’ drone attack - ft.com
-• Poll: Most voters say Trump has hurt the economy as competitive midterm election looms - NBC News
-• National Hurricane Center: Tropical Storm Fay forms in the northern Atlantic - AP News
-• Newsom signs bills to shield California elections from Trump interference, increase transparency - Los Angeles Times
-• Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate - CNBC
+• News outlets Trump banned from White House file lawsuit - Politico
+• Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute - The Guardian
+• Patrick Clancy says mental illness drove his children’s deaths as he plans a new family - NBC News
+• More than 1.9 million urged to evacuate as powerful typhoon batters Japan - BBC
+• ICE officer shoots Venezuelan man delivering food in Austin, lawyer says - NBC News
+• German chancellor stands his ground after his party loses in state elections - NPR
+• Senior GOP appropriator pours cold water on funding Trump’s arch - Politico
+• Ahead of Possible Presidential Bid, JB Pritzker Says He Is Taking Weight-Loss Drugs - WSJ
 
 ----------------------------------------
 
 TRENDING TOPICS
 • The headlines: Top stories of the day
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
-• How to Find What’s Trending on Bing?
 
 ========================================
 END TRANSMISSION
