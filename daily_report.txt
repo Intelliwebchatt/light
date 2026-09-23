@@ -1,55 +1,55 @@
-INTELLIGENCE SNAPSHOT // 2026-09-22
+INTELLIGENCE SNAPSHOT // 2026-09-23
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,761
-DOW J: 51,751
-NASDAQ: 27,193
-VIX: 14
+S&P 500: 7,715
+DOW J: 51,550
+NASDAQ: 26,966
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Dota 2: LGD Gaming vs Aurora - Game 2 Winner
-[0.1%] Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playoffs
-[15.5%] Will the U.S. invade Iran before 2027?
-[48.5%] St. Tropez: Harold Mayot vs Justin Boulais
-[0.1%] Will Glenn Youngkin win the 2028 US Presidential Election?
+[38.5%] Washington Nationals vs. Detroit Tigers
+[100.0%] Dota 2: LGD Gaming vs MOUZ - Game 2 Winner
+[0.4%] Will the US confirm that aliens exist by September 30?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[67.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[48.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
-[40.5%] Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?
-[28.5%] Will Ethereum dip to $2,250 by December 31, 2026?
+[31.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
+[20.5%] Strait of Hormuz traffic returns to normal by December 31?
+[92.5%] Will the price of Bitcoin be above $84,000 on September 23?
+[3.2%] Will the US confirm that aliens exist before 2027?
+[58.5%] Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs
 
 --- TECH & AI (Top 5 Active) ---
-[50.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
-[0.1%] Trump out as President by September 30?
-[56.5%] Counter-Strike: Inner Circle Esports vs 3DMAX (BO3) - Logitech G Play Connect Playoffs
-[45.5%] Tampa Bay Rays vs. New York Yankees
-[22.5%] Strait of Hormuz traffic returns to normal by December 31?
+[100.0%] Counter-Strike: paiN vs Turma do Pagode (BO3) - FERJEE In House Group A
+[8.5%] US announces end of Iranian blockade by September 30, 2026?
+[36.5%] US announces end of Iranian blockade by October 31, 2026?
+[100.0%] Will the price of Bitcoin be above $82,000 on September 23?
+[100.0%] Dota 2: LGD Gaming vs MOUZ (BO3) - PGL Wallachia Group Stage
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Dota 2: LGD Gaming vs Aurora (BO3) - PGL Wallachia Group Stage
-[0.5%] Will the US confirm that aliens exist by September 30?
-[6.4%] Will Ethereum dip to $1,500 by December 31, 2026?
-[10.5%] US announces end of Iranian blockade by September 30, 2026?
-[69.5%] Sri Lanka Tour of England ODIs: England vs Sri Lanka
+[100.0%] Counter-Strike: Leo Team vs Saint Sinners (BO3) - European Pro League Series 9 Playoffs
+[57.7%] Will Nithya Raman win the 2026 Los Angeles mayoral election?
+[41.5%] Ole Miss vs. Florida
+[41.5%] Will Karen Bass win the 2026 Los Angeles mayoral election?
+[0.8%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Autopsy shows Hayden Panettiere died from a drug overdose - BBC
-• Live updates: Trump speaks at United Nations General Assembly as world leaders gather - CNN
-• Princeton Is No Longer No. 1 in the U.S. News Rankings - The New York Times
-• Grand jury finds no evidence of criminal conduct in the death of Nolan Wells - NPR
-• Trump’s plan to militarize proposed arch raises new legal, safety concerns - The Washington Post
-• Live Updates: Iran's president heads for U.N. summit in New York ahead of possible meeting with Trump - CBS News
-• Trump and Xi see tensions flare over AI, trade and Iran but still seek stability - AP News
-• Trump, Greenland, Denmark sign deal in bid to end Arctic standoff - Reuters
+• U.N. Live Updates: Iran’s President Accuses U.S. and Israel of Lawless Attacks - The New York Times
+• First Thing: Trump addresses UN with mixture of boasts, threats and jibes - The Guardian
+• China's Xi kicks off state visit to Washington on Wednesday with a rare planeside welcome from Trump - AP News
+• Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ - NBC News
+• Missouri’s House map heads to Supreme Court for third time - Politico
+• Trump’s midterm woes deepen amid worsened economic backdrop: CNN poll - CNN
+• US judge blocks deportation of DoorDash driver shot by ICE - BBC
+• Trump-backed Iowa US Senate hopeful says Iran war must 'be brought to a successful and immediate end' - Fox News
 
 ----------------------------------------
 
@@ -57,7 +57,6 @@ TRENDING TOPICS
 • The headlines: Top stories of the day
 • Trending: Hot tub intruder plays with rubber duck
 • How to Find What’s Trending on Bing?
-• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 • The Headlines: Top stories of the day
 
 ========================================
