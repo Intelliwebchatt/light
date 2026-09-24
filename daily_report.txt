@@ -1,63 +1,61 @@
-INTELLIGENCE SNAPSHOT // 2026-09-23
+INTELLIGENCE SNAPSHOT // 2026-09-24
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,715
-DOW J: 51,550
-NASDAQ: 26,966
-VIX: 15
+S&P 500: 7,667
+DOW J: 51,161
+NASDAQ: 26,724
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[38.5%] Washington Nationals vs. Detroit Tigers
-[100.0%] Dota 2: LGD Gaming vs MOUZ - Game 2 Winner
-[0.4%] Will the US confirm that aliens exist by September 30?
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[67.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
+[62.5%] Will Norway win on 2026-09-24?
+[50.5%] Spread: Packers (-4.5)
+[75.5%] Dota 2: Team Yandex vs 1win - Game 1 Winner
+[0.2%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
+[66.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[31.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
-[20.5%] Strait of Hormuz traffic returns to normal by December 31?
-[92.5%] Will the price of Bitcoin be above $84,000 on September 23?
-[3.2%] Will the US confirm that aliens exist before 2027?
-[58.5%] Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs
+[0.4%] Kharg Island no longer under Iranian control by September 30?
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.1%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
+[32.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
+[1.1%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
 
 --- TECH & AI (Top 5 Active) ---
-[100.0%] Counter-Strike: paiN vs Turma do Pagode (BO3) - FERJEE In House Group A
-[8.5%] US announces end of Iranian blockade by September 30, 2026?
-[36.5%] US announces end of Iranian blockade by October 31, 2026?
-[100.0%] Will the price of Bitcoin be above $82,000 on September 23?
-[100.0%] Dota 2: LGD Gaming vs MOUZ (BO3) - PGL Wallachia Group Stage
+[49.8%] Counter-Strike: EXODIA vs Yawara Esports (BO3) - ESL Challenger League South America Cup #2 Playoffs
+[48.5%] Spread: Packers (-5.5)
+[44.5%] Spread: Packers (-6.5)
+[82.0%] Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs
+[0.1%] Putin out as President of Russia by September 30, 2026?
 
 --- SCIENCE (Top 5 Active) ---
-[100.0%] Counter-Strike: Leo Team vs Saint Sinners (BO3) - European Pro League Series 9 Playoffs
-[57.7%] Will Nithya Raman win the 2026 Los Angeles mayoral election?
-[41.5%] Ole Miss vs. Florida
-[41.5%] Will Karen Bass win the 2026 Los Angeles mayoral election?
-[0.8%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
+[87.5%] US x Iran ceasefire continues through September 30?
+[99.6%] Maple Leafs vs. Senators
+[48.5%] Falcons vs. Packers: O/U 43.5
+[100.0%] Will the price of Bitcoin be above $82,000 on September 24?
+[30.5%] Falcons vs. Packers
 
 ----------------------------------------
 
 TOP HEADLINES
-• U.N. Live Updates: Iran’s President Accuses U.S. and Israel of Lawless Attacks - The New York Times
-• First Thing: Trump addresses UN with mixture of boasts, threats and jibes - The Guardian
-• China's Xi kicks off state visit to Washington on Wednesday with a rare planeside welcome from Trump - AP News
-• Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ - NBC News
-• Missouri’s House map heads to Supreme Court for third time - Politico
-• Trump’s midterm woes deepen amid worsened economic backdrop: CNN poll - CNN
-• US judge blocks deportation of DoorDash driver shot by ICE - BBC
-• Trump-backed Iowa US Senate hopeful says Iran war must 'be brought to a successful and immediate end' - Fox News
+• CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post
+• Live Updates: Trump hosting China's Xi at White House as they navigate AI, trade tensions and Taiwan - CBS News
+• How an OpenAI ‘agent’ hacked Australia’s Medicare and what that means - Al Jazeera
+• Israel’s Netanyahu takes the U.N. stage facing global isolation and a fight for his political future - NBC News
+• Republicans rally around Susan Collins amid pay-to-play scheme allegations - USA Today
+• Rare September Nor’easter set to slam East Coast with heavy rain, damaging winds - NBC News
+• What we know after officials say ICE detained a US citizen and left him injured in Chicago suburb - CNN
+• Abortion Pills, Vaccines and Food Safety: F.D.A. Nominee Heidi Overton Faces Senate Confirmation Hearing - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Yahoo 100
 • The headlines: Top stories of the day
-• Trending: Hot tub intruder plays with rubber duck
-• How to Find What’s Trending on Bing?
-• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
