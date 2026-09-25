@@ -1,61 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-09-24
+INTELLIGENCE SNAPSHOT // 2026-09-25
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,667
-DOW J: 51,161
-NASDAQ: 26,724
-VIX: 16
+S&P 500: 7,748
+DOW J: 51,829
+NASDAQ: 27,114
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[62.5%] Will Norway win on 2026-09-24?
-[50.5%] Spread: Packers (-4.5)
-[75.5%] Dota 2: Team Yandex vs 1win - Game 1 Winner
-[0.2%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
-[66.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
+[0.1%] Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner
+[0.5%] Strait of Hormuz traffic returns to normal by September 30?
+[0.1%] Will Mitch Landrieu win the 2028 Democratic presidential nomination?
+[34.5%] Korea Open: Katie Volynets vs Kimberly Birrell
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Kharg Island no longer under Iranian control by September 30?
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.1%] Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?
-[32.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
-[1.1%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
+[72.5%] Will France win on 2026-09-25?
+[0.1%] Will Elon Musk post 180-199 tweets from September 18 to September 25, 2026?
+[22.0%] Will Manchester City win the 2026-27 English Premier League (EPL) Championship?
+[0.4%] Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?
+[35.5%] Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs
 
 --- TECH & AI (Top 5 Active) ---
-[49.8%] Counter-Strike: EXODIA vs Yawara Esports (BO3) - ESL Challenger League South America Cup #2 Playoffs
-[48.5%] Spread: Packers (-5.5)
-[44.5%] Spread: Packers (-6.5)
-[82.0%] Dota 2: Team Yandex vs 1win (BO3) - PGL Wallachia Playoffs
-[0.1%] Putin out as President of Russia by September 30, 2026?
+[50.5%] Türkiye vs. France: O/U 3.5
+[50.5%] Will Georgia win on 2026-09-25?
+[100.0%] Will the price of Bitcoin be above $82,000 on September 25?
+[69.5%] Counter-Strike: NIP vs 3DMAX (BO3) - 1win Private Club #1 Playoffs
+[62.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
 
 --- SCIENCE (Top 5 Active) ---
-[87.5%] US x Iran ceasefire continues through September 30?
-[99.6%] Maple Leafs vs. Senators
-[48.5%] Falcons vs. Packers: O/U 43.5
-[100.0%] Will the price of Bitcoin be above $82,000 on September 24?
-[30.5%] Falcons vs. Packers
+[66.5%] Will Sweden win on 2026-09-25?
+[0.1%] Will the price of Bitcoin be above $84,000 on September 25?
+[37.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
+[26.0%] Strait of Hormuz traffic returns to normal by December 31?
+[55.5%] Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs
 
 ----------------------------------------
 
 TOP HEADLINES
-• CNN, Politico, MS NOW journalists barred from White House after judge blocks Trump’s ban - The Washington Post
-• Live Updates: Trump hosting China's Xi at White House as they navigate AI, trade tensions and Taiwan - CBS News
-• How an OpenAI ‘agent’ hacked Australia’s Medicare and what that means - Al Jazeera
-• Israel’s Netanyahu takes the U.N. stage facing global isolation and a fight for his political future - NBC News
-• Republicans rally around Susan Collins amid pay-to-play scheme allegations - USA Today
-• Rare September Nor’easter set to slam East Coast with heavy rain, damaging winds - NBC News
-• What we know after officials say ICE detained a US citizen and left him injured in Chicago suburb - CNN
-• Abortion Pills, Vaccines and Food Safety: F.D.A. Nominee Heidi Overton Faces Senate Confirmation Hearing - The New York Times
+• Trump welcomes China's Xi for state dinner at White House after touting "truly great friendship" - CBS News
+• Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast - nytimes.com
+• An isolated Netanyahu was defiant at UN as he seeks reelection at home - AP News
+• Man shot during 2024 Trump campaign rally in Butler dies - BBC
+• ICE has wasted tens of millions of dollars with 'uninformed' detention plans, GAO finds - PBS
+• Michigan GOP Senate candidate who praised the Iran war now campaigns against the pain it caused - CNN
+• Supreme Court restores Trump's mass voter verification system - Reuters
+• New Jersey Gov. Sherrill calls on her lieutenant governor to resign - The Washington Post
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
-• The headlines: Top stories of the day
+• The Headlines: Top stories of the day
+• How to Find What’s Trending on Bing?
+• Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 
 ========================================
 END TRANSMISSION
