@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-09-25
+INTELLIGENCE SNAPSHOT // 2026-09-26
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,748
+S&P 500: 7,743
 DOW J: 51,829
-NASDAQ: 27,114
+NASDAQ: 27,069
 VIX: 15
 
 ----------------------------------------
@@ -12,44 +12,44 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[0.1%] Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner
-[0.5%] Strait of Hormuz traffic returns to normal by September 30?
-[0.1%] Will Mitch Landrieu win the 2028 Democratic presidential nomination?
-[34.5%] Korea Open: Katie Volynets vs Kimberly Birrell
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[49.5%] Will Spain win on 2026-09-26?
+[0.4%] Strait of Hormuz traffic returns to normal by September 30?
+[16.5%] Will the U.S. invade Iran before 2027?
+[91.5%] Dota 2: Natus Vincere vs Xtreme Gaming - Game 1 Winner
+[90.5%] US x Iran ceasefire continues through September 30?
 
 --- US POLITICS (Top 5 Active) ---
-[72.5%] Will France win on 2026-09-25?
-[0.1%] Will Elon Musk post 180-199 tweets from September 18 to September 25, 2026?
-[22.0%] Will Manchester City win the 2026-27 English Premier League (EPL) Championship?
-[0.4%] Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?
-[35.5%] Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[51.5%] Spread: Lions (-6.5)
+[23.5%] Will England win on 2026-09-26?
+[19.5%] Strait of Hormuz traffic returns to normal by December 31?
+[61.5%] Hangzhou Open: Coleman Wong vs Adolfo Vallejo
 
 --- TECH & AI (Top 5 Active) ---
-[50.5%] Türkiye vs. France: O/U 3.5
-[50.5%] Will Georgia win on 2026-09-25?
-[100.0%] Will the price of Bitcoin be above $82,000 on September 25?
-[69.5%] Counter-Strike: NIP vs 3DMAX (BO3) - 1win Private Club #1 Playoffs
-[62.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
+[84.5%] Chiefs vs. Dolphins
+[4.5%] US announces end of Iranian blockade by September 30, 2026?
+[78.5%] Dota 2: Natus Vincere vs Xtreme Gaming (BO3) - PGL Wallachia Playoffs
+[0.1%] Slovenia vs. Scotland: O/U 0.5
+[50.5%] Spread: Seahawks (-7.5)
 
 --- SCIENCE (Top 5 Active) ---
-[66.5%] Will Sweden win on 2026-09-25?
-[0.1%] Will the price of Bitcoin be above $84,000 on September 25?
-[37.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
-[26.0%] Strait of Hormuz traffic returns to normal by December 31?
-[55.5%] Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playoffs
+[3.5%] Will the US confirm that aliens exist before 2027?
+[100.0%] Will AD Ceuta FC win on 2026-09-26?
+[33.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
+[55.5%] UCLA vs. Maryland
+[0.4%] Kharg Island no longer under Iranian control by September 30?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Trump welcomes China's Xi for state dinner at White House after touting "truly great friendship" - CBS News
-• Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast - nytimes.com
-• An isolated Netanyahu was defiant at UN as he seeks reelection at home - AP News
-• Man shot during 2024 Trump campaign rally in Butler dies - BBC
-• ICE has wasted tens of millions of dollars with 'uninformed' detention plans, GAO finds - PBS
-• Michigan GOP Senate candidate who praised the Iran war now campaigns against the pain it caused - CNN
-• Supreme Court restores Trump's mass voter verification system - Reuters
-• New Jersey Gov. Sherrill calls on her lieutenant governor to resign - The Washington Post
+• Roads flood in New Jersey, inundate some homes, as major signs of nor’easter take shape - AP News
+• Iran War Updates: Trump reportedly rejects 7-day plan to reopen Strait of Hormuz - CBS News
+• Takeaways from the Trump-Xi state visit: Pageantry and pandas - NPR
+• Europe frets as the Kremlin pushes the limits of its hybrid warfare - NBC News
+• Huge crowds greet Pope in Paris ahead of open-air Mass - BBC
+• The U.S. has more thalidomide survivors than the government admits - NPR
+• White House blocks CNN from traveling with Trump on Air Force One - Politico
+• Third suspect arrested in death of Mississippi woman found hanging at ‘staged’ crime scene - NBC News
 
 ----------------------------------------
 
