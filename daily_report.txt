@@ -1,4 +1,4 @@
-INTELLIGENCE SNAPSHOT // 2026-09-26
+INTELLIGENCE SNAPSHOT // 2026-09-27
 ========================================
 
 MARKET CLOSE
@@ -12,44 +12,44 @@ VIX: 15
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[49.5%] Will Spain win on 2026-09-26?
-[0.4%] Strait of Hormuz traffic returns to normal by September 30?
-[16.5%] Will the U.S. invade Iran before 2027?
-[91.5%] Dota 2: Natus Vincere vs Xtreme Gaming - Game 1 Winner
-[90.5%] US x Iran ceasefire continues through September 30?
+[83.5%] Chiefs vs. Dolphins
+[44.5%] Spread: Chiefs (-10.5)
+[50.5%] Spread: Giants (-2.5)
+[47.5%] Spread: Bills (-7.5)
+[39.5%] Patriots vs. Jaguars
 
 --- US POLITICS (Top 5 Active) ---
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[51.5%] Spread: Lions (-6.5)
-[23.5%] Will England win on 2026-09-26?
-[19.5%] Strait of Hormuz traffic returns to normal by December 31?
-[61.5%] Hangzhou Open: Coleman Wong vs Adolfo Vallejo
+[50.5%] Spread: 49ers (-7.5)
+[52.5%] Spread: Lions (-6.5)
+[44.5%] Titans vs. Giants
+[100.0%] Dota 2: Team Yandex vs Natus Vincere - Game 3 Winner
+[60.5%] Bengals vs. Steelers
 
 --- TECH & AI (Top 5 Active) ---
-[84.5%] Chiefs vs. Dolphins
-[4.5%] US announces end of Iranian blockade by September 30, 2026?
-[78.5%] Dota 2: Natus Vincere vs Xtreme Gaming (BO3) - PGL Wallachia Playoffs
-[0.1%] Slovenia vs. Scotland: O/U 0.5
-[50.5%] Spread: Seahawks (-7.5)
+[42.5%] Will Norway win on 2026-09-27?
+[46.5%] Panthers vs. Browns: O/U 42.5
+[54.5%] Panthers vs. Browns
+[12.5%] Will Greece win on 2026-09-27?
+[94.5%] US x Iran ceasefire continues through September 30?
 
 --- SCIENCE (Top 5 Active) ---
-[3.5%] Will the US confirm that aliens exist before 2027?
-[100.0%] Will AD Ceuta FC win on 2026-09-26?
-[33.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
-[55.5%] UCLA vs. Maryland
-[0.4%] Kharg Island no longer under Iranian control by September 30?
+[77.5%] Seahawks vs. Commanders
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[50.5%] Cardinals vs. 49ers: O/U 48.5
+[45.5%] Spread: Bengals (-3.5)
+[69.5%] Will Netherlands win on 2026-09-27?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Roads flood in New Jersey, inundate some homes, as major signs of nor’easter take shape - AP News
-• Iran War Updates: Trump reportedly rejects 7-day plan to reopen Strait of Hormuz - CBS News
-• Takeaways from the Trump-Xi state visit: Pageantry and pandas - NPR
-• Europe frets as the Kremlin pushes the limits of its hybrid warfare - NBC News
-• Huge crowds greet Pope in Paris ahead of open-air Mass - BBC
-• The U.S. has more thalidomide survivors than the government admits - NPR
-• White House blocks CNN from traveling with Trump on Air Force One - Politico
-• Third suspect arrested in death of Mississippi woman found hanging at ‘staged’ crime scene - NBC News
+• Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News
+• ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera
+• Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast - The New York Times
+• Xi visit delivers coal deal, tariff talks — and plenty of unresolved issues - Politico
+• Trump administration considers building baseball park in Grand Teton National Park - The Washington Post
+• These Democrats are running for Congress on Christian faith. Will it pay off? - NPR
+• Sen. John Fetterman says it's "entirely possible" Democrats take back Senate, says "let's revisit after the midterm" on his plans - CBS News
+• Trump now says the Kennedy Center could be deadly. Months ago, it was ‘great.’ - The Washington Post
 
 ----------------------------------------
 
