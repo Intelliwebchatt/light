@@ -1,62 +1,62 @@
-INTELLIGENCE SNAPSHOT // 2026-09-27
+INTELLIGENCE SNAPSHOT // 2026-09-28
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,743
-DOW J: 51,829
-NASDAQ: 27,069
-VIX: 15
+S&P 500: 7,699
+DOW J: 51,554
+NASDAQ: 26,902
+VIX: 16
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[83.5%] Chiefs vs. Dolphins
-[44.5%] Spread: Chiefs (-10.5)
-[50.5%] Spread: Giants (-2.5)
-[47.5%] Spread: Bills (-7.5)
-[39.5%] Patriots vs. Jaguars
+[43.5%] Will France win on 2026-09-28?
+[29.5%] Will Belgium win on 2026-09-28?
+[64.5%] Eagles vs. Bears
+[48.5%] Spread: Eagles (-3.5)
+[66.5%] Will Sweden win on 2026-09-28?
 
 --- US POLITICS (Top 5 Active) ---
-[50.5%] Spread: 49ers (-7.5)
-[52.5%] Spread: Lions (-6.5)
-[44.5%] Titans vs. Giants
-[100.0%] Dota 2: Team Yandex vs Natus Vincere - Game 3 Winner
-[60.5%] Bengals vs. Steelers
+[100.0%] Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs
+[63.5%] Will Italy win on 2026-09-28?
+[37.5%] Will Bosnia and Herzegovina win on 2026-09-28?
+[45.5%] Spread: Eagles (-4.5)
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
 
 --- TECH & AI (Top 5 Active) ---
-[42.5%] Will Norway win on 2026-09-27?
-[46.5%] Panthers vs. Browns: O/U 42.5
-[54.5%] Panthers vs. Browns
-[12.5%] Will Greece win on 2026-09-27?
-[94.5%] US x Iran ceasefire continues through September 30?
+[0.1%] Will Georgia win on 2026-09-28?
+[0.1%] Will Armenia win on 2026-09-28?
+[0.2%] Will New York Red Bulls win the 2026 MLS Cup?
+[14.5%] Will Türkiye win on 2026-09-28?
+[0.2%] Will Portland Timbers win the 2026 MLS Cup?
 
 --- SCIENCE (Top 5 Active) ---
-[77.5%] Seahawks vs. Commanders
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[50.5%] Cardinals vs. 49ers: O/U 48.5
-[45.5%] Spread: Bengals (-3.5)
-[69.5%] Will Netherlands win on 2026-09-27?
+[21.5%] Will Türkiye vs. Italy end in a draw?
+[51.5%] Eagles vs. Bears: O/U 41.5
+[25.5%] Spread: Bears (-3.5)
+[0.1%] Will Ukraine win on 2026-09-28?
+[0.1%] Georgia vs. Ukraine: O/U 0.5
 
 ----------------------------------------
 
 TOP HEADLINES
-• Bomb squad searching vans near U.S. air base in Britain as five men arrested on terror charge - NBC News
-• ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer? - Al Jazeera
-• Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast - The New York Times
-• Xi visit delivers coal deal, tariff talks — and plenty of unresolved issues - Politico
-• Trump administration considers building baseball park in Grand Teton National Park - The Washington Post
-• These Democrats are running for Congress on Christian faith. Will it pay off? - NPR
-• Sen. John Fetterman says it's "entirely possible" Democrats take back Senate, says "let's revisit after the midterm" on his plans - CBS News
-• Trump now says the Kennedy Center could be deadly. Months ago, it was ‘great.’ - The Washington Post
+• U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces - WSJ
+• Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know - NPR
+• NYC commute looks mostly normal Monday after nor’easter batters region - gothamist.com
+• Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It - The New York Times
+• US and China release $60 billion nonsensitive product lists for tariff cuts after Trump-Xi meeting - AP News
+• Inside the Trump campaign strategy to reverse Republicans’ dwindling hopes of winning the midterms - cnn.com
+• Andrew Bailey, co-deputy director of the FBI, is departing his job - Politico
+• After a Life in Isolation, a Tennessee Woman Waits for Her Execution - The New York Times
 
 ----------------------------------------
 
 TRENDING TOPICS
 • The Headlines: Top stories of the day
-• How to Find What’s Trending on Bing?
 • Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• How to Find What’s Trending on Bing?
 
 ========================================
 END TRANSMISSION
