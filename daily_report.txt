@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-09-29
+INTELLIGENCE SNAPSHOT // 2026-09-30
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,655
-DOW J: 51,167
-NASDAQ: 26,743
+S&P 500: 7,701
+DOW J: 51,230
+NASDAQ: 27,024
 VIX: 16
 
 ----------------------------------------
@@ -12,51 +12,52 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A
-[0.1%] Strait of Hormuz traffic returns to normal by September 30?
-[0.1%] Bari: Pol Martin Tiffon vs Laurent Lokoli
-[81.5%] Will Spain win on 2026-09-29?
-[2.1%] Putin out as President of Russia by December 31, 2026?
+[65.5%] Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B
+[61.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
+[36.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
+[32.5%] Will Benjamin Netanyahu be the next Prime Minister of Israel?
+[51.5%] Philadelphia Phillies vs. Atlanta Braves
 
 --- US POLITICS (Top 5 Active) ---
+[100.0%] West Indies Tour of India ODIs: India vs West Indies
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[94.0%] Dota 2: Aurora vs GamerLegion - Game 1 Winner
-[44.5%] Will Finland win on 2026-09-29?
-[71.0%] Trump renames AI by September 30?
-[14.5%] Will the U.S. invade Iran before 2027?
+[0.2%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
+[0.5%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
+[73.5%] Adana: Leolia Jeanjean vs Melisa Ercan
 
 --- TECH & AI (Top 5 Active) ---
-[2.5%] US announces end of Iranian blockade by September 30, 2026?
-[53.9%] LoL: KaBuM! Ilha das Lendas vs Golden Lions - Game 3 Winner
-[0.1%] Will Manuel Bompard win the 2027 French presidential election?
-[28.5%] US announces end of Iranian blockade by October 31, 2026?
-[81.5%] Adana: Carole Monnet vs Cagla Buyukakcay
+[43.5%] Chicago Cubs vs. San Diego Padres
+[85.5%] Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs
+[0.1%] Will Samuel Alito announce his retirement by September 30, 2026?
+[81.5%] Another Fed rate hike in 2026?
+[6.8%] Will Bitcoin dip to $82,500 in September?
 
 --- SCIENCE (Top 5 Active) ---
-[0.1%] Will Bitcoin reach $100,000 in September?
-[0.1%] Will Anna-Karin Hatt be the next Prime Minister of Sweden?
-[1.7%] Spread: Croatia (-1.5)
-[1.8%] Will San Marino win on 2026-09-29?
-[0.2%] Will New York Red Bulls win the 2026 MLS Cup?
+[27.0%] Will Erick Visconde win by KO or TKO?
+[2.8%] Putin out as President of Russia by December 31, 2026?
+[19.5%] Australia Tour of South Africa ODIs: South Africa vs Australia
+[69.5%] Will Norway win on 2026-10-01?
+[100.0%] Will Sri Lanka win on 2026-09-30?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Jack Smith tells senators he won’t be silenced by threats from Trump and allies - NBC News
-• Live: Lindsay Clancy in court for first time since murder mistrial - BBC
-• Rubio confirms 'foreign actor' involved in UK terror plot - Fox News
-• Jonathan McKinsey, New York Times: Documents reveal child abuse, domestic violence claims of Dublin man shot, killed by in-laws - ABC7 San Francisco
-• GOP senators push back on Trump’s taxpayer-funded ad - The Hill
-• CNN, MS NOW and Politico ask a court to block Trump from enforcing his White House media ban - AP News
-• As Tennessee execution nears, Christa Pike case highlights the few women on death row - WGAL
-• US prosecutors reopen case of alleged gang rape at Cornell University - BBC
+• Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters
+• Christa Pike's execution temporarily halted, as Tennessee seeks to put to death first woman in 200 years - CBS News
+• U.S. withdraws forces in Iraq as balance of power shifts to Iran - The Washington Post
+• Iran says it got a U.S. response to its peace proposal as its currency hits a new record low seven months into the war - Fortune
+• UK believes Iran involved in RAF Fairford incident, Burnham says - bbc.com
+• Raskin rips Schmitt questioning of Jack Smith: ‘He’s basically disgraced himself’ - The Hill
+• Cornell rape allegations highlight consent laws and Israeli settlers attack family trying to return home: Morning Rundown - NBC News
+• Senate expected to vote on stock trading ban, data center bill before election recess - CNBC
 
 ----------------------------------------
 
 TRENDING TOPICS
 • The Headlines: Top stories of the day
-• How to Find What’s Trending on Bing?
+• Trending | Dennis Haskins from 'Saved by the Bell' dies, new Guthrie ransom note information & more!
 • Trader Joe's, trains, toddler backpacks - most trending topics in 2025
+• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
