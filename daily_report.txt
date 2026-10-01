@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-09-30
+INTELLIGENCE SNAPSHOT // 2026-10-01
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,701
-DOW J: 51,230
-NASDAQ: 27,024
+S&P 500: 7,679
+DOW J: 50,953
+NASDAQ: 26,978
 VIX: 16
 
 ----------------------------------------
@@ -12,50 +12,52 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[65.5%] Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B
-[61.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
-[36.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
-[32.5%] Will Benjamin Netanyahu be the next Prime Minister of Israel?
-[51.5%] Philadelphia Phillies vs. Atlanta Braves
+[100.0%] Dota 2: Aurora vs Team Liquid - Game 2 Winner
+[74.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
+[57.5%] Steelers vs. Browns
+[67.5%] Will Norway win on 2026-10-01?
+[24.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
 
 --- US POLITICS (Top 5 Active) ---
-[100.0%] West Indies Tour of India ODIs: India vs West Indies
+[50.5%] Philadelphia Phillies vs. Atlanta Braves
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.2%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
-[0.5%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
-[73.5%] Adana: Leolia Jeanjean vs Melisa Ercan
+[58.5%] Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs
+[14.5%] Will the U.S. invade Iran before 2027?
+[64.5%] Counter-Strike: Astralis vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs
 
 --- TECH & AI (Top 5 Active) ---
-[43.5%] Chicago Cubs vs. San Diego Padres
-[85.5%] Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs
-[0.1%] Will Samuel Alito announce his retirement by September 30, 2026?
-[81.5%] Another Fed rate hike in 2026?
-[6.8%] Will Bitcoin dip to $82,500 in September?
+[0.1%] Columbus: Bryce Nakashima vs Keegan Smith
+[7.5%] 2026 Balance of Power: R Senate, R House
+[0.1%] Will Geraldo Alckmin win the 2026 Brazilian presidential election?
+[42.5%] Will Netherlands win on 2026-10-01?
+[97.5%] Dota 2: GamerLegion vs Yakult Brothers - Game 2 Winner
 
 --- SCIENCE (Top 5 Active) ---
-[27.0%] Will Erick Visconde win by KO or TKO?
-[2.8%] Putin out as President of Russia by December 31, 2026?
-[19.5%] Australia Tour of South Africa ODIs: South Africa vs Australia
-[69.5%] Will Norway win on 2026-10-01?
-[100.0%] Will Sri Lanka win on 2026-09-30?
+[0.2%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
+[51.5%] Germany vs. Serbia: O/U 3.5
+[48.5%] Will Portugal win on 2026-10-01?
+[2.9%] Will Liechtenstein win on 2026-10-01?
+[62.2%] Will Flávio Bolsonaro win the 2026 Brazilian presidential election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters
-• Christa Pike's execution temporarily halted, as Tennessee seeks to put to death first woman in 200 years - CBS News
-• U.S. withdraws forces in Iraq as balance of power shifts to Iran - The Washington Post
-• Iran says it got a U.S. response to its peace proposal as its currency hits a new record low seven months into the war - Fortune
-• UK believes Iran involved in RAF Fairford incident, Burnham says - bbc.com
-• Raskin rips Schmitt questioning of Jack Smith: ‘He’s basically disgraced himself’ - The Hill
-• Cornell rape allegations highlight consent laws and Israeli settlers attack family trying to return home: Morning Rundown - NBC News
-• Senate expected to vote on stock trading ban, data center bill before election recess - CNBC
+• ‘It was a mess’: Tennessee fails to execute woman after 2 lethal injections - NBC News
+• Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination - Reuters
+• Family of Renee Good sues ICE agent who shot her and top Trump officials - The Guardian
+• Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped - nytimes.com
+• Supreme Court will rule on Trump’s ICE detention policy - Politico
+• Dual UK-Iranian national arrested over RAF Fairford incident, police say - BBC
+• Reflecting Pool vandalism charges against Olympic canoeist David Hearn permanently dismissed - CBS News
+• Trump’s AI rebrand may stop at the White House - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
+• Yahoo 100
 • The Headlines: Top stories of the day
 • Trending | Dennis Haskins from 'Saved by the Bell' dies, new Guthrie ransom note information & more!
+• How to Find What’s Trending on Bing?
 • Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 • The Headlines: Top stories of the day
 
