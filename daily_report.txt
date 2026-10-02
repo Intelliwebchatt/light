@@ -1,10 +1,10 @@
-INTELLIGENCE SNAPSHOT // 2026-10-01
+INTELLIGENCE SNAPSHOT // 2026-10-02
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,679
-DOW J: 50,953
-NASDAQ: 26,978
+S&P 500: 7,725
+DOW J: 51,162
+NASDAQ: 27,209
 VIX: 16
 
 ----------------------------------------
@@ -12,54 +12,51 @@ VIX: 16
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[100.0%] Dota 2: Aurora vs Team Liquid - Game 2 Winner
-[74.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
-[57.5%] Steelers vs. Browns
-[67.5%] Will Norway win on 2026-10-01?
-[24.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
+[81.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
+[0.1%] Will Renan Santos win the 2026 Brazilian presidential election?
+[56.8%] Will Flávio Bolsonaro win the 2026 Brazilian presidential election?
+[18.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
+[43.5%] Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?
 
 --- US POLITICS (Top 5 Active) ---
-[50.5%] Philadelphia Phillies vs. Atlanta Braves
-[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[58.5%] Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs
-[14.5%] Will the U.S. invade Iran before 2027?
-[64.5%] Counter-Strike: Astralis vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs
+[0.4%] Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?
+[0.1%] Kazakhstan vs. Moldova: O/U 3.5
+[15.5%] Will the U.S. invade Iran before 2027?
+[54.5%] Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Episode 4 Playoffs
+[75.0%] Bari: Matthew William Donald vs Martin Krumich
 
 --- TECH & AI (Top 5 Active) ---
-[0.1%] Columbus: Bryce Nakashima vs Keegan Smith
-[7.5%] 2026 Balance of Power: R Senate, R House
-[0.1%] Will Geraldo Alckmin win the 2026 Brazilian presidential election?
-[42.5%] Will Netherlands win on 2026-10-01?
-[97.5%] Dota 2: GamerLegion vs Yakult Brothers - Game 2 Winner
+[0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
+[0.2%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
+[0.4%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
+[63.5%] Will Belgium win on 2026-10-02?
+[67.5%] Dota 2: GamerLegion vs Team Liquid (BO3) - BLAST Slam Group D
 
 --- SCIENCE (Top 5 Active) ---
-[0.2%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
-[51.5%] Germany vs. Serbia: O/U 3.5
-[48.5%] Will Portugal win on 2026-10-01?
-[2.9%] Will Liechtenstein win on 2026-10-01?
-[62.2%] Will Flávio Bolsonaro win the 2026 Brazilian presidential election?
+[54.1%] Will Lamine Yamal win the 2026 Ballon d'Or?
+[100.0%] Will Moldova win on 2026-10-02?
+[8.5%] 2026 Balance of Power: R Senate, R House
+[100.0%] Kazakhstan vs. Moldova: O/U 2.5
+[100.0%] Porto 2: Jerome Kym vs Edas Butvilas
 
 ----------------------------------------
 
 TOP HEADLINES
-• ‘It was a mess’: Tennessee fails to execute woman after 2 lethal injections - NBC News
-• Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination - Reuters
-• Family of Renee Good sues ICE agent who shot her and top Trump officials - The Guardian
-• Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped - nytimes.com
-• Supreme Court will rule on Trump’s ICE detention policy - Politico
-• Dual UK-Iranian national arrested over RAF Fairford incident, police say - BBC
-• Reflecting Pool vandalism charges against Olympic canoeist David Hearn permanently dismissed - CBS News
-• Trump’s AI rebrand may stop at the White House - Politico
+• Officials giving update on Cornell University rape investigation - BBC
+• Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters
+• Calls grow for US death penalty halt after ‘torturous’ botched execution of Christa Pike - The Guardian
+• Top Democrats slam ‘Trump’s failing economic agenda’ after weaker-than-expected jobs growth – US politics live - The Guardian
+• 2,000 arrested in France as student protests escalate into violence - NBC News
+• Trump administration begins mailing out $500 ACA refund checks. Here's what to know - ABC7 Los Angeles
+• Vance: ‘Really obvious’ Cruz is running for president - The Hill
+• Trump tried to dismantle Voice of America. Now the government is paying to rebuild it. - Politico
 
 ----------------------------------------
 
 TRENDING TOPICS
-• Yahoo 100
 • The Headlines: Top stories of the day
-• Trending | Dennis Haskins from 'Saved by the Bell' dies, new Guthrie ransom note information & more!
-• How to Find What’s Trending on Bing?
 • Trader Joe's, trains, toddler backpacks - most trending topics in 2025
-• The Headlines: Top stories of the day
+• How to Find What’s Trending on Bing?
 
 ========================================
 END TRANSMISSION
