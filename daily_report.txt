@@ -1,62 +1,64 @@
-INTELLIGENCE SNAPSHOT // 2026-10-02
+INTELLIGENCE SNAPSHOT // 2026-10-03
 ========================================
 
 MARKET CLOSE
-S&P 500: 7,725
-DOW J: 51,162
-NASDAQ: 27,209
-VIX: 16
+S&P 500: 7,723
+DOW J: 51,177
+NASDAQ: 27,191
+VIX: 15
 
 ----------------------------------------
 
 PREDICTION MARKETS
 
 --- GEOPOLITICS (Top 5 Active) ---
-[81.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
-[0.1%] Will Renan Santos win the 2026 Brazilian presidential election?
-[56.8%] Will Flávio Bolsonaro win the 2026 Brazilian presidential election?
-[18.5%] Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
-[43.5%] Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?
+[12.5%] Will Indiana enact a data center moratorium by December 31, 2027?
+[100.0%] LoL: HANJIN BRION vs JD Gaming (BO1) - Demacia Cup Global Invitational Group Stage
+[100.0%] Counter-Strike: Spirit vs ShindeN (BO3) - ESL Pro League Group Stage
+[10.5%] Will Anthropic announce bankruptcy by December 31, 2027?
+[100.0%] Dota 2: LGD Gaming vs GamerLegion - Game 2 Winner
 
 --- US POLITICS (Top 5 Active) ---
-[0.4%] Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?
-[0.1%] Kazakhstan vs. Moldova: O/U 3.5
-[15.5%] Will the U.S. invade Iran before 2027?
-[54.5%] Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Episode 4 Playoffs
-[75.0%] Bari: Matthew William Donald vs Martin Krumich
+[100.0%] Dota 2: PARIVISION vs Aurora - Game 2 Winner
+[41.5%] Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?
+[100.0%] Will Finland win on 2026-10-03?
+[56.5%] Will England win on 2026-10-03?
+[6.5%] 2026 Balance of Power: R Senate, R House
 
 --- TECH & AI (Top 5 Active) ---
+[64.5%] 2026 Balance of Power: D Senate, D House
 [0.1%] Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?
-[0.2%] Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?
-[0.4%] Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?
-[63.5%] Will Belgium win on 2026-10-02?
-[67.5%] Dota 2: GamerLegion vs Team Liquid (BO3) - BLAST Slam Group D
+[58.2%] Will Flávio Bolsonaro win the 2026 Brazilian presidential election?
+[82.5%] Will there be no change in Fed interest rates after the October 2026 meeting?
+[0.4%] Spread: Burkina Faso (-5.5)
 
 --- SCIENCE (Top 5 Active) ---
-[54.1%] Will Lamine Yamal win the 2026 Ballon d'Or?
-[100.0%] Will Moldova win on 2026-10-02?
-[8.5%] 2026 Balance of Power: R Senate, R House
-[100.0%] Kazakhstan vs. Moldova: O/U 2.5
-[100.0%] Porto 2: Jerome Kym vs Edas Butvilas
+[100.0%] Will the price of Bitcoin be above $74,000 on October 3?
+[16.5%] Will the U.S. invade Iran before 2027?
+[92.5%] Counter-Strike: Aurora Gaming vs 9z (BO3) - ESL Pro League Group Stage
+[62.5%] Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier
+[0.1%] Will Renan Santos win the 2026 Brazilian presidential election?
 
 ----------------------------------------
 
 TOP HEADLINES
-• Officials giving update on Cornell University rape investigation - BBC
-• Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters
-• Calls grow for US death penalty halt after ‘torturous’ botched execution of Christa Pike - The Guardian
-• Top Democrats slam ‘Trump’s failing economic agenda’ after weaker-than-expected jobs growth – US politics live - The Guardian
-• 2,000 arrested in France as student protests escalate into violence - NBC News
-• Trump administration begins mailing out $500 ACA refund checks. Here's what to know - ABC7 Los Angeles
-• Vance: ‘Really obvious’ Cruz is running for president - The Hill
-• Trump tried to dismantle Voice of America. Now the government is paying to rebuild it. - Politico
+• Flydubai pilot attacked captain with cockpit’s crash axe in attempted terrorist attack, UAE official says - NBC News
+• What to know about the Cornell University rape allegations - The Washington Post
+• Trump says US to send one-time $90 payment to 20m seniors enrolled in Medicare - The Guardian
+• The Supreme Court faces another term jam-packed with controversy - NPR
+• U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies - The New York Times
+• Christa Pike on a ventilator and unconscious after failed Tennessee execution, attorneys say - PBS
+• Medical Plane Goes Missing on Flight From Bermuda to Boston - The New York Times
+• Stop the Steel? Iowa approves $1.36 billion for foreign-owned steel plant in swing district less than 2 weeks before early voting - CBS News
 
 ----------------------------------------
 
 TRENDING TOPICS
+• This Site is Becoming a Blog for the Staff, Not a Forum for the Community
 • The Headlines: Top stories of the day
 • Trader Joe's, trains, toddler backpacks - most trending topics in 2025
 • How to Find What’s Trending on Bing?
+• The Headlines: Top stories of the day
 
 ========================================
 END TRANSMISSION
